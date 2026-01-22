@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学习小游戏/工具导航</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: "微软雅黑", "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+            background-color: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px 15px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            font-size: 28px;
+            color: #4a6fa5;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .header-decoration {
+            height: 6px;
+            background: linear-gradient(90deg, #4a6fa5, #6b8ecc, #4a6fa5);
+            border-radius: 3px;
+            margin: 15px auto;
+            max-width: 300px;
+        }
+
+        .games-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .game-card {
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            border: 2px solid #e3f2fd;
+        }
+
+        .game-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .game-image {
+            height: 100px;
+            background-color: #f0f4f8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+            color: #4a6fa5;
+            border-bottom: 2px solid #e3f2fd;
+        }
+
+        .game-info {
+            padding: 15px;
+        }
+
+        .game-info h2 {
+            font-size: 18px;
+            color: #4a6fa5;
+            margin-bottom: 8px;
+        }
+
+        .game-info p {
+            color: #666;
+            margin-bottom: 12px;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+
+        .game-link {
+            display: block;
+            padding: 10px 15px;
+            background-color: #4a6fa5;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 6px rgba(74, 111, 165, 0.3);
+            text-align: center;
+            font-size: 14px;
+        }
+
+        .game-link:hover {
+            background-color: #3a5a85;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(74, 111, 165, 0.4);
+        }
+
+        .game-link:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 6px rgba(74, 111, 165, 0.3);
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 15px;
+            color: #666;
+            font-size: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px 10px;
+            }
+
+            header {
+                margin-bottom: 40px;
+            }
+
+            h1 {
+                font-size: 24px;
+                margin-bottom: 15px;
+            }
+
+            .header-decoration {
+                margin: 20px auto;
+                max-width: 250px;
+            }
+
+            .games-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .game-card {
+                margin: 0 auto;
+                max-width: 100%;
+            }
+
+            .game-image {
+                height: 150px;
+                font-size: 36px;
+            }
+
+            .game-info {
+                padding: 20px;
+            }
+
+            .game-info h2 {
+                font-size: 18px;
+            }
+
+            .game-info p {
+                font-size: 13px;
+                margin-bottom: 15px;
+            }
+
+            .game-link {
+                padding: 10px 20px;
+                font-size: 14px;
+            }
+
+            footer {
+                margin-top: 40px;
+                padding: 15px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 22px;
+            }
+
+            .game-image {
+                height: 120px;
+                font-size: 28px;
+            }
+
+            .game-info {
+                padding: 15px;
+            }
+
+            .game-info h2 {
+                font-size: 16px;
+            }
+
+            .game-info p {
+                font-size: 12px;
+            }
+
+            .game-link {
+                padding: 8px 16px;
+                font-size: 13px;
+                width: 100%;
+                text-align: center;
+                display: block;
+            }
+
+            .games-grid {
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>单词小游戏导航</h1>
+            <p>欢迎来到单词小游戏集合，选择你喜欢的游戏开始挑战吧！</p>
+            <div class="header-decoration"></div>
+        </header>
+
+        <div class="games-grid">
+            <!-- 单词设计消消乐 -->
+            <div class="game-card">
+                <div class="game-image">🎨</div>
+                <div class="game-info">
+                    <h2>单词设计消消乐</h2>
+                    <p>通过设计和匹配单词来消除方块，锻炼你的词汇量和创造力。</p>
+                    <a href="danci_shejixiaoxiaole.html" class="game-link">开始游戏</a>
+                </div>
+            </div>
+
+            <!-- 单词消消乐 -->
+            <div class="game-card">
+                <div class="game-image">🎯</div>
+                <div class="game-info">
+                    <h2>单词消消乐</h2>
+                    <p>经典的消消乐玩法，通过匹配相同的单词来消除方块，提高你的单词记忆能力。</p>
+                    <a href="danci_xiaoxiaole.html" class="game-link">开始游戏</a>
+                </div>
+            </div>
+
+            <!-- PDF点读工具 -->
+            <div class="game-card">
+                <div class="game-image">📚</div>
+                <div class="game-info">
+                    <h2>PDF点读工具</h2>
+                    <p>上传PDF文件，点击文本进行朗读，支持分页浏览，帮助你学习和理解文档内容。</p>
+                    <a href="pdf_diandu.html" class="game-link">开始使用</a>
+                </div>
+            </div>
+
+            <!-- 单词箭头消除 -->
+            <div class="game-card">
+                <div class="game-image">🏹</div>
+                <div class="game-info">
+                    <h2>单词箭头消除</h2>
+                    <p>使用箭头射击单词方块，匹配相同的单词来消除，提高你的反应速度和单词识别能力。</p>
+                    <a href="word-arrow-pop.html" class="game-link">开始游戏</a>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>&copy; 2026 学习小游戏/工具集合 | 为学习而生</p>
+        </footer>
+    </div>
+</body>
+
+</html>

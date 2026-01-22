@@ -1,0 +1,1579 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>星际争霸单词匹配游戏</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Comic Sans MS', 'Arial', sans-serif;
+            background-color: #1a237e;
+            color: #ffffff;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 10px;
+            overflow: hidden;
+            position: relative;
+            margin: 0;
+        }
+
+        /* 星空背景 */
+        .stars {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+        }
+
+        .star {
+            position: absolute;
+            background-color: white;
+            border-radius: 50%;
+            animation: twinkle 3s infinite;
+        }
+
+        @keyframes twinkle {
+
+            0%,
+            100% {
+                opacity: 0.3;
+                transform: scale(1);
+            }
+
+            50% {
+                opacity: 1;
+                transform: scale(1.2);
+            }
+        }
+
+        /* 标题样式 */
+        h1 {
+            font-size: 1.8rem;
+            color: #ffeb3b;
+            margin: 5px 0;
+            cursor: pointer;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            transition: all 0.3s ease;
+            z-index: 1;
+            animation: title-float 3s ease-in-out infinite;
+        }
+
+        h1:hover {
+            transform: scale(1.05);
+            color: #fff176;
+        }
+
+        @keyframes title-float {
+
+            0%,
+            100% {
+                transform: translateY(0);
+            }
+
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+
+        /* 菜单样式 */
+        .menu {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            width: 100%;
+            max-width: 600px;
+            margin: 5px 0;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px);
+            z-index: 1;
+        }
+
+        /* 滑块容器 */
+        .slider-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .slider-container label {
+            font-weight: bold;
+            color: #bbdefb;
+        }
+
+        .slider-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        input[type="range"] {
+            flex: 1;
+            height: 8px;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.2);
+            outline: none;
+            -webkit-appearance: none;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #ffeb3b;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        input[type="range"]::-webkit-slider-thumb:hover {
+            transform: scale(1.2);
+            background: #fff176;
+        }
+
+        .slider-value {
+            width: 60px;
+            text-align: center;
+            font-weight: bold;
+            color: #ffeb3b;
+        }
+
+        /* 按钮样式 */
+        .button-group {
+            display: flex;
+            gap: 10px;
+        }
+
+        button {
+            flex: 1;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: linear-gradient(45deg, #7b1fa2, #9c27b0);
+            color: white;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        /* 信息区域 */
+        .info-area {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 600px;
+            margin: 5px 0;
+            padding: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px);
+            z-index: 1;
+        }
+
+        .info-item {
+            font-weight: bold;
+            color: #bbdefb;
+        }
+
+        .info-value {
+            color: #ffeb3b;
+            margin-left: 5px;
+        }
+
+        /* 游戏区域 */
+        .game-area {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            /* 使用flex-grow确保游戏区域能够适应剩余空间 */
+            flex-grow: 1;
+            margin: 5px 0;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            z-index: 1;
+            /* 调整最大高度，增加游戏可玩区域 */
+            max-height: calc(100vh - 150px);
+        }
+
+        /* 敌机 */
+        .enemy {
+            position: absolute;
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(45deg, #e91e63, #9c27b0);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 0.9rem;
+            text-align: center;
+            padding: 10px;
+            animation: enemy-float 3s ease-in-out infinite;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .enemy:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 20px rgba(255, 0, 0, 0.8);
+        }
+
+        @keyframes enemy-float {
+
+            0%,
+            100% {
+                transform: translate(0, 0);
+            }
+
+            25% {
+                transform: translate(20px, -10px);
+            }
+
+            50% {
+                transform: translate(0, -20px);
+            }
+
+            75% {
+                transform: translate(-20px, -10px);
+            }
+        }
+
+        .enemy.explode {
+            animation: explode 0.6s ease-in-out forwards;
+        }
+
+        @keyframes explode {
+            0% {
+                transform: scale(1);
+                opacity: 1;
+            }
+
+            50% {
+                transform: scale(1.5);
+                opacity: 0.7;
+                background: linear-gradient(45deg, #ff9800, #ff5722);
+            }
+
+            100% {
+                transform: scale(0);
+                opacity: 0;
+            }
+        }
+
+        /* 发射位 */
+        .cannon {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 60px;
+            background: linear-gradient(45deg, #2196f3, #0d47a1);
+            border-radius: 20px 20px 5px 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2;
+            transition: all 0.3s ease;
+        }
+
+        .cannon::before {
+            content: '';
+            position: absolute;
+            top: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 40px;
+            height: 30px;
+            background: linear-gradient(45deg, #1976d2, #0d47a1);
+            border-radius: 10px 10px 0 0;
+        }
+
+        .cannon-barrel {
+            position: absolute;
+            top: -30px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 10px;
+            height: 40px;
+            background: #64b5f6;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            transform-origin: bottom center;
+        }
+
+        /* 炮弹 */
+        .projectile {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            background: linear-gradient(45deg, #ffeb3b, #ffc107);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #333;
+            font-weight: bold;
+            font-size: 0.7rem;
+            text-align: center;
+            padding: 5px;
+            z-index: 3;
+            transition: all 0.5s linear;
+        }
+
+        /* 轨迹线 - 已移除 */
+        .trajectory {
+            display: none !important;
+            position: absolute;
+            bottom: 65px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 2px;
+            height: 300px;
+            background: rgba(255, 235, 59, 0.5);
+            pointer-events: none;
+            z-index: 1;
+            transition: all 0.1s ease;
+            transform-origin: bottom center;
+        }
+
+        .trajectory::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(255, 235, 59, 0.8);
+        }
+
+        /* 当前单词容器 */
+        .current-word-container {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            z-index: 2;
+        }
+
+        /* 刷新图标 */
+        .refresh-icon {
+            width: 40px;
+            height: 40px;
+            border: none;
+            border-radius: 50%;
+            color: white;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: -8px;
+        }
+
+        .refresh-icon:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 15px rgba(33, 150, 243, 0.8);
+        }
+
+        /* 当前单词显示 */
+        .current-word-display {
+            padding: 5px 10px;
+            background: rgba(255, 235, 59, 0.9);
+            color: #333;
+            font-weight: bold;
+            border-radius: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            min-width: 100px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        /* 星星动画 */
+        .star-effect {
+            position: absolute;
+            color: #ffeb3b;
+            font-size: 20px;
+            pointer-events: none;
+            animation: star-effect 1s ease-out forwards;
+            z-index: 4;
+        }
+
+        @keyframes star-effect {
+            0% {
+                transform: scale(0) rotate(0deg);
+                opacity: 1;
+            }
+
+            50% {
+                transform: scale(1.5) rotate(180deg);
+                opacity: 0.8;
+            }
+
+            100% {
+                transform: scale(0) rotate(360deg);
+                opacity: 0;
+            }
+        }
+
+        @keyframes flash-effect {
+            0% {
+                transform: translate(-50%, -50%) scale(1);
+                opacity: 1;
+                box-shadow: 0 0 10px #ffeb3b, 0 0 20px #ffeb3b;
+            }
+
+            50% {
+                transform: translate(-50%, -50%) scale(2);
+                opacity: 0.8;
+                box-shadow: 0 0 20px #ffeb3b, 0 0 40px #ffeb3b;
+            }
+
+            100% {
+                transform: translate(-50%, -50%) scale(3);
+                opacity: 0;
+                box-shadow: 0 0 30px #ffeb3b, 0 0 60px #ffeb3b;
+            }
+        }
+
+        /* 错误提示 */
+        .error-message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(255, 0, 0, 0.8);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            font-weight: bold;
+            z-index: 5;
+            animation: error-pulse 0.5s ease-in-out;
+            display: none;
+        }
+
+        @keyframes error-pulse {
+
+            0%,
+            100% {
+                transform: translate(-50%, -50%) scale(1);
+                opacity: 1;
+            }
+
+            50% {
+                transform: translate(-50%, -50%) scale(1.2);
+                opacity: 0.8;
+            }
+        }
+
+        /* 模态框 */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            animation: fade-in 0.3s ease;
+        }
+
+        @keyframes fade-in {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .modal-content {
+            background-color: rgba(26, 35, 126, 0.9);
+            margin: 15% auto;
+            padding: 30px;
+            border-radius: 15px;
+            width: 80%;
+            max-width: 400px;
+            text-align: center;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+            animation: slide-in 0.3s ease;
+            border: 2px solid #ffeb3b;
+        }
+
+        @keyframes slide-in {
+            from {
+                transform: translateY(-50px) scale(0.8);
+                opacity: 0;
+            }
+
+            to {
+                transform: translateY(0) scale(1);
+                opacity: 1;
+            }
+        }
+
+        .modal h2 {
+            color: #ffeb3b;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .modal p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+            color: #bbdefb;
+        }
+
+        .modal .info-value {
+            color: #ffeb3b;
+        }
+
+        #continue-btn {
+            background: linear-gradient(45deg, #4caf50, #2e7d32);
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        #continue-btn:hover {
+            background: linear-gradient(45deg, #66bb6a, #2e7d32);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        /* 隐藏文件输入 */
+        #file-input {
+            display: none;
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            .game-area {
+                height: 400px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .button-group {
+                flex-direction: column;
+            }
+
+            .enemy {
+                width: 60px;
+                height: 60px;
+                font-size: 0.7rem;
+            }
+
+            .cannon {
+                width: 80px;
+                height: 50px;
+            }
+
+            .direction-controls {
+                bottom: 90px;
+            }
+
+            .fire-btn {
+                bottom: 90px;
+                width: 50px;
+                height: 50px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 星空背景 -->
+    <div class="stars" id="stars"></div>
+
+    <!-- 标题 -->
+    <h1 id="game-title">星际争霸单词匹配游戏</h1>
+
+    <!-- 菜单 -->
+    <div class="menu">
+        <!-- 单词数量滑块 -->
+        <div class="slider-container">
+            <label for="word-count">单词数量（对）：</label>
+            <div class="slider-wrapper">
+                <input type="range" id="word-count" min="5" max="50" value="10">
+                <span class="slider-value" id="slider-value">10</span>
+            </div>
+        </div>
+
+        <!-- 按钮组 -->
+        <div class="button-group">
+            <input type="file" id="file-input" accept=".xlsx,.xls,.csv">
+            <button id="import-btn">导入词表</button>
+            <button id="start-btn">开始游戏</button>
+        </div>
+    </div>
+
+    <!-- 信息区域 -->
+    <div class="info-area">
+        <div class="info-item">
+            耗时：<span class="info-value" id="time-elapsed">0</span>秒
+        </div>
+        <div class="info-item">
+            得分：<span class="info-value" id="score">0</span>
+        </div>
+        <div class="info-item">
+            当前单词：<span class="info-value" id="current-word">准备中</span>
+        </div>
+    </div>
+
+    <!-- 游戏区域 -->
+    <div class="game-area" id="game-area">
+        <!-- 发射位 -->
+        <div class="cannon" id="cannon">
+            <div class="cannon-barrel" id="cannon-barrel"></div>
+        </div>
+
+        <!-- 轨迹线 -->
+        <div class="trajectory" id="trajectory"></div>
+
+        <!-- 当前单词显示 -->
+        <div class="current-word-container">
+            <div class="refresh-icon" id="refresh-icon">🔄</div>
+            <div class="current-word-display" id="current-word-display">准备中</div>
+        </div>
+
+        <!-- 错误提示 -->
+        <div class="error-message" id="error-message">攻击失败！</div>
+    </div>
+
+    <!-- 游戏结束模态框 -->
+    <div class="modal" id="game-over-modal">
+        <div class="modal-content">
+            <h2>恭喜完成任务！</h2>
+            <p>耗时：<span class="info-value" id="final-time">0</span>秒</p>
+            <p>得分：<span class="info-value" id="final-score">0</span></p>
+            <button id="continue-btn">继续挑战</button>
+        </div>
+    </div>
+
+    <script>
+        // 默认词库
+        const defaultWordList = [
+            ['apple', '苹果'],
+            ['banana', '香蕉'],
+            ['cat', '猫'],
+            ['dog', '狗'],
+            ['elephant', '大象'],
+            ['fish', '鱼'],
+            ['grape', '葡萄'],
+            ['house', '房子'],
+            ['ice', '冰'],
+            ['juice', '果汁'],
+            ['kite', '风筝'],
+            ['lion', '狮子'],
+            ['milk', '牛奶'],
+            ['notebook', '笔记本'],
+            ['orange', '橙子'],
+            ['pen', '钢笔'],
+            ['queen', '女王'],
+            ['rabbit', '兔子'],
+            ['sun', '太阳'],
+            ['tree', '树'],
+            ['umbrella', '雨伞'],
+            ['violin', '小提琴'],
+            ['water', '水'],
+            ['xylophone', '木琴'],
+            ['yellow', '黄色'],
+            ['zebra', '斑马'],
+            ['book', '书'],
+            ['computer', '电脑'],
+            ['desk', '书桌'],
+            ['chair', '椅子']
+        ];
+
+        // 全局变量
+        let wordList = []; // 单词列表
+        let currentPairs = 10; // 当前单词对数
+        let currentIndex = 0; // 当前单词索引
+        let gameStarted = false; // 游戏是否开始
+        let timer = 0; // 计时器
+        let timerInterval = null; // 计时器间隔
+        let score = 0; // 得分
+        let currentWord = ""; // 当前炮弹单词
+        let currentMeaning = ""; // 当前炮弹单词的翻译
+        let enemies = []; // 当前敌机列表
+        let cannonAngle = 0; // 大炮角度
+        let gameTitle = "星际争霸单词匹配游戏"; // 游戏标题
+
+        // DOM元素
+        let gameTitleEl, wordCountEl, sliderValueEl, importBtnEl, startBtnEl;
+        let timeElapsedEl, scoreEl, currentWordEl, gameAreaEl, cannonEl;
+        let cannonBarrelEl, fireBtnEl, errorMessageEl, gameOverModalEl;
+        let finalTimeEl, finalScoreEl, continueBtnEl, fileInputEl;
+        let starsEl, trajectoryEl, currentWordDisplayEl, refreshIconEl;
+
+        // 处理指针移动（鼠标或触摸）
+        function handlePointerMove(x, y) {
+            // 移除轨迹线显示
+            trajectoryEl.style.display = 'none';
+
+            const gameAreaRect = gameAreaEl.getBoundingClientRect();
+            const cannonRect = cannonEl.getBoundingClientRect();
+            const cannonX = cannonRect.left + cannonRect.width / 2;
+            const cannonY = cannonRect.top;
+
+            // 计算角度
+            let angle = Math.atan2(x - cannonX, cannonY - y) * (180 / Math.PI);
+
+            // 限制角度范围为180度
+            angle = Math.max(Math.min(angle, 90), -90);
+
+            cannonAngle = angle;
+
+            // 不再更新轨迹线长度，因为轨迹线已被移除
+            // 更新大炮角度
+            updateCannonAngle();
+        }
+
+        // 初始化
+        function init() {
+            // 获取DOM元素
+            gameTitleEl = document.getElementById('game-title');
+            wordCountEl = document.getElementById('word-count');
+            sliderValueEl = document.getElementById('slider-value');
+            importBtnEl = document.getElementById('import-btn');
+            startBtnEl = document.getElementById('start-btn');
+            timeElapsedEl = document.getElementById('time-elapsed');
+            scoreEl = document.getElementById('score');
+            currentWordEl = document.getElementById('current-word');
+            gameAreaEl = document.getElementById('game-area');
+            cannonEl = document.getElementById('cannon');
+            cannonBarrelEl = document.getElementById('cannon-barrel');
+            fireBtnEl = document.getElementById('fire-btn');
+            errorMessageEl = document.getElementById('error-message');
+            gameOverModalEl = document.getElementById('game-over-modal');
+            finalTimeEl = document.getElementById('final-time');
+            finalScoreEl = document.getElementById('final-score');
+            continueBtnEl = document.getElementById('continue-btn');
+            fileInputEl = document.getElementById('file-input');
+            starsEl = document.getElementById('stars');
+            trajectoryEl = document.getElementById('trajectory');
+            currentWordDisplayEl = document.getElementById('current-word-display');
+            refreshIconEl = document.getElementById('refresh-icon');
+
+            // 创建星空背景
+            createStars();
+
+            // 加载本地存储数据
+            loadFromLocalStorage();
+
+            // 绑定事件
+            bindEvents();
+        }
+
+        // 创建星空背景
+        function createStars() {
+            // 减少星星数量以提高移动设备性能
+            for (let i = 0; i < 30; i++) {
+                const star = document.createElement('div');
+                star.className = 'star';
+                star.style.width = Math.random() * 3 + 1 + 'px';
+                star.style.height = star.style.width;
+                star.style.left = Math.random() * 100 + '%';
+                star.style.top = Math.random() * 100 + '%';
+                star.style.animationDelay = Math.random() * 3 + 's';
+                starsEl.appendChild(star);
+            }
+        }
+
+        // 加载本地存储数据
+        function loadFromLocalStorage() {
+            const savedWordList = localStorage.getItem('wordList');
+            const savedTitle = localStorage.getItem('gameTitle');
+
+            if (savedWordList) {
+                wordList = JSON.parse(savedWordList);
+            } else {
+                // 如果没有保存的词库，使用默认词库
+                wordList = shuffleArray([...defaultWordList]);
+                saveToLocalStorage();
+            }
+
+            if (savedTitle) {
+                gameTitle = savedTitle;
+                gameTitleEl.textContent = gameTitle;
+            }
+        }
+
+        // 保存到本地存储
+        function saveToLocalStorage() {
+            localStorage.setItem('wordList', JSON.stringify(wordList));
+            localStorage.setItem('gameTitle', gameTitle);
+        }
+
+        // 绑定事件
+        function bindEvents() {
+            // 标题点击事件
+            gameTitleEl.addEventListener('click', function () {
+                const newTitle = prompt('请输入新的游戏标题：', gameTitle);
+                if (newTitle) {
+                    gameTitle = newTitle;
+                    gameTitleEl.textContent = gameTitle;
+                    saveToLocalStorage();
+                }
+            });
+
+            // 滑块事件
+            wordCountEl.addEventListener('input', function () {
+                currentPairs = parseInt(this.value);
+                sliderValueEl.textContent = currentPairs;
+            });
+
+            // 导入按钮事件
+            importBtnEl.addEventListener('click', function () {
+                fileInputEl.click();
+            });
+            // 添加触摸事件支持
+            importBtnEl.addEventListener('touchstart', function (e) {
+                // 直接执行点击操作，移除e.preventDefault()以避免阻止页面滚动
+                this.click();
+            });
+
+            // 文件输入事件
+            fileInputEl.addEventListener('change', handleFileImport);
+
+            // 开始游戏按钮事件
+            startBtnEl.addEventListener('click', function () {
+                console.log('开始游戏按钮点击');
+                startGame();
+                console.log('游戏是否开始:', gameStarted);
+            });
+            // 添加触摸事件支持
+            startBtnEl.addEventListener('touchstart', function (e) {
+                console.log('开始游戏按钮触摸');
+                // 直接执行点击操作，移除e.preventDefault()以避免阻止页面滚动
+                this.click();
+                console.log('游戏是否开始:', gameStarted);
+            });
+
+            // 鼠标移动事件（控制方向和轨迹线长度）
+            gameAreaEl.addEventListener('mousemove', function (e) {
+                if (gameStarted) {
+                    handlePointerMove(e.clientX, e.clientY);
+                }
+            });
+
+            // 触摸移动事件（控制方向和轨迹线长度）
+            gameAreaEl.addEventListener('touchmove', function (e) {
+                if (gameStarted) {
+                    // 移除e.preventDefault()以避免阻止页面滚动
+                    const touch = e.touches[0];
+                    handlePointerMove(touch.clientX, touch.clientY);
+                }
+            }, { passive: true });
+
+            // 统一处理点击和触摸事件
+            function handleGameAreaClick(e) {
+                console.log('handleGameAreaClick函数被调用');
+
+                if (!gameStarted) {
+                    console.log('游戏未开始，返回');
+                    return;
+                }
+
+                // 调试信息
+                console.log('点击事件触发，目标:', e.target);
+                console.log('目标类名:', e.target.className);
+                console.log('目标HTML:', e.target.outerHTML);
+
+                // 检查点击的目标是否是刷新图标
+                if (e.target.closest('.refresh-icon')) {
+                    console.log('点击了刷新图标，返回');
+                    return;
+                }
+
+                // 简化的敌机检测逻辑
+                let isEnemy = false;
+                let targetEnemy = null;
+
+                // 检查当前目标是否是敌机
+                if (e.target.classList.contains('enemy')) {
+                    console.log('当前目标是敌机');
+                    isEnemy = true;
+                    targetEnemy = e.target;
+                } else {
+                    console.log('当前目标不是敌机，检查父元素');
+                    // 检查父元素是否是敌机
+                    let parent = e.target.parentElement;
+                    console.log('父元素:', parent);
+
+                    while (parent && parent !== gameAreaEl) {
+                        console.log('检查父元素:', parent, '类名:', parent.className);
+                        if (parent.classList.contains('enemy')) {
+                            console.log('父元素是敌机');
+                            isEnemy = true;
+                            targetEnemy = parent;
+                            break;
+                        }
+                        parent = parent.parentElement;
+                        console.log('下一个父元素:', parent);
+                    }
+                }
+
+                console.log('是否是敌机:', isEnemy);
+
+                // 强制进入敌机处理逻辑，用于测试
+                isEnemy = true;
+                targetEnemy = e.target.closest('.enemy');
+                console.log('强制设置isEnemy:', isEnemy, 'targetEnemy:', targetEnemy);
+
+                if (isEnemy && targetEnemy) {
+                    console.log('点击了敌机:', targetEnemy);
+                    // 计算点击位置与炮管的角度
+                    const enemyRect = targetEnemy.getBoundingClientRect();
+                    const enemyCenterX = enemyRect.left + enemyRect.width / 2;
+                    const enemyCenterY = enemyRect.top + enemyRect.height / 2;
+
+                    console.log('敌机中心位置:', enemyCenterX, enemyCenterY);
+
+                    const cannonRect = cannonEl.getBoundingClientRect();
+                    const cannonX = cannonRect.left + cannonRect.width / 2;
+                    const cannonY = cannonRect.top;
+
+                    console.log('大炮位置:', cannonX, cannonY);
+
+                    // 计算角度
+                    let angle = Math.atan2(enemyCenterX - cannonX, cannonY - enemyCenterY) * (180 / Math.PI);
+
+                    console.log('计算的角度（弧度）:', Math.atan2(enemyCenterX - cannonX, cannonY - enemyCenterY));
+                    console.log('计算的角度（度）:', angle);
+
+                    // 限制角度范围
+                    angle = Math.max(Math.min(angle, 90), -90);
+
+                    console.log('限制后的角度:', angle);
+
+                    // 更新大炮角度
+                    console.log('更新大炮角度前:', cannonAngle);
+                    cannonAngle = angle;
+                    console.log('更新大炮角度后:', cannonAngle);
+                    updateCannonAngle();
+
+                    // 发射炮弹
+                    console.log('准备发射炮弹');
+                    fireProjectile();
+                    console.log('炮弹发射完成');
+                } else {
+                    // 普通点击，直接发射炮弹
+                    console.log('普通点击，发射炮弹');
+                    fireProjectile();
+                }
+            }
+
+            // 鼠标左键点击事件（发射炮弹）
+            gameAreaEl.addEventListener('click', handleGameAreaClick);
+
+            // 添加触摸事件支持
+            gameAreaEl.addEventListener('touchstart', function (e) {
+                console.log('触摸事件触发');
+
+                // 获取触摸点
+                const touch = e.touches[0];
+                console.log('触摸点:', touch);
+
+                // 阻止默认行为，避免页面滚动
+                e.preventDefault();
+
+                // 创建一个模拟的点击事件，使用触摸点的位置
+                const clickEvent = new MouseEvent('click', {
+                    clientX: touch.clientX,
+                    clientY: touch.clientY,
+                    bubbles: true,
+                    cancelable: true,
+                    view: window
+                });
+
+                // 触发点击事件
+                touch.target.dispatchEvent(clickEvent);
+            }, { passive: false });
+
+            // 刷新图标点击事件
+            refreshIconEl.addEventListener('click', function () {
+                if (gameStarted) {
+                    // 切换到下一个单词
+                    currentIndex = (currentIndex + 1) % wordList.length;
+                    setCurrentWord();
+                }
+            });
+            // 添加触摸事件支持
+            refreshIconEl.addEventListener('touchstart', function (e) {
+                // 直接执行点击操作，移除e.preventDefault()以避免阻止页面滚动
+                this.click();
+            });
+
+            // 继续挑战按钮事件
+            continueBtnEl.addEventListener('click', continueChallenge);
+            // 添加触摸事件支持
+            continueBtnEl.addEventListener('touchstart', function (e) {
+                // 直接执行点击操作，移除e.preventDefault()以避免阻止页面滚动
+                this.click();
+            });
+        }
+
+        // 更新大炮角度
+        function updateCannonAngle() {
+            console.log('更新大炮角度函数被调用');
+            console.log('cannonBarrelEl:', cannonBarrelEl);
+            console.log('cannonAngle:', cannonAngle);
+
+            if (cannonBarrelEl) {
+                cannonBarrelEl.style.transform = `translateX(-50%) rotate(${cannonAngle}deg)`;
+                console.log('炮管角度已更新');
+            } else {
+                console.error('cannonBarrelEl 为 null 或 undefined');
+            }
+
+            // 移除轨迹线相关代码，因为轨迹线已被移除
+        }
+
+        // 处理文件导入
+        function handleFileImport(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            // 由于没有第三方库，这里模拟Excel解析
+            // 实际项目中需要使用xlsx库解析Excel文件
+            // 这里我们假设文件内容是CSV格式，第一列单词，第二列是答案
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const content = e.target.result;
+                const lines = content.split('\n');
+                const newWordList = [];
+
+                for (let line of lines) {
+                    if (line.trim()) {
+                        const parts = line.split('\t'); // 假设使用制表符分隔
+                        if (parts.length >= 2) {
+                            newWordList.push([parts[0].trim(), parts[1].trim()]);
+                        }
+                    }
+                }
+
+                if (newWordList.length > 0) {
+                    wordList = shuffleArray(newWordList);
+                    currentIndex = 0;
+                    saveToLocalStorage();
+                    alert('词表导入成功！');
+                } else {
+                    alert('词表格式错误，请检查文件！');
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        // 打乱数组
+        function shuffleArray(array) {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        }
+
+        // 开始游戏
+        function startGame() {
+            if (!gameStarted) {
+                // 开始新游戏
+                gameStarted = true;
+                startBtnEl.textContent = '重新开始（重置词汇）';
+                currentIndex = 0;
+                score = 0;
+                scoreEl.textContent = score;
+                startTimer();
+                initGame();
+                console.log('游戏已开始，gameStarted:', gameStarted);
+            } else {
+                // 重新开始
+                resetGame();
+                // 重置后需要重新设置gameStarted为true
+                gameStarted = true;
+                wordList = shuffleArray(wordList);
+                currentIndex = 0;
+                score = 0;
+                scoreEl.textContent = score;
+                startTimer();
+                initGame();
+                console.log('游戏已重新开始，gameStarted:', gameStarted);
+            }
+        }
+
+        // 初始化游戏
+        function initGame() {
+            // 清除现有敌机
+            clearEnemies();
+
+            // 计算需要显示的单词
+            const endIndex = Math.min(currentIndex + currentPairs, wordList.length);
+
+            // 生成敌机
+            generateEnemies(endIndex);
+
+            // 设置当前单词
+            setCurrentWord();
+        }
+
+        // 清除现有敌机
+        function clearEnemies() {
+            enemies.forEach(enemy => {
+                if (enemy.element) {
+                    enemy.element.remove();
+                }
+            });
+            enemies = [];
+        }
+
+        // 生成敌机
+        function generateEnemies(endIndex) {
+            for (let i = currentIndex; i < endIndex; i++) {
+                const [word, meaning] = wordList[i];
+                createEnemy(meaning, i);
+            }
+        }
+
+        // 创建敌机
+        function createEnemy(meaning, index) {
+            const enemy = document.createElement('div');
+            enemy.className = 'enemy';
+            enemy.textContent = meaning;
+
+            // 定义气泡颜色数组，包含多种鲜艳的颜色
+            const bubbleColors = [
+                'linear-gradient(45deg, #e91e63, #9c27b0)',
+                'linear-gradient(45deg, #ff9800, #ff5722)',
+                'linear-gradient(45deg, #2196f3, #03a9f4)',
+                'linear-gradient(45deg, #4caf50, #43a047)',
+                'linear-gradient(45deg, #f44336, #e53935)',
+                'linear-gradient(45deg, #9c27b0, #8e24aa)',
+                'linear-gradient(45deg, #ffc107, #ffb300)',
+                'linear-gradient(45deg, #00bcd4, #00acc1)',
+                'linear-gradient(45deg, #795548, #6d4c41)',
+                'linear-gradient(45deg, #607d8b, #546e7a)'
+            ];
+
+            // 随机选择一种颜色
+            const randomColor = bubbleColors[Math.floor(Math.random() * bubbleColors.length)];
+
+            // 根据汉字长度调整气泡大小，汉字越多，气泡越大，但尽量小一点
+            // 基础大小为40px，每个汉字增加5px
+            const baseSize = 40;
+            const sizePerChar = 5;
+            // 计算气泡大小，限制在40-80px之间
+            const enemySize = Math.min(Math.max(baseSize + (meaning.length * sizePerChar), 40), 80);
+            const padding = 15; // 减少间距，显示更多气泡
+
+            // 设置敌机大小
+            enemy.style.width = enemySize + 'px';
+            enemy.style.height = enemySize + 'px';
+            // 设置随机背景颜色
+            enemy.style.background = randomColor;
+            // 增大字体大小，确保清晰可见，最小12px
+            const fontSize = Math.max(Math.floor(enemySize / 5), 12);
+            enemy.style.fontSize = fontSize + 'px'; // 根据大小调整字体
+
+            // 随机位置，确保不与其他敌机重叠
+            let x, y;
+            let isOverlapping;
+            let maxAttempts = 200; // 增加最大尝试次数，确保在显示更多气泡时能够找到不重叠的位置
+            let attempts = 0;
+
+            do {
+                attempts++;
+                isOverlapping = false;
+                x = Math.random() * (gameAreaEl.clientWidth - enemySize - padding * 2) + padding;
+                y = Math.random() * 200 + padding;
+
+                // 检查是否与其他敌机重叠
+                for (let existingEnemy of enemies) {
+                    const existingSize = parseInt(existingEnemy.element.style.width) || 80;
+                    const dx = x - existingEnemy.x;
+                    const dy = y - existingEnemy.y;
+                    const distance = Math.sqrt(dx * dx + dy * dy);
+                    const minDistance = (enemySize + existingSize) / 2 + padding;
+
+                    if (distance < minDistance) {
+                        isOverlapping = true;
+                        break;
+                    }
+                }
+            } while (isOverlapping && attempts < maxAttempts);
+
+            enemy.style.left = x + 'px';
+            enemy.style.top = y + 'px';
+
+            // 随机动画延迟
+            enemy.style.animationDelay = Math.random() * 2 + 's';
+
+            // 移除之前的事件监听器，使用游戏区域的统一事件处理
+            // 这样可以避免事件冒泡和拦截问题
+
+            gameAreaEl.appendChild(enemy);
+
+            // 添加到敌机列表
+            enemies.push({
+                id: `enemy-${index}`,
+                word: meaning,
+                originalWord: wordList[index][0],
+                element: enemy,
+                x: x,
+                y: y,
+                size: enemySize
+            });
+        }
+
+        // 设置当前单词
+        function setCurrentWord() {
+            if (currentIndex < wordList.length) {
+                const [word, meaning] = wordList[currentIndex];
+                currentWord = word;
+                currentMeaning = meaning;
+                currentWordEl.textContent = currentWord;
+                currentWordDisplayEl.textContent = currentWord;
+            } else {
+                currentWord = "游戏结束";
+                currentMeaning = "";
+                currentWordEl.textContent = currentWord;
+                currentWordDisplayEl.textContent = currentWord;
+            }
+        }
+
+        // 重置游戏
+        function resetGame() {
+            gameStarted = false;
+            clearInterval(timerInterval);
+            timer = 0;
+            timeElapsedEl.textContent = timer;
+            score = 0;
+            scoreEl.textContent = score;
+            clearEnemies();
+            cannonAngle = 0;
+            updateCannonAngle();
+            // 隐藏轨迹线
+            trajectoryEl.style.display = 'none';
+            // 更新当前单词显示
+            currentWordDisplayEl.textContent = "准备中";
+        }
+
+        // 开始计时
+        function startTimer() {
+            clearInterval(timerInterval);
+            timer = 0;
+            timeElapsedEl.textContent = timer;
+            timerInterval = setInterval(function () {
+                timer++;
+                timeElapsedEl.textContent = timer;
+            }, 1000);
+        }
+
+        // 停止计时
+        function stopTimer() {
+            clearInterval(timerInterval);
+        }
+
+        // 发射炮弹
+        function fireProjectile() {
+            console.log('发射炮弹函数被调用');
+
+            if (!gameStarted) {
+                console.log('游戏未开始，返回');
+                return;
+            }
+
+            console.log('currentWord:', currentWord);
+            console.log('cannonAngle:', cannonAngle);
+
+            // 创建炮弹
+            const projectile = document.createElement('div');
+            projectile.className = 'projectile';
+            projectile.textContent = currentWord;
+
+            console.log('创建的炮弹:', projectile);
+
+            // 设置初始位置
+            const cannonRect = cannonEl.getBoundingClientRect();
+            const gameAreaRect = gameAreaEl.getBoundingClientRect();
+
+            console.log('cannonRect:', cannonRect);
+            console.log('gameAreaRect:', gameAreaRect);
+
+            const startX = cannonRect.left + cannonRect.width / 2 - gameAreaRect.left;
+            const startY = cannonRect.top - gameAreaRect.top;
+
+            console.log('初始位置:', startX, startY);
+
+            projectile.style.left = startX + 'px';
+            projectile.style.top = startY + 'px';
+
+            gameAreaEl.appendChild(projectile);
+            console.log('炮弹已添加到游戏区域');
+
+            // 计算目标位置（基于角度）
+            const angleRad = (cannonAngle * Math.PI) / 180;
+            const distance = 500;
+            const endX = startX + Math.sin(angleRad) * distance;
+            const endY = startY - Math.cos(angleRad) * distance;
+
+            console.log('目标位置:', endX, endY);
+
+            // 设置过渡动画时间
+            projectile.style.transition = 'all 1s linear';
+            console.log('设置过渡动画时间');
+
+            // 动画
+            setTimeout(() => {
+                console.log('执行炮弹动画');
+                projectile.style.left = endX + 'px';
+                projectile.style.top = endY + 'px';
+            }, 10);
+
+            // 持续检测碰撞
+            const collisionCheckInterval = setInterval(() => {
+                console.log('检测碰撞');
+                if (checkCollision(projectile)) {
+                    console.log('发生碰撞，清除检测间隔');
+                    clearInterval(collisionCheckInterval);
+                }
+            }, 50);
+
+            // 1.5秒后如果还没碰撞，移除炮弹
+            setTimeout(() => {
+                console.log('1.5秒后移除炮弹');
+                if (projectile.parentNode) {
+                    projectile.remove();
+                    console.log('炮弹已移除');
+                }
+            }, 1500);
+        }
+
+        // 检测碰撞
+        function checkCollision(projectile) {
+            let collision = false;
+            let collidedEnemy = null;
+
+            enemies.forEach(enemy => {
+                if (!enemy.hit) {
+                    const enemyRect = enemy.element.getBoundingClientRect();
+                    const projectileRect = projectile.getBoundingClientRect();
+
+                    // 简单的碰撞检测
+                    if (
+                        projectileRect.left < enemyRect.right &&
+                        projectileRect.right > enemyRect.left &&
+                        projectileRect.top < enemyRect.bottom &&
+                        projectileRect.bottom > enemyRect.top
+                    ) {
+                        collision = true;
+                        collidedEnemy = enemy;
+                    }
+                }
+            });
+
+            if (collision && collidedEnemy) {
+                // 检查是否匹配
+                if (collidedEnemy.originalWord === currentWord) {
+                    // 匹配成功
+                    handleMatch(collidedEnemy, projectile);
+                } else {
+                    // 匹配失败
+                    handleMismatch(projectile);
+                }
+                return true; // 发生碰撞
+            } else {
+                // 没有碰撞
+                return false; // 未发生碰撞
+            }
+        }
+
+        // 处理匹配成功
+        function handleMatch(enemy, projectile) {
+            // 标记敌机为已击中
+            enemy.hit = true;
+
+            // 播放碰撞特效
+            createCollisionEffect(projectile);
+
+            // 播放爆炸动画
+            enemy.element.classList.add('explode');
+
+            // 创建星星效果
+            createStarEffects(enemy.element);
+
+            // 加分
+            score += 10;
+            scoreEl.textContent = score;
+
+            // 移除炮弹
+            projectile.remove();
+
+            // 检查是否所有敌机都被击中
+            setTimeout(() => {
+                enemy.element.remove();
+                checkGameComplete();
+            }, 600);
+        }
+
+        // 处理匹配失败
+        function handleMismatch(projectile) {
+            // 显示错误提示
+            errorMessageEl.style.display = 'block';
+
+            setTimeout(() => {
+                errorMessageEl.style.display = 'none';
+            }, 1000);
+
+            // 移除炮弹
+            projectile.remove();
+        }
+
+        // 创建星星效果
+        function createStarEffects(element) {
+            const rect = element.getBoundingClientRect();
+            const gameAreaRect = gameAreaEl.getBoundingClientRect();
+            const centerX = rect.left + rect.width / 2 - gameAreaRect.left;
+            const centerY = rect.top + rect.height / 2 - gameAreaRect.top;
+
+            // 创建5个星星
+            for (let i = 0; i < 5; i++) {
+                const star = document.createElement('div');
+                star.className = 'star-effect';
+                star.textContent = '★';
+
+                // 随机位置
+                const angle = (Math.PI * 2 / 5) * i;
+                const distance = Math.random() * 30 + 20;
+                const x = centerX + Math.cos(angle) * distance;
+                const y = centerY + Math.sin(angle) * distance;
+
+                star.style.left = x + 'px';
+                star.style.top = y + 'px';
+                star.style.animationDelay = (i * 0.1) + 's';
+
+                gameAreaEl.appendChild(star);
+
+                // 动画结束后移除星星
+                setTimeout(() => {
+                    star.remove();
+                }, 1000);
+            }
+        }
+
+        // 创建碰撞特效
+        function createCollisionEffect(projectile) {
+            const rect = projectile.getBoundingClientRect();
+            const gameAreaRect = gameAreaEl.getBoundingClientRect();
+            const centerX = rect.left + rect.width / 2 - gameAreaRect.left;
+            const centerY = rect.top + rect.height / 2 - gameAreaRect.top;
+
+            // 创建碰撞闪光效果
+            const flash = document.createElement('div');
+            flash.style.position = 'absolute';
+            flash.style.left = centerX + 'px';
+            flash.style.top = centerY + 'px';
+            flash.style.width = '30px';
+            flash.style.height = '30px';
+            flash.style.backgroundColor = '#ffeb3b';
+            flash.style.borderRadius = '50%';
+            flash.style.transform = 'translate(-50%, -50%)';
+            flash.style.opacity = '1';
+            flash.style.pointerEvents = 'none';
+            flash.style.zIndex = '4';
+            flash.style.animation = 'flash-effect 0.5s ease-out forwards';
+
+            gameAreaEl.appendChild(flash);
+
+            // 动画结束后移除
+            setTimeout(() => {
+                flash.remove();
+            }, 500);
+        }
+
+        // 检查游戏是否完成
+        function checkGameComplete() {
+            const remainingEnemies = enemies.filter(enemy => !enemy.hit);
+
+            if (remainingEnemies.length === 0) {
+                // 游戏完成
+                stopTimer();
+                showGameOverModal();
+            } else {
+                // 设置下一个单词
+                currentIndex++;
+                setCurrentWord();
+            }
+        }
+
+        // 显示游戏结束模态框
+        function showGameOverModal() {
+            finalTimeEl.textContent = timer;
+            finalScoreEl.textContent = score;
+            gameOverModalEl.style.display = 'block';
+        }
+
+        // 继续挑战
+        function continueChallenge() {
+            gameOverModalEl.style.display = 'none';
+            currentIndex += currentPairs;
+
+            // 如果索引超出范围，重新开始
+            if (currentIndex >= wordList.length) {
+                currentIndex = 0;
+                wordList = shuffleArray(wordList);
+            }
+
+            resetGame();
+            gameStarted = true;
+            startTimer();
+            initGame();
+        }
+
+        // 当DOM加载完成后初始化游戏
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+
+</html>

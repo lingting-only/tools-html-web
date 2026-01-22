@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>单词消消乐</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Comic Sans MS', 'Arial', sans-serif;
+            background-color: #f9f0ff;
+            color: #333;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-image:
+                radial-gradient(#ffb6c1 10%, transparent 10%),
+                radial-gradient(#add8e6 10%, transparent 10%);
+            background-size: 50px 50px;
+            background-position: 0 0, 25px 25px;
+        }
+
+        /* 标题样式 */
+        h1 {
+            font-size: 3rem;
+            color: #ff6b9d;
+            margin-bottom: 20px;
+            cursor: pointer;
+            text-shadow: 3px 3px 0px #add8e6, 6px 6px 0px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            animation: title-bounce 2s ease-in-out infinite;
+        }
+
+        h1:hover {
+            transform: scale(1.1) rotate(2deg);
+            color: #ff8fab;
+        }
+
+        @keyframes title-bounce {
+
+            0%,
+            100% {
+                transform: translateY(0);
+            }
+
+            50% {
+                transform: translateY(-5px);
+            }
+        }
+
+        /* 菜单样式 */
+        .menu {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            width: 100%;
+            max-width: 600px;
+            margin-bottom: 20px;
+            padding: 25px;
+            background: #ffffff;
+            border-radius: 25px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1), 0 0 0 5px #ffd9ec;
+            border: 3px solid #add8e6;
+        }
+
+        /* 滑块容器 */
+        .slider-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .slider-container label {
+            font-weight: bold;
+            color: #ff6b9d;
+            font-size: 1.1rem;
+        }
+
+        .slider-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        input[type="range"] {
+            flex: 1;
+            height: 12px;
+            border-radius: 10px;
+            background: #ffd9ec;
+            outline: none;
+            -webkit-appearance: none;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #ff6b9d, #ff8fab);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        input[type="range"]::-webkit-slider-thumb:hover {
+            transform: scale(1.3);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .slider-value {
+            width: 70px;
+            text-align: center;
+            font-weight: bold;
+            color: #ff6b9d;
+            background-color: #add8e6;
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 1.1rem;
+        }
+
+        /* 按钮样式 */
+        .button-group {
+            display: flex;
+            gap: 15px;
+        }
+
+        button {
+            flex: 1;
+            padding: 15px 20px;
+            border: none;
+            border-radius: 20px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        #import-btn {
+            background: linear-gradient(45deg, #98fb98, #90ee90);
+            color: #333;
+            border: 2px solid #98fb98;
+        }
+
+        #import-btn:hover {
+            background: linear-gradient(45deg, #90ee90, #98fb98);
+            transform: translateY(-3px) scale(1.05);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        #start-btn {
+            background: linear-gradient(45deg, #ffb6c1, #ffc0cb);
+            color: #333;
+            border: 2px solid #ffb6c1;
+        }
+
+        #start-btn:hover {
+            background: linear-gradient(45deg, #ffc0cb, #ffb6c1);
+            transform: translateY(-3px) scale(1.05);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        /* 按钮点击效果 */
+        button:active {
+            transform: translateY(0) scale(0.98);
+        }
+
+        /* 耗时显示 */
+        .timer {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #ff6b9d;
+            margin-bottom: 20px;
+            padding: 12px 25px;
+            background: #ffffff;
+            border-radius: 20px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            border: 3px solid #add8e6;
+        }
+
+        /* 单词面板 */
+        .word-panel {
+            display: grid;
+            grid-template-columns: repeat(10, 1fr);
+            gap: 12px;
+            width: 100%;
+            max-width: 800px;
+            margin-bottom: 30px;
+            padding: 25px;
+            background: #ffffff;
+            border-radius: 25px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1), 0 0 0 5px #ffd9ec;
+            border: 3px solid #add8e6;
+        }
+
+        /* 单词方块 */
+        .word-card {
+            aspect-ratio: 1;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1rem;
+            font-weight: bold;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .word-card:hover {
+            transform: scale(1.1) rotate(2deg);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .word-card {
+            aspect-ratio: 1;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1rem;
+            font-weight: bold;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .word-card.selected {
+            border: 4px solid #fff;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.9);
+            transform: scale(1.1);
+            animation: select-animation 1s ease-in-out infinite;
+        }
+
+        @keyframes select-animation {
+            0% {
+                transform: scale(1.1) rotate(0deg);
+                border: 4px solid #fff;
+                box-shadow: 0 0 20px rgba(255, 255, 255, 0.9);
+            }
+
+            25% {
+                transform: scale(1.15) rotate(3deg);
+                border: 4px solid #fff;
+                box-shadow: 0 0 25px rgba(255, 255, 255, 1);
+            }
+
+            50% {
+                transform: scale(1.15) rotate(-3deg);
+                border: 4px solid #fff;
+                box-shadow: 0 0 25px rgba(255, 255, 255, 1);
+            }
+
+            75% {
+                transform: scale(1.15) rotate(2deg);
+                border: 4px solid #fff;
+                box-shadow: 0 0 25px rgba(255, 255, 255, 1);
+            }
+
+            100% {
+                transform: scale(1.1) rotate(0deg);
+                border: 4px solid #fff;
+                box-shadow: 0 0 20px rgba(255, 255, 255, 0.9);
+            }
+        }
+
+        .word-card.wrong {
+            animation: wrong-pulse 0.5s ease-in-out;
+        }
+
+        @keyframes wrong-pulse {
+            0% {
+                background-color: inherit;
+            }
+
+            50% {
+                background-color: rgba(255, 0, 0, 0.8);
+            }
+
+            100% {
+                background-color: inherit;
+            }
+        }
+
+        .word-card.remove {
+            animation: remove-animation 0.6s ease-in-out forwards;
+        }
+
+        @keyframes remove-animation {
+            0% {
+                transform: scale(1);
+                opacity: 1;
+            }
+
+            50% {
+                transform: scale(1.2);
+                opacity: 0.7;
+            }
+
+            100% {
+                transform: scale(0);
+                opacity: 0;
+            }
+        }
+
+        /* 星星动画 */
+        .star {
+            position: absolute;
+            color: #ffd700;
+            font-size: 20px;
+            pointer-events: none;
+            animation: star-animation 1s ease-out forwards;
+        }
+
+        @keyframes star-animation {
+            0% {
+                transform: scale(0) rotate(0deg);
+                opacity: 1;
+            }
+
+            50% {
+                transform: scale(1.5) rotate(180deg);
+                opacity: 0.8;
+            }
+
+            100% {
+                transform: scale(0) rotate(360deg);
+                opacity: 0;
+            }
+        }
+
+        /* 模态框 */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 182, 193, 0.6);
+            animation: fade-in 0.3s ease;
+        }
+
+        @keyframes fade-in {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .modal-content {
+            background-color: #ffffff;
+            margin: 15% auto;
+            padding: 35px;
+            border-radius: 25px;
+            width: 80%;
+            max-width: 400px;
+            text-align: center;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2), 0 0 0 5px #add8e6;
+            animation: slide-in 0.3s ease;
+            border: 3px solid #ffb6c1;
+        }
+
+        @keyframes slide-in {
+            from {
+                transform: translateY(-50px) scale(0.8);
+                opacity: 0;
+            }
+
+            to {
+                transform: translateY(0) scale(1);
+                opacity: 1;
+            }
+        }
+
+        .modal h2 {
+            color: #ff6b9d;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+            text-shadow: 2px 2px 0px #add8e6;
+        }
+
+        .modal p {
+            font-size: 1.3rem;
+            margin-bottom: 30px;
+            color: #ff6b9d;
+            font-weight: bold;
+        }
+
+        #continue-btn {
+            background: linear-gradient(45deg, #ffb6c1, #ffc0cb);
+            color: #333;
+            padding: 15px 35px;
+            border: none;
+            border-radius: 20px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        #continue-btn:hover {
+            background: linear-gradient(45deg, #ffc0cb, #ffb6c1);
+            transform: translateY(-3px) scale(1.05);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        /* 隐藏文件输入 */
+        #file-input {
+            display: none;
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            .word-panel {
+                grid-template-columns: repeat(5, 1fr);
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .button-group {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 标题 -->
+    <h1 id="game-title">单词消消乐</h1>
+
+    <!-- 菜单 -->
+    <div class="menu">
+        <!-- 单词数量滑块 -->
+        <div class="slider-container">
+            <label for="word-count">单词数量（对）：</label>
+            <div class="slider-wrapper">
+                <input type="range" id="word-count" min="5" max="50" value="10">
+                <span class="slider-value" id="slider-value">10</span>
+            </div>
+        </div>
+
+        <!-- 按钮组 -->
+        <div class="button-group">
+            <input type="file" id="file-input" accept=".xlsx,.xls">
+            <button id="import-btn">导入词表</button>
+            <button id="start-btn">开始游戏</button>
+        </div>
+    </div>
+
+    <!-- 耗时显示 -->
+    <div class="timer">耗时：<span id="time-elapsed">0</span>秒</div>
+
+    <!-- 单词面板 -->
+    <div class="word-panel" id="word-panel"></div>
+
+    <!-- 游戏结束模态框 -->
+    <div class="modal" id="game-over-modal">
+        <div class="modal-content">
+            <h2>恭喜完成！</h2>
+            <p>耗时：<span id="final-time">0</span>秒</p>
+            <button id="continue-btn">继续挑战</button>
+        </div>
+    </div>
+
+    <script>
+        // 全局变量
+        let wordList = []; // 单词列表
+        let currentPairs = 10; // 当前单词对数
+        let currentIndex = 0; // 当前单词索引
+        let gameStarted = false; // 游戏是否开始
+        let timer = 0; // 计时器
+        let timerInterval = null; // 计时器间隔
+        let selectedCard = null; // 选中的卡片
+        let matchedPairs = 0; // 匹配的对数
+        let gameTitle = "单词消消乐"; // 游戏标题
+
+        // 颜色数组
+        const colors = ['#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', '#ffcc5c', '#d96459'];
+
+        // DOM元素
+        const gameTitleEl = document.getElementById('game-title');
+        const wordCountEl = document.getElementById('word-count');
+        const sliderValueEl = document.getElementById('slider-value');
+        const importBtnEl = document.getElementById('import-btn');
+        const startBtnEl = document.getElementById('start-btn');
+        const timeElapsedEl = document.getElementById('time-elapsed');
+        const wordPanelEl = document.getElementById('word-panel');
+        const gameOverModalEl = document.getElementById('game-over-modal');
+        const finalTimeEl = document.getElementById('final-time');
+        const continueBtnEl = document.getElementById('continue-btn');
+        const fileInputEl = document.getElementById('file-input');
+
+        // 初始化
+        function init() {
+            // 加载本地存储数据
+            loadFromLocalStorage();
+
+            // 绑定事件
+            bindEvents();
+
+            // 初始渲染
+            renderWordPanel();
+        }
+
+        // 默认词库
+        const defaultWordList = [
+            ['apple', '苹果'],
+            ['banana', '香蕉'],
+            ['cat', '猫'],
+            ['dog', '狗'],
+            ['elephant', '大象'],
+            ['fish', '鱼'],
+            ['grape', '葡萄'],
+            ['house', '房子'],
+            ['ice', '冰'],
+            ['juice', '果汁'],
+            ['kite', '风筝'],
+            ['lion', '狮子'],
+            ['milk', '牛奶'],
+            ['notebook', '笔记本'],
+            ['orange', '橙子'],
+            ['pen', '钢笔'],
+            ['queen', '女王'],
+            ['rabbit', '兔子'],
+            ['sun', '太阳'],
+            ['tree', '树'],
+            ['umbrella', '雨伞'],
+            ['violin', '小提琴'],
+            ['water', '水'],
+            ['xylophone', '木琴'],
+            ['yellow', '黄色'],
+            ['zebra', '斑马'],
+            ['book', '书'],
+            ['computer', '电脑'],
+            ['desk', '书桌'],
+            ['chair', '椅子']
+        ];
+
+        // 加载本地存储数据
+        function loadFromLocalStorage() {
+            const savedWordList = localStorage.getItem('wordList');
+            const savedTitle = localStorage.getItem('gameTitle');
+
+            if (savedWordList) {
+                wordList = JSON.parse(savedWordList);
+            } else {
+                // 如果没有保存的词库，使用默认词库
+                wordList = shuffleArray([...defaultWordList]);
+                saveToLocalStorage();
+            }
+
+            if (savedTitle) {
+                gameTitle = savedTitle;
+                gameTitleEl.textContent = gameTitle;
+            }
+        }
+
+        // 保存到本地存储
+        function saveToLocalStorage() {
+            localStorage.setItem('wordList', JSON.stringify(wordList));
+            localStorage.setItem('gameTitle', gameTitle);
+        }
+
+        // 绑定事件
+        function bindEvents() {
+            // 标题点击事件
+            gameTitleEl.addEventListener('click', function () {
+                const newTitle = prompt('请输入新的游戏标题：', gameTitle);
+                if (newTitle) {
+                    gameTitle = newTitle;
+                    gameTitleEl.textContent = gameTitle;
+                    saveToLocalStorage();
+                }
+            });
+
+            // 滑块事件
+            wordCountEl.addEventListener('input', function () {
+                currentPairs = parseInt(this.value);
+                sliderValueEl.textContent = currentPairs;
+                if (!gameStarted) {
+                    renderWordPanel();
+                }
+            });
+
+            // 导入按钮事件
+            importBtnEl.addEventListener('click', function () {
+                fileInputEl.click();
+            });
+
+            // 文件输入事件
+            fileInputEl.addEventListener('change', handleFileImport);
+
+            // 开始游戏按钮事件
+            startBtnEl.addEventListener('click', startGame);
+
+            // 继续挑战按钮事件
+            continueBtnEl.addEventListener('click', continueChallenge);
+        }
+
+        // 处理文件导入
+        function handleFileImport(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            // 由于没有第三方库，这里模拟Excel解析
+            // 实际项目中需要使用xlsx库解析Excel文件
+            // 这里我们假设文件内容是CSV格式，第一列是单词，第二列是答案
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const content = e.target.result;
+                const lines = content.split('\n');
+                const newWordList = [];
+
+                for (let line of lines) {
+                    if (line.trim()) {
+                        const parts = line.split('\t'); // 假设使用制表符分隔
+                        if (parts.length >= 2) {
+                            newWordList.push([parts[0].trim(), parts[1].trim()]);
+                        }
+                    }
+                }
+
+                if (newWordList.length > 0) {
+                    wordList = shuffleArray(newWordList);
+                    currentIndex = 0;
+                    saveToLocalStorage();
+                    alert('词表导入成功！');
+                    renderWordPanel();
+                } else {
+                    alert('词表格式错误，请检查文件！');
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        // 打乱数组
+        function shuffleArray(array) {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        }
+
+        // 开始游戏
+        function startGame() {
+            if (!gameStarted) {
+                // 开始新游戏
+                gameStarted = true;
+                startBtnEl.textContent = '重新开始（重置词汇）';
+                currentIndex = 0;
+                startTimer();
+                renderWordPanel();
+            } else {
+                // 重新开始
+                resetGame();
+                wordList = shuffleArray(wordList);
+                currentIndex = 0;
+                startTimer();
+                renderWordPanel();
+            }
+        }
+
+        // 重置游戏
+        function resetGame() {
+            gameStarted = false;
+            clearInterval(timerInterval);
+            timer = 0;
+            timeElapsedEl.textContent = timer;
+            selectedCard = null;
+            matchedPairs = 0;
+            wordPanelEl.innerHTML = '';
+        }
+
+        // 开始计时
+        function startTimer() {
+            clearInterval(timerInterval);
+            timer = 0;
+            timeElapsedEl.textContent = timer;
+            timerInterval = setInterval(function () {
+                timer++;
+                timeElapsedEl.textContent = timer;
+            }, 1000);
+        }
+
+        // 停止计时
+        function stopTimer() {
+            clearInterval(timerInterval);
+        }
+
+        // 渲染单词面板
+        function renderWordPanel() {
+            wordPanelEl.innerHTML = '';
+
+            if (wordList.length === 0) return;
+
+            // 计算需要显示的单词
+            const endIndex = Math.min(currentIndex + currentPairs, wordList.length);
+            const displayWords = [];
+
+            for (let i = currentIndex; i < endIndex; i++) {
+                const [word, meaning] = wordList[i];
+                displayWords.push({ text: word, pairIndex: i });
+                displayWords.push({ text: meaning, pairIndex: i });
+            }
+
+            // 打乱显示顺序
+            const shuffledWords = shuffleArray(displayWords);
+
+            // 创建单词卡片
+            shuffledWords.forEach((item, index) => {
+                const card = document.createElement('div');
+                card.className = 'word-card';
+                card.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+                card.textContent = item.text;
+                card.dataset.pairIndex = item.pairIndex;
+                card.dataset.index = index;
+
+                // 添加点击事件
+                card.addEventListener('click', function () {
+                    if (!gameStarted) return;
+                    handleCardClick(card);
+                });
+
+                wordPanelEl.appendChild(card);
+            });
+        }
+
+        // 创建星星动画
+        function createStars(element) {
+            const rect = element.getBoundingClientRect();
+            const centerX = rect.left + rect.width / 2;
+            const centerY = rect.top + rect.height / 2;
+
+            // 创建5个星星
+            for (let i = 0; i < 5; i++) {
+                const star = document.createElement('div');
+                star.className = 'star';
+                star.textContent = '★';
+
+                // 随机位置
+                const angle = (Math.PI * 2 / 5) * i;
+                const distance = Math.random() * 30 + 20;
+                const x = centerX + Math.cos(angle) * distance - 10;
+                const y = centerY + Math.sin(angle) * distance - 10;
+
+                star.style.left = x + 'px';
+                star.style.top = y + 'px';
+                star.style.animationDelay = (i * 0.1) + 's';
+
+                document.body.appendChild(star);
+
+                // 动画结束后移除星星
+                setTimeout(() => {
+                    star.remove();
+                }, 1000);
+            }
+        }
+
+        // 处理卡片点击
+        function handleCardClick(card) {
+            // 如果卡片已经被选中或已经匹配，不做处理
+            if (card.classList.contains('selected') || card.classList.contains('remove')) {
+                return;
+            }
+
+            // 如果是第一次点击
+            if (!selectedCard) {
+                // 保存当前选中的卡片
+                selectedCard = card;
+
+                // 直接添加选中类，触发无限循环动画
+                card.classList.add('selected');
+            } else {
+                // 第二次点击，判断是否匹配
+                const pairIndex1 = selectedCard.dataset.pairIndex;
+                const pairIndex2 = card.dataset.pairIndex;
+
+                if (pairIndex1 === pairIndex2) {
+                    // 匹配成功
+                    selectedCard.classList.remove('selected');
+                    selectedCard.classList.add('remove');
+                    card.classList.add('remove');
+                    matchedPairs++;
+
+                    // 创建星星动画
+                    createStars(selectedCard);
+                    createStars(card);
+
+                    // 动画结束后隐藏卡片但保持占位
+                    setTimeout(() => {
+                        selectedCard.style.opacity = '0';
+                        selectedCard.style.pointerEvents = 'none';
+                        selectedCard.style.cursor = 'default';
+                        card.style.opacity = '0';
+                        card.style.pointerEvents = 'none';
+                        card.style.cursor = 'default';
+
+                        // 检查是否所有卡片都匹配完成
+                        if (matchedPairs === currentPairs) {
+                            stopTimer();
+                            showGameOverModal();
+                        }
+                    }, 600);
+                } else {
+                    // 匹配失败
+                    // 移除之前选中卡片的选中状态
+                    selectedCard.classList.remove('selected');
+
+                    // 为当前卡片添加选中类，触发无限循环动画
+                    card.classList.add('selected');
+
+                    // 更新选中的卡片
+                    selectedCard = card;
+                }
+            }
+        }
+
+        // 显示游戏结束模态框
+        function showGameOverModal() {
+            finalTimeEl.textContent = timer;
+            gameOverModalEl.style.display = 'block';
+        }
+
+        // 继续挑战
+        function continueChallenge() {
+            gameOverModalEl.style.display = 'none';
+            currentIndex += currentPairs;
+
+            // 如果索引超出范围，重新开始
+            if (currentIndex >= wordList.length) {
+                currentIndex = 0;
+            }
+
+            resetGame();
+            gameStarted = true;
+            startTimer();
+            renderWordPanel();
+        }
+
+        // 初始化游戏
+        init();
+    </script>
+</body>
+
+</html>
