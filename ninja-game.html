@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>指尖忍者（隔空版）</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #0a0a0a, #1a1a2e);
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        
+        #gameContainer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        
+        #gameCanvas {
+            display: block;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(180deg, #2c3e50, #34495e);
+        }
+        
+        #ui {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+        }
+        
+        #startScreen, #gameOverScreen, #permissionScreen {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+        }
+        
+        #gameOverScreen {
+            display: none;
+        }
+        
+        #permissionScreen {
+            display: none;
+        }
+        
+        h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+            color: #ff4757;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+        }
+        
+        p {
+            font-size: 24px;
+            margin-bottom: 30px;
+        }
+        
+        button {
+            background: #ff4757;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 10px;
+        }
+        
+        button:hover {
+            background: #ff3742;
+            transform: scale(1.05);
+            box-shadow: 0 0 15px rgba(255, 71, 87, 0.8);
+        }
+        
+        #instructions {
+            position: absolute;
+            bottom: 10px;
+            left: 0;
+            right: 0;
+            color: white;
+            text-align: center;
+            font-size: 14px;
+            opacity: 0.8;
+        }
+        
+        #videoContainer {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 160px;
+            height: 120px;
+            border: 2px solid #ff4757;
+            border-radius: 4px;
+            overflow: hidden;
+            display: none;
+        }
+        
+        #videoElement {
+            width: 100%;
+            height: 100%;
+            transform: scaleX(-1);
+        }
+        
+        #handCursor {
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            background: rgba(255, 255, 255, 0.3);
+            border: 2px solid white;
+            border-radius: 50%;
+            pointer-events: none;
+            display: none;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <div id="gameContainer">
+        <canvas id="gameCanvas"></canvas>
+        <div id="ui">
+            <div>生命值: <span id="health">100</span></div>
+            <div>分数: <span id="score">0</span></div>
+        </div>
+        <div id="startScreen">
+            <h1>指尖忍者（切水果版）</h1>
+            <p>使用摄像头手势控制忍者移动</p>
+            <p>移动手部切割水果，躲避炸弹</p>
+            <button id="startBtn">开始游戏</button>
+        </div>
+        <div id="permissionScreen">
+            <h1>请求摄像头权限</h1>
+            <p>游戏需要访问您的摄像头来追踪手势</p>
+            <button id="permissionBtn">允许访问摄像头</button>
+        </div>
+        <div id="gameOverScreen">
+            <h1>游戏结束</h1>
+            <p>最终得分: <span id="finalScore">0</span></p>
+            <p>切割水果数: <span id="fruitCount">0</span></p>
+            <button id="restartBtn">重新开始</button>
+        </div>
+        <div id="instructions">
+            将手放在摄像头前，移动手部切割水果
+        </div>
+        <div id="videoContainer">
+            <video id="videoElement" autoplay playsinline></video>
+        </div>
+        <div id="handCursor"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js"></script>
+
+    <script>
+        // 游戏常量
+        let CANVAS_WIDTH = window.innerWidth;
+        let CANVAS_HEIGHT = window.innerHeight;
+        const NINJA_SIZE = 32;
+        const ENEMY_SIZE = 24;
+        const OBSTACLE_SIZE = 40;
+        const POWERUP_SIZE = 16;
+        const NINJA_SPEED = 5;
+        const ENEMY_SPEED = 1.5;
+        const OBSTACLE_SPEED = 2;
+        const POWERUP_SPEED = 1;
+
+        // 游戏对象
+        let canvas, ctx;
+        let ninja;
+        let fruits = [];
+        let bombs = [];
+        let particles = [];
+        let score = 0;
+        let health = 100;
+        let gameRunning = false;
+        let gameOver = false;
+        let lastTime = 0;
+        let fruitSpawnTimer = 0;
+        let bombSpawnTimer = 0;
+        let fruitCount = 0;
+        let comboCount = 0; // 连杀计数
+        let gameTime = 0; // 游戏运行时间（毫秒）
+        let handPosition = { x: CANVAS_WIDTH / 2, y: CANVAS_HEIGHT / 2 };
+        let handVisible = false;
+        let lastHandPosition = { x: CANVAS_WIDTH / 2, y: CANVAS_HEIGHT / 2 };
+        let handTrail = []; // 手部轨迹历史记录，用于实现拖尾效果
+        let comboEffects = []; // 连杀特效数组
+
+        // MediaPipe相关
+        let hands = null;
+        let camera = null;
+        let videoElement = null;
+        let videoContainer = null;
+        let handCursor = null;
+
+        // DOM元素
+        let healthElement, scoreElement, startScreen, permissionScreen, gameOverScreen, finalScoreElement, fruitCountElement;
+        
+        // Web Audio API
+        let audioContext;
+
+        // 初始化游戏
+        function init() {
+            // 获取画布和上下文
+            canvas = document.getElementById('gameCanvas');
+            ctx = canvas.getContext('2d');
+            
+            // 设置canvas尺寸
+            resizeCanvas();
+            
+            // 获取DOM元素
+            healthElement = document.getElementById('health');
+            scoreElement = document.getElementById('score');
+            startScreen = document.getElementById('startScreen');
+            permissionScreen = document.getElementById('permissionScreen');
+            gameOverScreen = document.getElementById('gameOverScreen');
+            finalScoreElement = document.getElementById('finalScore');
+            fruitCountElement = document.getElementById('fruitCount');
+            videoElement = document.getElementById('videoElement');
+            videoContainer = document.getElementById('videoContainer');
+            handCursor = document.getElementById('handCursor');
+            
+            // 初始化Web Audio Context
+            try {
+                audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            } catch (e) {
+                console.error('Web Audio API不受支持:', e);
+            }
+            
+            // 初始化忍者
+            ninja = {
+                x: CANVAS_WIDTH / 2,
+                y: CANVAS_HEIGHT / 2,
+                width: NINJA_SIZE,
+                height: NINJA_SIZE,
+                health: 100,
+                speed: NINJA_SPEED
+            };
+            
+            // 初始化MediaPipe Hands
+            initMediaPipeHands();
+            
+            // 添加事件监听器
+            document.getElementById('startBtn').addEventListener('click', () => {
+                startScreen.style.display = 'none';
+                permissionScreen.style.display = 'block';
+            });
+            
+            document.getElementById('permissionBtn').addEventListener('click', requestCameraPermission);
+            document.getElementById('restartBtn').addEventListener('click', restartGame);
+            
+            // 添加窗口大小改变事件监听器
+            window.addEventListener('resize', resizeCanvas);
+            
+            // 开始游戏循环
+            gameLoop();
+        }
+        
+        // 调整canvas尺寸
+        function resizeCanvas() {
+            CANVAS_WIDTH = window.innerWidth;
+            CANVAS_HEIGHT = window.innerHeight;
+            canvas.width = CANVAS_WIDTH;
+            canvas.height = CANVAS_HEIGHT;
+            
+            // 更新游戏容器尺寸
+            const gameContainer = document.getElementById('gameContainer');
+            gameContainer.style.width = `${CANVAS_WIDTH}px`;
+            gameContainer.style.height = `${CANVAS_HEIGHT}px`;
+            
+            // 更新忍者位置
+            if (ninja) {
+                ninja.x = CANVAS_WIDTH / 2;
+                ninja.y = CANVAS_HEIGHT / 2;
+            }
+            
+            // 更新手部位置
+            handPosition = { x: CANVAS_WIDTH / 2, y: CANVAS_HEIGHT / 2 };
+            lastHandPosition = { x: CANVAS_WIDTH / 2, y: CANVAS_HEIGHT / 2 };
+        }
+        
+        // 初始化MediaPipe Hands
+        function initMediaPipeHands() {
+            hands = new Hands({
+                locateFile: (file) => {
+                    return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+                }
+            });
+            
+            hands.setOptions({
+                maxNumHands: 1,
+                modelComplexity: 1,
+                minDetectionConfidence: 0.6, // 降低检测阈值，提高灵敏度
+                minTrackingConfidence: 0.6  // 降低追踪阈值，提高灵敏度
+            });
+            
+            hands.onResults(onHandResults);
+        }
+        
+        // 请求摄像头权限
+        function requestCameraPermission() {
+            permissionScreen.style.display = 'none';
+            
+            navigator.mediaDevices.getUserMedia({ video: true })
+                .then((stream) => {
+                    videoElement.srcObject = stream;
+                    videoContainer.style.display = 'block';
+                    
+                    // 启动摄像头和手势追踪
+                    camera = new Camera(videoElement, {
+                        onFrame: async () => {
+                            await hands.send({ image: videoElement });
+                        },
+                        width: 1280,
+                        height: 720
+                    });
+                    camera.start();
+                    
+                    // 开始游戏
+                    startGame();
+                })
+                .catch((error) => {
+                    console.error('摄像头访问错误:', error);
+                    alert('无法访问摄像头，请检查权限设置');
+                    startScreen.style.display = 'block';
+                });
+        }
+        
+        // 处理手部追踪结果
+        function onHandResults(results) {
+            if (results.multiHandLandmarks && results.multiHandLandmarks.length > 0) {
+                const handLandmarks = results.multiHandLandmarks[0];
+                const indexFingerTip = handLandmarks[8];
+                
+                // 将手部坐标转换为画布坐标，并水平翻转以解决镜像问题
+                const x = (1 - indexFingerTip.x) * CANVAS_WIDTH;
+                const y = indexFingerTip.y * CANVAS_HEIGHT;
+                
+                handPosition = { x, y };
+                handVisible = true;
+                
+                // 更新手部光标位置
+                handCursor.style.left = `${x - 20}px`;
+                handCursor.style.top = `${y - 20}px`;
+                handCursor.style.display = 'block';
+            } else {
+                handVisible = false;
+                handCursor.style.display = 'none';
+            }
+        }
+        
+        // 开始游戏
+        function startGame() {
+            gameRunning = true;
+            gameOver = false;
+            score = 0;
+            health = 100;
+            fruitCount = 0;
+            comboCount = 0; // 重置连杀计数
+            gameTime = 0; // 重置游戏时间
+            fruitSpawnTimer = 0; // 重置水果生成计时器
+            bombSpawnTimer = 0; // 重置炸弹生成计时器
+            handTrail = []; // 重置手部轨迹
+            comboEffects = []; // 重置连杀特效
+            fruits = [];
+            bombs = [];
+            particles = [];
+            updateUI();
+        }
+        
+        // 重新开始游戏
+        function restartGame() {
+            gameOverScreen.style.display = 'none';
+            startScreen.style.display = 'block';
+            videoContainer.style.display = 'none';
+            handCursor.style.display = 'none';
+            
+            // 停止摄像头
+            if (camera) {
+                camera.stop();
+                camera = null;
+            }
+            
+            // 停止视频流
+            if (videoElement.srcObject) {
+                const tracks = videoElement.srcObject.getTracks();
+                tracks.forEach(track => track.stop());
+                videoElement.srcObject = null;
+            }
+        }
+        
+        // 游戏结束
+        function endGame() {
+            gameRunning = false;
+            gameOver = true;
+            gameOverScreen.style.display = 'block';
+            finalScoreElement.textContent = Math.floor(score);
+            fruitCountElement.textContent = fruitCount;
+        }
+        
+        // 更新UI
+        function updateUI() {
+            healthElement.textContent = health;
+            scoreElement.textContent = Math.floor(score);
+        }
+        
+        // 生成连杀特效
+        function spawnComboEffect() {
+            if (comboCount > 1) {
+                comboEffects.push({
+                    text: `${comboCount}斩`,
+                    x: CANVAS_WIDTH / 2,
+                    y: CANVAS_HEIGHT / 2,
+                    opacity: 1,
+                    scale: 1,
+                    life: 1.5, // 特效持续时间（秒）
+                    decay: 0.03 // 衰减速度
+                });
+                // 播放连杀音效
+                playComboSound();
+            }
+        }
+        
+        // 生成水果
+        function spawnFruit() {
+            const side = Math.floor(Math.random() * 4);
+            let x, y;
+            
+            // 屏幕中心位置
+            const centerX = CANVAS_WIDTH / 2;
+            const centerY = CANVAS_HEIGHT / 2;
+            
+            switch (side) {
+                case 0: // 顶部
+                    x = Math.random() * CANVAS_WIDTH;
+                    y = -30;
+                    break;
+                case 1: // 右侧
+                    x = CANVAS_WIDTH + 30;
+                    y = Math.random() * CANVAS_HEIGHT;
+                    break;
+                case 2: // 底部
+                    x = Math.random() * CANVAS_WIDTH;
+                    y = CANVAS_HEIGHT + 30;
+                    break;
+                case 3: // 左侧
+                    x = -30;
+                    y = Math.random() * CANVAS_HEIGHT;
+                    break;
+            }
+            
+            // 计算朝向中心的速度向量
+            const dx = centerX - x;
+            const dy = centerY - y;
+            const distance = Math.sqrt(dx * dx + dy * dy);
+            // 随游戏时间增加速度，每10秒增加0.5的最大速度
+            const timeFactor = Math.min(gameTime / 10000, 5); // 最多增加5倍速度
+            const baseSpeed = 2; // 提高基础速度
+            const maxAdditionalSpeed = 2 + timeFactor * 0.5; // 提高最大额外速度
+            const speed = Math.random() * maxAdditionalSpeed + baseSpeed;
+            
+            const vx = (dx / distance) * speed;
+            const vy = (dy / distance) * speed;
+            
+            const fruitTypes = ['#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', '#ffeaa7'];
+            const fruitType = fruitTypes[Math.floor(Math.random() * fruitTypes.length)];
+            
+            fruits.push({
+                x, y,
+                radius: 45,
+                vx, vy,
+                color: fruitType,
+                sliced: false,
+                sliceTime: 0
+            });
+        }
+        
+        // 生成炸弹
+        function spawnBomb() {
+            const side = Math.floor(Math.random() * 4);
+            let x, y;
+            
+            // 屏幕中心位置
+            const centerX = CANVAS_WIDTH / 2;
+            const centerY = CANVAS_HEIGHT / 2;
+            
+            switch (side) {
+                case 0: // 顶部
+                    x = Math.random() * CANVAS_WIDTH;
+                    y = -30;
+                    break;
+                case 1: // 右侧
+                    x = CANVAS_WIDTH + 30;
+                    y = Math.random() * CANVAS_HEIGHT;
+                    break;
+                case 2: // 底部
+                    x = Math.random() * CANVAS_WIDTH;
+                    y = CANVAS_HEIGHT + 30;
+                    break;
+                case 3: // 左侧
+                    x = -30;
+                    y = Math.random() * CANVAS_HEIGHT;
+                    break;
+            }
+            
+            // 计算朝向中心的速度向量
+            const dx = centerX - x;
+            const dy = centerY - y;
+            const distance = Math.sqrt(dx * dx + dy * dy);
+            // 随游戏时间增加速度，每10秒增加0.4的最大速度
+            const timeFactor = Math.min(gameTime / 10000, 5); // 最多增加5倍速度
+            const baseSpeed = 1.8; // 提高基础速度
+            const maxAdditionalSpeed = 1.5 + timeFactor * 0.4; // 提高最大额外速度
+            const speed = Math.random() * maxAdditionalSpeed + baseSpeed;
+            
+            const vx = (dx / distance) * speed;
+            const vy = (dy / distance) * speed;
+            
+            bombs.push({
+                x, y,
+                radius: 35,
+                vx, vy,
+                color: '#34495e'
+            });
+        }
+        
+        // 生成粒子效果
+        function spawnParticles(x, y, count, color) {
+            for (let i = 0; i < count; i++) {
+                particles.push({
+                    x, y,
+                    vx: (Math.random() - 0.5) * 10, // 增加速度
+                    vy: (Math.random() - 0.5) * 10, // 增加速度
+                    life: 1,
+                    decay: Math.random() * 0.03, // 减慢衰减，延长生命周期
+                    color,
+                    size: Math.random() * 3 + 2 // 增加粒子大小
+                });
+            }
+        }
+        
+        // 检测线段与圆的碰撞
+        function lineCircleCollision(x1, y1, x2, y2, cx, cy, radius) {
+            // 计算两点之间的距离
+            const distance = Math.sqrt((x1 - cx) * (x1 - cx) + (y1 - cy) * (y1 - cy));
+            
+            // 如果手部没有移动，直接检查点与圆的距离
+            if (x1 === x2 && y1 === y2) {
+                return distance <= radius;
+            }
+            
+            const A = x1 - cx;
+            const B = y1 - cy;
+            const C = x2 - cx;
+            const D = y2 - cy;
+            
+            const lineLength = Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
+            const dotProduct = (C - A) * (x2 - x1) + (D - B) * (y2 - y1);
+            const param = Math.max(0, Math.min(1, dotProduct / (lineLength * lineLength)));
+            
+            const closestX = x1 + param * (x2 - x1);
+            const closestY = y1 + param * (y2 - y1);
+            const closestDistance = Math.sqrt((closestX - cx) * (closestX - cx) + (closestY - cy) * (closestY - cy));
+            
+            return closestDistance <= radius;
+        }
+        
+        // 更新手部位置
+        function updateHand() {
+            if (!handVisible) {
+                // 如果手部不可见，清空轨迹
+                handTrail = [];
+                return;
+            }
+            
+            // 记录上一帧的手部位置
+            lastHandPosition = { ...handPosition };
+            
+            // 添加当前位置到轨迹历史
+            handTrail.push({ ...handPosition });
+            
+            // 限制轨迹长度，缩短拖尾效果
+            if (handTrail.length > 15) {
+                handTrail.shift();
+            }
+        }
+        
+        // 更新水果
+        function updateFruits(deltaTime) {
+            for (let i = fruits.length - 1; i >= 0; i--) {
+                const fruit = fruits[i];
+                
+                // 更新位置
+                fruit.x += fruit.vx;
+                fruit.y += fruit.vy;
+                
+                // 只对从顶部和左右生成的水果应用重力，从底部生成的水果不应用重力
+                if (fruit.y < CANVAS_HEIGHT / 2) {
+                    fruit.vy += 0.05; // 减小重力
+                }
+                
+                // 检查是否被切割
+                if (handVisible) {
+                    if (lineCircleCollision(
+                        // 延长手部轨迹的长度，提高滑动灵敏度
+                        lastHandPosition.x - (handPosition.x - lastHandPosition.x) * 0.5, 
+                        lastHandPosition.y - (handPosition.y - lastHandPosition.y) * 0.5,
+                        handPosition.x, handPosition.y,
+                        fruit.x, fruit.y, fruit.radius
+                    )) {
+                        // 水果被切割后立即消失
+                        score += 10;
+                        fruitCount++;
+                        comboCount++; // 增加连杀计数
+                        spawnParticles(fruit.x, fruit.y, 15, fruit.color);
+                        
+                        // 播放切割音效
+                        playSliceSound();
+                        
+                        // 连杀特效
+                        if (comboCount >= 3) {
+                            // 生成连杀特效粒子
+                            spawnParticles(fruit.x, fruit.y, 10, '#ffffff');
+                        }
+                        
+                        fruits.splice(i, 1); // 立即从数组中移除
+                        updateUI();
+                        
+                        // 生成连杀特效
+                        spawnComboEffect();
+                        
+                        continue; // 跳过后续检查
+                    }
+                }
+                
+                // 移除超出屏幕的水果
+                if (fruit.x < -fruit.radius * 2 || fruit.x > CANVAS_WIDTH + fruit.radius * 2 ||
+                    fruit.y < -fruit.radius * 2 || fruit.y > CANVAS_HEIGHT + fruit.radius * 2) {
+                    fruits.splice(i, 1);
+                }
+            }
+        }
+        
+        // 更新炸弹
+        function updateBombs(deltaTime) {
+            for (let i = bombs.length - 1; i >= 0; i--) {
+                const bomb = bombs[i];
+                
+                // 更新位置
+                bomb.x += bomb.vx;
+                bomb.y += bomb.vy;
+                
+                // 添加重力
+                bomb.vy += 0.1;
+                
+                // 检查是否被触碰
+                if (handVisible) {
+                    if (lineCircleCollision(
+                        // 延长手部轨迹的长度，提高滑动灵敏度
+                        lastHandPosition.x - (handPosition.x - lastHandPosition.x) * 0.5, 
+                        lastHandPosition.y - (handPosition.y - lastHandPosition.y) * 0.5,
+                        handPosition.x, handPosition.y,
+                        bomb.x, bomb.y, bomb.radius
+                    )) {
+                        health -= 30;
+                        // 重置连杀计数
+                        comboCount = 0;
+                        // 增强爆炸效果，增加更多粒子和更大的爆炸范围
+                        spawnParticles(bomb.x, bomb.y, 30, '#ff4757');
+                        spawnParticles(bomb.x, bomb.y, 15, '#ffa502'); // 添加橙色粒子
+                        // 播放爆炸音效
+                        playExplosionSound();
+                        bombs.splice(i, 1);
+                        updateUI();
+                        
+                        if (health <= 0) {
+                            endGame();
+                        }
+                    }
+                }
+                
+                // 移除超出屏幕的炸弹
+                if (bomb.x < -bomb.radius * 2 || bomb.x > CANVAS_WIDTH + bomb.radius * 2 ||
+                    bomb.y < -bomb.radius * 2 || bomb.y > CANVAS_HEIGHT + bomb.radius * 2) {
+                    bombs.splice(i, 1);
+                }
+            }
+        }
+        
+        // 更新粒子效果
+        function updateParticles(deltaTime) {
+            for (let i = particles.length - 1; i >= 0; i--) {
+                const particle = particles[i];
+                
+                particle.x += particle.vx;
+                particle.y += particle.vy;
+                particle.life -= particle.decay;
+                
+                if (particle.life <= 0) {
+                    particles.splice(i, 1);
+                }
+            }
+        }
+        
+        // 更新连杀特效
+        function updateComboEffects(deltaTime) {
+            for (let i = comboEffects.length - 1; i >= 0; i--) {
+                const effect = comboEffects[i];
+                
+                effect.life -= deltaTime / 1000; // 转换为秒
+                effect.opacity = effect.life / 1.5;
+                effect.scale = 1 + (1.5 - effect.life) * 0.3; // 逐渐放大
+                effect.y -= 1; // 向上移动
+                
+                if (effect.life <= 0) {
+                    comboEffects.splice(i, 1);
+                }
+            }
+        }
+        
+        // 绘制连杀特效
+        function drawComboEffects() {
+            for (const effect of comboEffects) {
+                ctx.save();
+                ctx.globalAlpha = effect.opacity;
+                ctx.translate(effect.x, effect.y);
+                ctx.scale(effect.scale, effect.scale);
+                
+                // 绘制文字阴影
+                ctx.fillStyle = 'rgba(0, 0, 0, 0.8)';
+                ctx.font = 'bold 60px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif';
+                ctx.textAlign = 'center';
+                ctx.textBaseline = 'middle';
+                ctx.fillText(effect.text, 3, 3);
+                
+                // 绘制文字描边
+                ctx.strokeStyle = '#ff4757';
+                ctx.lineWidth = 3;
+                ctx.strokeText(effect.text, 0, 0);
+                
+                // 绘制文字渐变效果
+                const gradient = ctx.createLinearGradient(0, -30, 0, 30);
+                gradient.addColorStop(0, '#ffffff');
+                gradient.addColorStop(0.5, '#ffa502');
+                gradient.addColorStop(1, '#ff4757');
+                
+                ctx.fillStyle = gradient;
+                ctx.fillText(effect.text, 0, 0);
+                
+                // 添加发光效果
+                ctx.shadowColor = '#ff4757';
+                ctx.shadowBlur = 15;
+                ctx.shadowOffsetX = 0;
+                ctx.shadowOffsetY = 0;
+                ctx.fillText(effect.text, 0, 0);
+                
+                ctx.restore();
+            }
+        }
+        
+        // 生成新水果和炸弹
+        function spawnEntities(deltaTime) {
+            fruitSpawnTimer += deltaTime;
+            bombSpawnTimer += deltaTime;
+            
+            // 生成水果（每0.8秒）
+            if (fruitSpawnTimer > 800) {
+                spawnFruit();
+                fruitSpawnTimer = 0;
+            }
+            
+            // 随游戏时间减少炸弹生成间隔，增加炸弹数量
+            // 每15秒减少200毫秒的生成间隔，最低1.5秒
+            const timeFactor = Math.min(gameTime / 15000, 7.5); // 最多减少7.5个200毫秒
+            const baseBombInterval = 3000;
+            const minBombInterval = 1500;
+            const bombInterval = Math.max(baseBombInterval - timeFactor * 200, minBombInterval);
+            
+            // 生成炸弹
+            if (bombSpawnTimer > bombInterval) {
+                spawnBomb();
+                bombSpawnTimer = 0;
+            }
+        }
+        
+        // 更新游戏
+        function update(deltaTime) {
+            if (!gameRunning) return;
+            
+            // 更新游戏时间
+            gameTime += deltaTime;
+            
+            // 更新手部位置
+            updateHand();
+            
+            // 更新游戏对象
+            updateFruits(deltaTime);
+            updateBombs(deltaTime);
+            updateParticles(deltaTime);
+            updateComboEffects(deltaTime);
+            
+            // 生成新实体
+            spawnEntities(deltaTime);
+        }
+        
+        // 绘制手部光标
+        function drawHand() {
+            if (!handVisible) return;
+            
+            // 绘制手部轨迹拖尾效果 - 使用平滑渐变实现
+            if (handTrail.length > 1) {
+                // 从最新的点开始，到最老的点结束
+                const trailLength = handTrail.length;
+                
+                // 绘制一条从最新点到最老点的连续路径
+                ctx.lineCap = 'round';
+                ctx.lineJoin = 'round';
+                
+                // 从最新点到最老点绘制
+                for (let i = 0; i < trailLength - 1; i++) {
+                    const progress = i / (trailLength - 1);
+                    const alpha = 1 - progress * 0.9; // 从1到0.1的透明度渐变
+                    const lineWidth = 8 - progress * 6; // 从8到2的线宽渐变
+                    
+                    // 蓝白渐变色
+                    const blueComponent = 255 - Math.floor(progress * 155); // 从255到100的蓝色渐变
+                    const strokeStyle = `rgba(${blueComponent}, ${blueComponent + 50}, 255, ${alpha})`;
+                    
+                    ctx.strokeStyle = strokeStyle;
+                    ctx.lineWidth = lineWidth;
+                    ctx.beginPath();
+                    
+                    // 从最新点开始
+                    ctx.moveTo(handTrail[trailLength - 1].x, handTrail[trailLength - 1].y);
+                    
+                    // 连接到当前点
+                    for (let j = trailLength - 2; j >= trailLength - 1 - i; j--) {
+                        ctx.lineTo(handTrail[j].x, handTrail[j].y);
+                    }
+                    
+                    ctx.stroke();
+                }
+            }
+            
+            // 绘制手部光标
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+            ctx.beginPath();
+            ctx.arc(handPosition.x, handPosition.y, 15, 0, Math.PI * 2);
+            ctx.fill();
+            
+            ctx.strokeStyle = '#45b7d1'; // 蓝色边框
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            ctx.arc(handPosition.x, handPosition.y, 15, 0, Math.PI * 2);
+            ctx.stroke();
+        }
+        
+        // 绘制水果
+        function drawFruits() {
+            for (const fruit of fruits) {
+                if (fruit.sliced) {
+                    // 绘制被切割的水果
+                    ctx.fillStyle = fruit.color;
+                    ctx.globalAlpha = 0.5;
+                    ctx.beginPath();
+                    ctx.arc(fruit.x, fruit.y, fruit.radius, 0, Math.PI * 2);
+                    ctx.fill();
+                    ctx.globalAlpha = 1;
+                } else {
+                    // 绘制完整的水果
+                    ctx.fillStyle = fruit.color;
+                    ctx.beginPath();
+                    ctx.arc(fruit.x, fruit.y, fruit.radius, 0, Math.PI * 2);
+                    ctx.fill();
+                    
+                    // 绘制水果高光
+                    ctx.fillStyle = 'rgba(255, 255, 255, 0.3)';
+                    ctx.beginPath();
+                    ctx.arc(fruit.x - fruit.radius * 0.3, fruit.y - fruit.radius * 0.3, fruit.radius * 0.3, 0, Math.PI * 2);
+                    ctx.fill();
+                }
+            }
+        }
+        
+        // 绘制炸弹
+        function drawBombs() {
+            for (const bomb of bombs) {
+                // 绘制炸弹主体
+                ctx.fillStyle = bomb.color;
+                ctx.beginPath();
+                ctx.arc(bomb.x, bomb.y, bomb.radius, 0, Math.PI * 2);
+                ctx.fill();
+                
+                // 绘制炸弹引线
+                ctx.strokeStyle = '#ff6b6b';
+                ctx.lineWidth = 2;
+                ctx.beginPath();
+                ctx.moveTo(bomb.x, bomb.y - bomb.radius);
+                ctx.lineTo(bomb.x + 5, bomb.y - bomb.radius - 10);
+                ctx.stroke();
+                
+                // 绘制炸弹火花
+                ctx.fillStyle = '#ffa502';
+                ctx.beginPath();
+                ctx.arc(bomb.x + 5, bomb.y - bomb.radius - 10, 2, 0, Math.PI * 2);
+                ctx.fill();
+            }
+        }
+        
+        // 绘制粒子效果
+        function drawParticles() {
+            for (const particle of particles) {
+                ctx.globalAlpha = particle.life;
+                ctx.fillStyle = particle.color;
+                ctx.beginPath();
+                ctx.arc(particle.x, particle.y, particle.size || 2, 0, Math.PI * 2);
+                ctx.fill();
+            }
+            ctx.globalAlpha = 1;
+        }
+        
+        // 绘制背景
+        function drawBackground() {
+            // 渐变背景
+            const gradient = ctx.createLinearGradient(0, 0, 0, CANVAS_HEIGHT);
+            gradient.addColorStop(0, '#2c3e50');
+            gradient.addColorStop(1, '#34495e');
+            ctx.fillStyle = gradient;
+            ctx.fillRect(0, 0, CANVAS_WIDTH, CANVAS_HEIGHT);
+            
+            // 绘制网格线
+            ctx.strokeStyle = 'rgba(255, 255, 255, 0.1)';
+            ctx.lineWidth = 1;
+            
+            for (let x = 0; x < CANVAS_WIDTH; x += 40) {
+                ctx.beginPath();
+                ctx.moveTo(x, 0);
+                ctx.lineTo(x, CANVAS_HEIGHT);
+                ctx.stroke();
+            }
+            
+            for (let y = 0; y < CANVAS_HEIGHT; y += 40) {
+                ctx.beginPath();
+                ctx.moveTo(0, y);
+                ctx.lineTo(CANVAS_WIDTH, y);
+                ctx.stroke();
+            }
+        }
+        
+        // 渲染游戏
+        function render() {
+            // 清空画布
+            ctx.clearRect(0, 0, CANVAS_WIDTH, CANVAS_HEIGHT);
+            
+            // 绘制背景
+            drawBackground();
+            
+            // 绘制游戏对象
+            drawFruits();
+            drawBombs();
+            drawHand();
+            drawComboEffects();
+            drawParticles();
+        }
+        
+        // 播放切割音效
+        function playSliceSound() {
+            if (!audioContext) return;
+            
+            const oscillator = audioContext.createOscillator();
+            const gainNode = audioContext.createGain();
+            
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            
+            oscillator.type = 'sine';
+            oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
+            oscillator.frequency.exponentialRampToValueAtTime(400, audioContext.currentTime + 0.1);
+            
+            gainNode.gain.setValueAtTime(0.1, audioContext.currentTime);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.1);
+            
+            oscillator.start(audioContext.currentTime);
+            oscillator.stop(audioContext.currentTime + 0.1);
+        }
+        
+        // 播放爆炸音效
+        function playExplosionSound() {
+            if (!audioContext) return;
+            
+            const oscillator = audioContext.createOscillator();
+            const gainNode = audioContext.createGain();
+            
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            
+            oscillator.type = 'sawtooth';
+            oscillator.frequency.setValueAtTime(200, audioContext.currentTime);
+            oscillator.frequency.exponentialRampToValueAtTime(50, audioContext.currentTime + 0.2);
+            
+            gainNode.gain.setValueAtTime(0.15, audioContext.currentTime);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.2);
+            
+            oscillator.start(audioContext.currentTime);
+            oscillator.stop(audioContext.currentTime + 0.2);
+        }
+        
+        // 播放连杀音效
+        function playComboSound() {
+            if (!audioContext) return;
+            
+            const oscillator = audioContext.createOscillator();
+            const gainNode = audioContext.createGain();
+            
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            
+            oscillator.type = 'triangle';
+            oscillator.frequency.setValueAtTime(600, audioContext.currentTime);
+            oscillator.frequency.exponentialRampToValueAtTime(1200, audioContext.currentTime + 0.15);
+            
+            gainNode.gain.setValueAtTime(0.1, audioContext.currentTime);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.15);
+            
+            oscillator.start(audioContext.currentTime);
+            oscillator.stop(audioContext.currentTime + 0.15);
+        }
+        
+        // 游戏循环
+        function gameLoop(currentTime = 0) {
+            // 计算时间差
+            const deltaTime = currentTime - lastTime;
+            lastTime = currentTime;
+            
+            // 更新游戏
+            update(deltaTime);
+            
+            // 渲染游戏
+            render();
+            
+            // 继续游戏循环
+            requestAnimationFrame(gameLoop);
+        }
+        
+        // 初始化游戏
+        init();
+    </script>
+</body>
+</html>
