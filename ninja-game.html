@@ -45,27 +45,75 @@
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
         }
         
-        #startScreen, #gameOverScreen, #permissionScreen {
+        #startScreen, #gameOverScreen {
             position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.8);
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.9);
+            padding: 30px;
+            border-radius: 10px;
+            border: 2px solid #ff4757;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
             color: white;
             text-align: center;
+            z-index: 1000;
+            box-shadow: 0 0 30px rgba(255, 71, 87, 0.5);
+            width: 90%;
+            max-width: 500px;
+            box-sizing: border-box;
         }
         
         #gameOverScreen {
             display: none;
         }
         
-        #permissionScreen {
-            display: none;
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 36px;
+                margin-bottom: 15px;
+            }
+            
+            p {
+                font-size: 18px;
+                margin-bottom: 20px;
+            }
+            
+            button {
+                padding: 12px 24px;
+                font-size: 18px;
+            }
+            
+            #startScreen, #gameOverScreen {
+                padding: 20px;
+                width: 95%;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 28px;
+                margin-bottom: 10px;
+            }
+            
+            p {
+                font-size: 16px;
+                margin-bottom: 15px;
+            }
+            
+            button {
+                padding: 10px 20px;
+                font-size: 16px;
+            }
+            
+            #startScreen, #gameOverScreen {
+                padding: 15px;
+                width: 98%;
+            }
         }
         
         h1 {
@@ -148,15 +196,10 @@
             <div>分数: <span id="score">0</span></div>
         </div>
         <div id="startScreen">
-            <h1>指尖忍者（切水果版）</h1>
+            <h1>指尖忍者</h1>
             <p>使用摄像头手势控制忍者移动</p>
             <p>移动手部切割水果，躲避炸弹</p>
             <button id="startBtn">开始游戏</button>
-        </div>
-        <div id="permissionScreen">
-            <h1>请求摄像头权限</h1>
-            <p>游戏需要访问您的摄像头来追踪手势</p>
-            <button id="permissionBtn">允许访问摄像头</button>
         </div>
         <div id="gameOverScreen">
             <h1>游戏结束</h1>
@@ -269,10 +312,10 @@
             // 添加事件监听器
             document.getElementById('startBtn').addEventListener('click', () => {
                 startScreen.style.display = 'none';
-                permissionScreen.style.display = 'block';
+                // 直接请求摄像头权限，不显示权限屏幕
+                requestCameraPermission();
             });
             
-            document.getElementById('permissionBtn').addEventListener('click', requestCameraPermission);
             document.getElementById('restartBtn').addEventListener('click', restartGame);
             
             // 添加窗口大小改变事件监听器
@@ -325,8 +368,6 @@
         
         // 请求摄像头权限
         function requestCameraPermission() {
-            permissionScreen.style.display = 'none';
-            
             navigator.mediaDevices.getUserMedia({ video: true })
                 .then((stream) => {
                     videoElement.srcObject = stream;
