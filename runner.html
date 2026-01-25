@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gemini AR Garden</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Babel for JSX/TS transformation in browser -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <style>
+      body { margin: 0; overflow: hidden; background-color: #000; }
+      /* Custom scrollbar for the UI panel */
+      ::-webkit-scrollbar { width: 6px; }
+      ::-webkit-scrollbar-track { background: transparent; }
+      ::-webkit-scrollbar-thumb { background: #555; border-radius: 3px; }
+    </style>
+
+    <!-- Import Map for External Dependencies -->
+    <script type="importmap">
+    {
+      "imports": {
+        "react": "https://esm.sh/react@18.2.0",
+        "react-dom/client": "https://esm.sh/react-dom@18.2.0/client",
+        "lucide-react": "https://esm.sh/lucide-react@0.294.0",
+        "@mediapipe/tasks-vision": "https://esm.sh/@mediapipe/tasks-vision@0.10.18",
+        "howler": "https://esm.sh/howler@2.2.4"
+      }
+    }
+    </script>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel" data-type="module" data-presets="typescript,react">
+        import React, { useEffect, useRef, useState } from 'react';
+        import ReactDOM from 'react-dom/client';
+        import { Camera, Settings2, Sprout, Loader2, Volume2, VolumeX } from 'lucide-react';
+        import { FilesetResolver, HandLandmarker, FaceLandmarker, DrawingUtils } from '@mediapipe/tasks-vision';
+        import { Howl, Howler } from 'howler';
+
+        // --- Types (from types.ts) ---
+        // Note: In this single file runtime, strict type checking is loose, 
+        // but we keep interfaces for Babel TS parsing.
+        
+        type FlowerSpecies = 'DAISY' | 'LILY' | 'POPPY' | 'SUNFLOWER' | 'ROSE' | 'TULIP';
+        type BiomeTheme = 'VIOLET' | 'GREEN' | 'MIXED';
+
+        interface Plant {
+          id: number;
+          x: number;
+          y: number;
+          scale: number;
+          maxHeight: number;
+          species: FlowerSpecies;
+          color: string;
+          rotation: number;
+          bloomState: number;
+          createdAt: number;
+          
+          isSeed: boolean;
+          velocityY: number;
+          activeGrowth: boolean;
+
+          // Falling Animation State
+          isFalling: boolean;
+          fallSpeedX: number;
+          fallSpeedY: number;
+          fallRotation: number;
+          opacity: number;
+        }
+
+        interface GameState {
+          isPinching: boolean;
+          isMouthOpen: boolean;
+          isFist: boolean;
+          fistHoldProgress: number;
+        }
+
+        interface AppSettings {
+          cameraDeviceId: string;
+          growthSpeed: number;
+          maxGrowthHeight: number;
+          biome: BiomeTheme;
+          showLandmarks: boolean;
+        }
+
+        // --- Components/Toggle.tsx ---
+        
+        const Toggle = ({ label, checked, onChange }) => {
+          return (
+            <div className="flex items-center justify-between py-2">
+              <span className="text-xs font-medium text-gray-300 uppercase tracking-wider">{label}</span>
+              <button
+                onClick={() => onChange(!checked)}
+                className={`relative inline-flex h-5 w-9 items-center rounded-full transition-colors focus:outline-none ${
+                  checked ? 'bg-purple-600' : 'bg-gray-600'
+                }`}
+              >
+                <span
+                  className={`inline-block h-3 w-3 transform rounded-full bg-white transition-transform ${
+                    checked ? 'translate-x-5' : 'translate-x-1'
+                  }`}
+                />
+              </button>
+            </div>
+          );
+        };
+
+        // --- App.tsx ---
+
+        // Constants
+        const MODEL_ASSET_PATH = "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task";
+        const FACE_MODEL_ASSET_PATH = "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task";
+        const WASM_URL = "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.18/wasm";
+
+        const SOUND_URLS = {
+          plant: "https://assets.mixkit.co/sfx/preview/mixkit-software-interface-start-2574.mp3",
+          grow: "https://assets.mixkit.co/sfx/preview/mixkit-fairy-dust-sparkle-861.mp3",
+          clear: "https://assets.mixkit.co/sfx/preview/mixkit-wind-storm-gathering-1271.mp3"
+        };
+
+        const SPECIES_COLORS = {
+          VIOLET: {
+            DAISY: ['#E9D5FF', '#C084FC', '#A855F7'],
+            LILY: ['#D8B4FE', '#BE185D', '#FAE8FF'],
+            POPPY: ['#F3E8FF', '#9333EA', '#7E22CE'],
+            SUNFLOWER: ['#FCD34D', '#A78BFA', '#7C3AED'], 
+            ROSE: ['#E879F9', '#D946EF', '#86198F'],
+            TULIP: ['#C4B5FD', '#8B5CF6', '#6D28D9'],
+          },
+          GREEN: {
+            DAISY: ['#DCFCE7', '#86EFAC', '#4ADE80'],
+            LILY: ['#BBF7D0', '#22C55E', '#166534'],
+            POPPY: ['#F0FDF4', '#15803D', '#14532D'],
+            SUNFLOWER: ['#FEF08A', '#4ADE80', '#16A34A'],
+            ROSE: ['#86EFAC', '#22C55E', '#14532D'],
+            TULIP: ['#A7F3D0', '#34D399', '#059669'],
+          },
+          MIXED: {
+            DAISY: ['#FFFFFF', '#FEF08A', '#FCD34D'],
+            LILY: ['#FECDD3', '#F43F5E', '#881337'],
+            POPPY: ['#FFEDD5', '#F97316', '#C2410C'],
+            SUNFLOWER: ['#FBBF24', '#F59E0B', '#B45309'],
+            ROSE: ['#FECCA6', '#F43F5E', '#BE123C'],
+            TULIP: ['#FDE047', '#F472B6', '#A855F7'],
+          }
+        };
+
+        const INITIAL_SETTINGS = {
+          cameraDeviceId: '',
+          growthSpeed: 1.2,
+          maxGrowthHeight: 360,
+          biome: 'MIXED',
+          showLandmarks: false,
+        };
+
+        function App() {
+          const videoRef = useRef(null);
+          const canvasRef = useRef(null);
+          const containerRef = useRef(null);
+          const requestRef = useRef(0);
+
+          const handLandmarkerRef = useRef(null);
+          const faceLandmarkerRef = useRef(null);
+
+          const soundsRef = useRef(null);
+          const isGrowSoundPlayingRef = useRef(false);
+
+          const plantsRef = useRef([]);
+          const lastDetectionTimeRef = useRef(-1);
+          const pinchCooldownRef = useRef(0);
+          const fistHoldStartTimeRef = useRef(null);
+          const hasClearedRef = useRef(false);
+          
+          const [isLoading, setIsLoading] = useState(true);
+          const [error, setError] = useState(null);
+          const [settings, setSettings] = useState(INITIAL_SETTINGS);
+          const [usingCPU, setUsingCPU] = useState(false);
+          
+          const settingsRef = useRef(INITIAL_SETTINGS);
+
+          const [videoDevices, setVideoDevices] = useState([]);
+          const [isMuted, setIsMuted] = useState(false);
+          
+          const activeStateRef = useRef({
+            isPinching: false,
+            isMouthOpen: false,
+            isFist: false,
+            fistHoldProgress: 0,
+          });
+          const [activeState, setActiveState] = useState(activeStateRef.current);
+
+          // Track loading state to prevent double-init in StrictMode
+          const isLoadingRef = useRef(false);
+
+          // --- Initialization ---
+
+          useEffect(() => {
+            settingsRef.current = settings;
+          }, [settings]);
+
+          useEffect(() => {
+            soundsRef.current = {
+              plant: new Howl({ src: [SOUND_URLS.plant], volume: 0.5 }),
+              grow: new Howl({ src: [SOUND_URLS.grow], volume: 0.3, loop: true }),
+              clear: new Howl({ src: [SOUND_URLS.clear], volume: 0.6 })
+            };
+
+            const unlockAudio = () => {
+                if (Howler.ctx && Howler.ctx.state !== 'running') {
+                    Howler.ctx.resume();
+                }
+            };
+            document.addEventListener('click', unlockAudio);
+            document.addEventListener('touchstart', unlockAudio);
+
+            return () => {
+                document.removeEventListener('click', unlockAudio);
+                document.removeEventListener('touchstart', unlockAudio);
+                if (soundsRef.current?.grow) soundsRef.current.grow.stop();
+            };
+          }, []);
+
+          useEffect(() => {
+            Howler.mute(isMuted);
+          }, [isMuted]);
+
+          useEffect(() => {
+            let isMounted = true;
+            
+            // Prevent double-initialization in React StrictMode
+            if (isLoadingRef.current) return;
+            isLoadingRef.current = true;
+
+            const loadModels = async () => {
+              try {
+                const vision = await FilesetResolver.forVisionTasks(WASM_URL);
+
+                if (!isMounted) return;
+
+                let handGPU = null;
+                let faceGPU = null;
+
+                try {
+                  console.log("Initializing models (GPU preference)...");
+                  
+                  // Initialize concurrently but with care? No, stick to sequential for stability.
+                  handGPU = await HandLandmarker.createFromOptions(vision, {
+                    baseOptions: { modelAssetPath: MODEL_ASSET_PATH, delegate: "GPU" },
+                    runningMode: "VIDEO",
+                    numHands: 2,
+                  });
+
+                  // Critical delay to allow GPU context to settle
+                  await new Promise(resolve => setTimeout(resolve, 200));
+
+                  if (!isMounted) {
+                    handGPU.close();
+                    return;
+                  }
+
+                  faceGPU = await FaceLandmarker.createFromOptions(vision, {
+                    baseOptions: { modelAssetPath: FACE_MODEL_ASSET_PATH, delegate: "GPU" },
+                    runningMode: "VIDEO",
+                    outputFaceBlendshapes: false,
+                    numFaces: 1,
+                  });
+
+                  if (isMounted) {
+                    handLandmarkerRef.current = handGPU;
+                    faceLandmarkerRef.current = faceGPU;
+                    setIsLoading(false);
+                    setUsingCPU(false);
+                  } else {
+                    handGPU.close();
+                    faceGPU.close();
+                  }
+
+                } catch (gpuError) {
+                  console.warn("GPU init failed, switching to CPU delegate. Reason:", gpuError);
+                  if (handGPU) handGPU.close();
+                  if (faceGPU) faceGPU.close();
+                  if (!isMounted) return;
+
+                  // CPU Fallback
+                  const handCPU = await HandLandmarker.createFromOptions(vision, {
+                    baseOptions: { modelAssetPath: MODEL_ASSET_PATH, delegate: "CPU" },
+                    runningMode: "VIDEO",
+                    numHands: 2,
+                  });
+
+                  const faceCPU = await FaceLandmarker.createFromOptions(vision, {
+                    baseOptions: { modelAssetPath: FACE_MODEL_ASSET_PATH, delegate: "CPU" },
+                    runningMode: "VIDEO",
+                    outputFaceBlendshapes: false,
+                    numFaces: 1,
+                  });
+
+                  if (isMounted) {
+                    handLandmarkerRef.current = handCPU;
+                    faceLandmarkerRef.current = faceCPU;
+                    setIsLoading(false);
+                    setUsingCPU(true);
+                  } else {
+                    handCPU.close();
+                    faceCPU.close();
+                  }
+                }
+              } catch (e) {
+                console.error(e);
+                if (isMounted) setError("初始化模型失败，请检查网络或刷新页面。");
+              } finally {
+                isLoadingRef.current = false;
+              }
+            };
+            loadModels();
+            
+            return () => { 
+              isMounted = false;
+              // Only close if we successfully assigned them.
+              // We do not set isLoadingRef to false here because unmounting doesn't mean loading is "done" in a way that allows immediate restart in strict mode context easily without more logic.
+              // But effectively we want to allow new mounts to try again.
+              isLoadingRef.current = false; 
+              
+              if(handLandmarkerRef.current) {
+                  handLandmarkerRef.current.close();
+                  handLandmarkerRef.current = null;
+              }
+              if(faceLandmarkerRef.current) {
+                  faceLandmarkerRef.current.close();
+                  faceLandmarkerRef.current = null;
+              }
+            };
+          }, []);
+
+          useEffect(() => {
+            navigator.mediaDevices.enumerateDevices().then(devices => {
+              const videoInputs = devices.filter(d => d.kind === 'videoinput');
+              setVideoDevices(videoInputs);
+              if (videoInputs.length > 0 && !settings.cameraDeviceId) {
+                setSettings(s => ({ ...s, cameraDeviceId: videoInputs[0].deviceId }));
+              }
+            });
+          }, []);
+
+          useEffect(() => {
+            if (!settings.cameraDeviceId || isLoading) return;
+
+            let stream = null;
+
+            const startCamera = async () => {
+              try {
+                stream = await navigator.mediaDevices.getUserMedia({
+                  video: {
+                    deviceId: settings.cameraDeviceId ? { exact: settings.cameraDeviceId } : undefined,
+                    width: { ideal: 1280 },
+                    height: { ideal: 720 }
+                  }
+                });
+                
+                if (videoRef.current) {
+                  videoRef.current.srcObject = stream;
+                  const startLoop = () => {
+                     if (requestRef.current) cancelAnimationFrame(requestRef.current);
+                     predictWebcam();
+                  };
+                  
+                  videoRef.current.onloadeddata = startLoop;
+                  if (videoRef.current.readyState >= 2) {
+                    startLoop();
+                  }
+                }
+              } catch (err) {
+                console.error(err);
+                setError("无法访问摄像头或摄像头不可用。");
+              }
+            };
+
+            startCamera();
+
+            return () => {
+              if (stream) {
+                stream.getTracks().forEach(track => track.stop());
+              }
+              if (requestRef.current) cancelAnimationFrame(requestRef.current);
+            };
+          }, [settings.cameraDeviceId, isLoading]);
+
+
+          const calculateDistance = (p1, p2) => {
+            return Math.sqrt(Math.pow(p1.x - p2.x, 2) + Math.pow(p1.y - p2.y, 2));
+          };
+
+          const getRandomColor = (theme, species) => {
+            const palette = SPECIES_COLORS[theme][species];
+            return palette[Math.floor(Math.random() * palette.length)];
+          };
+
+          const predictWebcam = () => {
+            const video = videoRef.current;
+            const canvas = canvasRef.current;
+            
+            if (!video || !canvas || !handLandmarkerRef.current || !faceLandmarkerRef.current) {
+               requestRef.current = requestAnimationFrame(predictWebcam);
+               return;
+            }
+
+            if (canvas.width !== video.videoWidth || canvas.height !== video.videoHeight) {
+              canvas.width = video.videoWidth;
+              canvas.height = video.videoHeight;
+            }
+            const ctx = canvas.getContext('2d');
+            if (!ctx) return;
+
+            const currentSettings = settingsRef.current;
+            const startTimeMs = performance.now();
+
+            let handResults = null;
+            let faceResults = null;
+
+            if (lastDetectionTimeRef.current !== video.currentTime && video.currentTime > 0) {
+              lastDetectionTimeRef.current = video.currentTime;
+              try {
+                handResults = handLandmarkerRef.current.detectForVideo(video, startTimeMs);
+                faceResults = faceLandmarkerRef.current.detectForVideo(video, startTimeMs);
+              } catch (e) { }
+            }
+
+            let pinchDetected = false;
+            let fistDetected = false;
+            let mouthOpen = false;
+            let pinchPoint = { x: 0, y: 0 };
+
+            if (handResults && handResults.landmarks) {
+              for (const landmarks of handResults.landmarks) {
+                const thumbTip = landmarks[4];
+                const indexTip = landmarks[8];
+                const pinchDist = calculateDistance(thumbTip, indexTip);
+                
+                const wrist = landmarks[0];
+                const tips = [8, 12, 16, 20];
+                let avgTipToWrist = 0;
+                tips.forEach(idx => {
+                  avgTipToWrist += calculateDistance(landmarks[idx], wrist);
+                });
+                avgTipToWrist /= 4;
+
+                if (pinchDist < 0.05) {
+                  pinchDetected = true;
+                  pinchPoint = { 
+                    x: (thumbTip.x + indexTip.x) / 2, 
+                    y: (thumbTip.y + indexTip.y) / 2 
+                  };
+                }
+
+                if (avgTipToWrist < 0.3) { 
+                  fistDetected = true;
+                }
+              }
+            }
+
+            if (faceResults && faceResults.faceLandmarks && faceResults.faceLandmarks.length > 0) {
+              const landmarks = faceResults.faceLandmarks[0];
+              const upperLip = landmarks[13];
+              const lowerLip = landmarks[14];
+              const mouthDist = calculateDistance(upperLip, lowerLip);
+              
+              if (mouthDist > 0.05) {
+                mouthOpen = true;
+              }
+            }
+
+            let currentFistProgress = 0;
+            if (fistDetected) {
+                if (fistHoldStartTimeRef.current === null) {
+                    fistHoldStartTimeRef.current = Date.now();
+                    hasClearedRef.current = false;
+                }
+                const elapsed = Date.now() - fistHoldStartTimeRef.current;
+                const HOLD_DURATION = 5000;
+                currentFistProgress = Math.min(elapsed / HOLD_DURATION, 1);
+                
+                if (elapsed > HOLD_DURATION && !hasClearedRef.current) {
+                    plantsRef.current.forEach(plant => {
+                      plant.isFalling = true;
+                      plant.fallSpeedX = (Math.random() - 0.5) * 0.01;
+                      plant.fallSpeedY = 0.005 + Math.random() * 0.01;
+                      plant.fallRotation = (Math.random() - 0.5) * 0.1;
+                      plant.activeGrowth = false;
+                    });
+                    
+                    hasClearedRef.current = true;
+                    soundsRef.current?.clear.play();
+                }
+            } else {
+                fistHoldStartTimeRef.current = null;
+                currentFistProgress = 0;
+                hasClearedRef.current = false;
+            }
+
+            if (
+              activeStateRef.current.isPinching !== pinchDetected ||
+              activeStateRef.current.isMouthOpen !== mouthOpen ||
+              activeStateRef.current.isFist !== fistDetected ||
+              Math.abs(activeStateRef.current.fistHoldProgress - currentFistProgress) > 0.05
+            ) {
+              const newState = {
+                isPinching: pinchDetected,
+                isMouthOpen: mouthOpen,
+                isFist: fistDetected,
+                fistHoldProgress: currentFistProgress,
+              };
+              activeStateRef.current = newState;
+              setActiveState(newState);
+            }
+
+            if (mouthOpen && !isGrowSoundPlayingRef.current) {
+                soundsRef.current?.grow.fade(0, 0.3, 500);
+                soundsRef.current?.grow.play();
+                isGrowSoundPlayingRef.current = true;
+            } else if (!mouthOpen && isGrowSoundPlayingRef.current) {
+                soundsRef.current?.grow.fade(0.3, 0, 300);
+                soundsRef.current?.grow.once('fade', () => {
+                    if (!activeStateRef.current.isMouthOpen) {
+                       soundsRef.current?.grow.stop();
+                       isGrowSoundPlayingRef.current = false;
+                    }
+                });
+                isGrowSoundPlayingRef.current = false;
+            }
+
+            if (pinchDetected && Date.now() - pinchCooldownRef.current > 300) {
+              pinchCooldownRef.current = Date.now();
+              
+              const biomeSpecies = Object.keys(SPECIES_COLORS[currentSettings.biome]);
+              const randomSpecies = biomeSpecies[Math.floor(Math.random() * biomeSpecies.length)];
+
+              const minHeight = canvas.height / 5;
+              const effectiveMaxHeight = Math.max(currentSettings.maxGrowthHeight, minHeight + 50);
+              const randomHeight = minHeight + Math.random() * (effectiveMaxHeight - minHeight);
+
+              soundsRef.current?.plant.play();
+
+              plantsRef.current.push({
+                id: Date.now(),
+                x: pinchPoint.x,
+                y: pinchPoint.y,
+                scale: 0.05,
+                maxHeight: randomHeight,
+                species: randomSpecies,
+                color: getRandomColor(currentSettings.biome, randomSpecies),
+                rotation: Math.random() * 0.5 - 0.25,
+                bloomState: 0,
+                createdAt: Date.now(),
+                isSeed: true,
+                velocityY: 0.005,
+                activeGrowth: false,
+                isFalling: false,
+                fallSpeedX: 0,
+                fallSpeedY: 0,
+                fallRotation: 0,
+                opacity: 1.0,
+              });
+            }
+
+            if (mouthOpen) {
+              plantsRef.current.forEach(p => p.activeGrowth = true);
+            }
+
+            const GROUND_LEVEL = 0.95;
+            const GROWTH_RATE = 0.05 * currentSettings.growthSpeed;
+            
+            plantsRef.current.forEach(plant => {
+              if (plant.isFalling) {
+                plant.y += plant.fallSpeedY;
+                plant.x += plant.fallSpeedX;
+                plant.rotation += plant.fallRotation;
+                plant.fallSpeedY += 0.001;
+                plant.opacity = Math.max(0, plant.opacity - 0.01);
+                return;
+              }
+
+              if (plant.isSeed) {
+                plant.y += plant.velocityY;
+                plant.velocityY += 0.001;
+
+                if (plant.y >= GROUND_LEVEL) {
+                  plant.y = GROUND_LEVEL;
+                  plant.isSeed = false;
+                  plant.scale = 0.1;
+                  plant.velocityY = 0;
+                }
+              } else {
+                if (mouthOpen || plant.activeGrowth) {
+                  if (plant.scale < 1.0) {
+                    plant.scale += GROWTH_RATE;
+                  } 
+                  else if (plant.bloomState < 1.0) {
+                    plant.bloomState += GROWTH_RATE;
+                  }
+                }
+                
+                if (plant.scale > 0.5) {
+                   plant.rotation += Math.sin(Date.now() / 500 + plant.id) * 0.002;
+                }
+
+                if (plant.scale > 1.2) plant.scale = 1.2;
+                if (plant.bloomState > 1) plant.bloomState = 1;
+              }
+            });
+
+            plantsRef.current = plantsRef.current.filter(p => p.y < 1.5 && p.opacity > 0);
+
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            const gradient = ctx.createLinearGradient(0, canvas.height * 0.85, 0, canvas.height);
+            gradient.addColorStop(0, 'rgba(0,0,0,0)');
+            gradient.addColorStop(0.3, 'rgba(60, 40, 30, 0.4)');
+            gradient.addColorStop(1, 'rgba(30, 20, 10, 0.9)');
+            ctx.fillStyle = gradient;
+            ctx.fillRect(0, canvas.height * 0.85, canvas.width, canvas.height * 0.15);
+
+            if (currentSettings.showLandmarks && handResults?.landmarks) {
+              const drawingUtils = new DrawingUtils(ctx);
+              for (const landmarks of handResults.landmarks) {
+                drawingUtils.drawConnectors(landmarks, HandLandmarker.HAND_CONNECTIONS, { color: "#00FF00", lineWidth: 1 });
+                drawingUtils.drawLandmarks(landmarks, { color: "#FF0000", lineWidth: 1, radius: 2 });
+              }
+            }
+
+            plantsRef.current.forEach(plant => {
+              drawPlant(ctx, plant, canvas.width, canvas.height);
+            });
+
+            requestRef.current = requestAnimationFrame(predictWebcam);
+          };
+
+          const drawPlant = (ctx, plant, w, h) => {
+            if (plant.opacity < 1.0) {
+              ctx.globalAlpha = plant.opacity;
+            } else {
+              ctx.globalAlpha = 1.0;
+            }
+
+            const screenX = plant.x * w; 
+            const screenY = plant.y * h;
+
+            if (plant.isSeed) {
+              ctx.save();
+              ctx.translate(screenX, screenY);
+              ctx.fillStyle = '#FFFFFF';
+              ctx.shadowColor = '#FFFFDD';
+              ctx.shadowBlur = 5;
+              ctx.beginPath();
+              ctx.arc(0, 0, 4, 0, Math.PI * 2);
+              ctx.fill();
+              ctx.globalAlpha = 0.5 * (plant.opacity || 1);
+              ctx.beginPath();
+              ctx.moveTo(0, -4);
+              ctx.lineTo(0, -plant.velocityY * 1000);
+              ctx.lineWidth = 2;
+              ctx.strokeStyle = '#FFFFFF';
+              ctx.stroke();
+              ctx.restore();
+              ctx.globalAlpha = 1.0; 
+              return;
+            }
+
+            const currentHeight = plant.scale * plant.maxHeight;
+            const stemColor = settingsRef.current.biome === 'VIOLET' ? '#4C1D95' : '#166534'; 
+
+            ctx.save();
+            ctx.translate(screenX, screenY);
+
+            if (plant.scale < 0.8) {
+                ctx.save();
+                ctx.beginPath();
+                ctx.arc(0, 0, 4, 0, Math.PI * 2);
+                ctx.fillStyle = '#FFFFFF';
+                ctx.globalAlpha = (1 - Math.max(0, (plant.scale - 0.2) / 0.6)) * plant.opacity; 
+                ctx.fill();
+                ctx.restore();
+            }
+
+            ctx.rotate(plant.rotation);
+
+            ctx.beginPath();
+            ctx.moveTo(0, 0);
+            const cpX = Math.sin(Date.now() / 1000 + plant.id) * 20 * plant.scale;
+            const cpY = -currentHeight / 2;
+            ctx.quadraticCurveTo(cpX, cpY, 0, -currentHeight);
+            
+            ctx.strokeStyle = stemColor;
+            ctx.lineWidth = 3 * plant.scale;
+            ctx.lineCap = 'round';
+            ctx.stroke();
+
+            if (plant.scale > 0.2) {
+              const numLeaves = Math.floor(plant.scale * 6);
+              for (let i = 1; i <= numLeaves; i++) {
+                const t = i / 7;
+                const mt = 1-t;
+                const lx = 2*mt*t*cpX;
+                const ly = 2*mt*t*cpY + t*t*(-currentHeight);
+                
+                ctx.save();
+                ctx.translate(lx, ly);
+                const side = i % 2 === 0 ? 1 : -1;
+                ctx.rotate(side * 0.5 + Math.sin(Date.now()/800 + i)*0.1); 
+                drawLeaf(ctx, stemColor, 8 * plant.scale);
+                ctx.restore();
+              }
+            }
+
+            if (plant.scale > 0.2) {
+              ctx.translate(0, -currentHeight);
+              
+              const bloomSize = plant.bloomState * 20;
+
+              if (plant.scale > 0.8 && plant.bloomState < 0.2) {
+                 ctx.save();
+                 ctx.fillStyle = stemColor;
+                 ctx.beginPath();
+                 ctx.ellipse(0, 0, 5, 8, 0, 0, Math.PI * 2);
+                 ctx.fill();
+                 
+                 ctx.fillStyle = plant.color;
+                 ctx.beginPath();
+                 ctx.ellipse(0, -2, 2, 4, 0, 0, Math.PI * 2);
+                 ctx.fill();
+                 ctx.restore();
+              }
+
+              if (plant.bloomState > 0) {
+                if (plant.species === 'DAISY') {
+                    drawDaisy(ctx, plant.color, bloomSize);
+                } else if (plant.species === 'POPPY') {
+                    drawPoppy(ctx, plant.color, bloomSize);
+                } else if (plant.species === 'LILY') {
+                    drawLily(ctx, plant.color, bloomSize);
+                } else if (plant.species === 'SUNFLOWER') {
+                    drawSunflower(ctx, plant.color, bloomSize);
+                } else if (plant.species === 'ROSE') {
+                    drawRose(ctx, plant.color, bloomSize);
+                } else if (plant.species === 'TULIP') {
+                    drawTulip(ctx, plant.color, bloomSize);
+                }
+              }
+            }
+
+            ctx.restore();
+            ctx.globalAlpha = 1.0;
+          };
+
+          const drawLeaf = (ctx, color, size) => {
+            ctx.fillStyle = color;
+            ctx.beginPath();
+            ctx.ellipse(size, 0, size, size/2, 0, 0, Math.PI * 2);
+            ctx.fill();
+          };
+
+          const drawDaisy = (ctx, color, radius) => {
+            const petals = 8;
+            ctx.fillStyle = color;
+            for (let i = 0; i < petals; i++) {
+              ctx.beginPath();
+              ctx.rotate((Math.PI * 2) / petals);
+              ctx.ellipse(0, radius, radius / 3, radius, 0, 0, Math.PI * 2);
+              ctx.fill();
+            }
+            ctx.beginPath();
+            ctx.arc(0, 0, radius / 2.5, 0, Math.PI * 2);
+            ctx.fillStyle = '#FCD34D';
+            ctx.fill();
+          };
+
+          const drawPoppy = (ctx, color, radius) => {
+            ctx.fillStyle = color;
+            ctx.globalAlpha = 0.9 * (ctx.globalAlpha || 1);
+            
+            for(let i=0; i<4; i++) {
+                ctx.beginPath();
+                ctx.rotate(Math.PI / 2);
+                ctx.arc(0, radius * 0.6, radius, 0, Math.PI * 2);
+                ctx.fill();
+            }
+            
+            ctx.globalAlpha = 1.0 * (ctx.globalAlpha || 1);
+            ctx.beginPath();
+            ctx.arc(0, 0, radius / 3, 0, Math.PI * 2);
+            ctx.fillStyle = '#3f1103';
+            ctx.fill();
+          };
+
+          const drawLily = (ctx, color, radius) => {
+            ctx.fillStyle = color;
+            ctx.beginPath();
+            const points = 6;
+            for (let i = 0; i < points * 2; i++) {
+              const r = (i % 2 === 0) ? radius * 1.5 : radius * 0.5;
+              const a = (Math.PI * i) / points;
+              ctx.lineTo(Math.cos(a) * r, Math.sin(a) * r);
+            }
+            ctx.closePath();
+            ctx.fill();
+            
+            ctx.strokeStyle = '#FEF08A';
+            ctx.lineWidth = 2;
+            for(let i=0; i<3; i++) {
+                ctx.beginPath();
+                ctx.moveTo(0,0);
+                ctx.lineTo(Math.cos(i) * radius, Math.sin(i) * radius);
+                ctx.stroke();
+            }
+          };
+
+          const drawSunflower = (ctx, color, radius) => {
+            const petalCount = 20;
+            ctx.fillStyle = color;
+            for (let i = 0; i < petalCount; i++) {
+                ctx.save();
+                ctx.rotate((Math.PI * 2 * i) / petalCount);
+                ctx.beginPath();
+                ctx.ellipse(0, radius * 0.8, radius * 0.2, radius * 0.8, 0, 0, Math.PI * 2);
+                ctx.fill();
+                ctx.restore();
+            }
+            ctx.beginPath();
+            ctx.arc(0, 0, radius * 0.5, 0, Math.PI * 2);
+            ctx.fillStyle = '#451a03';
+            ctx.fill();
+          };
+
+          const drawRose = (ctx, color, radius) => {
+             ctx.fillStyle = color;
+             
+             for (let i = 0; i < 5; i++) {
+                ctx.save();
+                ctx.rotate((Math.PI * 2 * i) / 5);
+                ctx.beginPath();
+                ctx.arc(0, radius * 0.5, radius * 0.5, 0, Math.PI * 2);
+                ctx.fill();
+                ctx.restore();
+             }
+             
+             ctx.globalAlpha = 0.8 * (ctx.globalAlpha || 1);
+             for (let i = 0; i < 5; i++) {
+                ctx.save();
+                ctx.rotate((Math.PI * 2 * i) / 5 + Math.PI/5);
+                ctx.beginPath();
+                ctx.arc(0, radius * 0.3, radius * 0.4, 0, Math.PI * 2);
+                ctx.fill();
+                ctx.restore();
+             }
+             
+             ctx.globalAlpha = 1.0 * (ctx.globalAlpha || 1);
+             ctx.beginPath();
+             ctx.arc(0, 0, radius * 0.3, 0, Math.PI * 2);
+             ctx.fillStyle = '#881337';
+             ctx.fill();
+          };
+
+          const drawTulip = (ctx, color, radius) => {
+              ctx.fillStyle = color;
+              
+              ctx.beginPath();
+              ctx.ellipse(-radius * 0.3, 0, radius * 0.4, radius * 0.8, -0.2, 0, Math.PI * 2);
+              ctx.fill();
+              
+              ctx.beginPath();
+              ctx.ellipse(radius * 0.3, 0, radius * 0.4, radius * 0.8, 0.2, 0, Math.PI * 2);
+              ctx.fill();
+              
+              ctx.beginPath();
+              ctx.ellipse(0, 0, radius * 0.3, radius * 0.9, 0, 0, Math.PI * 2);
+              ctx.fill();
+          };
+
+          if (isLoading) {
+            return (
+              <div className="flex h-screen w-screen items-center justify-center bg-black text-white">
+                <div className="text-center">
+                  <Loader2 className="mx-auto mb-4 h-12 w-12 animate-spin text-purple-500" />
+                  <h2 className="text-xl font-light tracking-widest">初始化视觉 AI</h2>
+                  <p className="mt-2 text-sm text-gray-500">正在加载神经网络...</p>
+                </div>
+              </div>
+            );
+          }
+
+          if (error) {
+            return (
+              <div className="flex h-screen w-screen items-center justify-center bg-black text-red-500">
+                <div className="max-w-md text-center">
+                  <p className="mb-4 text-lg">{error}</p>
+                  <button 
+                    onClick={() => window.location.reload()}
+                    className="rounded border border-red-500 px-4 py-2 hover:bg-red-900"
+                  >
+                    重试
+                  </button>
+                </div>
+              </div>
+            );
+          }
+
+          const StatusIndicator = ({ active, icon, label, color, borderColor, progress }) => (
+            <div className={`relative flex items-center gap-3 rounded-md border px-3 py-2 transition-all duration-300 overflow-hidden ${
+              active 
+                ? `bg-black/80 ${borderColor} translate-x-2 shadow-[0_0_15px_rgba(255,255,255,0.1)]` 
+                : 'border-transparent bg-transparent opacity-40'
+            }`}>
+              {progress !== undefined && progress > 0 && (
+                  <div 
+                    className={`absolute left-0 top-0 h-full opacity-30 transition-all duration-75 ease-linear ${color.replace('text', 'bg')}`} 
+                    style={{ width: `${progress * 100}%` }} 
+                  />
+              )}
+              <span className="text-xl relative z-10">{icon}</span>
+              <span className={`text-xs font-bold tracking-widest ${color} relative z-10`}>{label}</span>
+              {active && <div className={`ml-auto h-2 w-2 rounded-full ${color.replace('text', 'bg')} animate-pulse relative z-10`} />}
+            </div>
+          );
+
+          const getFistLabel = (progress) => {
+            if (progress >= 1) return "已清除！";
+            if (progress > 0) return "保持中...";
+            return "清除->握拳保持5秒";
+          };
+
+          return (
+            <div className="relative h-screen w-screen bg-black overflow-hidden font-mono" ref={containerRef}>
+              <video 
+                ref={videoRef} 
+                autoPlay 
+                playsInline 
+                muted 
+                className="absolute left-0 top-0 h-full w-full object-cover -scale-x-100" 
+              />
+              <canvas 
+                ref={canvasRef} 
+                className="absolute left-0 top-0 h-full w-full object-cover -scale-x-100" 
+              />
+
+              <div className="absolute left-4 top-4 flex flex-col gap-2 pointer-events-none select-none z-10">
+                <StatusIndicator 
+                  active={activeState.isPinching} 
+                  icon="👌" 
+                  label="播种->手指捏合" 
+                  color="text-pink-400" 
+                  borderColor="border-pink-500" 
+                />
+                <StatusIndicator 
+                  active={activeState.isMouthOpen} 
+                  icon="😮" 
+                  label="开花->张嘴" 
+                  color="text-yellow-400" 
+                  borderColor="border-yellow-500" 
+                />
+                <StatusIndicator 
+                  active={activeState.isFist} 
+                  icon="✊" 
+                  label={getFistLabel(activeState.fistHoldProgress)} 
+                  color="text-red-400" 
+                  borderColor="border-red-500" 
+                  progress={activeState.fistHoldProgress}
+                />
+              </div>
+
+              <div className="absolute right-4 top-4 w-72 rounded-xl border border-white/10 bg-black/60 p-4 text-white backdrop-blur-md shadow-2xl transition-all z-10">
+                <div className="mb-4 flex items-center justify-between border-b border-white/10 pb-2">
+                  <h2 className="flex items-center gap-2 text-sm font-bold uppercase tracking-wider text-purple-300">
+                    <Settings2 className="h-4 w-4" />
+                    世界控制
+                  </h2>
+                  <span className="text-[10px] text-green-400">V2.6 在线 {usingCPU ? '(CPU)' : ''}</span>
+                </div>
+
+                <div className="space-y-4">
+                  <div>
+                    <label className="mb-1 block text-xs font-medium text-gray-400">摄像头源</label>
+                    <div className="relative">
+                      <select 
+                        value={settings.cameraDeviceId}
+                        onChange={(e) => setSettings({...settings, cameraDeviceId: e.target.value})}
+                        className="w-full appearance-none rounded bg-white/5 px-3 py-2 text-xs text-white outline-none ring-1 ring-white/10 focus:ring-purple-500"
+                      >
+                        {videoDevices.map(device => (
+                          <option key={device.deviceId} value={device.deviceId}>
+                            {device.label || `Camera ${device.deviceId.slice(0,5)}...`}
+                          </option>
+                        ))}
+                      </select>
+                      <Camera className="absolute right-2 top-2 h-3 w-3 text-gray-400 pointer-events-none" />
+                    </div>
+                  </div>
+
+                  <div>
+                    <div className="mb-1 flex justify-between">
+                      <label className="text-xs font-medium text-gray-400">生长高度</label>
+                      <span className="text-xs text-purple-300">{(settings.maxGrowthHeight / 720 * 100).toFixed(0)}%</span>
+                    </div>
+                    <input 
+                      type="range" 
+                      min="100" 
+                      max="720" 
+                      value={settings.maxGrowthHeight}
+                      onChange={(e) => setSettings({...settings, maxGrowthHeight: parseInt(e.target.value)})}
+                      className="h-1 w-full cursor-pointer appearance-none rounded-full bg-white/20 accent-purple-500"
+                    />
+                  </div>
+
+                  <div>
+                    <label className="mb-2 block text-xs font-medium text-gray-400">生物群落主题</label>
+                    <div className="flex gap-2">
+                      {['VIOLET', 'GREEN', 'MIXED'].map(theme => (
+                        <button
+                          key={theme}
+                          onClick={() => setSettings({...settings, biome: theme})}
+                          className={`flex-1 rounded py-1.5 text-[10px] uppercase font-bold transition-all ${
+                            settings.biome === theme 
+                              ? 'bg-gradient-to-r from-purple-600 to-indigo-600 text-white shadow-lg' 
+                              : 'bg-white/5 text-gray-400 hover:bg-white/10'
+                          }`}
+                        >
+                          {theme}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+
+                   <div className="border-t border-white/10 pt-2">
+                     <Toggle 
+                        label="显示调试标记" 
+                        checked={settings.showLandmarks} 
+                        onChange={(v) => setSettings({...settings, showLandmarks: v})} 
+                      />
+                      <div className="flex items-center justify-between py-2">
+                          <span className="text-xs font-medium text-gray-300 uppercase tracking-wider">声音</span>
+                          <button onClick={() => setIsMuted(!isMuted)} className="text-gray-400 hover:text-white">
+                              {isMuted ? <VolumeX className="h-4 w-4" /> : <Volume2 className="h-4 w-4" />}
+                          </button>
+                      </div>
+                   </div>
+                </div>
+              </div>
+              
+              <div className="absolute bottom-6 left-6 max-w-sm text-white/50 z-10">
+                <p className="mt-1 text-xs leading-relaxed font-sans">
+                  技术打破隔阂。用手势培育数字生态。捏合播种，张嘴促进生长。
+                </p>
+              </div>
+
+            </div>
+          );
+        }
+
+        // --- index.tsx logic ---
+        const rootElement = document.getElementById('root');
+        if (!rootElement) {
+          throw new Error("Could not find root element to mount to");
+        }
+
+        const root = ReactDOM.createRoot(rootElement);
+        root.render(
+          <React.StrictMode>
+            <App />
+          </React.StrictMode>
+        );
+
+    </script>
+</body>
+</html>
