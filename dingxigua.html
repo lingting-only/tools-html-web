@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>瓜田跳跳接 - Watermelon Catch</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Mediapipe Face Detection scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/face_detection"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@google/mediapipe/control_utils"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@google/mediapipe/drawing_utils"></script>
+    <style>
+        body { margin: 0; overflow: hidden; background: #000; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        canvas { touch-action: none; }
+        @keyframes float {
+          0% { transform: translateY(0px); }
+          50% { transform: translateY(-10px); }
+          100% { transform: translateY(0px); }
+        }
+        .floating { animation: float 3s ease-in-out infinite; }
+        ::-webkit-scrollbar { display: none; }
+        .menu-transition { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        .glow-green { box-shadow: 0 0 20px rgba(74, 222, 128, 0.5); }
+        .glow-purple { box-shadow: 0 0 20px rgba(168, 85, 247, 0.5); }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.2.4",
+    "react-dom": "https://esm.sh/react-dom@^19.2.4",
+    "react-dom/client": "https://esm.sh/react-dom@^19.2.4/client",
+    "lucide-react": "https://esm.sh/lucide-react@^0.463.0"
+  }
+}
+</script>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="module">
+        import React, { useState, useEffect, useRef, useCallback } from 'react';
+        import ReactDOM from 'react-dom/client';
+        import { Play, Trophy, RotateCcw, ChevronRight, Heart, Timer, Target, Pause, Home, X, Zap, Snowflake, Star, Volume2, VolumeX, Infinity as InfinityIcon, ShieldAlert } from 'lucide-react';
+
+        // --- TYPES & CONSTANTS ---
+        const ItemType = {
+          RIPE: 'RIPE',
+          SANDY: 'SANDY',
+          ROTTEN: 'ROTTEN',
+          STONE: 'STONE',
+          PEEL: 'PEEL',
+          GOLDEN: 'GOLDEN',
+          APPLE: 'APPLE',
+          CHILI: 'CHILI',
+          ICE: 'ICE',
+          BOMB: 'BOMB'
+        };
+
+        const PLAYER_RADIUS = 40;
+        const GAME_DURATION = 45;
+        const ENDLESS_START_DURATION = 30;
+        const LEVEL_REQUIREMENTS = [5, 10, 15, 20, 30, 40, 50, 60];
+
+        const ITEM_CONFIG = {
+          [ItemType.RIPE]: { color: '#4ade80', stripe: '#166534', score: 10, radius: 32, timeBonus: 1 },
+          [ItemType.SANDY]: { color: '#ef4444', rind: '#22c55e', score: 25, radius: 40, timeBonus: 2 },
+          [ItemType.ROTTEN]: { color: '#451a03', spot: '#1a0a02', score: -15, radius: 32, timeBonus: 0 },
+          [ItemType.STONE]: { color: '#a8a29e', shadow: '#44403c', score: 0, radius: 24, timeBonus: 0 },
+          [ItemType.PEEL]: { color: '#fde047', detail: '#ca8a04', score: 0, radius: 28, timeBonus: 0 },
+          [ItemType.GOLDEN]: { color: '#facc15', stripe: '#854d0e', score: 100, radius: 38, timeBonus: 5 },
+          [ItemType.APPLE]: { color: '#f87171', stem: '#451a03', score: 5, radius: 24, timeBonus: 0.5 },
+          [ItemType.CHILI]: { color: '#dc2626', stem: '#166534', score: -20, radius: 18, timeBonus: 0 },
+          [ItemType.ICE]: { color: '#7dd3fc', score: 0, radius: 32, timeBonus: 0 },
+          [ItemType.BOMB]: { color: '#171717', fuse: '#ef4444', score: -50, radius: 32, timeBonus: 0 },
+        };
+
+        // --- SOUND MANAGER ---
+        const SoundManager = {
+          ctx: null,
+          enabled: true,
+          init() {
+            if (!this.ctx) this.ctx = new (window.AudioContext || window.webkitAudioContext)();
+            if (this.ctx.state === 'suspended') this.ctx.resume();
+          },
+          toggle() { this.enabled = !this.enabled; return this.enabled; },
+          play(type) {
+            if (!this.enabled || !this.ctx) return;
+            this.init();
+            const now = this.ctx.currentTime;
+            const osc = this.ctx.createOscillator();
+            const gain = this.ctx.createGain();
+            osc.connect(gain);
+            gain.connect(this.ctx.destination);
+
+            switch(type) {
+              case 'SUCCESS':
+                osc.type = 'sine';
+                osc.frequency.setValueAtTime(400, now);
+                osc.frequency.exponentialRampToValueAtTime(800, now + 0.1);
+                gain.gain.setValueAtTime(0.3, now);
+                gain.gain.exponentialRampToValueAtTime(0.01, now + 0.1);
+                osc.start(now); osc.stop(now + 0.1);
+                break;
+              case 'GOLDEN':
+                osc.type = 'triangle';
+                osc.frequency.setValueAtTime(600, now);
+                osc.frequency.exponentialRampToValueAtTime(1200, now + 0.2);
+                gain.gain.setValueAtTime(0.3, now);
+                gain.gain.exponentialRampToValueAtTime(0.01, now + 0.2);
+                osc.start(now); osc.stop(now + 0.2);
+                break;
+              case 'BAD':
+                osc.type = 'sawtooth';
+                osc.frequency.setValueAtTime(200, now);
+                osc.frequency.linearRampToValueAtTime(50, now + 0.3);
+                gain.gain.setValueAtTime(0.2, now);
+                gain.gain.linearRampToValueAtTime(0.01, now + 0.3);
+                osc.start(now); osc.stop(now + 0.3);
+                break;
+              case 'LEVEL_UP':
+                [523, 659, 783, 1046].forEach((f, i) => {
+                  const o = this.ctx.createOscillator(); const g = this.ctx.createGain();
+                  o.connect(g); g.connect(this.ctx.destination);
+                  o.frequency.setValueAtTime(f, now + i * 0.1);
+                  g.gain.setValueAtTime(0.2, now + i * 0.1);
+                  g.gain.exponentialRampToValueAtTime(0.01, now + i * 0.1 + 0.3);
+                  o.start(now + i * 0.1); o.stop(now + i * 0.1 + 0.3);
+                });
+                break;
+              case 'GAME_OVER':
+                [392, 311, 261].forEach((f, i) => {
+                  const o = this.ctx.createOscillator(); const g = this.ctx.createGain();
+                  o.connect(g); g.connect(this.ctx.destination);
+                  o.frequency.setValueAtTime(f, now + i * 0.2);
+                  g.gain.setValueAtTime(0.2, now + i * 0.2);
+                  g.gain.linearRampToValueAtTime(0.01, now + i * 0.2 + 0.5);
+                  o.start(now + i * 0.2); o.stop(now + i * 0.2 + 0.5);
+                });
+                break;
+              case 'CLICK':
+                osc.type = 'sine'; osc.frequency.setValueAtTime(1200, now);
+                gain.gain.setValueAtTime(0.1, now);
+                gain.gain.exponentialRampToValueAtTime(0.01, now + 0.05);
+                osc.start(now); osc.stop(now + 0.05);
+                break;
+            }
+          }
+        };
+
+        // --- GAME UI COMPONENT ---
+        const GameUI = ({ gameState, onStart, onNextLevel, onTogglePause, onHome, onToggleSound, cameraReady, soundEnabled }) => {
+          const handleAction = (cb, mode) => {
+            SoundManager.play('CLICK');
+            cb(mode);
+          };
+
+          if (gameState.status === 'IDLE') {
+            return React.createElement('div', {
+              className: "absolute inset-0 flex flex-col items-center justify-center bg-gradient-to-br from-green-900/60 to-black/80 backdrop-blur-sm text-white p-6 md:p-12 text-center pointer-events-auto overflow-y-auto z-[200]"
+            }, [
+              React.createElement('div', { key: 'header', className: "floating mb-8" }, [
+                React.createElement('h1', { key: 'h1', className: "text-5xl md:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-t from-green-400 to-white drop-shadow-2xl tracking-tighter" }, "瓜田跳跳接"),
+                React.createElement('p', { key: 'p', className: "text-lg md:text-2xl font-light text-green-200 mt-2 tracking-[0.3em] md:tracking-[0.5em] uppercase" }, "西瓜大师之路")
+              ]),
+              React.createElement('div', { key: 'modes', className: "flex flex-col md:flex-row gap-6 mb-12 w-full max-w-4xl" }, [
+                React.createElement('button', {
+                  key: 'level_mode',
+                  disabled: !cameraReady,
+                  onClick: () => handleAction(onStart, 'LEVEL'),
+                  className: `flex-1 bg-white/10 hover:bg-green-500/30 border-2 border-green-500/40 p-8 rounded-[2.5rem] transition-all group hover:scale-105 active:scale-95 ${!cameraReady ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer'}`
+                }, [
+                  React.createElement(Trophy, { className: "w-12 h-12 mx-auto mb-4 text-green-400 group-hover:scale-125 transition-transform" }),
+                  React.createElement('h3', { className: "text-2xl font-black mb-2" }, "闯关模式"),
+                  React.createElement('p', { className: "text-sm text-green-200/60" }, "从初学者到大师，解锁 8 个挑战关卡")
+                ]),
+                React.createElement('button', {
+                  key: 'endless_mode',
+                  disabled: !cameraReady,
+                  onClick: () => handleAction(onStart, 'ENDLESS'),
+                  className: `flex-1 bg-white/10 hover:bg-purple-500/30 border-2 border-purple-500/40 p-8 rounded-[2.5rem] transition-all group hover:scale-105 active:scale-95 ${!cameraReady ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer'}`
+                }, [
+                  React.createElement(InfinityIcon, { className: "w-12 h-12 mx-auto mb-4 text-purple-400 group-hover:scale-125 transition-transform" }),
+                  React.createElement('h3', { className: "text-2xl font-black mb-2" }, "无尽挑战"),
+                  React.createElement('p', { className: "text-sm text-purple-200/60" }, "接瓜延长时间，挑战你的生存极限")
+                ])
+              ]),
+              !cameraReady && React.createElement('p', { className: "animate-pulse text-yellow-400 font-bold tracking-widest" }, "正在初始化摄像头...")
+            ]);
+          }
+
+          return React.createElement('div', { className: "absolute inset-0 pointer-events-none p-4 md:p-10 font-sans flex flex-col justify-between h-full" }, [
+            // HUD
+            React.createElement('div', { key: 'hud', className: "flex justify-between items-start w-full relative z-[50]" }, [
+              React.createElement('div', { key: 'left', className: "flex flex-col gap-4" }, [
+                React.createElement('div', { className: "bg-black/40 backdrop-blur-md px-6 py-3 md:px-8 md:py-4 rounded-3xl shadow-2xl border-l-8 border-green-500 flex items-center gap-4 md:gap-6" }, [
+                  React.createElement(Trophy, { className: "w-8 h-8 md:w-10 md:h-10 text-yellow-400" }),
+                  React.createElement('div', { className: "flex flex-col" }, [
+                    React.createElement('span', { className: "text-[10px] md:text-xs text-green-300 font-black uppercase tracking-widest" }, "当前积分"),
+                    React.createElement('span', { className: "text-3xl md:text-5xl font-black text-white tabular-nums" }, gameState.score)
+                  ])
+                ]),
+                gameState.combo > 1 && React.createElement('div', { className: "bg-gradient-to-r from-orange-600 to-red-600 text-white px-4 py-1 md:px-6 md:py-2 rounded-2xl text-sm md:text-xl font-black animate-bounce shadow-lg inline-block border-2 border-white/20" }, `连击 x${gameState.combo}`)
+              ]),
+              
+              React.createElement('div', { key: 'mid', className: "flex flex-col items-center gap-2" }, [
+                React.createElement('div', { className: `bg-black/40 backdrop-blur-md px-6 py-2 md:px-10 md:py-3 rounded-full shadow-2xl border-b-4 ${gameState.iceEffect > 0 ? 'border-blue-400 animate-pulse' : 'border-blue-500'} flex items-center gap-2 md:gap-4` }, [
+                  gameState.iceEffect > 0 ? React.createElement(Snowflake, { className: "w-6 h-6 md:w-8 md:h-8 text-blue-200" }) : React.createElement(Timer, { className: "w-6 h-6 md:w-8 md:h-8 text-blue-400" }),
+                  React.createElement('span', { className: "text-xl md:text-4xl font-black text-white tabular-nums" }, `${Math.floor(gameState.time)}秒`)
+                ])
+              ]),
+
+              React.createElement('div', { key: 'right', className: "flex flex-col gap-4 items-end" }, [
+                React.createElement('div', { className: "flex gap-2 md:gap-3 bg-black/40 backdrop-blur-md px-4 py-3 md:px-6 md:py-4 rounded-3xl shadow-2xl border-r-8 border-red-500" }, 
+                  Array.from({ length: 3 }).map((_, i) => React.createElement(Heart, { key: i, className: `w-6 h-6 md:w-10 md:h-10 transition-all duration-500 ${i < gameState.lives ? 'fill-red-500 text-red-500 scale-110' : 'text-gray-600 scale-90'}` }))
+                ),
+                React.createElement('div', { className: "flex items-center gap-2" }, [
+                   React.createElement('div', { className: `${gameState.mode === 'ENDLESS' ? 'bg-purple-600' : 'bg-green-600'} text-white px-3 py-1 md:px-6 md:py-1 rounded-full shadow-lg text-xs md:text-lg font-black tracking-widest border-2 border-white/20` }, 
+                    gameState.mode === 'ENDLESS' ? "无尽挑战" : `第 ${gameState.level} 关`
+                   ),
+                   gameState.status === 'PLAYING' && React.createElement('button', {
+                     onClick: (e) => { e.stopPropagation(); handleAction(onToggleSound); },
+                     className: "bg-white/20 hover:bg-white/40 backdrop-blur-md text-white p-2 md:p-3 rounded-full pointer-events-auto transition-all hover:scale-110 active:scale-95"
+                   }, soundEnabled ? React.createElement(Volume2, { size: 24 }) : React.createElement(VolumeX, { size: 24 })),
+                   gameState.status === 'PLAYING' && React.createElement('button', {
+                     onClick: (e) => { e.stopPropagation(); handleAction(onTogglePause); },
+                     className: "bg-white/20 hover:bg-white/40 backdrop-blur-md text-white p-2 md:p-3 rounded-full pointer-events-auto transition-all hover:scale-110 active:scale-95"
+                   }, React.createElement(Pause, { fill: "white", size: 24 }))
+                ])
+              ])
+            ]),
+
+            // Progress Bar (Only for Level Mode)
+            gameState.mode === 'LEVEL' && React.createElement('div', { key: 'prog', className: "w-full flex justify-center mb-8 relative z-[40]" }, [
+              React.createElement('div', { className: "w-3/4 md:w-1/3 bg-black/40 backdrop-blur-md p-3 md:p-4 rounded-3xl shadow-2xl border border-white/10" }, [
+                React.createElement('div', { className: "flex justify-between text-[10px] md:text-xs font-black text-green-400 mb-1 md:mb-2 px-2 uppercase tracking-tighter" }, [
+                  React.createElement('span', null, "关卡进度"),
+                  React.createElement('span', null, `${gameState.catchCount} / ${LEVEL_REQUIREMENTS[gameState.level - 1]}`)
+                ]),
+                React.createElement('div', { className: "w-full h-2 md:h-4 bg-white/10 rounded-full overflow-hidden border border-white/5" }, [
+                  React.createElement('div', {
+                    className: "h-full bg-gradient-to-r from-green-600 to-green-400 transition-all duration-500 ease-out",
+                    style: { width: `${(gameState.catchCount / LEVEL_REQUIREMENTS[gameState.level - 1]) * 100}%` }
+                  })
+                ])
+              ])
+            ]),
+
+            // Overlays
+            (gameState.status === 'PAUSED' || gameState.status === 'LEVEL_UP' || gameState.status === 'GAME_OVER') && React.createElement('div', {
+              key: 'overlay',
+              className: "fixed inset-0 pointer-events-auto bg-black/70 backdrop-blur-xl flex flex-col items-center justify-center p-6 md:p-12 text-white text-center z-[100] animate-in fade-in duration-300"
+            }, [
+              gameState.status === 'PAUSED' && React.createElement('div', { key: 'pause_menu', className: "max-w-md w-full" }, [
+                React.createElement('h2', { className: "text-5xl md:text-7xl font-black text-blue-400 mb-12 tracking-tighter" }, "已暂停"),
+                React.createElement('div', { className: "flex flex-col gap-4" }, [
+                   React.createElement('button', {
+                     onClick: (e) => handleAction(onTogglePause),
+                     className: "flex items-center justify-center gap-4 bg-green-500 hover:bg-green-400 py-4 md:py-6 rounded-3xl text-2xl font-black transition-all hover:scale-105 active:scale-95"
+                   }, [React.createElement(Play, { fill: "white" }), "继续游戏"]),
+                   React.createElement('button', {
+                     onClick: (e) => handleAction(onStart, gameState.mode),
+                     className: "flex items-center justify-center gap-4 bg-orange-600 hover:bg-orange-500 py-4 md:py-6 rounded-3xl text-2xl font-black transition-all hover:scale-105 active:scale-95"
+                   }, [React.createElement(RotateCcw), "重新开始"]),
+                   React.createElement('button', {
+                     onClick: (e) => handleAction(onHome),
+                     className: "flex items-center justify-center gap-4 bg-white/10 hover:bg-white/20 py-4 md:py-6 rounded-3xl text-2xl font-black border border-white/20 transition-all hover:scale-105 active:scale-95"
+                   }, [React.createElement(Home), "返回首页"])
+                ])
+              ]),
+
+              gameState.status === 'LEVEL_UP' && React.createElement('div', { key: 'lv_up', className: "animate-in zoom-in duration-500" }, [
+                React.createElement('div', { className: "w-24 h-24 md:w-32 md:h-32 bg-yellow-500 rounded-full flex items-center justify-center mx-auto mb-6 shadow-2xl" }, React.createElement(Star, { className: "w-12 h-12 md:w-20 md:h-20 text-black fill-black" })),
+                React.createElement('h2', { className: "text-4xl md:text-7xl font-black text-yellow-400 mb-8 tracking-tighter" }, "顺利晋级！"),
+                React.createElement('button', {
+                  onClick: (e) => handleAction(onNextLevel),
+                  className: "group flex items-center justify-center gap-4 bg-green-500 px-8 py-4 md:py-5 rounded-full text-xl md:text-3xl font-black hover:bg-green-400 transition-all hover:scale-110"
+                }, ["开始下一关 ", React.createElement(ChevronRight, { className: "group-hover:translate-x-2 transition-transform" })])
+              ]),
+
+              gameState.status === 'GAME_OVER' && React.createElement('div', { key: 'game_over', className: "animate-in zoom-in duration-500 max-w-2xl w-full" }, [
+                React.createElement('h2', { className: "text-5xl md:text-8xl font-black text-red-500 mb-8 tracking-tighter" }, "挑战结束"),
+                React.createElement('div', { className: "bg-white/5 backdrop-blur-3xl p-6 md:p-10 rounded-[2rem] border border-white/10 mb-8 shadow-2xl text-left" }, [
+                  React.createElement('div', { className: "text-center" }, [
+                    React.createElement('p', { className: "text-gray-400 font-bold uppercase tracking-widest" }, gameState.mode === 'ENDLESS' ? "最高挑战分" : "最终积分"),
+                    React.createElement('div', { className: "text-7xl md:text-9xl font-black text-white mb-6 tabular-nums" }, gameState.score)
+                  ]),
+                  React.createElement('div', { className: "grid grid-cols-2 gap-4" }, [
+                    React.createElement('div', { className: "bg-green-500/10 p-4 rounded-2xl border border-green-500/20 text-center" }, [
+                      React.createElement('p', { className: "text-green-400 text-xs font-black uppercase" }, gameState.mode === 'ENDLESS' ? "等级" : "关卡"),
+                      React.createElement('p', { className: "text-2xl md:text-4xl font-black" }, gameState.level)
+                    ]),
+                    React.createElement('div', { className: "bg-blue-500/10 p-4 rounded-2xl border border-blue-500/20 text-center" }, [
+                      React.createElement('p', { className: "text-blue-400 text-xs font-black uppercase" }, "总接瓜数"),
+                      React.createElement('p', { className: "text-2xl md:text-4xl font-black" }, gameState.catchCount)
+                    ])
+                  ])
+                ]),
+                React.createElement('div', { className: "flex flex-col md:flex-row gap-4 justify-center" }, [
+                   React.createElement('button', {
+                     onClick: (e) => handleAction(onStart, gameState.mode),
+                     className: "flex items-center justify-center gap-4 bg-orange-600 px-10 py-4 md:px-16 md:py-6 rounded-full text-xl md:text-3xl font-black hover:bg-orange-500 transition-all hover:scale-105 shadow-xl"
+                   }, [React.createElement(RotateCcw), " 重新挑战"]),
+                   React.createElement('button', {
+                     onClick: (e) => handleAction(onHome),
+                     className: "flex items-center justify-center gap-4 bg-white/10 px-10 py-4 md:px-16 md:py-6 rounded-full text-xl md:text-3xl font-black border border-white/20 transition-all hover:scale-105"
+                   }, [React.createElement(Home), " 返回首页"])
+                ])
+              ])
+            ]),
+
+            // Slip Indicator
+            gameState.isLocked && React.createElement('div', { key: 'slip', className: "fixed inset-0 flex items-center justify-center pointer-events-none" }, [
+              React.createElement('div', { className: "bg-yellow-400 text-black px-8 py-4 md:px-12 md:py-6 rounded-2xl font-black animate-bounce shadow-2xl text-2xl md:text-4xl border-4 md:border-8 border-white uppercase tracking-tighter rotate-3" }, "脚下滑了！")
+            ])
+          ]);
+        };
+
+        // --- MAIN APP COMPONENT ---
+        const App = () => {
+          const [dims, setDims] = useState({ width: window.innerWidth, height: window.innerHeight });
+          const [gameState, setGameState] = useState({
+            score: 0, lives: 3, time: GAME_DURATION, combo: 0, level: 1, 
+            catchCount: 0, isGameOver: false, isPaused: false, isLocked: false, status: 'IDLE',
+            iceEffect: 0, mode: 'LEVEL'
+          });
+
+          const [items, setItems] = useState([]);
+          const [particles, setParticles] = useState([]);
+          const [playerPosition, setPlayerPosition] = useState({ x: window.innerWidth / 2, y: window.innerHeight - 150 });
+          const [cameraReady, setCameraReady] = useState(false);
+          const [soundEnabled, setSoundEnabled] = useState(true);
+
+          const canvasRef = useRef(null);
+          const videoRef = useRef(null);
+          const faceDetectionRef = useRef(null);
+          const requestRef = useRef(null);
+          const lastTimeRef = useRef(0);
+          const itemIdRef = useRef(0);
+          const lockTimeoutRef = useRef(null);
+          const catchFlashRef = useRef(0);
+          
+          const isLockedRef = useRef(false);
+          const playerPosRef = useRef(playerPosition);
+          const gameStateRef = useRef(gameState);
+
+          useEffect(() => {
+            isLockedRef.current = gameState.isLocked;
+            gameStateRef.current = gameState;
+          }, [gameState.isLocked, gameState]);
+
+          useEffect(() => {
+            playerPosRef.current = playerPosition;
+          }, [playerPosition]);
+
+          useEffect(() => {
+            const handleResize = () => setDims({ width: window.innerWidth, height: window.innerHeight });
+            window.addEventListener('resize', handleResize);
+            return () => window.removeEventListener('resize', handleResize);
+          }, []);
+
+          useEffect(() => {
+            const initFaceDetection = async () => {
+              const win = window;
+              if (!win.FaceDetection) return;
+              const faceDetection = new win.FaceDetection({
+                locateFile: (file) => `https://cdn.jsdelivr.net/npm/@mediapipe/face_detection/${file}`
+              });
+              faceDetection.setOptions({ model: 'short', minDetectionConfidence: 0.5 });
+              faceDetection.onResults((results) => {
+                if (results.detections && results.detections.length > 0) {
+                  const detection = results.detections[0];
+                  const bbox = detection.boundingBox;
+                  if (!isLockedRef.current) {
+                    setPlayerPosition({
+                      x: (1 - bbox.xCenter) * window.innerWidth, 
+                      y: bbox.yCenter * window.innerHeight
+                    });
+                  }
+                }
+              });
+              faceDetectionRef.current = faceDetection;
+              setupCamera();
+            };
+            const setupCamera = async () => {
+              if (navigator.mediaDevices?.getUserMedia) {
+                try {
+                  const stream = await navigator.mediaDevices.getUserMedia({ 
+                    video: { width: { ideal: 1280 }, height: { ideal: 720 }, facingMode: 'user' } 
+                  });
+                  if (videoRef.current) {
+                    videoRef.current.srcObject = stream;
+                    videoRef.current.onloadedmetadata = () => {
+                      setCameraReady(true);
+                      const process = async () => {
+                        if (videoRef.current && faceDetectionRef.current) {
+                          await faceDetectionRef.current.send({ image: videoRef.current });
+                        }
+                        requestAnimationFrame(process);
+                      };
+                      process();
+                    };
+                  }
+                } catch (err) { console.error("Camera access error:", err); }
+              }
+            };
+            initFaceDetection();
+          }, []);
+
+          const spawnParticles = (x, y, color, count = 10) => {
+            const newParticles = Array.from({ length: count }).map(() => ({
+              id: Math.random(),
+              x, y, vx: (Math.random() - 0.5) * 10, vy: (Math.random() - 0.5) * 10,
+              life: 1.0, color, size: Math.random() * 6 + 2
+            }));
+            setParticles(prev => [...prev, ...newParticles]);
+          };
+
+          const triggerHaptic = (type) => {
+            if (typeof window !== 'undefined' && window.navigator && window.navigator.vibrate) {
+              const v = window.navigator.vibrate.bind(window.navigator);
+              switch(type) {
+                case ItemType.RIPE: v(40); break;
+                case ItemType.SANDY: v(70); break;
+                case ItemType.GOLDEN: v([40, 40, 40, 40]); break;
+                case ItemType.BOMB: v([100, 50, 100]); break;
+                case ItemType.ROTTEN: v([60, 40, 60]); break;
+                case ItemType.PEEL: v(180); break;
+                default: v(30);
+              }
+            }
+            catchFlashRef.current = 1.0;
+          };
+
+          const spawnItem = useCallback(() => {
+            const level = gameStateRef.current.level;
+            const pool = [ { type: ItemType.RIPE, weight: 40 }, { type: ItemType.APPLE, weight: 30 } ];
+            if (level >= 2) pool.push({ type: ItemType.ROTTEN, weight: 15 });
+            if (level >= 3) { pool.push({ type: ItemType.STONE, weight: 10 }); pool.push({ type: ItemType.CHILI, weight: 10 }); }
+            if (level >= 4) { pool.push({ type: ItemType.SANDY, weight: 8 }); pool.push({ type: ItemType.GOLDEN, weight: 3 }); }
+            if (level >= 5) { pool.push({ type: ItemType.PEEL, weight: 8 }); pool.push({ type: ItemType.ICE, weight: 6 }); }
+            if (level >= 6) pool.push({ type: ItemType.BOMB, weight: 12 });
+            
+            const totalWeight = pool.reduce((acc, p) => acc + p.weight, 0);
+            let r = Math.random() * totalWeight;
+            let type = ItemType.RIPE;
+            for (const p of pool) { if (r < p.weight) { type = p.type; break; } r -= p.weight; }
+            const config = ITEM_CONFIG[type];
+            let speedMod = 1.0;
+            if (type === ItemType.CHILI) speedMod = 1.8;
+            if (type === ItemType.BOMB) speedMod = 1.4;
+            
+            const newItem = {
+              id: itemIdRef.current++, type,
+              x: Math.random() * (window.innerWidth - 100) + 50,
+              y: -100,
+              speed: ((3 + (level * 0.45)) + Math.random() * 3) * speedMod,
+              radius: config.radius, angle: Math.random() * Math.PI * 2,
+              vx: level >= 4 ? (Math.random() - 0.5) * 4 : 0, spawnTime: performance.now()
+            };
+            setItems(prev => [...prev, newItem]);
+          }, []);
+
+          const handleCatch = (item) => {
+            const config = ITEM_CONFIG[item.type];
+            triggerHaptic(item.type);
+            spawnParticles(item.x, item.y, config.color, item.type === ItemType.GOLDEN ? 30 : 15);
+            
+            if (item.type === ItemType.GOLDEN) SoundManager.play('GOLDEN');
+            else if ([ItemType.BOMB, ItemType.ROTTEN, ItemType.CHILI, ItemType.PEEL].includes(item.type)) SoundManager.play('BAD');
+            else SoundManager.play('SUCCESS');
+
+            setGameState(prev => {
+              let { score, lives, combo, catchCount, status, level, iceEffect, time, mode } = prev;
+              const positiveTypes = [ItemType.RIPE, ItemType.SANDY, ItemType.GOLDEN, ItemType.APPLE];
+              
+              if (positiveTypes.includes(item.type)) {
+                combo += 1;
+                catchCount += 1;
+                score += Math.floor(config.score * (1 + Math.min(combo * 0.1, 1.0)));
+                
+                if (mode === 'ENDLESS') {
+                  time += config.timeBonus;
+                  // Level up internally every 10 catches
+                  if (catchCount % 10 === 0) level++;
+                } else {
+                  if (catchCount >= LEVEL_REQUIREMENTS[level - 1]) {
+                    status = level >= 8 ? 'GAME_OVER' : 'LEVEL_UP';
+                    if (status === 'LEVEL_UP') SoundManager.play('LEVEL_UP');
+                  }
+                }
+              } else if (item.type === ItemType.ROTTEN || item.type === ItemType.BOMB) {
+                combo = 0;
+                lives -= 1;
+                score = Math.max(0, score + config.score);
+                if (lives <= 0) { SoundManager.play('GAME_OVER'); return { ...prev, lives: 0, status: 'GAME_OVER', isGameOver: true }; }
+              } else if (item.type === ItemType.PEEL) {
+                setGameState(s => ({ ...s, isLocked: true }));
+                if (lockTimeoutRef.current) clearTimeout(lockTimeoutRef.current);
+                lockTimeoutRef.current = setTimeout(() => setGameState(s => ({ ...s, isLocked: false })), 1200);
+              } else if (item.type === ItemType.CHILI) {
+                combo = 0; score = Math.max(0, score + config.score);
+              } else if (item.type === ItemType.ICE) iceEffect = 5;
+              else if (item.type === ItemType.STONE) combo = 0;
+
+              return { ...prev, score, lives, combo, catchCount, status, iceEffect, time, level };
+            });
+          };
+
+          const togglePause = () => setGameState(prev => ({ ...prev, status: prev.status === 'PLAYING' ? 'PAUSED' : 'PLAYING' }));
+          const returnToHome = () => { setGameState(prev => ({ ...prev, status: 'IDLE', iceEffect: 0 })); setItems([]); setParticles([]); };
+          const toggleSound = () => { const newState = SoundManager.toggle(); setSoundEnabled(newState); };
+
+          useEffect(() => {
+            if (gameState.status !== 'PLAYING') { if (requestRef.current) cancelAnimationFrame(requestRef.current); return; }
+            lastTimeRef.current = performance.now();
+            const loop = (time) => {
+              const delta = (time - lastTimeRef.current) / 1000;
+              if (delta >= 1.0) {
+                setGameState(prev => {
+                  if (prev.time <= 1) { SoundManager.play('GAME_OVER'); return { ...prev, status: 'GAME_OVER', isGameOver: true }; }
+                  const newIce = Math.max(0, prev.iceEffect - 1);
+                  return { ...prev, time: prev.time - 1, iceEffect: newIce };
+                });
+                lastTimeRef.current = time;
+                const spawnChance = 0.6 + (gameStateRef.current.level * 0.12);
+                if (Math.random() < spawnChance) spawnItem();
+              }
+              const speedMult = gameStateRef.current.iceEffect > 0 ? 0.4 : 1.0;
+              setItems(prev => {
+                const currentHeight = window.innerHeight;
+                const updated = prev.map(item => ({
+                  ...item,
+                  y: item.y + (item.speed * speedMult),
+                  x: item.x + ((item.vx || 0) * speedMult),
+                  angle: item.angle + (0.05 * speedMult)
+                }));
+                const remaining = [];
+                updated.forEach(item => {
+                  if (item.y > currentHeight + 50) { if ([ItemType.RIPE, ItemType.SANDY, ItemType.GOLDEN, ItemType.APPLE].includes(item.type)) SoundManager.play('MISS'); }
+                  else remaining.push(item);
+                });
+                let indicesToRemove = [];
+                remaining.forEach((item, idx) => {
+                  const dx = item.x - playerPosRef.current.x; const dy = item.y - playerPosRef.current.y;
+                  if (Math.sqrt(dx*dx + dy*dy) < item.radius + PLAYER_RADIUS) { handleCatch(item); indicesToRemove.push(idx); }
+                });
+                return remaining.filter((_, i) => !indicesToRemove.includes(i));
+              });
+              setParticles(prev => prev.map(p => ({ ...p, x: p.x + p.vx, y: p.y + p.vy, life: p.life - 0.02 })).filter(p => p.life > 0));
+              requestRef.current = requestAnimationFrame(loop);
+            };
+            requestRef.current = requestAnimationFrame(loop);
+            return () => { if (requestRef.current) cancelAnimationFrame(requestRef.current); };
+          }, [gameState.status, spawnItem]);
+
+          const startGame = (mode = 'LEVEL') => {
+            SoundManager.init();
+            setGameState({
+              score: 0, lives: 3, time: mode === 'ENDLESS' ? ENDLESS_START_DURATION : GAME_DURATION, 
+              combo: 0, level: 1, catchCount: 0, isGameOver: false, isPaused: false, 
+              isLocked: false, status: 'PLAYING', iceEffect: 0, mode
+            });
+            setItems([]); setParticles([]);
+          };
+
+          const nextLevel = () => {
+            setGameState(prev => ({ ...prev, level: prev.level + 1, catchCount: 0, time: GAME_DURATION, status: 'PLAYING', iceEffect: 0 }));
+            setItems([]); setParticles([]);
+          };
+
+          useEffect(() => {
+            const canvas = canvasRef.current; if (!canvas) return;
+            const ctx = canvas.getContext('2d'); if (!ctx) return;
+            const render = (time) => {
+              ctx.clearRect(0, 0, dims.width, dims.height);
+              const grad = ctx.createLinearGradient(0, 0, 0, dims.height);
+              grad.addColorStop(0, gameState.iceEffect > 0 ? 'rgba(125, 211, 252, 0.6)' : 'rgba(125, 211, 252, 0.4)'); 
+              grad.addColorStop(1, gameState.iceEffect > 0 ? 'rgba(219, 234, 254, 0.7)' : 'rgba(187, 247, 208, 0.5)');
+              ctx.fillStyle = grad; ctx.fillRect(0, 0, dims.width, dims.height);
+
+              particles.forEach(p => {
+                ctx.globalAlpha = p.life; ctx.fillStyle = p.color;
+                ctx.beginPath(); ctx.arc(p.x, p.y, p.size * p.life, 0, Math.PI * 2); ctx.fill();
+              });
+              ctx.globalAlpha = 1.0;
+
+              items.forEach(item => {
+                ctx.save(); ctx.translate(item.x + 8, item.y + 12);
+                ctx.beginPath(); ctx.ellipse(0, 0, item.radius * 0.8, item.radius * 0.4, 0, 0, Math.PI * 2);
+                ctx.fillStyle = 'rgba(0, 0, 0, 0.15)'; ctx.fill(); ctx.restore();
+              });
+
+              items.forEach(item => {
+                const cfg = ITEM_CONFIG[item.type];
+                const age = time - (item.spawnTime || 0);
+                ctx.save(); ctx.translate(item.x, item.y); ctx.rotate(item.angle);
+                ctx.scale(1 + Math.sin(age / 300) * 0.05, 1 + Math.cos(age / 300) * 0.05);
+                
+                const radial = ctx.createRadialGradient(-item.radius * 0.3, -item.radius * 0.3, 2, 0, 0, item.radius);
+                if (item.type === ItemType.RIPE || item.type === ItemType.GOLDEN) {
+                  radial.addColorStop(0, item.type === ItemType.GOLDEN ? '#fef9c3' : '#bbf7d0');
+                  radial.addColorStop(0.3, item.type === ItemType.GOLDEN ? '#fde047' : '#4ade80');
+                  radial.addColorStop(1, cfg.color);
+                  ctx.fillStyle = radial; ctx.beginPath(); ctx.arc(0, 0, item.radius, 0, Math.PI * 2); ctx.fill();
+                  ctx.strokeStyle = cfg.stripe; ctx.lineWidth = item.type === ItemType.GOLDEN ? 5 : 4;
+                  for (let i = -2; i <= 2; i++) {
+                    ctx.beginPath(); ctx.moveTo(-item.radius, i * item.radius * 0.4);
+                    ctx.bezierCurveTo(-item.radius * 0.3, i * item.radius * 0.1, item.radius * 0.3, -i * item.radius * 0.1, item.radius, i * item.radius * 0.4);
+                    ctx.stroke();
+                  }
+                  if (item.type === ItemType.GOLDEN) {
+                    const s = (time % 2000) / 2000;
+                    const sg = ctx.createLinearGradient(-item.radius * 2, -item.radius * 2, item.radius * 2, item.radius * 2);
+                    sg.addColorStop(Math.max(0, s-0.1), 'rgba(255,255,255,0)'); sg.addColorStop(s, 'rgba(255,255,255,0.8)'); sg.addColorStop(Math.min(1, s+0.1), 'rgba(255,255,255,0)');
+                    ctx.fillStyle = sg; ctx.beginPath(); ctx.arc(0,0, item.radius, 0, Math.PI*2); ctx.fill();
+                  }
+                } else if (item.type === ItemType.SANDY) {
+                  ctx.fillStyle = cfg.rind; ctx.beginPath(); ctx.arc(0, 0, item.radius, 0, Math.PI * 2); ctx.fill();
+                  ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.arc(0, 0, item.radius * 0.85, 0, Math.PI * 2); ctx.fill();
+                  ctx.fillStyle = cfg.color; ctx.beginPath(); ctx.arc(0, 0, item.radius * 0.75, 0, Math.PI * 2); ctx.fill();
+                  ctx.fillStyle = '#000';
+                  for (let i = 0; i < 6; i++) {
+                    const ang = (i / 6) * Math.PI * 2;
+                    ctx.beginPath(); ctx.ellipse(Math.cos(ang) * item.radius * 0.4, Math.sin(ang) * item.radius * 0.4, 2, 4, ang, 0, Math.PI * 2); ctx.fill();
+                  }
+                } else if (item.type === ItemType.APPLE) {
+                  radial.addColorStop(0, '#fecaca'); radial.addColorStop(1, cfg.color);
+                  ctx.fillStyle = radial; ctx.beginPath(); ctx.arc(0, 0, item.radius, 0, Math.PI * 2); ctx.fill();
+                  ctx.fillStyle = cfg.stem; ctx.fillRect(-2, -item.radius - 5, 4, 10);
+                } else if (item.type === ItemType.CHILI) {
+                  ctx.fillStyle = cfg.color; ctx.beginPath(); ctx.ellipse(0, 0, item.radius * 0.6, item.radius * 1.5, 0, 0, Math.PI * 2); ctx.fill();
+                  ctx.fillStyle = cfg.stem; ctx.fillRect(-3, -item.radius * 1.5 - 2, 6, 8);
+                } else if (item.type === ItemType.ICE) {
+                  const ig = ctx.createLinearGradient(-item.radius, -item.radius, item.radius, item.radius);
+                  ig.addColorStop(0, '#e0f2fe'); ig.addColorStop(1, '#0284c7');
+                  ctx.fillStyle = ig; ctx.beginPath(); ctx.roundRect(-item.radius, -item.radius, item.radius*2, item.radius*2, 8); ctx.fill();
+                } else if (item.type === ItemType.BOMB) {
+                  radial.addColorStop(0, '#525252'); radial.addColorStop(1, cfg.color);
+                  ctx.fillStyle = radial; ctx.beginPath(); ctx.arc(0, 0, item.radius, 0, Math.PI * 2); ctx.fill();
+                  ctx.strokeStyle = cfg.fuse; ctx.lineWidth = 3; ctx.beginPath(); ctx.moveTo(0, -item.radius); ctx.quadraticCurveTo(10, -item.radius - 10, 5, -item.radius - 20); ctx.stroke();
+                  ctx.fillStyle = '#fbbf24'; ctx.beginPath(); ctx.arc(5, -item.radius - 20, 5 + Math.sin(time/50)*3, 0, Math.PI*2); ctx.fill();
+                } else if (item.type === ItemType.ROTTEN) {
+                  radial.addColorStop(0, '#5a3420'); radial.addColorStop(1, cfg.color);
+                  ctx.fillStyle = radial; ctx.beginPath(); ctx.arc(0, 0, item.radius, 0, Math.PI * 2); ctx.fill();
+                } else if (item.type === ItemType.STONE) {
+                  radial.addColorStop(0, '#d6d3d1'); radial.addColorStop(1, cfg.color);
+                  ctx.fillStyle = radial; ctx.beginPath(); for(let i=0; i<8; i++) {
+                    const r = item.radius * (0.8 + Math.random() * 0.4); const ang = (i/8) * Math.PI * 2; ctx.lineTo(Math.cos(ang)*r, Math.sin(ang)*r);
+                  }
+                  ctx.closePath(); ctx.fill();
+                } else if (item.type === ItemType.PEEL) {
+                  ctx.fillStyle = cfg.color; ctx.beginPath(); ctx.arc(0, 0, item.radius, 0, Math.PI, false); ctx.quadraticCurveTo(0, -item.radius * 0.5, item.radius, 0); ctx.fill();
+                }
+                ctx.restore();
+              });
+
+              const pulse = Math.sin(time / 200) * 5;
+              const shake = gameState.isLocked ? (Math.random() - 0.5) * 10 : 0;
+              const fs = 1.0 + catchFlashRef.current * 0.3; catchFlashRef.current *= 0.9;
+              ctx.save(); ctx.translate(playerPosition.x + shake, playerPosition.y + shake); ctx.scale(fs, fs);
+              ctx.beginPath(); ctx.arc(0, 0, PLAYER_RADIUS + pulse, 0, Math.PI * 2);
+              ctx.strokeStyle = gameState.isLocked ? '#ef4444' : (gameState.iceEffect > 0 ? '#38bdf8' : '#f97316');
+              ctx.lineWidth = 4 + (catchFlashRef.current * 6); ctx.setLineDash([10, 5]); ctx.stroke();
+              const pg = ctx.createRadialGradient(0, 0, 0, 0, 0, PLAYER_RADIUS);
+              pg.addColorStop(0, 'rgba(255, 255, 255, 0)'); pg.addColorStop(1, gameState.isLocked ? `rgba(239, 68, 68, ${0.3 + catchFlashRef.current})` : `rgba(249, 115, 22, ${0.2 + catchFlashRef.current})`);
+              ctx.fillStyle = pg; ctx.beginPath(); ctx.arc(0, 0, PLAYER_RADIUS, 0, Math.PI * 2); ctx.fill(); ctx.restore();
+
+              requestRef.current = requestAnimationFrame(render);
+            };
+            requestRef.current = requestAnimationFrame(render);
+            return () => { if (requestRef.current) cancelAnimationFrame(requestRef.current); };
+          }, [items, particles, playerPosition, dims, gameState.isLocked, gameState.iceEffect]);
+
+          return React.createElement('div', { 
+            className: "fixed inset-0 bg-black flex items-center justify-center overflow-hidden",
+            onClick: () => SoundManager.init()
+          }, [
+            React.createElement('video', { ref: videoRef, autoPlay: true, playsInline: true, muted: true, className: "absolute inset-0 w-full h-full object-cover scale-x-[-1] opacity-60 pointer-events-none" }),
+            React.createElement('canvas', { ref: canvasRef, width: dims.width, height: dims.height, className: "absolute inset-0 z-10 pointer-events-none" }),
+            React.createElement('div', { className: "relative z-20 w-full h-full" }, [
+              React.createElement(GameUI, { gameState, onStart: startGame, onNextLevel: nextLevel, onTogglePause: togglePause, onHome: returnToHome, onToggleSound: toggleSound, cameraReady, soundEnabled })
+            ])
+          ]);
+        };
+
+        const rootEl = document.getElementById('root');
+        ReactDOM.createRoot(rootEl).render(React.createElement(App));
+    </script>
+</body>
+</html>
