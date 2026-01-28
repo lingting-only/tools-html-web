@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golden Splendor Cake</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            overflow: hidden;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+            color: #fff;
+        }
+
+        #canvas {
+            display: block;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #video {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 160px;
+            height: 120px;
+            border: 2px solid #ffd700;
+            border-radius: 8px;
+            z-index: 10;
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        #upload-btn {
+            position: fixed;
+            bottom: 160px;
+            right: 20px;
+            padding: 10px 15px;
+            background: linear-gradient(45deg, #ffd700, #ffed4e);
+            color: #000;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            z-index: 10;
+            transition: all 0.3s ease;
+        }
+
+        #upload-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(255, 215, 0, 0.4);
+        }
+
+        #start-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+            transition: opacity 0.5s ease;
+        }
+
+        #start-screen h1 {
+            font-size: 3rem;
+            background: linear-gradient(45deg, #ffd700, #ffed4e);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 2rem;
+            text-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+        }
+
+        #start-btn {
+            padding: 15px 30px;
+            background: linear-gradient(45deg, #ffd700, #ffed4e);
+            color: #000;
+            border: none;
+            border-radius: 50px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);
+        }
+
+        #start-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(255, 215, 0, 0.6);
+        }
+
+        #instructions {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #ffd700;
+            z-index: 10;
+            max-width: 300px;
+        }
+
+        #instructions h3 {
+            color: #ffd700;
+            margin-bottom: 10px;
+        }
+
+        #instructions ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        #instructions li {
+            margin: 5px 0;
+            font-size: 0.9rem;
+        }
+
+        #controls {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            display: flex;
+            gap: 10px;
+            z-index: 10;
+        }
+
+        .control-btn {
+            padding: 8px 12px;
+            background: rgba(0, 0, 0, 0.7);
+            color: #ffd700;
+            border: 1px solid #ffd700;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+        }
+
+        .control-btn:hover {
+            background: rgba(255, 215, 0, 0.2);
+            transform: translateY(-2px);
+        }
+
+        @media (max-width: 768px) {
+            #video {
+                width: 120px;
+                height: 90px;
+            }
+
+            #upload-btn {
+                bottom: 120px;
+                padding: 8px 12px;
+                font-size: 0.8rem;
+            }
+
+            #start-screen h1 {
+                font-size: 2rem;
+            }
+
+            #start-btn {
+                padding: 12px 24px;
+                font-size: 1rem;
+            }
+
+            #instructions {
+                max-width: 250px;
+                font-size: 0.8rem;
+            }
+
+            #controls {
+                flex-direction: column;
+                bottom: 130px;
+            }
+
+            .control-btn {
+                font-size: 0.8rem;
+                padding: 6px 10px;
+            }
+        }
+    </style>
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+                "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/",
+                "@mediapipe/tasks-vision": "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.0/vision_bundle.js",
+                "@tweenjs/tween.js": "https://cdn.jsdelivr.net/npm/@tweenjs/tween.js@18.6.4/dist/tween.esm.js"
+            }
+        }
+    </script>
+</head>
+<body>
+    <div id="start-screen">
+        <h1>Golden Splendor Cake</h1>
+        <button id="start-btn">开启体验</button>
+    </div>
+
+    <div id="instructions">
+        <h3>手势操作指引</h3>
+        <ul>
+            <li>✊ 握拳 → 粒子聚合成蛋糕</li>
+            <li>🖐️ 张开手掌 → 粒子爆炸散开</li>
+            <li>🤏 捏合 → 相机推进查看照片</li>
+            <li>👋 挥手 → 旋转 3D 场景</li>
+        </ul>
+    </div>
+
+    <div id="controls">
+        <button class="control-btn" id="music-btn">🎵 音乐</button>
+        <button class="control-btn" id="fullscreen-btn">⛶ 全屏</button>
+    </div>
+
+    <video id="video" autoplay muted playsinline></video>
+    <button id="upload-btn">📷 上传照片</button>
+    <input type="file" id="file-input" accept="image/*" style="display: none;">
+    <canvas id="canvas"></canvas>
+
+    <script type="module">
+        import * as THREE from 'three';
+        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+        import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+        import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+        import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+        import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+        import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+        import * as TWEEN from '@tweenjs/tween.js';
+
+        // 全局变量
+        let scene, camera, renderer, controls, composer;
+        let particleSystem;
+        let cakeParticles = [];
+        let floatingParticles = [];
+        let goldenSnowParticles = [];
+        let stars = [];
+        let photoPlane = null;
+        let happyBirthdayText = null;
+        let currentState = 'cake'; // 'cake' or 'floating'
+        let isExperienceStarted = false;
+        let isMusicPlaying = false;
+        let audioContext = null;
+        let analyser = null;
+        let dataArray = null;
+
+        // MediaPipe 相关变量
+        let handLandmarker;
+        let cameraController;
+        let isHandDetected = false;
+        let lastHandTime = 0;
+        const HAND_DETECTION_INTERVAL = 100;
+
+        // 初始化函数
+        async function init() {
+            await initScene();
+            initParticles();
+            initGoldenSnow();
+            initStars();
+            initHappyBirthdayText();
+            initEventListeners();
+            animate();
+        }
+
+        // 初始化手部检测
+        async function initHandDetection() {
+            try {
+                // 导入 MediaPipe Tasks Vision
+                const { HandLandmarker, FilesetResolver } = await import('https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.0/vision_bundle.js');
+
+                // 加载模型文件
+                const vision = await FilesetResolver.forVisionTasks('https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.0/wasm');
+                handLandmarker = await HandLandmarker.createFromOptions(vision, {
+                    baseOptions: {
+                        modelAssetPath: 'https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task',
+                        delegate: 'GPU'
+                    },
+                    runningMode: 'VIDEO',
+                    numHands: 2
+                });
+
+                // 初始化摄像头
+                const video = document.getElementById('video');
+                cameraController = new Camera(video, { width: 640, height: 480 });
+                await cameraController.start();
+
+                // 开始检测循环
+                detectHands();
+            } catch (error) {
+                console.error('Error initializing hand detection:', error);
+            }
+        }
+
+        // 检测手部循环
+        function detectHands() {
+            if (handLandmarker && cameraController && isExperienceStarted) {
+                const currentTime = Date.now();
+                if (currentTime - lastHandTime > HAND_DETECTION_INTERVAL) {
+                    const video = document.getElementById('video');
+                    const result = handLandmarker.detectForVideo(video, currentTime);
+                    processHandResults(result);
+                    lastHandTime = currentTime;
+                }
+            }
+            requestAnimationFrame(detectHands);
+        }
+
+        // 处理手部检测结果
+        function processHandResults(results) {
+            isHandDetected = results.landmarks && results.landmarks.length > 0;
+
+            if (isHandDetected) {
+                // 处理每只手
+                results.landmarks.forEach((landmarks, index) => {
+                    // 检测手势
+                    const gesture = detectGesture(landmarks);
+                    
+                    // 根据手势执行操作
+                    switch (gesture) {
+                        case 'fist':
+                            switchToCake();
+                            break;
+                        case 'open_palm':
+                            switchToFloating();
+                            break;
+                        case 'pinch':
+                            zoomCamera();
+                            break;
+                        case 'wave':
+                            rotateScene(landmarks);
+                            break;
+                    }
+                });
+            }
+        }
+
+        // 检测手势
+        function detectGesture(landmarks) {
+            // 关键点索引
+            const THUMB_TIP = 4;
+            const INDEX_FINGER_TIP = 8;
+            const MIDDLE_FINGER_TIP = 12;
+            const RING_FINGER_TIP = 16;
+            const PINKY_TIP = 20;
+            const WRIST = 0;
+
+            // 计算手指是否弯曲
+            const isThumbBent = isFingerBent(landmarks, WRIST, THUMB_TIP);
+            const isIndexBent = isFingerBent(landmarks, WRIST, INDEX_FINGER_TIP);
+            const isMiddleBent = isFingerBent(landmarks, WRIST, MIDDLE_FINGER_TIP);
+            const isRingBent = isFingerBent(landmarks, WRIST, RING_FINGER_TIP);
+            const isPinkyBent = isFingerBent(landmarks, WRIST, PINKY_TIP);
+
+            // 握拳
+            if (isThumbBent && isIndexBent && isMiddleBent && isRingBent && isPinkyBent) {
+                return 'fist';
+            }
+
+            // 张开手掌
+            if (!isThumbBent && !isIndexBent && !isMiddleBent && !isRingBent && !isPinkyBent) {
+                return 'open_palm';
+            }
+
+            // 捏合（拇指和食指靠近）
+            const thumbIndexDistance = getDistance(landmarks[THUMB_TIP], landmarks[INDEX_FINGER_TIP]);
+            if (thumbIndexDistance < 0.05) {
+                return 'pinch';
+            }
+
+            // 挥手（手掌左右移动）
+            // 这里简化处理，假设当检测到张开手掌时视为挥手
+            if (!isThumbBent && !isIndexBent) {
+                return 'wave';
+            }
+
+            return 'unknown';
+        }
+
+        // 判断手指是否弯曲
+        function isFingerBent(landmarks, wristIndex, tipIndex) {
+            const wrist = landmarks[wristIndex];
+            const tip = landmarks[tipIndex];
+            
+            // 计算手腕到指尖的距离
+            const distance = getDistance(wrist, tip);
+            
+            // 简单判断：如果距离小于阈值，视为弯曲
+            return distance < 0.3;
+        }
+
+        // 计算两点之间的距离
+        function getDistance(point1, point2) {
+            return Math.sqrt(
+                Math.pow(point1.x - point2.x, 2) +
+                Math.pow(point1.y - point2.y, 2) +
+                Math.pow(point1.z - point2.z, 2)
+            );
+        }
+
+        // 相机推进
+        function zoomCamera() {
+            if (photoPlane) {
+                new Tween(camera.position)
+                    .to({ z: 2 }, 500)
+                    .easing(Easing.Quadratic.Out)
+                    .start();
+            }
+        }
+
+        // 旋转场景
+        function rotateScene(landmarks) {
+            // 获取手掌中心位置
+            const palmCenter = getPalmCenter(landmarks);
+            
+            // 将手掌位置映射到场景旋转
+            const rotationX = (palmCenter.y - 0.5) * Math.PI / 4;
+            const rotationY = (palmCenter.x - 0.5) * Math.PI / 4;
+            
+            // 应用旋转到粒子系统
+            if (particleSystem) {
+                new Tween(particleSystem.rotation)
+                    .to({ x: rotationX, y: rotationY }, 300)
+                    .easing(Easing.Quadratic.Out)
+                    .start();
+            }
+        }
+
+        // 获取手掌中心位置
+        function getPalmCenter(landmarks) {
+            const palmIndices = [0, 1, 2, 5, 9, 13, 17];
+            let sumX = 0, sumY = 0, sumZ = 0;
+            
+            for (const index of palmIndices) {
+                sumX += landmarks[index].x;
+                sumY += landmarks[index].y;
+                sumZ += landmarks[index].z;
+            }
+            
+            return {
+                x: sumX / palmIndices.length,
+                y: sumY / palmIndices.length,
+                z: sumZ / palmIndices.length
+            };
+        }
+
+        // 相机类（简化版）
+        class Camera {
+            constructor(video, options) {
+                this.video = video;
+                this.options = options || { width: 640, height: 480 };
+            }
+
+            async start() {
+                try {
+                    const stream = await navigator.mediaDevices.getUserMedia({
+                        video: {
+                            width: this.options.width,
+                            height: this.options.height,
+                            facingMode: 'user'
+                        }
+                    });
+                    this.video.srcObject = stream;
+                    return new Promise((resolve) => {
+                        this.video.onloadedmetadata = () => {
+                            this.video.play();
+                            resolve();
+                        };
+                    });
+                } catch (error) {
+                    console.error('Error starting camera:', error);
+                    throw error;
+                }
+            }
+
+            stop() {
+                if (this.video.srcObject) {
+                    const tracks = this.video.srcObject.getTracks();
+                    tracks.forEach(track => track.stop());
+                    this.video.srcObject = null;
+                }
+            }
+        }
+
+        // 初始化场景
+        function initScene() {
+            return new Promise((resolve) => {
+                // 创建场景
+                scene = new THREE.Scene();
+                scene.background = new THREE.Color(0x0a0a0a);
+
+                // 创建相机
+                camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+                camera.position.z = 5;
+
+                // 创建渲染器
+                renderer = new THREE.WebGLRenderer({ 
+                    canvas: document.getElementById('canvas'),
+                    antialias: true
+                });
+                renderer.setSize(window.innerWidth, window.innerHeight);
+                renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+                renderer.toneMapping = THREE.ACESFilmicToneMapping;
+                renderer.toneMappingExposure = 1.0;
+
+                // 添加灯光
+                const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+                scene.add(ambientLight);
+
+                const directionalLight = new THREE.DirectionalLight(0xffffff, 1.0);
+                directionalLight.position.set(5, 5, 5);
+                scene.add(directionalLight);
+
+                const pointLight = new THREE.PointLight(0xffd700, 1.0, 100);
+                pointLight.position.set(0, 2, 0);
+                scene.add(pointLight);
+
+                // 添加环境贴图
+                const pmremGenerator = new THREE.PMREMGenerator(renderer);
+                const envScene = new RoomEnvironment();
+                const envMap = pmremGenerator.fromScene(envScene).texture;
+                scene.environment = envMap;
+                envScene.dispose();
+                pmremGenerator.dispose();
+
+                // 后期处理
+                const renderPass = new RenderPass(scene, camera);
+                const bloomPass = new UnrealBloomPass(
+                    new THREE.Vector2(window.innerWidth, window.innerHeight),
+                    1.5, 0.4, 0.85
+                );
+                bloomPass.threshold = 0.2;
+                bloomPass.strength = 1.5;
+                bloomPass.radius = 0.5;
+
+                composer = new EffectComposer(renderer);
+                composer.addPass(renderPass);
+                composer.addPass(bloomPass);
+
+                // 轨道控制器
+                controls = new OrbitControls(camera, renderer.domElement);
+                controls.enableDamping = true;
+                controls.dampingFactor = 0.05;
+                controls.enableZoom = true;
+                controls.enablePan = false;
+
+                // 响应窗口大小变化
+                window.addEventListener('resize', onWindowResize);
+
+                resolve();
+            });
+        }
+
+        // 窗口大小变化处理
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            composer.setSize(window.innerWidth, window.innerHeight);
+        }
+
+        // 初始化粒子系统
+        function initParticles() {
+            const particleCount = 5000;
+            const geometry = new THREE.SphereGeometry(0.02, 8, 8);
+            const material = new THREE.MeshStandardMaterial({
+                color: 0xffd700,
+                metalness: 0.8,
+                roughness: 0.2,
+                emissive: 0x402000,
+                emissiveIntensity: 0.3
+            });
+
+            particleSystem = new THREE.InstancedMesh(geometry, material, particleCount);
+            scene.add(particleSystem);
+
+            // 初始化粒子位置
+            const dummy = new THREE.Object3D();
+            for (let i = 0; i < particleCount; i++) {
+                // 蛋糕形状位置
+                const cakePos = getCakePosition(i, particleCount);
+                // 漂浮位置
+                const floatPos = getRandomFloatPosition();
+                
+                cakeParticles.push(cakePos);
+                floatingParticles.push(floatPos);
+
+                // 初始化为蛋糕形状
+                dummy.position.copy(cakePos);
+                dummy.updateMatrix();
+                particleSystem.setMatrixAt(i, dummy.matrix);
+            }
+            particleSystem.instanceMatrix.needsUpdate = true;
+        }
+
+        // 获取蛋糕形状位置
+        function getCakePosition(index, total) {
+            const layers = 3;
+            const layerIndex = Math.floor((index / total) * layers);
+            const layerRatio = (layerIndex + 1) / layers;
+            
+            const radius = 1.5 * layerRatio;
+            const height = -1 + layerIndex * 0.8;
+            
+            const angle = (index % (total / layers)) / (total / layers) * Math.PI * 2;
+            const x = Math.cos(angle) * radius;
+            const z = Math.sin(angle) * radius;
+            
+            return new THREE.Vector3(x, height, z);
+        }
+
+        // 获取随机漂浮位置
+        function getRandomFloatPosition() {
+            const radius = 3;
+            const theta = Math.random() * Math.PI * 2;
+            const phi = Math.acos(2 * Math.random() - 1);
+            
+            const x = radius * Math.sin(phi) * Math.cos(theta);
+            const y = radius * Math.sin(phi) * Math.sin(theta);
+            const z = radius * Math.cos(phi);
+            
+            return new THREE.Vector3(x, y, z);
+        }
+
+        // 初始化金色雪花
+        function initGoldenSnow() {
+            const snowCount = 200;
+            const geometry = new THREE.SphereGeometry(0.01, 6, 6);
+            const material = new THREE.MeshStandardMaterial({
+                color: 0xffd700,
+                metalness: 0.6,
+                roughness: 0.4,
+                emissive: 0x201000
+            });
+
+            for (let i = 0; i < snowCount; i++) {
+                const snowflake = new THREE.Mesh(geometry, material);
+                snowflake.position.set(
+                    (Math.random() - 0.5) * 10,
+                    Math.random() * 5 + 2,
+                    (Math.random() - 0.5) * 10
+                );
+                snowflake.velocity = new THREE.Vector3(
+                    (Math.random() - 0.5) * 0.01,
+                    -Math.random() * 0.02 - 0.01,
+                    (Math.random() - 0.5) * 0.01
+                );
+                scene.add(snowflake);
+                goldenSnowParticles.push(snowflake);
+            }
+        }
+
+        // 初始化星空
+        function initStars() {
+            const starCount = 1000;
+            const geometry = new THREE.SphereGeometry(0.005, 4, 4);
+            const material = new THREE.MeshBasicMaterial({ color: 0xffffff });
+
+            for (let i = 0; i < starCount; i++) {
+                const star = new THREE.Mesh(geometry, material);
+                star.position.set(
+                    (Math.random() - 0.5) * 50,
+                    (Math.random() - 0.5) * 50,
+                    (Math.random() - 0.5) * 50
+                );
+                scene.add(star);
+                stars.push(star);
+            }
+        }
+
+        // 初始化 "Happy Birthday" 文字
+        function initHappyBirthdayText() {
+            // 使用简单的立方体几何体代替文字
+            const geometry = new THREE.BoxGeometry(3, 0.5, 0.1);
+            const material = new THREE.MeshStandardMaterial({
+                color: 0xffd700,
+                metalness: 0.8,
+                roughness: 0.2,
+                emissive: 0x402000,
+                emissiveIntensity: 0.5
+            });
+
+            happyBirthdayText = new THREE.Mesh(geometry, material);
+            happyBirthdayText.position.set(0, 2, 0);
+            scene.add(happyBirthdayText);
+        }
+
+        // 初始化事件监听器
+        function initEventListeners() {
+            // 开始体验按钮
+            document.getElementById('start-btn').addEventListener('click', () => {
+                startExperience();
+            });
+
+            // 上传照片按钮
+            document.getElementById('upload-btn').addEventListener('click', () => {
+                document.getElementById('file-input').click();
+            });
+
+            // 文件上传处理
+            document.getElementById('file-input').addEventListener('change', handleFileUpload);
+
+            // 音乐按钮
+            document.getElementById('music-btn').addEventListener('click', toggleMusic);
+
+            // 全屏按钮
+            document.getElementById('fullscreen-btn').addEventListener('click', toggleFullscreen);
+        }
+
+        // 开始体验
+        async function startExperience() {
+            isExperienceStarted = true;
+            document.getElementById('start-screen').style.opacity = '0';
+            setTimeout(() => {
+                document.getElementById('start-screen').style.display = 'none';
+            }, 500);
+            
+            // 初始化手部检测
+            await initHandDetection();
+        }
+
+        // 处理文件上传
+        function handleFileUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const textureLoader = new THREE.TextureLoader();
+                textureLoader.load(e.target.result, (texture) => {
+                    createPhotoPlane(texture);
+                });
+            };
+            reader.readAsDataURL(file);
+        }
+
+        // 创建照片平面
+        function createPhotoPlane(texture) {
+            if (photoPlane) {
+                scene.remove(photoPlane);
+                photoPlane.geometry.dispose();
+                photoPlane.material.dispose();
+            }
+
+            const aspectRatio = texture.image.width / texture.image.height;
+            const width = 1.5;
+            const height = width / aspectRatio;
+
+            const geometry = new THREE.PlaneGeometry(width, height);
+            const material = new THREE.MeshStandardMaterial({
+                map: texture,
+                metalness: 0.3,
+                roughness: 0.7
+            });
+
+            photoPlane = new THREE.Mesh(geometry, material);
+            photoPlane.position.set(0, 0, 0);
+            scene.add(photoPlane);
+
+            // 添加金色边框
+            const borderGeometry = new THREE.BoxGeometry(width + 0.1, height + 0.1, 0.05);
+            const borderMaterial = new THREE.MeshStandardMaterial({
+                color: 0xffd700,
+                metalness: 0.8,
+                roughness: 0.2,
+                emissive: 0x402000
+            });
+            const border = new THREE.Mesh(borderGeometry, borderMaterial);
+            border.position.set(0, 0, -0.03);
+            photoPlane.add(border);
+
+            // 初始状态：隐藏照片
+            if (currentState === 'cake') {
+                photoPlane.scale.set(0.1, 0.1, 0.1);
+                photoPlane.position.set(0, -2, 0);
+            }
+        }
+
+        // 切换音乐
+        function toggleMusic() {
+            if (!audioContext) {
+                audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                setupAudio();
+            }
+
+            if (isMusicPlaying) {
+                audioContext.suspend();
+                document.getElementById('music-btn').textContent = '🎵 音乐';
+            } else {
+                audioContext.resume();
+                document.getElementById('music-btn').textContent = '🔇 静音';
+            }
+            isMusicPlaying = !isMusicPlaying;
+        }
+
+        // 设置音频
+        function setupAudio() {
+            // 创建振荡器
+            const oscillator = audioContext.createOscillator();
+            oscillator.type = 'sine';
+            oscillator.frequency.setValueAtTime(440, audioContext.currentTime);
+
+            // 创建增益
+            const gainNode = audioContext.createGain();
+            gainNode.gain.setValueAtTime(0, audioContext.currentTime);
+
+            // 创建分析器
+            analyser = audioContext.createAnalyser();
+            analyser.fftSize = 256;
+            const bufferLength = analyser.frequencyBinCount;
+            dataArray = new Uint8Array(bufferLength);
+
+            // 连接节点
+            oscillator.connect(gainNode);
+            gainNode.connect(analyser);
+            analyser.connect(audioContext.destination);
+
+            // 启动振荡器
+            oscillator.start();
+
+            // 创建简单的生日音乐
+            const notes = [261.63, 293.66, 329.63, 349.23, 392.00, 440.00, 493.88, 523.25];
+            const duration = 0.3;
+
+            for (let i = 0; i < 16; i++) {
+                const note = notes[Math.floor(Math.random() * notes.length)];
+                const time = audioContext.currentTime + i * duration;
+                
+                oscillator.frequency.exponentialRampToValueAtTime(
+                    note, 
+                    time
+                );
+                
+                gainNode.gain.setValueAtTime(0.1, time);
+                gainNode.gain.exponentialRampToValueAtTime(
+                    0.01, 
+                    time + duration
+                );
+            }
+        }
+
+        // 切换全屏
+        function toggleFullscreen() {
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen().catch(err => {
+                    console.error(`Error attempting to enable fullscreen: ${err.message}`);
+                });
+            } else {
+                if (document.exitFullscreen) {
+                    document.exitFullscreen();
+                }
+            }
+        }
+
+        // 状态切换：蛋糕 -> 漂浮
+        function switchToFloating() {
+            if (currentState === 'floating') return;
+            currentState = 'floating';
+
+            // 粒子散开动画
+            const dummy = new THREE.Object3D();
+            for (let i = 0; i < cakeParticles.length; i++) {
+                const startPos = cakeParticles[i];
+                const endPos = floatingParticles[i];
+
+                new TWEEN.Tween(startPos)
+                    .to({ x: endPos.x, y: endPos.y, z: endPos.z }, 2000)
+                    .easing(TWEEN.Easing.Quadratic.Out)
+                    .start();
+            }
+
+            // 照片显示动画
+            if (photoPlane) {
+                new Tween(photoPlane.scale)
+                    .to({ x: 1, y: 1, z: 1 }, 1000)
+                    .easing(Easing.Quadratic.Out)
+                    .start();
+
+                new Tween(photoPlane.position)
+                    .to({ x: 0, y: 0, z: 0 }, 1000)
+                    .easing(Easing.Quadratic.Out)
+                    .start();
+            }
+        }
+
+        // 状态切换：漂浮 -> 蛋糕
+        function switchToCake() {
+            if (currentState === 'cake') return;
+            currentState = 'cake';
+
+            // 粒子聚合动画
+            const dummy = new THREE.Object3D();
+            for (let i = 0; i < cakeParticles.length; i++) {
+                const startPos = floatingParticles[i];
+                const endPos = cakeParticles[i];
+
+                new Tween(startPos)
+                    .to({ x: endPos.x, y: endPos.y, z: endPos.z }, 2000)
+                    .easing(Easing.Quadratic.Out)
+                    .start();
+            }
+
+            // 照片隐藏动画
+            if (photoPlane) {
+                new Tween(photoPlane.scale)
+                    .to({ x: 0.1, y: 0.1, z: 0.1 }, 1000)
+                    .easing(Easing.Quadratic.Out)
+                    .start();
+
+                new Tween(photoPlane.position)
+                    .to({ x: 0, y: -2, z: 0 }, 1000)
+                    .easing(Easing.Quadratic.Out)
+                    .start();
+            }
+        }
+
+        // 动画循环
+        function animate() {
+            requestAnimationFrame(animate);
+
+            if (isExperienceStarted) {
+                // 更新控制器
+                controls.update();
+
+                // 更新粒子
+                updateParticles();
+                updateGoldenSnow();
+                updateStars();
+
+                // 更新文本旋转
+                if (happyBirthdayText) {
+                    happyBirthdayText.rotation.y += 0.01;
+                }
+
+                // 更新照片平面
+                if (photoPlane && currentState === 'floating') {
+                    photoPlane.rotation.y += 0.005;
+                }
+
+                // 更新音频可视化（如果需要）
+                if (analyser && isMusicPlaying) {
+                    analyser.getByteFrequencyData(dataArray);
+                    // 这里可以根据音频数据更新视觉效果
+                }
+
+                // 渲染
+                composer.render();
+            } else {
+                // 仅渲染启动屏幕
+                renderer.render(scene, camera);
+            }
+        }
+
+        // 更新粒子
+        function updateParticles() {
+            if (!particleSystem) return;
+
+            const dummy = new THREE.Object3D();
+            for (let i = 0; i < cakeParticles.length; i++) {
+                const pos = currentState === 'cake' ? cakeParticles[i] : floatingParticles[i];
+                dummy.position.copy(pos);
+                dummy.updateMatrix();
+                particleSystem.setMatrixAt(i, dummy.matrix);
+            }
+            particleSystem.instanceMatrix.needsUpdate = true;
+
+            // 更新 Tween
+            TWEEN.update();
+        }
+
+        // 更新金色雪花
+        function updateGoldenSnow() {
+            goldenSnowParticles.forEach(snowflake => {
+                snowflake.position.add(snowflake.velocity);
+                
+                // 重置雪花位置
+                if (snowflake.position.y < -3) {
+                    snowflake.position.y = 5;
+                    snowflake.position.x = (Math.random() - 0.5) * 10;
+                    snowflake.position.z = (Math.random() - 0.5) * 10;
+                }
+                
+                // 旋转雪花
+                snowflake.rotation.x += 0.01;
+                snowflake.rotation.y += 0.02;
+            });
+        }
+
+        // 更新星空
+        function updateStars() {
+            stars.forEach(star => {
+                star.rotation.x += 0.001;
+                star.rotation.y += 0.002;
+            });
+        }
+
+        // 启动应用
+        window.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
