@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Three.js 终极竞速 - 驾驶室增强版</title>
+    <style>
+        body { margin: 0; overflow: hidden; background-color: #020205; font-family: 'Segoe UI', sans-serif; }
+        
+        /* HUD 全局 */
+        #hud {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            z-index: 20;
+        }
+        
+        /* 左侧信息面板 */
+        .panel {
+            position: absolute; top: 20px; left: 0;
+            background: rgba(0, 0, 0, 0.85);
+            border-left: 4px solid #ffcc00;
+            padding: 15px 20px; color: #fff;
+            width: 300px;
+            backdrop-filter: blur(8px);
+            border-radius: 0 10px 10px 0;
+            box-shadow: 0 0 20px rgba(255, 204, 0, 0.15);
+            pointer-events: auto; /* 允许点击按钮 */
+        }
+
+        h2 { margin: 0 0 10px 0; font-size: 1.2em; color: #ffcc00; text-transform: uppercase; letter-spacing: 1px; }
+        .stat-row { display: flex; justify-content: space-between; margin: 8px 0; border-bottom: 1px solid #333; padding-bottom: 5px; }
+        .stat-val { font-weight: bold; font-family: monospace; font-size: 1.2em; color: #fff; }
+        
+        /* 仪表盘 (屏幕底部中央) */
+        #dashboard {
+            position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%);
+            text-align: center; color: #fff;
+            text-shadow: 0 0 20px #ffcc00;
+        }
+        #speed-val { font-size: 7em; font-weight: 900; line-height: 0.9; font-style: italic; background: -webkit-linear-gradient(#fff, #ffcc00); -webkit-background-clip: text; -webkit-text-fill-color: transparent;}
+        #speed-unit { font-size: 1.2em; letter-spacing: 8px; margin-top: 5px; color: #ffcc00; opacity: 0.9; }
+
+        /* 摄像头小窗 (右上角) */
+        #cam-container {
+            position: absolute; 
+            top: 20px; right: 20px; /* 改到右上角 */
+            width: 280px; height: 210px;
+            border: 2px solid #ffcc00; border-radius: 8px;
+            background: #000; overflow: hidden;
+            transform: scaleX(-1); /* 镜像翻转 */
+            box-shadow: 0 0 25px rgba(255, 204, 0, 0.4);
+            z-index: 30;
+        }
+        video, canvas { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }
+        
+        /* 驾驶室字样 (不参与镜像翻转，所以要反向抵消父级的scaleX) */
+        .cam-label {
+            position: absolute; bottom: 0; left: 0; width: 100%;
+            background: rgba(255, 204, 0, 0.9);
+            color: #000; font-weight: 800; text-align: center;
+            font-size: 14px; padding: 4px 0;
+            text-transform: uppercase; letter-spacing: 2px;
+            transform: scaleX(-1); /* 抵消父级的镜像，让字变正 */
+        }
+
+        /* 交互按钮 */
+        #controls { margin-top: 15px; }
+        button {
+            background: #ffcc00; border: none; padding: 8px 15px; cursor: pointer;
+            font-weight: bold; color: #000; border-radius: 4px; transition: 0.2s; width: 100%;
+        }
+        button:hover { background: #fff; box-shadow: 0 0 15px #fff; }
+        
+        /* 顶部进度条 */
+        #progress-container {
+            position: absolute; top: 0; left: 0; width: 100%; height: 6px; background: #222;
+        }
+        #progress-bar {
+            height: 100%; background: linear-gradient(90deg, #ffcc00, #ff5500);
+            width: 0%; box-shadow: 0 0 15px #ffcc00; transition: width 0.1s linear;
+        }
+        
+        /* 冲线提示 */
+        #finish-overlay {
+            position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);
+            font-size: 6em; color: #ffcc00; font-weight: 900; text-shadow: 0 0 40px #ffcc00;
+            opacity: 0; transition: opacity 0.5s; pointer-events: none; z-index: 40;
+        }
+    </style>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <div id="progress-container"><div id="progress-bar"></div></div>
+    <div id="finish-overlay">FINISH!</div>
+
+    <div id="hud">
+        <div class="panel">
+            <h2>🏎️ 极速控制台</h2>
+            <div class="stat-row"><span>⏱️ 耗时</span> <span id="time-display" class="stat-val">00:00.00</span></div>
+            <div class="stat-row"><span>🏁 剩余</span> <span id="dist-display" class="stat-val">1000 m</span></div>
+            
+            <div id="controls">
+                <button onclick="toggleHands()">🔄 左右手逻辑互换</button>
+            </div>
+            
+            <div style="margin-top:15px; font-size:0.85em; color:#ccc; line-height:1.6;">
+                <p>👈 <b>左手</b>: 左右移动食指转向</p>
+                <p>✊ <b>右手</b>: 握拳前进</p>
+                <p style="color:#ffcc00">⚠️ 技巧: 手离摄像头越近，速度越快！</p>
+            </div>
+
+            <div style="margin-top:10px; padding-top:10px; border-top:1px solid #444;">
+                <p id="status-left">👈 转向: 等待...</p>
+                <p id="status-right">👉 动力: 等待...</p>
+            </div>
+        </div>
+
+        <div id="dashboard">
+            <div id="speed-val">0</div>
+            <div id="speed-unit">KM/H</div>
+        </div>
+    </div>
+
+    <div id="cam-container">
+        <video id="input_video"></video>
+        <canvas id="output_canvas" width="280" height="210"></canvas>
+        <div class="cam-label">驾驶室 / DRIVER CABIN</div>
+    </div>
+
+<script>
+    // ================= 游戏配置 =================
+    const TRACK_LENGTH = 10000; 
+    const LANE_WIDTH = 12;      
+    const TOTAL_WIDTH = LANE_WIDTH * 3; 
+    const OBSTACLE_COUNT = 50;
+    const MAX_SPEED_KMH = 200; 
+    
+    // 状态变量
+    let game = {
+        speed: 0,       
+        kmh: 0,         
+        targetKmh: 0,   
+        distance: 0,    
+        laneX: 0,       
+        startTime: null,
+        isFinished: false,
+        swapped: false
+    };
+
+    let fireworks = [];
+
+    // ================= 1. Three.js 场景 =================
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0x020205);
+    scene.fog = new THREE.Fog(0x020205, 100, 600); 
+
+    const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 2000);
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.shadowMap.enabled = true;
+    document.body.appendChild(renderer.domElement);
+
+    const ambientLight = new THREE.AmbientLight(0xffffff, 0.4);
+    scene.add(ambientLight);
+    const dirLight = new THREE.DirectionalLight(0xffcc00, 1.0);
+    dirLight.position.set(20, 100, -50);
+    dirLight.castShadow = true;
+    dirLight.shadow.camera.far = 2000;
+    scene.add(dirLight);
+
+    // --- 道路 ---
+    const roadGroup = new THREE.Group();
+    scene.add(roadGroup);
+
+    const roadGeo = new THREE.BufferGeometry();
+    const roadPoints = [];
+    const roadColors = [];
+    const colorLeft = new THREE.Color(0x0055ff);
+    const colorRight = new THREE.Color(0xff5500);
+
+    for (let i = 0; i < 15000; i++) {
+        const x = (Math.random() - 0.5) * TOTAL_WIDTH; 
+        const y = (Math.random() - 0.5) * 0.2;
+        const z = -Math.random() * TRACK_LENGTH;
+        roadPoints.push(x, y, z);
+        const progressX = (x + TOTAL_WIDTH/2) / TOTAL_WIDTH;
+        const c = colorLeft.clone().lerp(colorRight, progressX);
+        c.multiplyScalar(0.8 + Math.random() * 0.5);
+        roadColors.push(c.r, c.g, c.b);
+    }
+    roadGeo.setAttribute('position', new THREE.Float32BufferAttribute(roadPoints, 3));
+    roadGeo.setAttribute('color', new THREE.Float32BufferAttribute(roadColors, 3));
+    const roadSystem = new THREE.Points(roadGeo, new THREE.PointsMaterial({ size: 0.4, vertexColors: true }));
+    roadGroup.add(roadSystem);
+
+    function createLaneMarking(offsetX) {
+        const geometry = new THREE.BufferGeometry();
+        const positions = [];
+        for (let z = 0; z > -TRACK_LENGTH; z -= 20) {
+            for(let k=0; k<8; k++) positions.push(offsetX, 0.1, z - k * 1.5);
+        }
+        geometry.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
+        return new THREE.Points(geometry, new THREE.PointsMaterial({ color: 0xffffaa, size: 0.6 }));
+    }
+    roadGroup.add(createLaneMarking(-LANE_WIDTH / 2));
+    roadGroup.add(createLaneMarking(LANE_WIDTH / 2));
+
+    // --- 终点拱门 ---
+    function createFinishArch() {
+        const archGroup = new THREE.Group();
+        const mat = new THREE.MeshStandardMaterial({ color: 0xffd700, emissive: 0xaa8800, roughness: 0.3, metalness: 1.0 });
+        const pillarGeo = new THREE.BoxGeometry(3, 30, 3);
+        const leftPillar = new THREE.Mesh(pillarGeo, mat); leftPillar.position.set(-TOTAL_WIDTH/2 - 5, 15, -TRACK_LENGTH);
+        const rightPillar = new THREE.Mesh(pillarGeo, mat); rightPillar.position.set(TOTAL_WIDTH/2 + 5, 15, -TRACK_LENGTH);
+        const beamGeo = new THREE.BoxGeometry(TOTAL_WIDTH + 20, 5, 5);
+        const beam = new THREE.Mesh(beamGeo, mat); beam.position.set(0, 30, -TRACK_LENGTH);
+        archGroup.add(leftPillar, rightPillar, beam);
+        scene.add(archGroup);
+        const finishLight = new THREE.PointLight(0xffd700, 5, 100);
+        finishLight.position.set(0, 20, -TRACK_LENGTH + 10);
+        scene.add(finishLight);
+    }
+    createFinishArch();
+
+    // --- 障碍物 ---
+    const obstacles = [];
+    const boxGeo = new THREE.BoxGeometry(3.5, 3.5, 3.5);
+    const boxMat = new THREE.MeshStandardMaterial({ color: 0xff2200, emissive: 0x551100, roughness: 0.5, metalness: 0.7 });
+    for (let i = 0; i < OBSTACLE_COUNT; i++) {
+        const mesh = new THREE.Mesh(boxGeo, boxMat);
+        const zPos = - (300 + i * ((TRACK_LENGTH-500) / OBSTACLE_COUNT) + Math.random() * 100);
+        const laneIndex = Math.floor(Math.random() * 3) - 1; 
+        mesh.position.set(laneIndex * LANE_WIDTH, 1.75, zPos);
+        mesh.castShadow = true; mesh.receiveShadow = true;
+        roadGroup.add(mesh);
+        obstacles.push(mesh);
+    }
+
+    // --- 车辆 ---
+    const carGroup = new THREE.Group();
+    scene.add(carGroup);
+    const bodyMesh = new THREE.Mesh(new THREE.BoxGeometry(3.2, 1.2, 7), new THREE.MeshPhongMaterial({ color: 0xffcc00, shininess: 100 }));
+    bodyMesh.position.y = 0.8; carGroup.add(bodyMesh);
+    const cabinMesh = new THREE.Mesh(new THREE.BoxGeometry(2.8, 1.0, 3.5), new THREE.MeshPhongMaterial({ color: 0x111111 }));
+    cabinMesh.position.set(0, 1.8, -0.5); carGroup.add(cabinMesh);
+    const tailLight = new THREE.PointLight(0xff5500, 3, 40);
+    tailLight.position.set(0, 1.5, 4); carGroup.add(tailLight);
+    carGroup.position.set(0, 0, 0);
+
+    // ================= 2. 交互逻辑 (核心修复) =================
+    const elSpeed = document.getElementById('speed-val');
+    const elDash = document.getElementById('dashboard');
+    const elTime = document.getElementById('time-display');
+    const elDist = document.getElementById('dist-display');
+    const elProg = document.getElementById('progress-bar');
+    const elStatusL = document.getElementById('status-left');
+    const elStatusR = document.getElementById('status-right');
+    const elFinish = document.getElementById('finish-overlay');
+    const canvas = document.getElementById('output_canvas');
+    const ctx = canvas.getContext('2d');
+
+    window.toggleHands = function() { game.swapped = !game.swapped; };
+
+    function onResults(results) {
+        ctx.save();
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        
+        let leftHand = null, rightHand = null;
+
+        if (results.multiHandLandmarks) {
+            for (let i = 0; i < results.multiHandLandmarks.length; i++) {
+                const landmarks = results.multiHandLandmarks[i];
+                const label = results.multiHandedness[i].label; 
+                drawConnectors(ctx, landmarks, HAND_CONNECTIONS, {color: '#ffcc00', lineWidth: 2});
+                drawLandmarks(ctx, landmarks, {color: '#ff5500', lineWidth: 1, radius: 2});
+
+                let isPowerHand = (!game.swapped) ? (label === 'Left') : (label === 'Right');
+                if (isPowerHand) rightHand = landmarks; else leftHand = landmarks;
+            }
+        }
+
+        // --- 左手转向 ---
+        if (leftHand) {
+            let xPos = leftHand[8].x; 
+            let targetLaneX = (0.5 - xPos) * 3.5 * (TOTAL_WIDTH / 2); // 保持之前的反向逻辑
+            targetLaneX = Math.max(-TOTAL_WIDTH/2 + 1, Math.min(TOTAL_WIDTH/2 - 1, targetLaneX));
+            game.laneX += (targetLaneX - game.laneX) * 0.2; 
+            elStatusL.innerHTML = `👈 转向: <span style="color:#ffcc00">正常</span>`;
+        } else {
+            elStatusL.innerHTML = "👈 转向: 未检测";
+        }
+
+        // --- 右手动力 (全新逻辑) ---
+        if (rightHand) {
+            const wrist = rightHand[0];
+            const middleTip = rightHand[12];
+            
+            // 1. 握拳检测
+            const fistDist = Math.hypot(middleTip.x - wrist.x, middleTip.y - wrist.y);
+            // 稍微放宽握拳阈值
+            const isFist = fistDist < 0.3; 
+
+            if (isFist) {
+                // 2. 距离/速度检测 (修复版)
+                // 不使用不稳定的 Z 轴，改用手掌在画面中的 2D 尺寸
+                // 测量：手腕(0) 到 小指根部(17) 的欧氏距离
+                // 这个骨骼长度相对固定，但会随着手离摄像头远近而产生显著的视觉大小变化
+                const pinkyBase = rightHand[17];
+                const handSize = Math.hypot(pinkyBase.x - wrist.x, pinkyBase.y - wrist.y);
+                
+                // 调试参考值：
+                // 手离远(0.5米+): handSize 约 0.05 - 0.08
+                // 手贴脸(10厘米): handSize 约 0.25 - 0.3
+                
+                const sizeMin = 0.06; // 远
+                const sizeMax = 0.25; // 近
+                
+                // 归一化 (越近 size 越大，val 越大)
+                let val = (handSize - sizeMin) / (sizeMax - sizeMin);
+                val = Math.max(0, Math.min(1, val)); // 限制在 0-1
+                
+                // 速度曲线
+                let targetKmh = val * MAX_SPEED_KMH;
+                
+                // 低保速度 (握拳就有 20)
+                if (targetKmh < 20) targetKmh = 20;
+
+                game.targetKmh = targetKmh;
+                elStatusR.innerHTML = `👉 动力: <span style="color:#00ff00">油门 (信号强度 ${Math.round(val*100)}%)</span>`;
+            } else {
+                game.targetKmh = 0;
+                elStatusR.innerHTML = `👉 动力: <span style="color:#ff0000">刹车 (请握拳)</span>`;
+            }
+        } else {
+            game.targetKmh = 0;
+            elStatusR.innerHTML = "👉 动力: 未检测";
+        }
+        
+        ctx.restore();
+    }
+
+    // MediaPipe Setup
+    const hands = new Hands({locateFile: (file) => `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`});
+    hands.setOptions({ maxNumHands: 2, modelComplexity: 1, minDetectionConfidence: 0.5, minTrackingConfidence: 0.5 });
+    hands.onResults(onResults);
+    const cameraUtils = new Camera(document.getElementById('input_video'), {
+        onFrame: async () => { await hands.send({image: document.getElementById('input_video')}); },
+        width: 320, height: 240
+    });
+    cameraUtils.start();
+
+    // ================= 3. 烟花 =================
+    function triggerFireworks() {
+        for(let i=0; i<8; i++) {
+            createExplosion((Math.random()-0.5)*TOTAL_WIDTH*2, 30+Math.random()*20, -TRACK_LENGTH - 50+Math.random()*100);
+        }
+    }
+    function createExplosion(x, y, z) {
+        const pCount = 150;
+        const geo = new THREE.BufferGeometry();
+        const pos = new Float32Array(pCount * 3);
+        const cols = new Float32Array(pCount * 3);
+        const vels = [];
+        const color = new THREE.Color().setHSL(Math.random(), 1.0, 0.6);
+        for (let i = 0; i < pCount; i++) {
+            pos[i*3] = x; pos[i*3+1] = y; pos[i*3+2] = z;
+            vels.push((Math.random()-0.5)*15, (Math.random()-0.5)*15 + 8, (Math.random()-0.5)*15);
+            cols[i*3] = color.r; cols[i*3+1] = color.g; cols[i*3+2] = color.b;
+        }
+        geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+        geo.setAttribute('color', new THREE.BufferAttribute(cols, 3));
+        const pts = new THREE.Points(geo, new THREE.PointsMaterial({ size: 1.5, vertexColors: true, blending: THREE.AdditiveBlending, transparent: true }));
+        scene.add(pts);
+        fireworks.push({ mesh: pts, vels: vels, life: 2.5 });
+    }
+
+    // ================= 4. 循环 =================
+    const clock = new THREE.Clock();
+    
+    function animate() {
+        requestAnimationFrame(animate);
+        const dt = clock.getDelta();
+
+        if (game.kmh > 1 && !game.startTime) game.startTime = Date.now();
+        if (game.startTime && !game.isFinished) {
+            const diff = Date.now() - game.startTime;
+            const m = Math.floor(diff / 60000), s = Math.floor((diff % 60000) / 1000), ms = Math.floor((diff % 1000) / 10);
+            elTime.innerText = `${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}.${ms.toString().padStart(2,'0')}`;
+        }
+
+        if (!game.isFinished) {
+            game.kmh += (game.targetKmh - game.kmh) * 0.05; 
+            game.speed = game.kmh * 1.5; 
+            carGroup.position.z -= game.speed * dt;
+            game.distance = Math.abs(carGroup.position.z);
+        } else {
+            game.speed *= 0.95;
+            carGroup.position.z -= game.speed * dt;
+            game.kmh = game.speed / 1.5;
+        }
+
+        carGroup.position.x = game.laneX;
+        const laneDelta = game.laneX - (carGroup.userData.lastX || game.laneX);
+        carGroup.rotation.z = -laneDelta * 0.2;
+        carGroup.userData.lastX = game.laneX;
+        carGroup.position.y = (Math.sin(Date.now() * 0.05) * 0.08) * (game.kmh/200);
+
+        if (!game.isFinished) {
+            for (let obs of obstacles) {
+                if (Math.abs(obs.position.z - carGroup.position.z) < 4 && Math.abs(obs.position.x - carGroup.position.x) < 3.0) {
+                    game.kmh = -40; game.targetKmh = 0; carGroup.position.z += 15; 
+                    document.getElementById('hud').style.background = "rgba(255,50,0,0.5)";
+                    setTimeout(() => document.getElementById('hud').style.background = "transparent", 150);
+                }
+            }
+        }
+
+        if (game.distance >= TRACK_LENGTH && !game.isFinished) {
+            game.isFinished = true; elFinish.style.opacity = 1; triggerFireworks();
+        }
+
+        for (let i = fireworks.length - 1; i >= 0; i--) {
+            const fw = fireworks[i]; fw.life -= dt;
+            if (fw.life <= 0) { scene.remove(fw.mesh); fireworks.splice(i, 1); continue; }
+            const p = fw.mesh.geometry.attributes.position.array;
+            for (let j = 0; j < fw.vels.length / 3; j++) {
+                p[j*3] += fw.vels[j*3]*dt; p[j*3+1] += fw.vels[j*3+1]*dt; p[j*3+2] += fw.vels[j*3+2]*dt;
+                fw.vels[j*3+1] -= 9.8 * dt; 
+            }
+            fw.mesh.geometry.attributes.position.needsUpdate = true;
+            fw.mesh.material.opacity = fw.life / 2.5;
+        }
+
+        elSpeed.innerText = Math.round(game.kmh);
+        if (game.kmh > 150) elDash.style.transform = `translateX(-50%) translate(${(Math.random()-0.5)*5}px, ${(Math.random()-0.5)*5}px)`;
+        else elDash.style.transform = `translateX(-50%)`;
+        elDist.innerText = Math.max(0, Math.round((TRACK_LENGTH - game.distance) / 10)) + " m";
+        elProg.style.width = Math.min(100, (game.distance / TRACK_LENGTH) * 100) + "%";
+
+        camera.position.x = carGroup.position.x * 0.4;
+        camera.position.y = 8 + (game.kmh * 0.03); 
+        camera.position.z = carGroup.position.z + 15 + (game.kmh * 0.08); 
+        camera.lookAt(carGroup.position.x, 2, carGroup.position.z - 50);
+
+        renderer.render(scene, camera);
+    }
+
+    window.addEventListener('resize', () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+
+    animate();
+</script>
+</body>
+</html>
