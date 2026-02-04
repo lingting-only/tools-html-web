@@ -1,0 +1,858 @@
+* {
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  background-color: #000;
+}
+
+body {
+  overflow: hidden;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: "Russo One", "TencentFont", arial, sans-serif;
+  line-height: 1.25;
+  letter-spacing: 0.06em;
+  margin: 0;
+}
+
+.hide {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.remove {
+  display: none !important;
+}
+
+.blur {
+  filter: blur(12px);
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading-init {
+  width: 100%;
+  align-self: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+.loading-init__header {
+  font-size: 2.2em;
+  display: inline-flex;
+  align-items: center;
+}
+.loading-init__text {
+  display: flex;
+}
+.loading-init__text #loading-init__point {
+  width: 36px;
+  text-align: left;
+  margin-left: 3px;
+}
+.loading-init__status {
+  margin-top: 1em;
+  font-size: 0.8em;
+  opacity: 0.75;
+}
+
+.stage-container {
+  overflow: hidden;
+  box-sizing: initial;
+  border: 1px solid #222;
+  margin: -1px;
+}
+@media (max-width: 840px) {
+  .stage-container {
+    border: none;
+    margin: 0;
+  }
+}
+
+.canvas-container {
+  width: 100%;
+  height: 100%;
+  transition: filter 0.3s;
+}
+.canvas-container canvas {
+  position: absolute;
+  mix-blend-mode: lighten;
+  transform: translateZ(0);
+}
+
+.controls {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+@media (min-width: 840px) {
+  .controls {
+    visibility: visible;
+  }
+  .controls.hide:hover {
+    opacity: 1;
+  }
+}
+
+.menu {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 200;
+  background-color: rgba(0, 0, 0, 0.42);
+  transition: opacity 0.3s, visibility 0.3s;
+  backdrop-filter: blur(10px);
+}
+.menu__inner-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: opacity 0.3s;
+}
+.menu__header {
+  margin-top: auto;
+  margin-bottom: 8px;
+  padding-top: 16px;
+  font-size: 2em;
+  text-transform: uppercase;
+}
+.menu__subheader {
+  margin-bottom: auto;
+  padding-bottom: 12px;
+  font-size: 0.86em;
+  opacity: 0.8;
+}
+.menu form {
+  width: 100%;
+  max-width: 420px;
+  padding: 0 10px;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.menu .form-option {
+  display: flex;
+  align-items: center;
+  margin: 16px 0;
+  transition: opacity 0.3s;
+}
+.menu .form-option label {
+  display: block;
+  width: 33%;
+  padding-right: 12px;
+  text-align: right;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.menu .form-option--select select {
+  display: flex;
+  align-items: baseline;
+  width: 50%;
+  height: 30px;
+  font-size: 1rem;
+  font-family: "Russo One", "TencentFont", arial, sans-serif;
+  color: rgba(255, 255, 255, 0.5);
+  letter-spacing: 0.06em;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.menu .form-option--select select option {
+  background-color: black;
+}
+.menu .form-option--checkbox input {
+  display: block;
+  width: 26px;
+  height: 26px;
+  margin: 0;
+  opacity: 0.5;
+}
+.menu .form-option--datetime {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 16px 0;
+  transition: opacity 0.3s;
+}
+.menu .form-option--datetime input,
+.menu .form-option--datetime input.countdown-target,
+.menu .form-option input[type="datetime-local"] {
+  display: block !important;
+  width: 65% !important;
+  height: 30px !important;
+  font-size: 1rem !important;
+  font-family: "Russo One", "TencentFont", arial, sans-serif !important;
+  color: rgba(255, 255, 255, 0.5) !important;
+  letter-spacing: 0.06em !important;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+  padding: 0 8px !important;
+  box-sizing: border-box !important;
+  cursor: text !important;
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 1 !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: textfield !important;
+  appearance: none !important;
+  margin: 0 !important;
+  opacity: 1 !important;
+}
+.menu .form-option--datetime input:focus,
+.menu .form-option--datetime input.countdown-target:focus,
+.menu .form-option input[type="datetime-local"]:focus {
+  outline: none !important;
+  border-color: rgba(255, 255, 255, 0.8) !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.menu .form-option textarea.countdown-text {
+  display: block !important;
+  width: 70% !important;
+  min-width: 200px !important;
+  font-size: 1rem !important;
+  font-family: "Russo One", "TencentFont", arial, sans-serif !important;
+  color: rgba(255, 255, 255, 0.5) !important;
+  letter-spacing: 0.06em !important;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+  padding: 8px !important;
+  box-sizing: border-box !important;
+  cursor: text !important;
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 1 !important;
+  margin: 0 !important;
+  opacity: 1 !important;
+  resize: vertical !important;
+}
+.menu .form-option textarea.countdown-text:focus {
+  outline: none !important;
+  border-color: rgba(255, 255, 255, 0.8) !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.menu .form-option textarea.firework-text {
+  display: block !important;
+  width: 70% !important;
+  min-width: 200px !important;
+  font-size: 1rem !important;
+  font-family: "Russo One", "TencentFont", arial, sans-serif !important;
+  color: rgba(255, 255, 255, 0.5) !important;
+  letter-spacing: 0.06em !important;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+  padding: 8px !important;
+  box-sizing: border-box !important;
+  cursor: text !important;
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 1 !important;
+  margin: 0 !important;
+  opacity: 1 !important;
+  resize: vertical !important;
+}
+.menu .form-option textarea.firework-text:focus {
+  outline: none !important;
+  border-color: rgba(255, 255, 255, 0.8) !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.menu .form-option--datetime input::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+  opacity: 0.7;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}
+.menu .form-option--datetime input::-webkit-datetime-edit {
+  cursor: text;
+  padding: 0;
+}
+.menu .form-option--datetime input::-webkit-datetime-edit-fields-wrapper {
+  cursor: text;
+}
+.menu .form-option--datetime input::-webkit-datetime-edit-text {
+  cursor: text;
+}
+.menu .form-option--datetime input::-webkit-datetime-edit-month-field,
+.menu .form-option--datetime input::-webkit-datetime-edit-day-field,
+.menu .form-option--datetime input::-webkit-datetime-edit-year-field,
+.menu .form-option--datetime input::-webkit-datetime-edit-hour-field,
+.menu .form-option--datetime input::-webkit-datetime-edit-minute-field {
+  cursor: text;
+}
+@media (max-width: 840px) {
+  .menu .form-option select, .menu .form-option input {
+    outline: none;
+  }
+}
+
+.close-menu-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.btn {
+  opacity: 0.16;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  cursor: default;
+  transition: opacity 0.3s;
+}
+.btn--bright {
+  opacity: 0.5;
+}
+@media (min-width: 840px) {
+  .btn:hover {
+    opacity: 0.32;
+  }
+  .btn--bright:hover {
+    opacity: 0.75;
+  }
+}
+.btn svg {
+  display: block;
+  margin: auto;
+}
+
+.credits {
+  margin-top: auto;
+  margin-bottom: 10px;
+  padding-top: 6px;
+  font-size: 0.8em;
+  opacity: 0.75;
+  text-align: center;
+  position: relative;
+}
+.credits a {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+.credits a:hover, .credits a:active {
+  color: rgba(255, 255, 255, 0.75);
+  text-decoration: underline;
+}
+.credits .credit-btn {
+  opacity: 0;
+  left: -45px;
+  bottom: 5px;
+  z-index: 200;
+  pointer-events: none;
+  position: absolute;
+}
+.credits .credit-btn svg {
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+}
+.credits .credit-btn svg path {
+  fill: #ffffff;
+}
+
+.help-modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 300;
+  visibility: hidden;
+  transition-property: visibility;
+  transition-duration: 0.25s;
+}
+.help-modal__overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  transition-property: opacity;
+  transition-timing-function: ease-in;
+  transition-duration: 0.25s;
+}
+.help-modal__dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 400px;
+  max-height: calc(100vh - 100px);
+  margin: 10px;
+  padding: 20px;
+  border-radius: 0.3em;
+  background-color: rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  transform: scale(0.9, 0.9);
+  transition-property: opacity, transform;
+  transition-timing-function: ease-in;
+  transition-duration: 0.25s;
+}
+@media (min-width: 840px) {
+  .help-modal__dialog {
+    font-size: 1.25rem;
+    max-width: 500px;
+  }
+}
+.help-modal__header {
+  font-size: 1.75em;
+  text-transform: uppercase;
+  text-align: center;
+}
+.help-modal__body {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1em 0;
+  padding: 1em 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.75);
+}
+.help-modal__close-btn {
+  flex-shrink: 0;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  padding: 0.25em 0.75em;
+  margin-top: 0.36em;
+  font-family: "Russo One", arial, sans-serif;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background-color: rgba(255, 255, 255, 0.25);
+  transition: color 0.3s, background-color 0.3s;
+}
+.help-modal__close-btn:hover, .help-modal__close-btn:active, .help-modal__close-btn:focus {
+  color: #FFF;
+  background-color: #09F;
+}
+.help-modal.active {
+  visibility: visible;
+  transition-duration: 0.4s;
+}
+.help-modal.active .help-modal__overlay {
+  opacity: 1;
+  transition-timing-function: ease-out;
+  transition-duration: 0.4s;
+}
+.help-modal.active .help-modal__dialog {
+  opacity: 1;
+  transform: scale(1, 1);
+  transition-timing-function: ease-out;
+  transition-duration: 0.4s;
+}
+
+.time-text {
+  top: 0;
+  left: 0;
+  opacity: 0;
+  z-index: 100;
+  position: fixed;
+  padding: 15px 20px;
+  transition: all 0.3s;
+  user-select: none;
+}
+
+#Now-Time .time {
+  font-size: 36px;
+}
+
+#Now-Time .time span {
+  font-size: 60%;
+}
+
+#Now-Time .date {
+  font-size: 16px;
+}
+
+.Next-Time {
+  padding: 10px 15px;
+  min-width: 320px;
+  width: auto;
+  max-width: 90%;
+  min-height: 112px;
+  border-radius: 16px;
+  /* background-color: rgba(100, 100, 100, 0.04); */
+  /* backdrop-filter: blur(10px); */
+  margin-top: 15px;
+  /* box-shadow: 0 0 15px 0 rgba(100, 100, 100, 0.2); */
+}
+
+/* 倒计时区域叠化动画 */
+#Next-Year-Time {
+  transition: opacity 0.08s ease-in-out;
+  font-family: "Russo One", "TencentFont", arial, sans-serif !important;
+}
+
+/* 倒计时文字字体样式 */
+#Next-Year-Time * {
+  font-family: "Russo One", "TencentFont", arial, sans-serif !important;
+}
+
+/* 移动端第一行文字自适应 */
+@media (max-width: 768px) {
+  #Next-Year-Time span[style*="font-size:1.8rem"] {
+    font-size: 1.9rem !important;
+  }
+}
+
+/* 倒计时数字深绿色赛博朋克样式 */
+#Next-Year-Time .cyberpunk-number,
+#Next-Year-Time span.cyberpunk-number {
+  margin-top: 8px;
+  color: #00b45a !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+}
+
+@media(max-width: 500px) {
+    .time-text {
+        font-size: 14px;
+    }
+}
+
+#right-bottom-button {
+  right: 0;
+  bottom: 0;
+  z-index: 200;
+  position: fixed;
+  padding: 15px 20px;
+  transition: all 0.3s;
+}
+
+#right-bottom-button .parent-button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  overflow: hidden;
+  opacity: 0;
+  transition: all 0.3s;
+  transform: rotate(-90deg);
+}
+
+#right-bottom-button .parent-button svg {
+  width: 70%;
+  height: 70%;
+  opacity: 0;
+  position: absolute;
+  transition: all 0.3s;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#right-bottom-button .parent-button svg.o {
+  opacity: 1;
+}
+
+#right-bottom-button .parent-button svg path {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 90;
+  opacity: 0.2;
+}
+
+#right-bottom-button .parent-button:hover svg path {
+  opacity: 0.32;
+}
+
+#right-bottom-button .pause-btn,
+#right-bottom-button .sound-btn {
+  top: -20px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  cursor: pointer;
+}
+
+#right-bottom-button .sound-btn {
+  opacity: 0;
+  pointer-events: none;
+}
+
+body.loading #right-bottom-button {
+  opacity: 0;
+  pointer-events: none;
+}
+
+body.hide-controls #right-bottom-button,
+body.hide-controls .time-text {
+  opacity: 0 !important;
+}
+
+body.hide-controls #right-bottom-button:hover,
+body.hide-controls .time-text:hover {
+  opacity: 1 !important;
+}
+
+body.menu-open #right-bottom-button {
+  opacity: 1 !important;
+}
+
+body.menu-open #right-bottom-button .pause-btn {
+  opacity: 0;
+  pointer-events: none;
+}
+
+body.menu-open #right-bottom-button .sound-btn,
+body.menu-open #right-bottom-button .parent-button svg path{
+  opacity: 0.3;
+}
+
+
+body.menu-open .parent-button {
+  transform: rotate(0deg) !important;
+}
+
+body.menu-open .parent-button svg.o {
+  opacity: 0 !important;
+}
+
+body.menu-open .parent-button svg.x {
+  opacity: 1 !important;
+}
+
+body.menu-open .time-text {
+  opacity: 0 !important;
+}
+
+.close-menu-btn,
+.close-menu-btn svg,
+.close-menu-btn use {
+  display: none;
+  opacity: 0 !important;
+  user-select: none;
+  pointer-events: none;
+}
+
+@media(max-width: 630px) {
+  .credits * {
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .credits .copy {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .credits .credit-btn {
+    opacity: 1;
+    pointer-events: all;
+  }
+
+  .credits .credit-btn:hover {
+    opacity: 0 !important;
+  }
+
+  .credits .credit-btn:hover + .copy {
+    opacity: 1 !important;
+    pointer-events: all;
+  }
+}
+
+@media(max-width: 600px) {
+  .credits {
+    font-size: 12px;
+  }
+}
+
+@media(max-width: 560px) {
+  .credits {
+    font-size: 5px;
+  }
+
+  .credits .copy {
+    padding: 0 50px;
+  }
+
+  .credits .credit-btn {
+    left: 20px;
+    bottom: 6px;
+  }
+}
+
+
+/* 动画 */
+/* 打字机效果 */
+@keyframes typing {
+  0% { width: 0; }
+  100% { width: 100%; }
+}
+
+/* 倒计时数字脉冲动画 */
+@keyframes pulse {
+  0% {
+    transform: translate(-50%, -50%) scale(0.5);
+    opacity: 0;
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0.9;
+  }
+}
+
+/* 倒计时数字跳动动画 - 初始出现 */
+@keyframes countdownBounce {
+  0% {
+    transform: translate(-50%, -50%) scale(0.3);
+    opacity: 0;
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(0.9);
+    opacity: 1;
+  }
+  65% {
+    transform: translate(-50%, -50%) scale(0.75);
+  }
+  80% {
+    transform: translate(-50%, -50%) scale(0.82);
+  }
+  90% {
+    transform: translate(-50%, -50%) scale(0.79);
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(0.8);
+    opacity: 1;
+  }
+}
+
+/* 倒计时数字持续跳动动画 - 缓慢跳动 */
+@keyframes countdownBounceLoop {
+  0%, 100% {
+    transform: translate(-50%, -50%) scale(0.8);
+  }
+  25% {
+    transform: translate(-50%, -50%) scale(0.84);
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(0.76);
+  }
+  75% {
+    transform: translate(-50%, -50%) scale(0.82);
+  }
+}
+
+/* LED数字样式 - 7段显示器效果 */
+#countdown-number {
+  font-family: 'Orbitron', 'Courier New', 'Courier', monospace !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.15em !important;
+  font-variant-numeric: tabular-nums !important;
+  /* LED发光效果 - 减少阴影 */
+  filter: drop-shadow(0 0 2px currentColor);
+  /* 增强LED数字显示器的视觉效果 */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 桌面端倒计时数字更大 */
+@media (min-width: 1025px) {
+  #countdown-number {
+    font-size: 400px !important;
+  }
+}
+
+/* 平板端 */
+@media (min-width: 769px) and (max-width: 1024px) {
+  #countdown-number {
+    font-size: 250px !important;
+  }
+}
+
+/* 移动端 */
+@media (max-width: 768px) {
+  #countdown-number {
+    font-size: 200px !important;
+  }
+}
+
+/* 倒计时文案渐显动画 */
+@keyframes fadeInCountdownText {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, calc(-50% - 3px)) translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, calc(-50% - 3px)) translateY(0);
+  }
+}
+
+.countdown-text-container {
+  animation: fadeInCountdownText 1.5s ease-out forwards;
+}
+
+/* 粒子效果文字样式 */
+.particle-text {
+  position: relative;
+  display: inline-block;
+  animation: particle-glow 2s ease-in-out infinite;
+}
+
+/* 粒子发光动画 */
+@keyframes particle-glow {
+  0%, 100% {
+    text-shadow: 
+      0 0 5px rgba(255, 140, 66, 0.4),
+      0 0 10px rgba(255, 140, 66, 0.3),
+      0 0 15px rgba(244, 67, 54, 0.3),
+      /* 粒子飞散效果 */
+      2px 2px 0 rgba(255, 200, 100, 0.2),
+      -2px -2px 0 rgba(255, 150, 50, 0.2),
+      3px -3px 0 rgba(255, 180, 80, 0.2),
+      -3px 3px 0 rgba(255, 160, 60, 0.2);
+  }
+  50% {
+    text-shadow: 
+      0 0 8px rgba(255, 140, 66, 0.5),
+      0 0 15px rgba(255, 140, 66, 0.4),
+      0 0 20px rgba(244, 67, 54, 0.4),
+      /* 粒子飞散效果增强 */
+      3px 3px 0 rgba(255, 200, 100, 0.25),
+      -3px -3px 0 rgba(255, 150, 50, 0.25),
+      4px -4px 0 rgba(255, 180, 80, 0.25),
+      -4px 4px 0 rgba(255, 160, 60, 0.25);
+  }
+}
