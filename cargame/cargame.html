@@ -106,6 +106,7 @@
             
             <div id="controls">
                 <button onclick="toggleHands()">🔄 左右手逻辑互换</button>
+                <button onclick="restartGame()" id="restart-btn" style="margin-top:10px; display:none;">🏁 重新开始</button>
             </div>
             
             <div style="margin-top:15px; font-size:0.85em; color:#ccc; line-height:1.6;">
@@ -153,6 +154,14 @@
     };
 
     let fireworks = [];
+    
+    // 音频相关变量
+    let audioContext = null;
+    let accelerationSound = null;
+    let isAccelerating = false;
+    let lastAccelerationTime = 0;
+    let accelerationSource = null;
+    let accelerationGain = null;
 
     // ================= 1. Three.js 场景 =================
     const scene = new THREE.Scene();
@@ -229,13 +238,42 @@
 
     // --- 障碍物 ---
     const obstacles = [];
-    const boxGeo = new THREE.BoxGeometry(3.5, 3.5, 3.5);
-    const boxMat = new THREE.MeshStandardMaterial({ color: 0xff2200, emissive: 0x551100, roughness: 0.5, metalness: 0.7 });
+    const obstacleGeometries = [
+        new THREE.BoxGeometry(3.5, 3.5, 3.5),       // 立方体
+        new THREE.SphereGeometry(1.75, 16, 16),      // 球体
+        new THREE.CylinderGeometry(1.75, 1.75, 3.5, 16),  // 圆柱体
+        new THREE.ConeGeometry(2.5, 3.5, 16)         // 锥体
+    ];
+    const obstacleColors = [
+        { color: 0xff2200, emissive: 0x551100 },  // 红色
+        { color: 0x0055ff, emissive: 0x002255 },  // 蓝色
+        { color: 0x00ff55, emissive: 0x005522 },  // 绿色
+        { color: 0xffaa00, emissive: 0x555500 }   // 黄色
+    ];
+    
     for (let i = 0; i < OBSTACLE_COUNT; i++) {
-        const mesh = new THREE.Mesh(boxGeo, boxMat);
+        const geoIndex = Math.floor(Math.random() * obstacleGeometries.length);
+        const colorIndex = Math.floor(Math.random() * obstacleColors.length);
+        const geometry = obstacleGeometries[geoIndex];
+        const color = obstacleColors[colorIndex];
+        
+        const material = new THREE.MeshStandardMaterial({
+            color: color.color,
+            emissive: color.emissive,
+            roughness: 0.5,
+            metalness: 0.7
+        });
+        
+        const mesh = new THREE.Mesh(geometry, material);
         const zPos = - (300 + i * ((TRACK_LENGTH-500) / OBSTACLE_COUNT) + Math.random() * 100);
         const laneIndex = Math.floor(Math.random() * 3) - 1; 
         mesh.position.set(laneIndex * LANE_WIDTH, 1.75, zPos);
+        
+        // 为锥体添加旋转，使其尖端向上
+        if (geoIndex === 3) {
+            mesh.rotation.x = Math.PI / 2;
+        }
+        
         mesh.castShadow = true; mesh.receiveShadow = true;
         roadGroup.add(mesh);
         obstacles.push(mesh);
@@ -265,6 +303,155 @@
     const ctx = canvas.getContext('2d');
 
     window.toggleHands = function() { game.swapped = !game.swapped; };
+    
+    window.restartGame = function() {
+        // 重置游戏状态变量
+        game.speed = 0;
+        game.kmh = 0;
+        game.targetKmh = 0;
+        game.distance = 0;
+        game.laneX = 0;
+        game.startTime = null;
+        game.isFinished = false;
+        
+        // 重置UI元素
+        document.getElementById('time-display').textContent = '00:00.00';
+        document.getElementById('dist-display').textContent = '1000 m';
+        document.getElementById('progress-bar').style.width = '0%';
+        document.getElementById('finish-overlay').style.opacity = '0';
+        document.getElementById('restart-btn').style.display = 'none';
+        
+        // 重置车辆位置和旋转
+        carGroup.position.set(0, 0, 0);
+        carGroup.rotation.set(0, 0, 0);
+        carGroup.userData.lastX = 0;
+        
+        // 重置障碍物位置和类型
+        for (let i = 0; i < obstacles.length; i++) {
+            const mesh = obstacles[i];
+            const zPos = - (300 + i * ((TRACK_LENGTH-500) / OBSTACLE_COUNT) + Math.random() * 100);
+            const laneIndex = Math.floor(Math.random() * 3) - 1;
+            mesh.position.set(laneIndex * LANE_WIDTH, 1.75, zPos);
+            
+            // 随机更改障碍物的几何形状和颜色
+            const geoIndex = Math.floor(Math.random() * obstacleGeometries.length);
+            const colorIndex = Math.floor(Math.random() * obstacleColors.length);
+            const geometry = obstacleGeometries[geoIndex];
+            const color = obstacleColors[colorIndex];
+            
+            mesh.geometry.dispose();
+            mesh.geometry = geometry.clone();
+            mesh.material.dispose();
+            mesh.material = new THREE.MeshStandardMaterial({
+                color: color.color,
+                emissive: color.emissive,
+                roughness: 0.5,
+                metalness: 0.7
+            });
+            
+            // 为锥体添加旋转，使其尖端向上
+            if (geoIndex === 3) {
+                mesh.rotation.x = Math.PI / 2;
+            } else {
+                mesh.rotation.set(0, 0, 0);
+            }
+        }
+        
+        // 清除所有烟花
+        for (let fw of fireworks) {
+            scene.remove(fw.mesh);
+        }
+        fireworks = [];
+        
+        // 停止加速音效
+        stopAccelerationSound();
+        isAccelerating = false;
+    };
+
+    // 初始化音频系统
+    function initAudio() {
+        try {
+            audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            
+            // 创建加速音效
+            accelerationSound = createAccelerationSound();
+        } catch (e) {
+            console.log('音频初始化失败:', e);
+        }
+    }
+
+    // 创建加速音效
+    function createAccelerationSound() {
+        const duration = 2.0;
+        const sampleRate = audioContext.sampleRate;
+        const buffer = audioContext.createBuffer(1, sampleRate * duration, sampleRate);
+        const data = buffer.getChannelData(0);
+        
+        for (let i = 0; i < data.length; i++) {
+            const t = i / sampleRate;
+            
+            // 模拟真实引擎声音
+            // 1. 低频脉冲（引擎轰鸣）
+            const pulseRate = 25; // 引擎转速
+            const pulsePhase = Math.floor(t * pulseRate) * 2 * Math.PI;
+            const pulse = Math.sin(pulsePhase) * 0.4;
+            
+            // 2. 多个谐波成分
+            const harmonic1 = Math.sin(2 * Math.PI * 50 * t) * 0.25;
+            const harmonic2 = Math.sin(2 * Math.PI * 100 * t) * 0.15;
+            const harmonic3 = Math.sin(2 * Math.PI * 150 * t) * 0.1;
+            
+            // 3. 模拟机械运转的节奏
+            const mechanical = Math.sin(2 * Math.PI * 12.5 * t) * 0.08;
+            
+            // 4. 轻微的随机变化（模拟燃烧不均匀）
+            const variation = (Math.random() - 0.5) * 0.03;
+            
+            // 5. 柔和的包络（避免突然开始）
+            const envelope = Math.min(1, t * 10);
+            
+            // 组合所有成分
+            const engineSound = (pulse + harmonic1 + harmonic2 + harmonic3 + mechanical + variation) * envelope;
+            
+            // 应用软削波，避免刺耳
+            data[i] = Math.tanh(engineSound) * 0.2;
+        }
+        
+        return buffer;
+    }
+
+    // 开始播放加速音效
+    function startAccelerationSound() {
+        if (!audioContext || !accelerationSound || accelerationSource) return;
+        
+        try {
+            accelerationSource = audioContext.createBufferSource();
+            accelerationSource.buffer = accelerationSound;
+            accelerationSource.loop = true;
+            
+            accelerationGain = audioContext.createGain();
+            accelerationGain.gain.value = 0.3;
+            
+            accelerationSource.connect(accelerationGain);
+            accelerationGain.connect(audioContext.destination);
+            accelerationSource.start();
+        } catch (e) {
+            console.log('播放音效失败:', e);
+        }
+    }
+
+    // 停止播放加速音效
+    function stopAccelerationSound() {
+        if (accelerationSource) {
+            try {
+                accelerationSource.stop();
+                accelerationSource.disconnect();
+                accelerationSource = null;
+            } catch (e) {
+                console.log('停止音效失败:', e);
+            }
+        }
+    }
 
     function onResults(results) {
         ctx.save();
@@ -306,6 +493,18 @@
             const isFist = fistDist < 0.3; 
 
             if (isFist) {
+                // 开始播放加速音效（持续循环）
+                if (!isAccelerating) {
+                    isAccelerating = true;
+                    startAccelerationSound();
+                }
+                
+                // 根据速度调整音量
+                if (accelerationGain && game.targetKmh > 0) {
+                    const volume = 0.2 + (game.targetKmh / MAX_SPEED_KMH) * 0.3;
+                    accelerationGain.gain.value = Math.min(volume, 0.5);
+                }
+                
                 // 2. 距离/速度检测 (修复版)
                 // 不使用不稳定的 Z 轴，改用手掌在画面中的 2D 尺寸
                 // 测量：手腕(0) 到 小指根部(17) 的欧氏距离
@@ -334,10 +533,14 @@
                 elStatusR.innerHTML = `👉 动力: <span style="color:#00ff00">油门 (信号强度 ${Math.round(val*100)}%)</span>`;
             } else {
                 game.targetKmh = 0;
+                isAccelerating = false;
+                stopAccelerationSound();
                 elStatusR.innerHTML = `👉 动力: <span style="color:#ff0000">刹车 (请握拳)</span>`;
             }
         } else {
             game.targetKmh = 0;
+            isAccelerating = false;
+            stopAccelerationSound();
             elStatusR.innerHTML = "👉 动力: 未检测";
         }
         
@@ -353,7 +556,10 @@
         width: 320, height: 240
     });
     cameraUtils.start();
-
+    
+    // 初始化音频系统
+    initAudio();
+    
     // ================= 3. 烟花 =================
     function triggerFireworks() {
         for(let i=0; i<8; i++) {
@@ -421,7 +627,11 @@
         }
 
         if (game.distance >= TRACK_LENGTH && !game.isFinished) {
-            game.isFinished = true; elFinish.style.opacity = 1; triggerFireworks();
+            game.isFinished = true; 
+            elFinish.style.opacity = 1; 
+            triggerFireworks();
+            // 显示重新开始按钮
+            document.getElementById('restart-btn').style.display = 'block';
         }
 
         for (let i = fireworks.length - 1; i >= 0; i--) {
