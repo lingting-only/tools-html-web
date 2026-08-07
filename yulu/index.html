@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="毛主席语录 · 每日一思 - 每日抽取一条经典语录及当代解读" />
+  <title>毛主席语录 · 每日一思</title>
+  <link rel="preconnect" href="https://fonts.googleapis.cn" />
+  <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin />
+  <link href="https://fonts.googleapis.cn/css2?family=Noto+Sans+SC:wght@400;700&family=Noto+Serif+SC:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    /* ========== Reset & Base ========== */
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --red: #C41A1A;
+      --red-dark: #9E1414;
+      --paper: #F4EBD9;
+      --paper-dark: #E8DCBF;
+      --gold: #D4A24C;
+      --gold-light: #E8C97A;
+      --ink: #5C3D2E;
+      --ink-light: #8B7355;
+      --card-bg: #FAF5EA;
+      --bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+
+    html, body {
+      width: 100%; min-height: 100vh;
+      font-family: 'Noto Serif SC', 'STSong', 'SimSun', serif;
+      background-color: var(--paper);
+      color: var(--ink);
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Paper texture overlay */
+    body::before {
+      content: '';
+      position: fixed; inset: 0;
+      background-image:
+        radial-gradient(ellipse at 20% 50%, rgba(212,162,76,0.06) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 20%, rgba(196,26,26,0.04) 0%, transparent 50%),
+        repeating-linear-gradient(
+          0deg,
+          transparent,
+          transparent 28px,
+          rgba(139,115,85,0.04) 28px,
+          rgba(139,115,85,0.04) 29px
+        );
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ========== Particle Canvas ========== */
+    #particleCanvas {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    /* ========== Page Containers ========== */
+    .page {
+      position: relative;
+      z-index: 1;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0 20px 40px;
+    }
+
+    .page-hidden { display: none; }
+
+    /* ========== Header ========== */
+    .header {
+      text-align: center;
+      padding: 32px 0 20px;
+      width: 100%;
+      max-width: 420px;
+    }
+
+    .header-title {
+      font-family: 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--red);
+      letter-spacing: 2px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    /* CSS Star */
+    .star {
+      display: inline-block;
+      width: 28px; height: 28px;
+      position: relative;
+      flex-shrink: 0;
+    }
+    .star::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: var(--red);
+      clip-path: polygon(
+        50% 0%, 61% 35%, 98% 35%, 68% 57%,
+        79% 91%, 50% 70%, 21% 91%, 32% 57%,
+        2% 35%, 39% 35%
+      );
+    }
+
+    .header-sub {
+      font-family: 'Noto Serif SC', serif;
+      font-size: 13px;
+      color: var(--ink-light);
+      margin-top: 6px;
+      letter-spacing: 1px;
+    }
+
+    .header-line {
+      width: 60%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+      margin: 14px auto 0;
+    }
+
+    /* ========== Card Area ========== */
+    .card-scene {
+      width: 100%;
+      max-width: 360px;
+      perspective: 1000px;
+      margin: 16px auto 0;
+      flex: 1;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      min-height: 380px;
+    }
+
+    .card {
+      width: 100%;
+      min-height: 360px;
+      position: relative;
+      transform-style: preserve-3d;
+      transition: transform 0.8s var(--bounce);
+    }
+
+    .card.is-flipped {
+      transform: rotateY(180deg);
+    }
+
+    .card-face {
+      position: absolute;
+      inset: 0;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      border-radius: 6px;
+      border: 1.5px solid var(--gold);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Card Front (un-drawn state) */
+    .card-front {
+      background:
+        linear-gradient(135deg, var(--red) 0%, var(--red-dark) 100%);
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      padding: 40px 24px;
+    }
+
+    .card-front .big-star {
+      width: 72px; height: 72px;
+      position: relative;
+    }
+    .card-front .big-star::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: var(--gold);
+      clip-path: polygon(
+        50% 0%, 61% 35%, 98% 35%, 68% 57%,
+        79% 91%, 50% 70%, 21% 91%, 32% 57%,
+        2% 35%, 39% 35%
+      );
+    }
+
+    .card-front-text {
+      font-family: 'Noto Sans SC', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--paper);
+      letter-spacing: 4px;
+      text-align: center;
+    }
+
+    .card-front-sub {
+      font-size: 13px;
+      color: rgba(244,235,217,0.7);
+      letter-spacing: 2px;
+    }
+
+    /* Decorative corner borders on front */
+    .card-front::before,
+    .card-front::after {
+      content: '';
+      position: absolute;
+      width: 40px; height: 40px;
+      border-color: var(--gold);
+      border-style: solid;
+    }
+    .card-front::before {
+      top: 12px; left: 12px;
+      border-width: 2px 0 0 2px;
+    }
+    .card-front::after {
+      bottom: 12px; right: 12px;
+      border-width: 0 2px 2px 0;
+    }
+
+    /* Card Back (revealed quote) */
+    .card-back {
+      background: var(--card-bg);
+      transform: rotateY(180deg);
+      padding: 0;
+    }
+
+    .card-back-inner {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      padding: 28px 22px 22px;
+    }
+
+    .card-date {
+      font-family: 'Courier New', 'Noto Sans SC', monospace;
+      font-size: 12px;
+      color: var(--gold);
+      letter-spacing: 2px;
+      text-align: right;
+      margin-bottom: 12px;
+    }
+
+    .card-quote {
+      font-family: 'STKaiti', 'KaiTi', 'Kaiti SC', serif;
+      font-size: 22px;
+      font-weight: bold;
+      color: var(--red);
+      line-height: 1.7;
+      text-align: center;
+      padding: 8px 4px;
+      flex-shrink: 0;
+    }
+
+    .card-divider {
+      width: 50%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+      margin: 16px auto;
+      flex-shrink: 0;
+    }
+
+    .card-interp-label {
+      font-family: 'Noto Sans SC', sans-serif;
+      font-size: 11px;
+      color: var(--gold);
+      letter-spacing: 3px;
+      text-align: center;
+      margin-bottom: 8px;
+      flex-shrink: 0;
+    }
+
+    .card-interp {
+      font-family: 'Noto Serif SC', serif;
+      font-size: 14px;
+      color: var(--ink);
+      line-height: 1.8;
+      text-align: justify;
+      flex: 1;
+      overflow-y: auto;
+    }
+
+    .card-index {
+      font-family: 'Courier New', monospace;
+      font-size: 11px;
+      color: var(--ink-light);
+      text-align: center;
+      margin-top: 12px;
+      flex-shrink: 0;
+    }
+
+    /* ========== Button Area ========== */
+    .action-area {
+      width: 100%;
+      max-width: 360px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+      padding: 20px 0 0;
+    }
+
+    .btn-draw {
+      width: 100%;
+      padding: 14px 0;
+      font-family: 'Noto Sans SC', sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      color: var(--paper);
+      background: var(--red);
+      border: 2px solid var(--gold);
+      border-radius: 4px;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      transition: all 0.3s var(--bounce);
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .btn-draw:active {
+      transform: scale(0.97);
+      box-shadow: 0 0 20px rgba(212,162,76,0.4);
+    }
+
+    .btn-draw:disabled {
+      background: var(--ink-light);
+      border-color: var(--ink-light);
+      cursor: default;
+      opacity: 0.7;
+    }
+
+    .btn-draw.btn-redraw {
+      background: transparent;
+      color: var(--red);
+      border-color: var(--red);
+    }
+    .btn-draw.btn-redraw:hover {
+      background: var(--red);
+      color: var(--paper);
+    }
+
+    /* Gold glow on hover */
+    .btn-draw::after {
+      content: '';
+      position: absolute;
+      inset: -2px;
+      border-radius: 4px;
+      opacity: 0;
+      transition: opacity 0.3s;
+      box-shadow: 0 0 16px var(--gold-light), inset 0 0 8px rgba(212,162,76,0.2);
+    }
+    .btn-draw:hover::after { opacity: 1; }
+
+    .btn-records {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: none;
+      border: none;
+      font-family: 'Noto Serif SC', serif;
+      font-size: 14px;
+      color: var(--ink-light);
+      cursor: pointer;
+      padding: 8px 16px;
+      letter-spacing: 1px;
+      transition: color 0.2s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .btn-records:hover { color: var(--red); }
+
+    /* Book icon (CSS only) */
+    .icon-book {
+      display: inline-block;
+      width: 18px; height: 18px;
+      position: relative;
+    }
+    .icon-book::before {
+      content: '';
+      position: absolute;
+      left: 2px; top: 1px;
+      width: 14px; height: 16px;
+      border: 1.5px solid currentColor;
+      border-radius: 0 2px 2px 0;
+    }
+    .icon-book::after {
+      content: '';
+      position: absolute;
+      left: 2px; top: 3px;
+      width: 10px; height: 0;
+      border-top: 1.5px solid currentColor;
+    }
+
+    /* ========== Records Page ========== */
+    .records-page {
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: var(--paper);
+      overflow-y: auto;
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .records-page.is-open {
+      transform: translateX(0);
+    }
+
+    .records-header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: var(--paper);
+      padding: 20px 20px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--paper-dark);
+    }
+
+    .records-title {
+      font-family: 'Noto Sans SC', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--red);
+      letter-spacing: 2px;
+    }
+
+    .records-count {
+      font-family: 'Noto Serif SC', serif;
+      font-size: 13px;
+      color: var(--ink-light);
+    }
+
+    .btn-back {
+      background: none;
+      border: 1px solid var(--gold);
+      border-radius: 3px;
+      font-family: 'Noto Sans SC', sans-serif;
+      font-size: 13px;
+      color: var(--ink);
+      padding: 6px 14px;
+      cursor: pointer;
+      transition: all 0.2s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .btn-back:hover {
+      background: var(--gold);
+      color: var(--paper);
+    }
+
+    .records-list {
+      padding: 16px 20px 40px;
+      max-width: 480px;
+      margin: 0 auto;
+    }
+
+    .record-item {
+      position: relative;
+      padding: 16px 16px 16px 20px;
+      margin-bottom: 16px;
+      background: var(--card-bg);
+      border: 1px solid var(--paper-dark);
+      border-radius: 4px;
+      border-left: 3px solid var(--red);
+      opacity: 0;
+      transform: translateX(-20px);
+      animation: slideIn 0.4s var(--bounce) forwards;
+    }
+
+    /* Torn paper edge effect */
+    .record-item::after {
+      content: '';
+      position: absolute;
+      right: -1px; top: 0; bottom: 0;
+      width: 6px;
+      background: linear-gradient(
+        180deg,
+        var(--paper) 0%, var(--paper) 8%,
+        var(--card-bg) 8%, var(--card-bg) 15%,
+        var(--paper) 15%, var(--paper) 22%,
+        var(--card-bg) 22%, var(--card-bg) 35%,
+        var(--paper) 35%, var(--paper) 42%,
+        var(--card-bg) 42%, var(--card-bg) 55%,
+        var(--paper) 55%, var(--paper) 62%,
+        var(--card-bg) 62%, var(--card-bg) 75%,
+        var(--paper) 75%, var(--paper) 82%,
+        var(--card-bg) 82%, var(--card-bg) 90%,
+        var(--paper) 90%, var(--paper) 100%
+      );
+      opacity: 0.5;
+    }
+
+    @keyframes slideIn {
+      to { opacity: 1; transform: translateX(0); }
+    }
+
+    .record-date {
+      font-family: 'Courier New', monospace;
+      font-size: 12px;
+      color: var(--gold);
+      letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+
+    .record-quote {
+      font-family: 'STKaiti', 'KaiTi', 'Kaiti SC', serif;
+      font-size: 16px;
+      font-weight: bold;
+      color: var(--red);
+      line-height: 1.6;
+      margin-bottom: 8px;
+    }
+
+    .record-divider {
+      width: 40px;
+      height: 1px;
+      background: var(--gold);
+      margin-bottom: 8px;
+    }
+
+    .record-interp {
+      font-family: 'Noto Serif SC', serif;
+      font-size: 13px;
+      color: var(--ink);
+      line-height: 1.7;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .record-interp.expanded {
+      -webkit-line-clamp: unset;
+    }
+
+    .record-expand-btn {
+      background: none;
+      border: none;
+      font-family: 'Noto Serif SC', serif;
+      font-size: 12px;
+      color: var(--gold);
+      cursor: pointer;
+      padding: 4px 0;
+      margin-top: 4px;
+    }
+
+    .records-empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--ink-light);
+      font-size: 15px;
+      line-height: 2;
+    }
+
+    .records-empty .empty-star {
+      display: block;
+      width: 40px; height: 40px;
+      margin: 0 auto 16px;
+      position: relative;
+      opacity: 0.3;
+    }
+    .records-empty .empty-star::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: var(--ink-light);
+      clip-path: polygon(
+        50% 0%, 61% 35%, 98% 35%, 68% 57%,
+        79% 91%, 50% 70%, 21% 91%, 32% 57%,
+        2% 35%, 39% 35%
+      );
+    }
+
+    /* ========== Animations ========== */
+    @keyframes cardAppear {
+      0% { opacity: 0; transform: scale(0.9) translateY(20px); }
+      100% { opacity: 1; transform: scale(1) translateY(0); }
+    }
+
+    .card-scene { animation: cardAppear 0.6s var(--bounce); }
+
+    /* ========== Responsive ========== */
+    @media (max-width: 360px) {
+      .header-title { font-size: 19px; }
+      .card-quote { font-size: 19px; }
+      .card-interp { font-size: 13px; }
+    }
+
+    @media (min-width: 480px) {
+      .header-title { font-size: 24px; }
+      .card-scene { max-width: 400px; min-height: 420px; }
+      .card { min-height: 400px; }
+    }
+
+    /* ========== Scrollbar ========== */
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 2px; }
+  </style>
+</head>
+<body>
+  <!-- ===== Particle Background ===== -->
+  <canvas id="particleCanvas"></canvas>
+
+  <!-- ===== Main Page ===== -->
+  <div class="page" id="mainPage">
+    <header class="header">
+      <h1 class="header-title">
+        <span class="star"></span>
+        毛主席语录 · 每日一思
+        <span class="star"></span>
+      </h1>
+      <p class="header-sub">经典语录 · 当代解读 · 每日一卡</p>
+      <div class="header-line"></div>
+    </header>
+
+    <div class="card-scene">
+      <div class="card" id="card">
+        <!-- Front -->
+        <div class="card-face card-front" id="cardFront">
+          <div class="big-star"></div>
+          <div class="card-front-text">毛主席语录</div>
+          <div class="card-front-sub">点击抽取今日语录</div>
+        </div>
+        <!-- Back -->
+        <div class="card-face card-back" id="cardBack">
+          <div class="card-back-inner">
+            <div class="card-date" id="cardDate"></div>
+            <div class="card-quote" id="cardQuote"></div>
+            <div class="card-divider"></div>
+            <div class="card-interp-label">- 当代解读 -</div>
+            <div class="card-interp" id="cardInterp"></div>
+            <div class="card-index" id="cardIndex"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="action-area">
+      <button class="btn-draw" id="btnDraw">抽取今日语录</button>
+      <button class="btn-records" id="btnRecords">
+        <span class="icon-book"></span>
+        我的记录本
+      </button>
+    </div>
+  </div>
+
+  <!-- ===== Records Page ===== -->
+  <div class="records-page" id="recordsPage">
+    <div class="records-header">
+      <div>
+        <div class="records-title">我的记录本</div>
+        <div class="records-count" id="recordsCount"></div>
+      </div>
+      <button class="btn-back" id="btnBack">返回</button>
+    </div>
+    <div class="records-list" id="recordsList"></div>
+  </div>
+
+  <script>
+    /* ========== Quotes Data (50 items) ========== */
+    var QUOTES = [
+      {q:"星星之火，可以燎原。",i:"每一个微小的善意、每一次个体的觉醒，都可能成为推动社会进步的火种。在信息碎片化的时代，坚持做正确的事，终将汇聚成改变的力量。"},
+      {q:"一切反动派都是纸老虎。",i:"面对生活中的困难、职场的内卷、或看似不可撼动的旧观念，外表吓人但内在虚弱。真正的勇气在于识破虚张声势，用行动戳破它。"},
+      {q:"枪杆子里面出政权。",i:"在今天，核心竞争力就是我们的「枪杆子」。无论是专业能力、独立思考，还是健康的体魄，都是我们立足社会、争取话语权的根本。"},
+      {q:"雄关漫道真如铁，而今迈步从头越。",i:"人生低谷或事业瓶颈时，这句话提醒我们：再坚固的难关也挡不住重新出发的决心。每一次重启都值得尊重。"},
+      {q:"不到长城非好汉。",i:"设定目标就要坚持到底。在快节奏的今天，半途而废太容易，而「抵达」本身，就是对浮躁最好的反击。"},
+      {q:"红军不怕远征难，万水千山只等闲。",i:"当代人的「长征」可能是房贷、育儿、或职业转型。把漫长的挑战看作必经的旅途，心态从容了，路也就不那么难了。"},
+      {q:"为有牺牲多壮志，敢教日月换新天。",i:"任何有意义的改变都需要付出代价。舍弃安逸、放弃短期利益，才能换来真正想要的新局面。"},
+      {q:"宜将剩勇追穷寇，不可沽名学霸王。",i:"做事要一鼓作气，不要半途而废，更不要为了虚名而错失良机。在竞争激烈的社会，果断比犹豫更珍贵。"},
+      {q:"天若有情天亦老，人间正道是沧桑。",i:"社会在变化中前进，公平与正义需要不断斗争才能实现。面对复杂现实，保持清醒，走正道，哪怕沧桑也值得。"},
+      {q:"自信人生二百年，会当水击三千里。",i:"年轻人最宝贵的财富就是自信。哪怕没有「二百年」的寿命，也要有三千里击水的豪情，敢想敢闯。"},
+      {q:"世界是你们的，也是我们的，但是归根结底是你们的。",i:"每一代人都肩负着时代的责任。当下社会的问题，最终要由当下的年轻人去解决，去创造。"},
+      {q:"青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。",i:"别被「躺平」的论调裹挟。青年人的活力与创造力，依然是这个社会最稀缺的资源。"},
+      {q:"下定决心，不怕牺牲，排除万难，去争取胜利。",i:"决心是成事的第一要素。在面对不确定性时，坚定的意志往往比资源更重要。"},
+      {q:"人固有一死，或重于泰山，或轻于鸿毛。",i:"生命的价值在于质量而非长度。在现代社会，找到自己存在的意义，比盲目活着更重要。"},
+      {q:"为人民服务。",i:"无论从事什么职业，服务他人、创造价值，才是立身之本。利他主义，在功利时代依然闪闪发光。"},
+      {q:"群众是真正的英雄。",i:"高手在民间。不要轻视身边普通人的智慧，许多突破性的创新往往来自一线实践。"},
+      {q:"从群众中来，到群众中去。",i:"做产品、做内容、甚至做人，都要贴近真实的生活。脱离群众的想法，注定行不远。"},
+      {q:"没有调查就没有发言权。",i:"在网络信息泛滥的今天，独立思考的前提是亲自了解真相。别被二手信息带偏。"},
+      {q:"实践是检验真理的唯一标准。",i:"再漂亮的理论，不如做一次实验。行动力，是区分空想家与实干家的分水岭。"},
+      {q:"你要知道梨子的滋味，就要亲口尝一尝。",i:"鼓励体验式学习。无论是新技能、新行业，还是新生活，不亲自下水，永远不知道水有多深。"},
+      {q:"读书是学习，使用也是学习，而且是更重要的学习。",i:"学以致用才是真学。在信息过载的时代，输出的能力比输入的能力更能体现价值。"},
+      {q:"好好学习，天天向上。",i:"这句最简单的话，却是对抗年龄焦虑的最佳武器。保持终身学习，就是保持青春。"},
+      {q:"知识的问题是一个科学问题，来不得半点的虚伪和骄傲。",i:"在追求真理的路上，诚实比聪明更重要。承认自己不知道，是知道的开始。"},
+      {q:"谦虚使人进步，骄傲使人落后。",i:"在这个快速变化的时代，保持谦逊意味着保持对未知的开放，而傲慢只会让你停留在过去。"},
+      {q:"一个人做点好事并不难，难的是一辈子做好事。",i:"持续的小善，比短暂的轰轰烈烈更有力量。长期主义，在道德层面同样适用。"},
+      {q:"错误和挫折教训了我们，使我们比较地聪明起来了。",i:"不要害怕犯错，要把失败当成「学费」。聪明人不是不犯错，而是能从错误中复盘。"},
+      {q:"哪里有压迫，哪里就有反抗。",i:"职场霸凌、生活压迫，当不合理出现时，要有说「不」的勇气。反抗不是破坏，而是维护边界。"},
+      {q:"不打无准备之仗，不打无把握之仗。",i:"无论是跳槽、创业还是投资，准备越充分，胜算越大。盲目冒险，大概率成为炮灰。"},
+      {q:"战略上要藐视敌人，战术上要重视敌人。",i:"心态上要放松，行动上要严谨。面对压力，心态撑住，细节做好，才能赢。"},
+      {q:"敌进我退，敌驻我扰，敌疲我打，敌退我追。",i:"在竞争中，灵活应变比硬碰硬更重要。学会迂回，是成熟的表现。"},
+      {q:"兵民是胜利之本。",i:"对一个团队或企业来说，普通员工才是真正的基石。善待每一个奋斗者。"},
+      {q:"武器是战争的重要因素，但不是决定的因素，决定的因素是人不是物。",i:"工具再先进，也取决于使用它的人。人的主观能动性，永远是第一生产力。"},
+      {q:"战争的伟力之最深厚的根源，存在于民众之中。",i:"任何事业，只要赢得了人心，就赢得了根本。商业如此，公益亦如此。"},
+      {q:"我们能够学会我们原来不懂的东西。",i:"打破「我不会」的思维定式。人的可塑性极强，只要愿意学，没有学不会的。"},
+      {q:"世上无难事，只要肯登攀。",i:"所有的困难，都怕「认真」二字。在浮躁的时代，专注和勤奋依然是捷径。"},
+      {q:"一万年太久，只争朝夕。",i:"告别拖延。想做的事，今天就是最好的开始。未来不可期，当下最珍贵。"},
+      {q:"数风流人物，还看今朝。",i:"不要一味崇拜过去或远方。今天的你，就是时代的主角。"},
+      {q:"江山如此多娇，引无数英雄竞折腰。",i:"热爱生活，热爱这片土地。在平凡中发现美，也是一种英雄主义。"},
+      {q:"红雨随心翻作浪，青山着意化为桥。",i:"心态决定风景。当我们积极起来，困难可以变成浪花，阻碍可以变成桥梁。"},
+      {q:"金猴奋起千钧棒，玉宇澄清万里埃。",i:"面对网络乱象或社会不公，需要有人挺身而出，扫除污浊。"},
+      {q:"独有英雄驱虎豹，更无豪杰怕熊罴。",i:"真正的强者，无惧任何挑战。内心的强大，是面对一切不确定性的铠甲。"},
+      {q:"坐地日行八万里，巡天遥看一千河。",i:"互联网时代，我们虽未动身，但视野早已突破地理限制。保持对世界的想象力。"},
+      {q:"春风杨柳万千条，六亿神州尽舜尧。",i:"人人皆可成才。在当下，每个人都有机会通过努力实现自我价值。"},
+      {q:"革命不是请客吃饭。",i:"任何变革——无论是个人转型还是社会进步——都是严肃的、需要付出代价的，不是风花雪月。"},
+      {q:"彻底的唯物主义是无所畏惧的。",i:"实事求是，不迷信权威，不畏惧困难。看清事物的本质，人就会变得勇敢。"},
+      {q:"人类总得不断地总结经验，有所发现，有所发明，有所创造，有所前进。",i:"进化是人类的宿命。不总结经验的人，注定在原地打转。"},
+      {q:"我们走过了许多弯路，但错误常常是正确的先导。",i:"所有走过的弯路，都会变成未来脚下的路。允许自己犯错，允许自己试错。"},
+      {q:"凡是敌人反对的，我们就要拥护；凡是敌人拥护的，我们就要反对。",i:"在信息战时代，要学会逆向思考。别人的反对，有时恰恰证明你走对了路。"},
+      {q:"我们需要的是热烈而镇定的情绪，紧张而有秩序的工作。",i:"现代人最稀缺的状态——既保持热情，又保持冷静。平衡，是最高级的生存智慧。"},
+      {q:"前途是光明的，道路是曲折的。",i:"相信未来，但正视当下。这是对当下最好的注解——希望常在，但需脚踏实地。"}
+    ];
+
+    /* ========== Storage Keys ========== */
+    var STORAGE_TODAY = 'mao_quotes_today';
+    var STORAGE_HISTORY = 'mao_quotes_history';
+
+    /* ========== Utility Functions ========== */
+    function getTodayStr() {
+      var d = new Date();
+      var y = d.getFullYear();
+      var m = String(d.getMonth() + 1).padStart(2, '0');
+      var day = String(d.getDate()).padStart(2, '0');
+      return y + '-' + m + '-' + day;
+    }
+
+    function getTodayRecord() {
+      try {
+        var data = JSON.parse(localStorage.getItem(STORAGE_TODAY));
+        if (data && data.date === getTodayStr()) return data;
+      } catch(e) {}
+      return null;
+    }
+
+    function saveTodayRecord(quote, interpret) {
+      var record = { q: quote, i: interpret, date: getTodayStr() };
+      localStorage.setItem(STORAGE_TODAY, JSON.stringify(record));
+      return record;
+    }
+
+    function getHistory() {
+      try {
+        return JSON.parse(localStorage.getItem(STORAGE_HISTORY)) || [];
+      } catch(e) { return []; }
+    }
+
+    function addToHistory(record) {
+      var history = getHistory();
+      // Avoid duplicates by date
+      history = history.filter(function(r) { return r.date !== record.date; });
+      history.unshift(record);
+      localStorage.setItem(STORAGE_HISTORY, JSON.stringify(history));
+    }
+
+    function getRandomQuote() {
+      var idx = Math.floor(Math.random() * QUOTES.length);
+      return { quote: QUOTES[idx].q, interpret: QUOTES[idx].i, index: idx + 1 };
+    }
+
+    /* ========== DOM References ========== */
+    var card = document.getElementById('card');
+    var cardDate = document.getElementById('cardDate');
+    var cardQuote = document.getElementById('cardQuote');
+    var cardInterp = document.getElementById('cardInterp');
+    var cardIndex = document.getElementById('cardIndex');
+    var btnDraw = document.getElementById('btnDraw');
+    var btnRecords = document.getElementById('btnRecords');
+    var btnBack = document.getElementById('btnBack');
+    var recordsPage = document.getElementById('recordsPage');
+    var recordsList = document.getElementById('recordsList');
+    var recordsCount = document.getElementById('recordsCount');
+
+    /* ========== Card Display ========== */
+    function showRecord(record, animate) {
+      cardDate.textContent = record.date;
+      cardQuote.textContent = record.q;
+      cardInterp.textContent = record.i;
+      // Find index
+      var idx = -1;
+      for (var k = 0; k < QUOTES.length; k++) {
+        if (QUOTES[k].q === record.q) { idx = k + 1; break; }
+      }
+      cardIndex.textContent = idx > 0 ? ('No.' + idx + ' / ' + QUOTES.length) : '';
+
+      if (animate) {
+        card.classList.remove('is-flipped');
+        // Force reflow
+        void card.offsetWidth;
+        card.classList.add('is-flipped');
+      } else {
+        card.classList.add('is-flipped');
+      }
+    }
+
+    function updateButtonState(hasDrawn) {
+      if (hasDrawn) {
+        btnDraw.textContent = '重新抽取';
+        btnDraw.disabled = false;
+        btnDraw.classList.add('btn-redraw');
+      } else {
+        btnDraw.textContent = '抽取今日语录';
+        btnDraw.disabled = false;
+        btnDraw.classList.remove('btn-redraw');
+      }
+    }
+
+    /* ========== Draw Logic ========== */
+    var isDrawing = false;
+
+    function drawQuote() {
+      if (isDrawing) return;
+      isDrawing = true;
+
+      var today = getTodayRecord();
+
+      if (today) {
+        // Re-draw: flip back, then draw new
+        card.classList.remove('is-flipped');
+        setTimeout(function() {
+          var picked = getRandomQuote();
+          var record = saveTodayRecord(picked.quote, picked.interpret);
+          addToHistory(record);
+          showRecord(record, true);
+          updateButtonState(true);
+          isDrawing = false;
+        }, 500);
+        return;
+      }
+
+      // First draw
+      var picked = getRandomQuote();
+      var record = saveTodayRecord(picked.quote, picked.interpret);
+      addToHistory(record);
+      showRecord(record, true);
+      updateButtonState(true);
+      isDrawing = false;
+    }
+
+    /* ========== Records Page ========== */
+    function renderRecords() {
+      var history = getHistory();
+      recordsCount.textContent = '共收录 ' + history.length + ' 天';
+
+      if (history.length === 0) {
+        recordsList.innerHTML =
+          '<div class="records-empty">' +
+            '<span class="empty-star"></span>' +
+            '<p>还没有抽卡记录</p>' +
+            '<p>快去抽取今日语录吧</p>' +
+          '</div>';
+        return;
+      }
+
+      var html = '';
+      for (var r = 0; r < history.length; r++) {
+        var rec = history[r];
+        var delay = (r * 0.08).toFixed(2);
+        html +=
+          '<div class="record-item" style="animation-delay:' + delay + 's" data-idx="' + r + '">' +
+            '<div class="record-date">' + rec.date + '</div>' +
+            '<div class="record-quote">' + escapeHtml(rec.q) + '</div>' +
+            '<div class="record-divider"></div>' +
+            '<div class="record-interp" id="interp-' + r + '">' + escapeHtml(rec.i) + '</div>' +
+            '<button class="record-expand-btn" data-target="interp-' + r + '">展开解读</button>' +
+          '</div>';
+      }
+      recordsList.innerHTML = html;
+    }
+
+    function escapeHtml(str) {
+      var div = document.createElement('div');
+      div.appendChild(document.createTextNode(str));
+      return div.innerHTML;
+    }
+
+    function openRecords() {
+      renderRecords();
+      recordsPage.classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeRecords() {
+      recordsPage.classList.remove('is-open');
+      document.body.style.overflow = '';
+    }
+
+    /* ========== Event Listeners ========== */
+    btnDraw.addEventListener('click', drawQuote);
+    btnRecords.addEventListener('click', openRecords);
+    btnBack.addEventListener('click', closeRecords);
+
+    // Expand/collapse interpretation in records
+    recordsList.addEventListener('click', function(e) {
+      if (e.target.classList.contains('record-expand-btn')) {
+        var targetId = e.target.getAttribute('data-target');
+        var el = document.getElementById(targetId);
+        if (el) {
+          var isExpanded = el.classList.toggle('expanded');
+          e.target.textContent = isExpanded ? '收起解读' : '展开解读';
+        }
+      }
+    });
+
+    /* ========== Init ========== */
+    (function init() {
+      var today = getTodayRecord();
+      if (today) {
+        showRecord(today, false);
+        updateButtonState(true);
+      } else {
+        updateButtonState(false);
+      }
+    })();
+
+    /* ========== Particle Background ========== */
+    (function initParticles() {
+      var canvas = document.getElementById('particleCanvas');
+      var ctx = canvas.getContext('2d');
+      var particles = [];
+      var PARTICLE_COUNT = 35;
+      var animId = null;
+
+      function resize() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+      }
+
+      function createParticle() {
+        var colors = [
+          'rgba(196, 26, 26, ',   // red
+          'rgba(212, 162, 76, ',  // gold
+          'rgba(232, 201, 122, ', // light gold
+          'rgba(158, 20, 20, '    // dark red
+        ];
+        var color = colors[Math.floor(Math.random() * colors.length)];
+        var size = Math.random() * 3 + 1;
+        return {
+          x: Math.random() * canvas.width,
+          y: Math.random() * canvas.height,
+          size: size,
+          speedX: (Math.random() - 0.5) * 0.3,
+          speedY: -(Math.random() * 0.4 + 0.1),
+          opacity: Math.random() * 0.5 + 0.1,
+          opacityDir: (Math.random() > 0.5 ? 1 : -1) * (Math.random() * 0.005 + 0.002),
+          color: color,
+          life: Math.random() * 200 + 100
+        };
+      }
+
+      function initParticleArray() {
+        particles = [];
+        for (var i = 0; i < PARTICLE_COUNT; i++) {
+          particles.push(createParticle());
+        }
+      }
+
+      function updateParticle(p) {
+        p.x += p.speedX;
+        p.y += p.speedY;
+        p.opacity += p.opacityDir;
+        p.life--;
+
+        // Fade boundaries
+        if (p.opacity > 0.6) p.opacityDir = -Math.abs(p.opacityDir);
+        if (p.opacity < 0.05) p.opacityDir = Math.abs(p.opacityDir);
+
+        // Reset when off screen or dead
+        if (p.y < -10 || p.x < -10 || p.x > canvas.width + 10 || p.life <= 0) {
+          p.x = Math.random() * canvas.width;
+          p.y = canvas.height + 10;
+          p.opacity = 0.1;
+          p.life = Math.random() * 200 + 100;
+          p.speedX = (Math.random() - 0.5) * 0.3;
+          p.speedY = -(Math.random() * 0.4 + 0.1);
+        }
+      }
+
+      function drawParticle(p) {
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+        ctx.fillStyle = p.color + p.opacity + ')';
+        ctx.fill();
+
+        // Add subtle glow for larger particles
+        if (p.size > 2) {
+          ctx.beginPath();
+          ctx.arc(p.x, p.y, p.size * 2.5, 0, Math.PI * 2);
+          ctx.fillStyle = p.color + (p.opacity * 0.15) + ')';
+          ctx.fill();
+        }
+      }
+
+      function animate() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        for (var i = 0; i < particles.length; i++) {
+          updateParticle(particles[i]);
+          drawParticle(particles[i]);
+        }
+        animId = requestAnimationFrame(animate);
+      }
+
+      // Init
+      resize();
+      initParticleArray();
+      animate();
+
+      // Handle resize
+      var resizeTimer;
+      window.addEventListener('resize', function() {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function() {
+          resize();
+          initParticleArray();
+        }, 200);
+      });
+
+      // Pause when page hidden for performance
+      document.addEventListener('visibilitychange', function() {
+        if (document.hidden) {
+          if (animId) cancelAnimationFrame(animId);
+        } else {
+          animate();
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
