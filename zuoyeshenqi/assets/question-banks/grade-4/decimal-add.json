@@ -1,0 +1,7658 @@
+{
+  "title": "4年级 · 小数加法",
+  "grade": 4,
+  "category": "小数加法",
+  "range": "进阶 · 一位小数",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "20.4 + 45.7 = ?",
+      "answer": [
+        "66.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.6 + 35.8 = ?",
+      "answer": [
+        "91.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 + 40.4 = ?",
+      "answer": [
+        "77.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 48.8 = ?",
+      "answer": [
+        "49.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.7 + 54.2 = ?",
+      "answer": [
+        "54.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.6 + 80.8 = ?",
+      "answer": [
+        "102.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.4 + 69.7 = ?",
+      "answer": [
+        "165.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.3 + 78.7 = ?",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 + 94.2 = ?",
+      "answer": [
+        "155.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.4 + 30.9 = ?",
+      "answer": [
+        "67.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.6 + 83.1 = ?",
+      "answer": [
+        "115.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.1 + 27 = ?",
+      "answer": [
+        "31.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.4 + 31.5 = ?",
+      "answer": [
+        "43.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.2 + 54.4 = ?",
+      "answer": [
+        "135.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.1 + 53.2 = ?",
+      "answer": [
+        "128.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.1 + 65.9 = ?",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.6 + 93.8 = ?",
+      "answer": [
+        "127.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.5 + 73.3 = ?",
+      "answer": [
+        "117.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 46.3 = ?",
+      "answer": [
+        "62.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 53.5 = ?",
+      "answer": [
+        "65.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.8 + 66.4 = ?",
+      "answer": [
+        "98.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.9 + 71.6 = ?",
+      "answer": [
+        "124.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.9 + 7.1 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.5 + 56.8 = ?",
+      "answer": [
+        "60.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.4 + 17.2 = ?",
+      "answer": [
+        "77.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.1 + 85.5 = ?",
+      "answer": [
+        "95.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.1 + 75.5 = ?",
+      "answer": [
+        "110.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.2 + 58.4 = ?",
+      "answer": [
+        "149.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.4 + 54.5 = ?",
+      "answer": [
+        "146.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.6 + 75 = ?",
+      "answer": [
+        "114.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.9 + 34.8 = ?",
+      "answer": [
+        "73.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.4 + 42.9 = ?",
+      "answer": [
+        "75.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.5 + 15.5 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.8 + 75.8 = ?",
+      "answer": [
+        "111.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.5 + 90.2 = ?",
+      "answer": [
+        "91.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.4 + 65.2 = ?",
+      "answer": [
+        "84.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.9 + 85.5 = ?",
+      "answer": [
+        "178.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.6 + 33.6 = ?",
+      "answer": [
+        "53.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.7 + 79.6 = ?",
+      "answer": [
+        "164.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.6 + 0.1 = ?",
+      "answer": [
+        "14.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 + 49.7 = ?",
+      "answer": [
+        "105.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 19 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.1 + 15.2 = ?",
+      "answer": [
+        "61.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.3 + 72.2 = ?",
+      "answer": [
+        "163.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.9 + 74.6 = ?",
+      "answer": [
+        "127.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.3 + 23.8 = ?",
+      "answer": [
+        "76.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.9 + 55.6 = ?",
+      "answer": [
+        "145.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.7 + 69.1 = ?",
+      "answer": [
+        "149.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.4 + 22.2 = ?",
+      "answer": [
+        "50.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.7 + 38.3 = ?",
+      "answer": [
+        "112"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.9 + 11.3 = ?",
+      "answer": [
+        "87.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.5 + 33.5 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.6 + 93.8 = ?",
+      "answer": [
+        "163.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.8 + 10.8 = ?",
+      "answer": [
+        "95.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.9 + 78.7 = ?",
+      "answer": [
+        "161.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.5 + 37.9 = ?",
+      "answer": [
+        "76.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.4 + 7.3 = ?",
+      "answer": [
+        "81.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 86.4 = ?",
+      "answer": [
+        "93.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 + 7.6 = ?",
+      "answer": [
+        "37.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.9 + 40.5 = ?",
+      "answer": [
+        "110.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 + 3.1 = ?",
+      "answer": [
+        "77.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.4 + 29.9 = ?",
+      "answer": [
+        "88.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.5 + 98.2 = ?",
+      "answer": [
+        "150.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.3 + 21.8 = ?",
+      "answer": [
+        "100.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.3 + 83.3 = ?",
+      "answer": [
+        "96.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.4 + 26.6 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.7 + 31.5 = ?",
+      "answer": [
+        "67.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.1 + 3 = ?",
+      "answer": [
+        "12.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.8 + 81.5 = ?",
+      "answer": [
+        "168.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 67.6 = ?",
+      "answer": [
+        "81.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.8 + 28.1 = ?",
+      "answer": [
+        "31.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.6 + 45.2 = ?",
+      "answer": [
+        "124.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.6 + 63.2 = ?",
+      "answer": [
+        "94.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 + 13.9 = ?",
+      "answer": [
+        "85.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.2 + 41 = ?",
+      "answer": [
+        "106.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.4 + 30.5 = ?",
+      "answer": [
+        "99.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75 + 58.8 = ?",
+      "answer": [
+        "133.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.9 + 43 = ?",
+      "answer": [
+        "141.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.8 + 77.8 = ?",
+      "answer": [
+        "92.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.5 + 23.1 = ?",
+      "answer": [
+        "40.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.5 + 26.2 = ?",
+      "answer": [
+        "66.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.3 + 76.5 = ?",
+      "answer": [
+        "101.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.3 + 55.4 = ?",
+      "answer": [
+        "146.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.9 + 13.5 = ?",
+      "answer": [
+        "39.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.1 + 46.4 = ?",
+      "answer": [
+        "54.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.3 + 88.8 = ?",
+      "answer": [
+        "162.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.4 + 84.4 = ?",
+      "answer": [
+        "176.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.6 + 42 = ?",
+      "answer": [
+        "110.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 + 48.7 = ?",
+      "answer": [
+        "80.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.2 + 97.1 = ?",
+      "answer": [
+        "192.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.2 + 86.6 = ?",
+      "answer": [
+        "130.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.4 + 4.9 = ?",
+      "answer": [
+        "13.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.2 + 68.6 = ?",
+      "answer": [
+        "82.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.2 + 33 = ?",
+      "answer": [
+        "49.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29 + 42.7 = ?",
+      "answer": [
+        "71.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.6 + 41 = ?",
+      "answer": [
+        "58.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.5 + 35.8 = ?",
+      "answer": [
+        "70.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.2 + 94.1 = ?",
+      "answer": [
+        "179.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.3 + 70.7 = ?",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.8 + 0.6 = ?",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.4 + 94.1 = ?",
+      "answer": [
+        "130.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.3 + 79.4 = ?",
+      "answer": [
+        "110.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.1 + 37.3 = ?",
+      "answer": [
+        "95.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.1 + 93.6 = ?",
+      "answer": [
+        "156.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.7 + 52.5 = ?",
+      "answer": [
+        "122.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.5 + 2.8 = ?",
+      "answer": [
+        "29.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.6 + 98.5 = ?",
+      "answer": [
+        "172.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.1 + 21.6 = ?",
+      "answer": [
+        "103.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.9 + 67.1 = ?",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.1 + 89.9 = ?",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.4 + 73.5 = ?",
+      "answer": [
+        "84.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.3 + 88.5 = ?",
+      "answer": [
+        "112.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.6 + 54.9 = ?",
+      "answer": [
+        "63.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.9 + 56.2 = ?",
+      "answer": [
+        "141.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.2 + 47.8 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.3 + 94.6 = ?",
+      "answer": [
+        "157.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.6 + 38.4 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.6 + 64.9 = ?",
+      "answer": [
+        "122.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.2 + 9 = ?",
+      "answer": [
+        "83.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 10.9 = ?",
+      "answer": [
+        "57.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.6 + 21.5 = ?",
+      "answer": [
+        "49.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.1 + 67.3 = ?",
+      "answer": [
+        "134.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 + 13.5 = ?",
+      "answer": [
+        "87.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.7 + 34 = ?",
+      "answer": [
+        "96.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.7 + 96.8 = ?",
+      "answer": [
+        "132.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.4 + 24.6 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.5 + 84.2 = ?",
+      "answer": [
+        "126.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.9 + 23.9 = ?",
+      "answer": [
+        "33.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.1 + 84.3 = ?",
+      "answer": [
+        "149.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.6 + 9.5 = ?",
+      "answer": [
+        "36.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.6 + 39.8 = ?",
+      "answer": [
+        "88.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.8 + 21.9 = ?",
+      "answer": [
+        "99.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.7 + 0.6 = ?",
+      "answer": [
+        "21.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.4 + 90.7 = ?",
+      "answer": [
+        "114.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.2 + 54.6 = ?",
+      "answer": [
+        "132.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.8 + 49.7 = ?",
+      "answer": [
+        "80.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.6 + 60.2 = ?",
+      "answer": [
+        "137.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 + 97.9 = ?",
+      "answer": [
+        "167.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 + 50.9 = ?",
+      "answer": [
+        "130.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.4 + 90.6 = ?",
+      "answer": [
+        "189"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 + 8.1 = ?",
+      "answer": [
+        "38.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.9 + 67.6 = ?",
+      "answer": [
+        "143.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.6 + 21.3 = ?",
+      "answer": [
+        "87.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.1 + 50.9 = ?",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.7 + 82.3 = ?",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.8 + 71 = ?",
+      "answer": [
+        "134.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.3 + 82.6 = ?",
+      "answer": [
+        "155.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 3.4 = ?",
+      "answer": [
+        "16.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.6 + 9.7 = ?",
+      "answer": [
+        "87.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.7 + 23.1 = ?",
+      "answer": [
+        "24.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.6 + 62.2 = ?",
+      "answer": [
+        "133.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.7 + 11.6 = ?",
+      "answer": [
+        "63.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.8 + 31 = ?",
+      "answer": [
+        "111.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.8 + 71.7 = ?",
+      "answer": [
+        "111.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.5 + 13.4 = ?",
+      "answer": [
+        "53.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.5 + 35.5 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.3 + 58.7 = ?",
+      "answer": [
+        "145"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.4 + 70.1 = ?",
+      "answer": [
+        "125.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.4 + 64 = ?",
+      "answer": [
+        "156.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.5 + 18.5 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 + 65.2 = ?",
+      "answer": [
+        "146.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.1 + 28.5 = ?",
+      "answer": [
+        "30.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 + 95.3 = ?",
+      "answer": [
+        "152.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.1 + 55.7 = ?",
+      "answer": [
+        "62.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.7 + 2.8 = ?",
+      "answer": [
+        "46.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.8 + 48.1 = ?",
+      "answer": [
+        "114.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.9 + 52.5 = ?",
+      "answer": [
+        "72.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.4 + 42.9 = ?",
+      "answer": [
+        "116.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.4 + 54 = ?",
+      "answer": [
+        "141.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.6 + 36.5 = ?",
+      "answer": [
+        "69.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.2 + 86 = ?",
+      "answer": [
+        "104.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.2 + 7.7 = ?",
+      "answer": [
+        "19.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.4 + 14.8 = ?",
+      "answer": [
+        "73.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 3.7 = ?",
+      "answer": [
+        "50.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.4 + 24.6 = ?",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.9 + 21 = ?",
+      "answer": [
+        "81.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.5 + 7.2 = ?",
+      "answer": [
+        "97.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 + 39.4 = ?",
+      "answer": [
+        "137.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.6 + 79.3 = ?",
+      "answer": [
+        "173.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.9 + 90.7 = ?",
+      "answer": [
+        "165.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.8 + 24.6 = ?",
+      "answer": [
+        "41.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.7 + 72.4 = ?",
+      "answer": [
+        "167.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.6 + 79 = ?",
+      "answer": [
+        "131.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.1 + 35.8 = ?",
+      "answer": [
+        "121.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.5 + 7.3 = ?",
+      "answer": [
+        "43.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.8 + 10.1 = ?",
+      "answer": [
+        "65.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.8 + 36.9 = ?",
+      "answer": [
+        "126.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.8 + 41.8 = ?",
+      "answer": [
+        "111.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.8 + 49.9 = ?",
+      "answer": [
+        "88.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.7 + 59.9 = ?",
+      "answer": [
+        "62.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 + 48.1 = ?",
+      "answer": [
+        "51.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.1 + 98 = ?",
+      "answer": [
+        "114.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 + 40.1 = ?",
+      "answer": [
+        "123.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.2 + 32 = ?",
+      "answer": [
+        "92.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.1 + 19.2 = ?",
+      "answer": [
+        "114.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 15.8 = ?",
+      "answer": [
+        "23.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.3 + 27.8 = ?",
+      "answer": [
+        "62.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.2 + 23 = ?",
+      "answer": [
+        "86.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.4 + 28.3 = ?",
+      "answer": [
+        "91.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.7 + 27.5 = ?",
+      "answer": [
+        "34.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.2 + 26.5 = ?",
+      "answer": [
+        "82.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.7 + 80.7 = ?",
+      "answer": [
+        "149.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.6 + 16.9 = ?",
+      "answer": [
+        "63.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.2 + 67.6 = ?",
+      "answer": [
+        "109.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.4 + 45.6 = ?",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.4 + 51 = ?",
+      "answer": [
+        "126.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.4 + 12.3 = ?",
+      "answer": [
+        "37.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.8 + 34.5 = ?",
+      "answer": [
+        "44.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.3 + 53.6 = ?",
+      "answer": [
+        "59.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.5 + 4.7 = ?",
+      "answer": [
+        "53.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.2 + 82 = ?",
+      "answer": [
+        "163.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.1 + 33.2 = ?",
+      "answer": [
+        "107.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.5 + 72.7 = ?",
+      "answer": [
+        "145.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.1 + 47 = ?",
+      "answer": [
+        "98.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.2 + 19.4 = ?",
+      "answer": [
+        "29.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.4 + 0.7 = ?",
+      "answer": [
+        "79.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 + 5.5 = ?",
+      "answer": [
+        "69.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.2 + 7 = ?",
+      "answer": [
+        "89.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.3 + 59.5 = ?",
+      "answer": [
+        "152.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.3 + 10.5 = ?",
+      "answer": [
+        "70.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.9 + 91.2 = ?",
+      "answer": [
+        "182.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.5 + 9.3 = ?",
+      "answer": [
+        "29.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 + 27.7 = ?",
+      "answer": [
+        "51.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.9 + 60.5 = ?",
+      "answer": [
+        "134.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.1 + 95.1 = ?",
+      "answer": [
+        "192.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.5 + 26.2 = ?",
+      "answer": [
+        "100.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.2 + 18.1 = ?",
+      "answer": [
+        "108.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.1 + 40.9 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.7 + 27.7 = ?",
+      "answer": [
+        "74.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.2 + 12.1 = ?",
+      "answer": [
+        "51.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.6 + 4.4 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.3 + 82.9 = ?",
+      "answer": [
+        "154.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.2 + 95.5 = ?",
+      "answer": [
+        "161.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.4 + 17.8 = ?",
+      "answer": [
+        "76.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.1 + 81.4 = ?",
+      "answer": [
+        "130.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.2 + 90.6 = ?",
+      "answer": [
+        "122.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.2 + 83.9 = ?",
+      "answer": [
+        "127.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.1 + 87.3 = ?",
+      "answer": [
+        "181.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.6 + 37.8 = ?",
+      "answer": [
+        "65.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.5 + 51.9 = ?",
+      "answer": [
+        "118.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.3 + 70.3 = ?",
+      "answer": [
+        "151.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.4 + 35.5 = ?",
+      "answer": [
+        "36.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 + 60 = ?",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.9 + 31.9 = ?",
+      "answer": [
+        "92.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.3 + 68.7 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.8 + 6 = ?",
+      "answer": [
+        "15.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.4 + 68 = ?",
+      "answer": [
+        "130.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.8 + 47.8 = ?",
+      "answer": [
+        "129.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.2 + 5.9 = ?",
+      "answer": [
+        "64.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.4 + 12.3 = ?",
+      "answer": [
+        "23.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.1 + 81.7 = ?",
+      "answer": [
+        "128.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.2 + 24.1 = ?",
+      "answer": [
+        "66.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.3 + 28.6 = ?",
+      "answer": [
+        "93.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.4 + 58.4 = ?",
+      "answer": [
+        "112.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.1 + 18.8 = ?",
+      "answer": [
+        "47.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.5 + 29.3 = ?",
+      "answer": [
+        "101.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 + 42 = ?",
+      "answer": [
+        "116"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.6 + 41.9 = ?",
+      "answer": [
+        "85.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.8 + 23.7 = ?",
+      "answer": [
+        "118.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.2 + 94.7 = ?",
+      "answer": [
+        "94.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.8 + 79.5 = ?",
+      "answer": [
+        "139.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.6 + 36.9 = ?",
+      "answer": [
+        "83.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.1 + 13.7 = ?",
+      "answer": [
+        "46.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.5 + 3.6 = ?",
+      "answer": [
+        "28.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.5 + 59.9 = ?",
+      "answer": [
+        "66.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.4 + 42.7 = ?",
+      "answer": [
+        "77.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.2 + 21.7 = ?",
+      "answer": [
+        "72.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.2 + 38 = ?",
+      "answer": [
+        "83.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.9 + 15.8 = ?",
+      "answer": [
+        "76.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.5 + 79.8 = ?",
+      "answer": [
+        "165.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.3 + 58.9 = ?",
+      "answer": [
+        "62.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.1 + 31.4 = ?",
+      "answer": [
+        "110.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.5 + 25.1 = ?",
+      "answer": [
+        "92.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.8 + 7.5 = ?",
+      "answer": [
+        "42.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.2 + 13.2 = ?",
+      "answer": [
+        "23.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.7 + 52 = ?",
+      "answer": [
+        "76.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 + 33.3 = ?",
+      "answer": [
+        "68.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.5 + 34.9 = ?",
+      "answer": [
+        "87.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.6 + 44.4 = ?",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.6 + 13.6 = ?",
+      "answer": [
+        "52.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.6 + 0.6 = ?",
+      "answer": [
+        "61.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.3 + 29.1 = ?",
+      "answer": [
+        "101.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.7 + 90 = ?",
+      "answer": [
+        "186.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.9 + 32.7 = ?",
+      "answer": [
+        "42.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.8 + 72.9 = ?",
+      "answer": [
+        "147.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 62.6 = ?",
+      "answer": [
+        "80.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.5 + 52.3 = ?",
+      "answer": [
+        "148.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.8 + 17.1 = ?",
+      "answer": [
+        "106.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.9 + 35.1 = ?",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.3 + 92.7 = ?",
+      "answer": [
+        "179"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.7 + 66.2 = ?",
+      "answer": [
+        "107.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.5 + 85.4 = ?",
+      "answer": [
+        "162.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.9 + 44.1 = ?",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.6 + 71.7 = ?",
+      "answer": [
+        "158.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.6 + 49 = ?",
+      "answer": [
+        "131.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.1 + 18.5 = ?",
+      "answer": [
+        "81.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.5 + 44.3 = ?",
+      "answer": [
+        "86.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.1 + 88.6 = ?",
+      "answer": [
+        "124.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.9 + 30.8 = ?",
+      "answer": [
+        "123.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.6 + 41 = ?",
+      "answer": [
+        "66.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.8 + 63.9 = ?",
+      "answer": [
+        "122.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.4 + 41.9 = ?",
+      "answer": [
+        "53.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.9 + 66.2 = ?",
+      "answer": [
+        "83.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 + 35.7 = ?",
+      "answer": [
+        "123.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.2 + 92 = ?",
+      "answer": [
+        "175.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.7 + 43.6 = ?",
+      "answer": [
+        "100.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.1 + 28.3 = ?",
+      "answer": [
+        "50.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.1 + 87.1 = ?",
+      "answer": [
+        "116.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.8 + 38.2 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.4 + 54.8 = ?",
+      "answer": [
+        "103.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.8 + 82.1 = ?",
+      "answer": [
+        "141.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.8 + 58.8 = ?",
+      "answer": [
+        "108.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.1 + 71.6 = ?",
+      "answer": [
+        "143.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.2 + 52 = ?",
+      "answer": [
+        "67.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.4 + 40.9 = ?",
+      "answer": [
+        "71.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.3 + 99.3 = ?",
+      "answer": [
+        "196.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.1 + 42.9 = ?",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.8 + 25.2 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.2 + 2.8 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.2 + 81.6 = ?",
+      "answer": [
+        "126.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.1 + 86.7 = ?",
+      "answer": [
+        "151.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.2 + 7.1 = ?",
+      "answer": [
+        "74.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.3 + 69 = ?",
+      "answer": [
+        "124.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.8 + 5.2 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.8 + 32.8 = ?",
+      "answer": [
+        "76.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.7 + 43.4 = ?",
+      "answer": [
+        "79.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.3 + 32.8 = ?",
+      "answer": [
+        "72.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.4 + 33.2 = ?",
+      "answer": [
+        "54.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 32.3 = ?",
+      "answer": [
+        "45.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.3 + 12.9 = ?",
+      "answer": [
+        "89.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.5 + 51.5 = ?",
+      "answer": [
+        "121"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.5 + 84.6 = ?",
+      "answer": [
+        "180.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.6 + 52.8 = ?",
+      "answer": [
+        "94.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.3 + 9.5 = ?",
+      "answer": [
+        "38.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.5 + 7.2 = ?",
+      "answer": [
+        "28.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.3 + 79.8 = ?",
+      "answer": [
+        "89.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.5 + 12.8 = ?",
+      "answer": [
+        "66.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.8 + 53.5 = ?",
+      "answer": [
+        "75.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.2 + 63.8 = ?",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.5 + 54.7 = ?",
+      "answer": [
+        "121.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.2 + 87.5 = ?",
+      "answer": [
+        "130.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.9 + 77.9 = ?",
+      "answer": [
+        "143.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.5 + 96.6 = ?",
+      "answer": [
+        "158.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.3 + 50.1 = ?",
+      "answer": [
+        "63.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.9 + 25.9 = ?",
+      "answer": [
+        "72.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.5 + 34.3 = ?",
+      "answer": [
+        "108.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.4 + 49.3 = ?",
+      "answer": [
+        "74.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.6 + 83.8 = ?",
+      "answer": [
+        "165.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 + 97.7 = ?",
+      "answer": [
+        "166.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.1 + 78.9 = ?",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.1 + 22.2 = ?",
+      "answer": [
+        "88.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.7 + 2.8 = ?",
+      "answer": [
+        "42.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.9 + 73.3 = ?",
+      "answer": [
+        "138.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.5 + 41.9 = ?",
+      "answer": [
+        "120.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.3 + 92.3 = ?",
+      "answer": [
+        "160.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.1 + 16.8 = ?",
+      "answer": [
+        "64.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.8 + 33.6 = ?",
+      "answer": [
+        "114.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 + 76.2 = ?",
+      "answer": [
+        "109.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.2 + 64.3 = ?",
+      "answer": [
+        "99.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.9 + 13.8 = ?",
+      "answer": [
+        "36.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.7 + 11.7 = ?",
+      "answer": [
+        "60.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.2 + 88 = ?",
+      "answer": [
+        "133.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.3 + 52.5 = ?",
+      "answer": [
+        "139.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.3 + 55.8 = ?",
+      "answer": [
+        "60.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.3 + 66 = ?",
+      "answer": [
+        "104.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.6 + 49.2 = ?",
+      "answer": [
+        "136.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.7 + 94.6 = ?",
+      "answer": [
+        "112.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.9 + 56.9 = ?",
+      "answer": [
+        "88.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.2 + 84.1 = ?",
+      "answer": [
+        "149.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.3 + 90 = ?",
+      "answer": [
+        "149.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.4 + 96.4 = ?",
+      "answer": [
+        "98.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.2 + 41.8 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 + 18.1 = ?",
+      "answer": [
+        "73.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.9 + 73.8 = ?",
+      "answer": [
+        "119.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.2 + 7.4 = ?",
+      "answer": [
+        "75.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.3 + 85.7 = ?",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.7 + 51.4 = ?",
+      "answer": [
+        "115.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.3 + 52.5 = ?",
+      "answer": [
+        "137.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.8 + 28.5 = ?",
+      "answer": [
+        "45.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.9 + 36 = ?",
+      "answer": [
+        "69.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.8 + 96.2 = ?",
+      "answer": [
+        "151"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.8 + 3.8 = ?",
+      "answer": [
+        "43.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.5 + 50.2 = ?",
+      "answer": [
+        "53.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.1 + 14.2 = ?",
+      "answer": [
+        "27.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.9 + 23.3 = ?",
+      "answer": [
+        "55.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.1 + 48.7 = ?",
+      "answer": [
+        "122.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.2 + 22.5 = ?",
+      "answer": [
+        "96.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.2 + 0.5 = ?",
+      "answer": [
+        "97.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.2 + 21.4 = ?",
+      "answer": [
+        "49.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.3 + 51.8 = ?",
+      "answer": [
+        "92.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.8 + 55.6 = ?",
+      "answer": [
+        "113.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.8 + 98.1 = ?",
+      "answer": [
+        "149.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.9 + 89.6 = ?",
+      "answer": [
+        "141.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.4 + 1.4 = ?",
+      "answer": [
+        "69.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.3 + 52.5 = ?",
+      "answer": [
+        "66.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.7 + 80.2 = ?",
+      "answer": [
+        "122.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.1 + 60.1 = ?",
+      "answer": [
+        "148.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.7 + 71.2 = ?",
+      "answer": [
+        "134.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.1 + 72.2 = ?",
+      "answer": [
+        "112.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.9 + 16.7 = ?",
+      "answer": [
+        "78.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.8 + 51.9 = ?",
+      "answer": [
+        "108.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.8 + 64.2 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.1 + 24.6 = ?",
+      "answer": [
+        "53.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 + 83.7 = ?",
+      "answer": [
+        "142.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.8 + 56.3 = ?",
+      "answer": [
+        "83.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.2 + 36.6 = ?",
+      "answer": [
+        "114.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.7 + 96.1 = ?",
+      "answer": [
+        "185.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.6 + 53.3 = ?",
+      "answer": [
+        "131.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.7 + 53.9 = ?",
+      "answer": [
+        "140.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.4 + 3.4 = ?",
+      "answer": [
+        "47.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.4 + 7.7 = ?",
+      "answer": [
+        "27.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.3 + 64.6 = ?",
+      "answer": [
+        "68.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.6 + 61.9 = ?",
+      "answer": [
+        "133.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.7 + 25.5 = ?",
+      "answer": [
+        "35.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.1 + 2.1 = ?",
+      "answer": [
+        "35.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.9 + 76.9 = ?",
+      "answer": [
+        "85.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.6 + 13.7 = ?",
+      "answer": [
+        "59.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.6 + 78.1 = ?",
+      "answer": [
+        "107.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.9 + 64.8 = ?",
+      "answer": [
+        "115.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.1 + 2.9 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.5 + 68.6 = ?",
+      "answer": [
+        "110.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.3 + 99.6 = ?",
+      "answer": [
+        "147.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.4 + 74.3 = ?",
+      "answer": [
+        "113.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.9 + 23.7 = ?",
+      "answer": [
+        "61.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.3 + 54.3 = ?",
+      "answer": [
+        "110.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.8 + 22.8 = ?",
+      "answer": [
+        "62.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.7 + 84.7 = ?",
+      "answer": [
+        "95.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.7 + 85.7 = ?",
+      "answer": [
+        "179.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 38.9 = ?",
+      "answer": [
+        "41.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.6 + 86 = ?",
+      "answer": [
+        "140.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.1 + 38.7 = ?",
+      "answer": [
+        "115.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.6 + 77.6 = ?",
+      "answer": [
+        "113.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.1 + 35.4 = ?",
+      "answer": [
+        "53.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.3 + 27.3 = ?",
+      "answer": [
+        "100.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.9 + 12.9 = ?",
+      "answer": [
+        "75.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.2 + 89.4 = ?",
+      "answer": [
+        "143.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.7 + 37 = ?",
+      "answer": [
+        "63.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.9 + 58.1 = ?",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.6 + 93.1 = ?",
+      "answer": [
+        "163.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.3 + 52.4 = ?",
+      "answer": [
+        "114.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.2 + 83.9 = ?",
+      "answer": [
+        "146.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.9 + 19.2 = ?",
+      "answer": [
+        "77.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.8 + 82.5 = ?",
+      "answer": [
+        "88.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 + 60.2 = ?",
+      "answer": [
+        "148.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.7 + 60.9 = ?",
+      "answer": [
+        "104.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.2 + 17.3 = ?",
+      "answer": [
+        "19.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.9 + 39.2 = ?",
+      "answer": [
+        "95.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.6 + 71.9 = ?",
+      "answer": [
+        "147.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.4 + 26.3 = ?",
+      "answer": [
+        "34.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.4 + 44 = ?",
+      "answer": [
+        "101.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.3 + 46.4 = ?",
+      "answer": [
+        "73.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.1 + 95.4 = ?",
+      "answer": [
+        "186.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.3 + 72.7 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.7 + 74.1 = ?",
+      "answer": [
+        "146.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 + 13.4 = ?",
+      "answer": [
+        "50.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 + 52.5 = ?",
+      "answer": [
+        "88.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.6 + 18.7 = ?",
+      "answer": [
+        "39.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.2 + 47.3 = ?",
+      "answer": [
+        "125.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.6 + 7.5 = ?",
+      "answer": [
+        "69.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.5 + 25.2 = ?",
+      "answer": [
+        "90.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.6 + 30.8 = ?",
+      "answer": [
+        "50.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.3 + 29.4 = ?",
+      "answer": [
+        "111.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.2 + 18.1 = ?",
+      "answer": [
+        "60.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.8 + 83.2 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.2 + 78.7 = ?",
+      "answer": [
+        "142.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.9 + 55.6 = ?",
+      "answer": [
+        "130.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.3 + 50.8 = ?",
+      "answer": [
+        "96.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.9 + 93.1 = ?",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.8 + 20.1 = ?",
+      "answer": [
+        "67.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.2 + 55.3 = ?",
+      "answer": [
+        "92.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.5 + 53.5 = ?",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.7 + 7.8 = ?",
+      "answer": [
+        "102.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.4 + 17 = ?",
+      "answer": [
+        "78.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.2 + 57.4 = ?",
+      "answer": [
+        "114.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.8 + 74 = ?",
+      "answer": [
+        "147.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.9 + 38 = ?",
+      "answer": [
+        "43.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.4 + 84.1 = ?",
+      "answer": [
+        "104.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.8 + 77.3 = ?",
+      "answer": [
+        "129.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.7 + 48 = ?",
+      "answer": [
+        "145.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.8 + 5.3 = ?",
+      "answer": [
+        "92.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.7 + 67.8 = ?",
+      "answer": [
+        "115.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.3 + 84.9 = ?",
+      "answer": [
+        "180.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.4 + 19.3 = ?",
+      "answer": [
+        "76.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.1 + 74.9 = ?",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.2 + 56 = ?",
+      "answer": [
+        "69.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.3 + 54.6 = ?",
+      "answer": [
+        "108.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.8 + 90.1 = ?",
+      "answer": [
+        "122.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.9 + 71.8 = ?",
+      "answer": [
+        "97.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.6 + 20.6 = ?",
+      "answer": [
+        "49.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.5 + 95 = ?",
+      "answer": [
+        "122.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.4 + 4.2 = ?",
+      "answer": [
+        "81.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.7 + 76.4 = ?",
+      "answer": [
+        "167.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.8 + 89.4 = ?",
+      "answer": [
+        "189.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.7 + 61.8 = ?",
+      "answer": [
+        "155.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.6 + 59.3 = ?",
+      "answer": [
+        "132.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.6 + 2 = ?",
+      "answer": [
+        "84.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 + 51.3 = ?",
+      "answer": [
+        "86.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.8 + 50.3 = ?",
+      "answer": [
+        "115.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.9 + 52.9 = ?",
+      "answer": [
+        "95.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.2 + 53.8 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.2 + 90.3 = ?",
+      "answer": [
+        "98.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.5 + 70.1 = ?",
+      "answer": [
+        "115.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.1 + 57.4 = ?",
+      "answer": [
+        "71.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.3 + 69.1 = ?",
+      "answer": [
+        "137.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.2 + 53.5 = ?",
+      "answer": [
+        "133.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.6 + 0.8 = ?",
+      "answer": [
+        "99.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.3 + 27.9 = ?",
+      "answer": [
+        "74.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 38.4 = ?",
+      "answer": [
+        "41.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.9 + 47.9 = ?",
+      "answer": [
+        "123.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 28.6 = ?",
+      "answer": [
+        "46.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.6 + 40 = ?",
+      "answer": [
+        "49.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.1 + 7.7 = ?",
+      "answer": [
+        "48.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.1 + 69.9 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.1 + 64.9 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.3 + 60.5 = ?",
+      "answer": [
+        "80.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.7 + 62.8 = ?",
+      "answer": [
+        "144.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.7 + 65.8 = ?",
+      "answer": [
+        "73.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.8 + 45.4 = ?",
+      "answer": [
+        "104.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.9 + 47.4 = ?",
+      "answer": [
+        "81.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.4 + 93.9 = ?",
+      "answer": [
+        "106.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.7 + 23.1 = ?",
+      "answer": [
+        "111.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.5 + 10.9 = ?",
+      "answer": [
+        "67.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.4 + 82.8 = ?",
+      "answer": [
+        "176.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.3 + 42.2 = ?",
+      "answer": [
+        "69.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.6 + 93.5 = ?",
+      "answer": [
+        "124.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.8 + 69 = ?",
+      "answer": [
+        "129.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.8 + 36.2 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.2 + 27.2 = ?",
+      "answer": [
+        "80.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.3 + 47.2 = ?",
+      "answer": [
+        "142.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.1 + 37.7 = ?",
+      "answer": [
+        "55.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.1 + 58.7 = ?",
+      "answer": [
+        "105.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.2 + 55.5 = ?",
+      "answer": [
+        "135.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.8 + 57.7 = ?",
+      "answer": [
+        "108.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.8 + 69.4 = ?",
+      "answer": [
+        "138.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.7 + 10.1 = ?",
+      "answer": [
+        "100.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.2 + 11.2 = ?",
+      "answer": [
+        "11.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.2 + 19.1 = ?",
+      "answer": [
+        "59.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.6 + 56.7 = ?",
+      "answer": [
+        "120.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.9 + 14.9 = ?",
+      "answer": [
+        "85.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.9 + 26.6 = ?",
+      "answer": [
+        "76.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.8 + 93.2 = ?",
+      "answer": [
+        "103"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.2 + 19.4 = ?",
+      "answer": [
+        "104.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.2 + 51.5 = ?",
+      "answer": [
+        "118.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.8 + 35.3 = ?",
+      "answer": [
+        "97.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.9 + 89.4 = ?",
+      "answer": [
+        "180.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.9 + 72.6 = ?",
+      "answer": [
+        "149.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.9 + 72.1 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.6 + 5.7 = ?",
+      "answer": [
+        "26.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.4 + 74.5 = ?",
+      "answer": [
+        "114.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.8 + 76.1 = ?",
+      "answer": [
+        "152.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.4 + 53 = ?",
+      "answer": [
+        "125.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.2 + 55.9 = ?",
+      "answer": [
+        "81.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 + 14.3 = ?",
+      "answer": [
+        "49.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 + 64.9 = ?",
+      "answer": [
+        "123.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.8 + 77.1 = ?",
+      "answer": [
+        "146.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.3 + 50.4 = ?",
+      "answer": [
+        "108.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.5 + 46.7 = ?",
+      "answer": [
+        "70.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.6 + 61.6 = ?",
+      "answer": [
+        "142.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.1 + 47.7 = ?",
+      "answer": [
+        "61.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.4 + 77.4 = ?",
+      "answer": [
+        "138.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.3 + 85.8 = ?",
+      "answer": [
+        "121.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.8 + 69.1 = ?",
+      "answer": [
+        "103.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.3 + 32.9 = ?",
+      "answer": [
+        "107.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.3 + 7.4 = ?",
+      "answer": [
+        "23.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.8 + 57.1 = ?",
+      "answer": [
+        "100.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.5 + 45 = ?",
+      "answer": [
+        "55.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.4 + 41.6 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.6 + 33.6 = ?",
+      "answer": [
+        "66.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.3 + 64.1 = ?",
+      "answer": [
+        "151.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.5 + 57.7 = ?",
+      "answer": [
+        "116.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.5 + 30.8 = ?",
+      "answer": [
+        "51.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.9 + 93 = ?",
+      "answer": [
+        "134.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.1 + 86.3 = ?",
+      "answer": [
+        "132.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 + 22.9 = ?",
+      "answer": [
+        "85.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.5 + 44.1 = ?",
+      "answer": [
+        "115.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.7 + 8.2 = ?",
+      "answer": [
+        "82.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.7 + 21.8 = ?",
+      "answer": [
+        "42.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.2 + 81.2 = ?",
+      "answer": [
+        "166.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.3 + 75.1 = ?",
+      "answer": [
+        "157.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.9 + 79.4 = ?",
+      "answer": [
+        "171.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.2 + 1 = ?",
+      "answer": [
+        "25.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.5 + 99.3 = ?",
+      "answer": [
+        "104.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.1 + 20 = ?",
+      "answer": [
+        "39.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.8 + 7 = ?",
+      "answer": [
+        "32.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 + 52.2 = ?",
+      "answer": [
+        "106.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.9 + 45 = ?",
+      "answer": [
+        "136.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.4 + 53.9 = ?",
+      "answer": [
+        "145.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.6 + 77.4 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.1 + 75.3 = ?",
+      "answer": [
+        "150.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.8 + 17.9 = ?",
+      "answer": [
+        "42.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.3 + 96 = ?",
+      "answer": [
+        "164.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.7 + 11.3 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 + 20.8 = ?",
+      "answer": [
+        "60.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.2 + 64.9 = ?",
+      "answer": [
+        "131.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.5 + 43.5 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.2 + 48.2 = ?",
+      "answer": [
+        "128.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.7 + 13.9 = ?",
+      "answer": [
+        "112.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.5 + 7.3 = ?",
+      "answer": [
+        "84.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 + 61.2 = ?",
+      "answer": [
+        "94.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.8 + 64.1 = ?",
+      "answer": [
+        "156.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.9 + 1.9 = ?",
+      "answer": [
+        "47.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.4 + 14.6 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 + 31.8 = ?",
+      "answer": [
+        "73.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.8 + 34.5 = ?",
+      "answer": [
+        "109.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 + 35.3 = ?",
+      "answer": [
+        "62.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 + 69.7 = ?",
+      "answer": [
+        "162.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.1 + 31.8 = ?",
+      "answer": [
+        "82.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.2 + 63.5 = ?",
+      "answer": [
+        "127.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.7 + 29.7 = ?",
+      "answer": [
+        "124.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 + 91.5 = ?",
+      "answer": [
+        "172.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.3 + 37.5 = ?",
+      "answer": [
+        "72.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.9 + 4.1 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.9 + 14.7 = ?",
+      "answer": [
+        "88.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.6 + 53.3 = ?",
+      "answer": [
+        "146.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.6 + 61.3 = ?",
+      "answer": [
+        "92.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.2 + 71.9 = ?",
+      "answer": [
+        "124.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.8 + 75 = ?",
+      "answer": [
+        "120.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.8 + 89.3 = ?",
+      "answer": [
+        "148.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.4 + 25.8 = ?",
+      "answer": [
+        "52.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.6 + 2.5 = ?",
+      "answer": [
+        "33.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.7 + 24.8 = ?",
+      "answer": [
+        "78.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 + 38.3 = ?",
+      "answer": [
+        "105.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.1 + 90.6 = ?",
+      "answer": [
+        "116.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.7 + 72.4 = ?",
+      "answer": [
+        "84.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 + 36.9 = ?",
+      "answer": [
+        "126.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.9 + 93.9 = ?",
+      "answer": [
+        "152.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.4 + 35.3 = ?",
+      "answer": [
+        "45.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.8 + 28.5 = ?",
+      "answer": [
+        "106.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.1 + 29.2 = ?",
+      "answer": [
+        "93.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.9 + 61.3 = ?",
+      "answer": [
+        "107.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.2 + 98.7 = ?",
+      "answer": [
+        "163.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.2 + 21.6 = ?",
+      "answer": [
+        "37.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.2 + 7.1 = ?",
+      "answer": [
+        "59.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.3 + 19.5 = ?",
+      "answer": [
+        "79.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.7 + 74.5 = ?",
+      "answer": [
+        "173.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.7 + 48 = ?",
+      "answer": [
+        "107.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.6 + 62.2 = ?",
+      "answer": [
+        "89.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.5 + 90.5 = ?",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.1 + 62.7 = ?",
+      "answer": [
+        "99.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.3 + 96.2 = ?",
+      "answer": [
+        "156.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.7 + 27 = ?",
+      "answer": [
+        "99.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.2 + 14.7 = ?",
+      "answer": [
+        "47.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.7 + 77.7 = ?",
+      "answer": [
+        "79.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.8 + 0.6 = ?",
+      "answer": [
+        "93.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.5 + 86 = ?",
+      "answer": [
+        "158.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.6 + 31.7 = ?",
+      "answer": [
+        "91.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.6 + 13.1 = ?",
+      "answer": [
+        "81.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.5 + 0.3 = ?",
+      "answer": [
+        "90.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.4 + 43.4 = ?",
+      "answer": [
+        "131.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.1 + 68.8 = ?",
+      "answer": [
+        "138.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.4 + 61.2 = ?",
+      "answer": [
+        "69.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.5 + 5.5 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.5 + 46.3 = ?",
+      "answer": [
+        "60.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.2 + 34.5 = ?",
+      "answer": [
+        "96.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 90.9 = ?",
+      "answer": [
+        "97.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.6 + 69.8 = ?",
+      "answer": [
+        "106.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.9 + 64.9 = ?",
+      "answer": [
+        "78.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.1 + 18.5 = ?",
+      "answer": [
+        "35.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.7 + 79.8 = ?",
+      "answer": [
+        "148.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.6 + 68 = ?",
+      "answer": [
+        "166.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.4 + 28.7 = ?",
+      "answer": [
+        "66.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.5 + 98.4 = ?",
+      "answer": [
+        "166.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.2 + 3.9 = ?",
+      "answer": [
+        "4.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.8 + 80.8 = ?",
+      "answer": [
+        "123.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.9 + 18.4 = ?",
+      "answer": [
+        "41.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.1 + 53 = ?",
+      "answer": [
+        "58.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.6 + 82.9 = ?",
+      "answer": [
+        "157.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.9 + 85.8 = ?",
+      "answer": [
+        "103.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.3 + 15.1 = ?",
+      "answer": [
+        "90.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.2 + 79.7 = ?",
+      "answer": [
+        "80.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79 + 82.2 = ?",
+      "answer": [
+        "161.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.3 + 54.4 = ?",
+      "answer": [
+        "153.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.5 + 4.8 = ?",
+      "answer": [
+        "34.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.3 + 21.5 = ?",
+      "answer": [
+        "102.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.1 + 70.8 = ?",
+      "answer": [
+        "111.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.8 + 55 = ?",
+      "answer": [
+        "98.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.6 + 39.7 = ?",
+      "answer": [
+        "132.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.5 + 96.9 = ?",
+      "answer": [
+        "111.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.2 + 35.3 = ?",
+      "answer": [
+        "73.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.5 + 63.1 = ?",
+      "answer": [
+        "136.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.3 + 55.7 = ?",
+      "answer": [
+        "125"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.2 + 38.8 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.4 + 50.9 = ?",
+      "answer": [
+        "138.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.9 + 76.5 = ?",
+      "answer": [
+        "170.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.6 + 45.6 = ?",
+      "answer": [
+        "112.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.8 + 37.5 = ?",
+      "answer": [
+        "63.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.1 + 7.8 = ?",
+      "answer": [
+        "24.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.7 + 37.8 = ?",
+      "answer": [
+        "78.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 + 89.5 = ?",
+      "answer": [
+        "170.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.8 + 91.5 = ?",
+      "answer": [
+        "146.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.8 + 94 = ?",
+      "answer": [
+        "112.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.5 + 62.4 = ?",
+      "answer": [
+        "121.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.3 + 40.7 = ?",
+      "answer": [
+        "108"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.8 + 64 = ?",
+      "answer": [
+        "110.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.5 + 35.5 = ?",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 73.2 = ?",
+      "answer": [
+        "89.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.1 + 67.9 = ?",
+      "answer": [
+        "155"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.2 + 44.8 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.9 + 90.5 = ?",
+      "answer": [
+        "97.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.3 + 41.7 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.1 + 54.1 = ?",
+      "answer": [
+        "94.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.5 + 20.4 = ?",
+      "answer": [
+        "34.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.9 + 2.4 = ?",
+      "answer": [
+        "7.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.1 + 34.6 = ?",
+      "answer": [
+        "119.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.5 + 51.5 = ?",
+      "answer": [
+        "127"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.2 + 48 = ?",
+      "answer": [
+        "72.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.9 + 6.8 = ?",
+      "answer": [
+        "78.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 + 67.4 = ?",
+      "answer": [
+        "127.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.7 + 92.3 = ?",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.8 + 38.1 = ?",
+      "answer": [
+        "60.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.3 + 96.3 = ?",
+      "answer": [
+        "145.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.2 + 63.9 = ?",
+      "answer": [
+        "100.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.6 + 56.7 = ?",
+      "answer": [
+        "137.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.3 + 41.3 = ?",
+      "answer": [
+        "140.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.3 + 41.1 = ?",
+      "answer": [
+        "104.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.5 + 22 = ?",
+      "answer": [
+        "50.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.7 + 95.6 = ?",
+      "answer": [
+        "138.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.5 + 42.7 = ?",
+      "answer": [
+        "96.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.8 + 65.3 = ?",
+      "answer": [
+        "112.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.2 + 85.8 = ?",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.8 + 11.7 = ?",
+      "answer": [
+        "76.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.8 + 61.8 = ?",
+      "answer": [
+        "95.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.2 + 80.4 = ?",
+      "answer": [
+        "121.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.6 + 94.3 = ?",
+      "answer": [
+        "161.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.7 + 59.4 = ?",
+      "answer": [
+        "67.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.8 + 74.1 = ?",
+      "answer": [
+        "154.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.1 + 14.5 = ?",
+      "answer": [
+        "47.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.5 + 12.8 = ?",
+      "answer": [
+        "112.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.2 + 49.9 = ?",
+      "answer": [
+        "112.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.6 + 56.1 = ?",
+      "answer": [
+        "113.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 34.6 = ?",
+      "answer": [
+        "65.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 64.6 = ?",
+      "answer": [
+        "81.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.8 + 20.2 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.4 + 59.8 = ?",
+      "answer": [
+        "127.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.2 + 59.1 = ?",
+      "answer": [
+        "105.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.5 + 80.5 = ?",
+      "answer": [
+        "127"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.7 + 55.3 = ?",
+      "answer": [
+        "141"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.6 + 0.5 = ?",
+      "answer": [
+        "38.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.8 + 62.9 = ?",
+      "answer": [
+        "148.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 + 85.4 = ?",
+      "answer": [
+        "113.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.1 + 69.4 = ?",
+      "answer": [
+        "143.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 + 89 = ?",
+      "answer": [
+        "125"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.3 + 30.8 = ?",
+      "answer": [
+        "69.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 + 16 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.8 + 43.8 = ?",
+      "answer": [
+        "46.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.7 + 3 = ?",
+      "answer": [
+        "63.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.7 + 73.2 = ?",
+      "answer": [
+        "163.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.4 + 94.1 = ?",
+      "answer": [
+        "94.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.1 + 70.4 = ?",
+      "answer": [
+        "136.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.5 + 13.2 = ?",
+      "answer": [
+        "24.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.2 + 48.5 = ?",
+      "answer": [
+        "124.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.2 + 57.2 = ?",
+      "answer": [
+        "120.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.3 + 2.7 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.2 + 66.4 = ?",
+      "answer": [
+        "108.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.4 + 90.8 = ?",
+      "answer": [
+        "144.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.1 + 43.4 = ?",
+      "answer": [
+        "120.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 + 11.5 = ?",
+      "answer": [
+        "14.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.7 + 25.4 = ?",
+      "answer": [
+        "120.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.5 + 45.3 = ?",
+      "answer": [
+        "61.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.4 + 35.1 = ?",
+      "answer": [
+        "74.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85 + 47.9 = ?",
+      "answer": [
+        "132.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.1 + 63.3 = ?",
+      "answer": [
+        "77.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.9 + 8.3 = ?",
+      "answer": [
+        "45.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 + 56.8 = ?",
+      "answer": [
+        "82.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.2 + 12.3 = ?",
+      "answer": [
+        "63.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.4 + 16.5 = ?",
+      "answer": [
+        "60.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.2 + 74.7 = ?",
+      "answer": [
+        "110.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 + 30.2 = ?",
+      "answer": [
+        "33.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.1 + 29.5 = ?",
+      "answer": [
+        "44.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.6 + 91.9 = ?",
+      "answer": [
+        "98.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.3 + 91.5 = ?",
+      "answer": [
+        "181.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.7 + 85.3 = ?",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 + 30.1 = ?",
+      "answer": [
+        "113.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.5 + 31.5 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.8 + 17 = ?",
+      "answer": [
+        "81.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.5 + 28.2 = ?",
+      "answer": [
+        "114.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.7 + 38.5 = ?",
+      "answer": [
+        "69.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.4 + 32.7 = ?",
+      "answer": [
+        "62.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 + 86.5 = ?",
+      "answer": [
+        "167.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.1 + 63.8 = ?",
+      "answer": [
+        "85.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.5 + 66.2 = ?",
+      "answer": [
+        "75.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.5 + 25.4 = ?",
+      "answer": [
+        "76.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.9 + 85 = ?",
+      "answer": [
+        "99.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.4 + 76.8 = ?",
+      "answer": [
+        "176.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.7 + 12.8 = ?",
+      "answer": [
+        "98.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.6 + 4.6 = ?",
+      "answer": [
+        "57.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.9 + 25.2 = ?",
+      "answer": [
+        "50.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.5 + 67.1 = ?",
+      "answer": [
+        "126.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.4 + 71.7 = ?",
+      "answer": [
+        "82.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.8 + 19.8 = ?",
+      "answer": [
+        "64.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.5 + 31.4 = ?",
+      "answer": [
+        "44.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.2 + 42.1 = ?",
+      "answer": [
+        "53.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.2 + 43.6 = ?",
+      "answer": [
+        "62.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.5 + 20.9 = ?",
+      "answer": [
+        "109.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 31.5 = ?",
+      "answer": [
+        "49.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.2 + 65.9 = ?",
+      "answer": [
+        "78.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.1 + 54.4 = ?",
+      "answer": [
+        "120.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.7 + 59.1 = ?",
+      "answer": [
+        "97.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.7 + 53.4 = ?",
+      "answer": [
+        "87.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 63.8 = ?",
+      "answer": [
+        "94.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.8 + 81.4 = ?",
+      "answer": [
+        "167.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.4 + 46 = ?",
+      "answer": [
+        "118.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.9 + 28.4 = ?",
+      "answer": [
+        "96.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 + 83.6 = ?",
+      "answer": [
+        "173.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89 + 84.2 = ?",
+      "answer": [
+        "173.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.7 + 66.8 = ?",
+      "answer": [
+        "164.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.5 + 0.7 = ?",
+      "answer": [
+        "26.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.9 + 12.9 = ?",
+      "answer": [
+        "102.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 + 42.7 = ?",
+      "answer": [
+        "130.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.9 + 51.5 = ?",
+      "answer": [
+        "95.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25 + 43.3 = ?",
+      "answer": [
+        "68.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.3 + 52.5 = ?",
+      "answer": [
+        "67.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.3 + 0.5 = ?",
+      "answer": [
+        "54.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.1 + 1.4 = ?",
+      "answer": [
+        "33.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.1 + 80.2 = ?",
+      "answer": [
+        "127.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.7 + 46.7 = ?",
+      "answer": [
+        "68.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.7 + 15.6 = ?",
+      "answer": [
+        "22.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.4 + 72.1 = ?",
+      "answer": [
+        "100.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.4 + 14.7 = ?",
+      "answer": [
+        "28.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.7 + 69.2 = ?",
+      "answer": [
+        "72.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.3 + 17 = ?",
+      "answer": [
+        "48.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.6 + 13 = ?",
+      "answer": [
+        "90.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.5 + 63.5 = ?",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.3 + 65.7 = ?",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.4 + 66.8 = ?",
+      "answer": [
+        "99.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.1 + 62.4 = ?",
+      "answer": [
+        "80.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.3 + 98.2 = ?",
+      "answer": [
+        "160.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.6 + 52.2 = ?",
+      "answer": [
+        "97.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.9 + 29.5 = ?",
+      "answer": [
+        "44.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.1 + 99.5 = ?",
+      "answer": [
+        "177.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.3 + 92.2 = ?",
+      "answer": [
+        "134.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.8 + 70 = ?",
+      "answer": [
+        "110.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.2 + 47.2 = ?",
+      "answer": [
+        "144.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.4 + 52.7 = ?",
+      "answer": [
+        "106.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.8 + 73.6 = ?",
+      "answer": [
+        "111.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.3 + 96.9 = ?",
+      "answer": [
+        "184.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.7 + 21 = ?",
+      "answer": [
+        "77.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 + 63 = ?",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.2 + 85.1 = ?",
+      "answer": [
+        "140.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.2 + 14.8 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.3 + 98.6 = ?",
+      "answer": [
+        "103.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.1 + 5.5 = ?",
+      "answer": [
+        "9.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 + 49.8 = ?",
+      "answer": [
+        "122.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.6 + 32.8 = ?",
+      "answer": [
+        "45.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.5 + 68.4 = ?",
+      "answer": [
+        "164.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.6 + 65.4 = ?",
+      "answer": [
+        "109"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.2 + 43.3 = ?",
+      "answer": [
+        "82.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 67.5 = ?",
+      "answer": [
+        "70.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.4 + 59.7 = ?",
+      "answer": [
+        "124.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.5 + 71.6 = ?",
+      "answer": [
+        "122.1"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,3009 @@
+{
+  "title": "2年级 · 应用题 · 平均分",
+  "grade": 2,
+  "category": "应用题 · 平均分",
+  "kind": "application",
+  "range": "表内除法 · 求每份数量",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把12张彩纸平均分给6位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 6 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把24支铅笔平均分给8位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 8 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把15块积木平均分给3位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 3 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把10个小球平均分给5位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 5 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把16个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 4 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把25张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "25 ÷ 5 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把24块积木平均分给3位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 3 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把72支铅笔平均分给9位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 9 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把36张贴纸平均分给9位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 9 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把48块积木平均分给6位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 6 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把24支铅笔平均分给8位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 8 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把30张卡片平均分给6位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "30 ÷ 6 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把72张卡片平均分给9位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 9 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把40张彩纸平均分给5位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把63张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "63 ÷ 9 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把12个小球平均分给3位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 3 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把12个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 4 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把8张贴纸平均分给2位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把24块积木平均分给8位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 8 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把35张贴纸平均分给5位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "35 ÷ 5 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把12张贴纸平均分给6位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 6 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把56张卡片平均分给7位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 7 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把40个小球平均分给5位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把35块积木平均分给7位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "35 ÷ 7 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把45张彩纸平均分给5位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把32支铅笔平均分给4位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "32 ÷ 4 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把16张贴纸平均分给8位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 8 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把18张彩纸平均分给6位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 6 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把8个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 4 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把42张卡片平均分给7位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "42 ÷ 7 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把20张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "20 ÷ 5 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把25张贴纸平均分给5位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "25 ÷ 5 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把35支铅笔平均分给7位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "35 ÷ 7 = 5（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把24支铅笔平均分给8位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 8 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把24支铅笔平均分给4位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 4 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把36张卡片平均分给4位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 4 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把28张卡片平均分给4位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "28 ÷ 4 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把40张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把48支铅笔平均分给6位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 6 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把14张彩纸平均分给7位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 7 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把30个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "30 ÷ 6 = 5（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把49张卡片平均分给7位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "49 ÷ 7 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把48支铅笔平均分给6位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 6 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把25个小球平均分给5位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "25 ÷ 5 = 5（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把10张彩纸平均分给2位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 2 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把10支铅笔平均分给5位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 5 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把21张彩纸平均分给3位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "21 ÷ 3 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把72张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 9 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把9张贴纸平均分给3位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "9 ÷ 3 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把35块积木平均分给7位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "35 ÷ 7 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把54张贴纸平均分给6位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 6 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把36块积木平均分给4位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 4 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把25支铅笔平均分给5位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "25 ÷ 5 = 5（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把9张卡片平均分给3位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "9 ÷ 3 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把14个小球平均分给7位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 7 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把14支铅笔平均分给7位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 7 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把16块积木平均分给8位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 8 = 2（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把45块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 9 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把32张贴纸平均分给4位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "32 ÷ 4 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把63块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "63 ÷ 9 = 7（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把21个小球平均分给7位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "21 ÷ 7 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把20块积木平均分给4位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "20 ÷ 4 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把18张卡片平均分给2位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把18个小球平均分给3位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 3 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把81张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "81 ÷ 9 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把36支铅笔平均分给4位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 4 = 9（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把54个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 6 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把18张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 9 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把6个小球平均分给3位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 ÷ 3 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把36张彩纸平均分给4位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 4 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把6支铅笔平均分给3位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 ÷ 3 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把27个小球平均分给3位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "27 ÷ 3 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把35支铅笔平均分给5位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "35 ÷ 5 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把10个小球平均分给5位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 5 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把56张贴纸平均分给8位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 8 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把15张贴纸平均分给3位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 3 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把18张贴纸平均分给9位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 9 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把16个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 2 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把72块积木平均分给8位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 8 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把28个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "28 ÷ 4 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把35张彩纸平均分给7位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "35 ÷ 7 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把18块积木平均分给2位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把18张卡片平均分给6位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 6 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把24张卡片平均分给8位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 8 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把8张贴纸平均分给2位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把4张彩纸平均分给2位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 ÷ 2 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把40张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把20张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "20 ÷ 5 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把36支铅笔平均分给4位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 4 = 9（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把64支铅笔平均分给8位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "64 ÷ 8 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把45块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 9 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把36支铅笔平均分给6位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 6 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把27张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "27 ÷ 9 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把24个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 6 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把56张贴纸平均分给7位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 7 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把24张彩纸平均分给3位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 3 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把16张贴纸平均分给2位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把72块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 9 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把4个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 ÷ 2 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把16块积木平均分给8位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 8 = 2（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把25块积木平均分给5位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "25 ÷ 5 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把10支铅笔平均分给2位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 2 = 5（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把36张贴纸平均分给6位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 6 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把30支铅笔平均分给6位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "30 ÷ 6 = 5（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把12张彩纸平均分给4位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 4 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把12个小球平均分给3位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 3 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把32支铅笔平均分给8位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "32 ÷ 8 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把14张贴纸平均分给7位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 7 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把64个小球平均分给8位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "64 ÷ 8 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把16张卡片平均分给2位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把14张彩纸平均分给2位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 2 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把12个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 6 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把24个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 6 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把28张彩纸平均分给7位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "28 ÷ 7 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把48张卡片平均分给8位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 8 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把45张彩纸平均分给5位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把36张卡片平均分给6位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 6 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把15张贴纸平均分给3位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 3 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把20张贴纸平均分给4位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "20 ÷ 4 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把15支铅笔平均分给3位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 3 = 5（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把56块积木平均分给7位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 7 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把20支铅笔平均分给5位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "20 ÷ 5 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把49个小球平均分给7位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "49 ÷ 7 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把16个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 4 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把8张彩纸平均分给4位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 4 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把18张贴纸平均分给2位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把16张彩纸平均分给8位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 8 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把12个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 6 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把10支铅笔平均分给2位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 2 = 5（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把27张卡片平均分给9位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "27 ÷ 9 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把40张彩纸平均分给8位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 8 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把45张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 9 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把16张贴纸平均分给4位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 4 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把24个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 6 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把12个小球平均分给3位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 3 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把63块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "63 ÷ 9 = 7（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把45张卡片平均分给9位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 9 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把32个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "32 ÷ 4 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把12张彩纸平均分给4位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 4 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把4个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 ÷ 2 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把45块积木平均分给5位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 5 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把56张贴纸平均分给8位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 8 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把21张卡片平均分给7位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "21 ÷ 7 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把12张彩纸平均分给6位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 6 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把72个小球平均分给9位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 9 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把16张卡片平均分给4位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 4 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把18张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 9 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把28个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "28 ÷ 4 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把12块积木平均分给6位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 6 = 2（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把56张彩纸平均分给7位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 7 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把6张卡片平均分给2位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "6 ÷ 2 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把72支铅笔平均分给8位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 8 = 9（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把6张贴纸平均分给3位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 ÷ 3 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把48张彩纸平均分给6位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 6 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把42张卡片平均分给7位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "42 ÷ 7 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把18张贴纸平均分给3位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 3 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把27个小球平均分给9位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "27 ÷ 9 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把14张贴纸平均分给2位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 2 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把30个小球平均分给5位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "30 ÷ 5 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把10支铅笔平均分给5位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 5 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把48张彩纸平均分给8位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 8 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把48张卡片平均分给8位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 8 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把48张贴纸平均分给6位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 6 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把18张卡片平均分给3位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 3 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把40支铅笔平均分给8位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 8 = 5（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把21支铅笔平均分给7位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "21 ÷ 7 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把20个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "20 ÷ 4 = 5（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把24支铅笔平均分给3位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 3 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把48个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 6 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把25张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "25 ÷ 5 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把72张贴纸平均分给9位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 9 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把8张贴纸平均分给2位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把8支铅笔平均分给4位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 4 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把27张贴纸平均分给9位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "27 ÷ 9 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把40张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把8支铅笔平均分给4位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 4 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把9个小球平均分给3位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "9 ÷ 3 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把4块积木平均分给2位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 ÷ 2 = 2（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把18个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把24张贴纸平均分给3位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 3 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把30张彩纸平均分给5位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "30 ÷ 5 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把40个小球平均分给5位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把42支铅笔平均分给7位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "42 ÷ 7 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把45张贴纸平均分给5位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把32个小球平均分给8位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "32 ÷ 8 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把18张彩纸平均分给2位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把54张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 9 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把10张彩纸平均分给2位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 2 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把24张卡片平均分给3位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 3 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把27张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "27 ÷ 9 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把36个小球平均分给4位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 4 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把63张彩纸平均分给7位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "63 ÷ 7 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把4张贴纸平均分给2位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 ÷ 2 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把42张彩纸平均分给6位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "42 ÷ 6 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把30张卡片平均分给6位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "30 ÷ 6 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把18张彩纸平均分给6位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 6 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把63块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "63 ÷ 9 = 7（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把45张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把48张彩纸平均分给6位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 6 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把54张卡片平均分给9位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 9 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把56个小球平均分给7位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 7 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把48张贴纸平均分给8位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 8 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把18张彩纸平均分给2位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把15张贴纸平均分给5位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 5 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把16块积木平均分给2位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 2 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把6个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "6 ÷ 2 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把30张贴纸平均分给5位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "30 ÷ 5 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把20张卡片平均分给4位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "20 ÷ 4 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把72张卡片平均分给8位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 8 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把56张卡片平均分给7位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 7 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把28张卡片平均分给4位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "28 ÷ 4 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把16张贴纸平均分给8位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 8 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把36张卡片平均分给4位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 4 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把49张贴纸平均分给7位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "49 ÷ 7 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把8张彩纸平均分给2位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把9块积木平均分给3位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "9 ÷ 3 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把15支铅笔平均分给5位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 5 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把12块积木平均分给4位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 4 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把81块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "81 ÷ 9 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把54支铅笔平均分给6位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 6 = 9（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把18块积木平均分给2位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把48个小球平均分给8位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 8 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把6支铅笔平均分给2位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "6 ÷ 2 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把24张彩纸平均分给6位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 6 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把81张卡片平均分给9位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "81 ÷ 9 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把40张贴纸平均分给5位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把14个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 2 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把32张卡片平均分给8位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "32 ÷ 8 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把15张贴纸平均分给3位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 3 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把24张彩纸平均分给4位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 4 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把64张贴纸平均分给8位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "64 ÷ 8 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把42张贴纸平均分给6位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "42 ÷ 6 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把56个小球平均分给8位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 8 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把18张卡片平均分给9位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 9 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把15支铅笔平均分给5位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 5 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把10张卡片平均分给2位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 2 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把56张贴纸平均分给7位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 7 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把81支铅笔平均分给9位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "81 ÷ 9 = 9（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把18块积木平均分给3位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 3 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把21张卡片平均分给3位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "21 ÷ 3 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把28张贴纸平均分给7位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "28 ÷ 7 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把8张卡片平均分给2位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把16块积木平均分给4位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 4 = 4（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把9个小球平均分给3位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "9 ÷ 3 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把49支铅笔平均分给7位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "49 ÷ 7 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把40支铅笔平均分给5位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把49张彩纸平均分给7位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "49 ÷ 7 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把49支铅笔平均分给7位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "49 ÷ 7 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把6张彩纸平均分给3位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 ÷ 3 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把64个小球平均分给8位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "64 ÷ 8 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把54张卡片平均分给6位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 6 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把21张彩纸平均分给3位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "21 ÷ 3 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把72张彩纸平均分给8位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "72 ÷ 8 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把32张贴纸平均分给8位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "32 ÷ 8 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把12个小球平均分给6位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 6 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把42支铅笔平均分给7位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "42 ÷ 7 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把36张贴纸平均分给6位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 6 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把16个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 2 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把54张彩纸平均分给9位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 9 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把56张卡片平均分给7位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "56 ÷ 7 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把36张贴纸平均分给9位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 9 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把40张卡片平均分给8位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 8 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把21支铅笔平均分给3位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "21 ÷ 3 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把10个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 2 = 5（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把45张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把18个小球平均分给2位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把24张贴纸平均分给4位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 4 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把36张贴纸平均分给9位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 9 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把24张贴纸平均分给6位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 6 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把48块积木平均分给8位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 8 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把18支铅笔平均分给2位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 ÷ 2 = 9（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把27张卡片平均分给3位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "27 ÷ 3 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把36块积木平均分给6位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 6 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把14块积木平均分给7位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 7 = 2（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把24张彩纸平均分给4位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 4 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把36张贴纸平均分给9位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "36 ÷ 9 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把48支铅笔平均分给6位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "48 ÷ 6 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把16张彩纸平均分给8位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 8 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把28支铅笔平均分给4位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "28 ÷ 4 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把63张卡片平均分给9位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "63 ÷ 9 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把81张卡片平均分给9位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "81 ÷ 9 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安把81个小球平均分给9位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "81 ÷ 9 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把14张卡片平均分给2位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 2 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把63个小球平均分给7位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "63 ÷ 7 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把54块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 9 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把40块积木平均分给5位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "40 ÷ 5 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把14张卡片平均分给2位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "14 ÷ 2 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把15张卡片平均分给5位同学。每位同学分到多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "15 ÷ 5 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把16支铅笔平均分给4位同学。每位同学分到多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "16 ÷ 4 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把9张彩纸平均分给3位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "9 ÷ 3 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明把8张贴纸平均分给2位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 ÷ 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把63个小球平均分给7位同学。每位同学分到多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "63 ÷ 7 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把30块积木平均分给5位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "30 ÷ 5 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林把10张贴纸平均分给5位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "10 ÷ 5 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨把45块积木平均分给9位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "45 ÷ 9 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华把24块积木平均分给4位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "24 ÷ 4 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐把54块积木平均分给6位同学。每位同学分到多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "54 ÷ 6 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把12张贴纸平均分给3位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "12 ÷ 3 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红把28张贴纸平均分给4位同学。每位同学分到多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "28 ÷ 4 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦把49张彩纸平均分给7位同学。每位同学分到多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "49 ÷ 7 = 7（张）。"
+    }
+  ]
+}

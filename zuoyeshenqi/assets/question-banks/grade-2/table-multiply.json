@@ -1,0 +1,413 @@
+{
+  "title": "2年级 · 乘法口诀",
+  "grade": 2,
+  "category": "乘法口诀",
+  "range": "基础 · 1–9乘法，交换因数不重复",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "5 × 8 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 × 3 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 × 6 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 × 2 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 × 8 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 × 6 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 × 3 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 × 7 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 × 1 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 × 4 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 × 1 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 × 9 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 × 5 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 × 6 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 × 2 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 × 5 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 × 4 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 × 4 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 × 3 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 × 2 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 × 6 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 × 8 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 × 4 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 × 2 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 × 6 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 × 7 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 × 6 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 × 1 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 × 1 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 × 2 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 × 9 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 × 7 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 × 4 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 × 6 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 × 7 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 × 8 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 × 7 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 × 5 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 × 3 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 × 1 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 × 9 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 × 9 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 × 4 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 × 2 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 × 5 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

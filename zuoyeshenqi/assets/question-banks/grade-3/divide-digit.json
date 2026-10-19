@@ -1,0 +1,6308 @@
+{
+  "title": "3年级 · 整除口算",
+  "grade": 3,
+  "category": "整除口算",
+  "range": "进阶 · 商2–99，除数2–9",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "260 ÷ 4 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 ÷ 2 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186 ÷ 3 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 ÷ 5 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "108 ÷ 6 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "801 ÷ 9 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 ÷ 4 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 ÷ 2 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "318 ÷ 6 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "416 ÷ 8 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "300 ÷ 5 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "354 ÷ 6 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "342 ÷ 6 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "285 ÷ 3 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "168 ÷ 3 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "150 ÷ 6 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "276 ÷ 6 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "343 ÷ 7 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "116 ÷ 4 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "150 ÷ 2 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "110 ÷ 2 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "258 ÷ 6 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "249 ÷ 3 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "296 ÷ 8 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38 ÷ 2 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 ÷ 7 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "140 ÷ 5 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 ÷ 3 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "464 ÷ 8 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "485 ÷ 5 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "444 ÷ 6 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "792 ÷ 9 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "147 ÷ 3 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "400 ÷ 5 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 ÷ 9 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 ÷ 8 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "492 ÷ 6 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "350 ÷ 5 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "295 ÷ 5 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 ÷ 3 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "336 ÷ 6 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "684 ÷ 9 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "360 ÷ 9 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "567 ÷ 9 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 ÷ 3 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "328 ÷ 4 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "135 ÷ 3 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138 ÷ 2 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "312 ÷ 4 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "525 ÷ 7 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "292 ÷ 4 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "168 ÷ 8 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "679 ÷ 7 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "560 ÷ 7 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 ÷ 7 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "135 ÷ 9 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144 ÷ 9 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "105 ÷ 3 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "154 ÷ 7 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "567 ÷ 7 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 ÷ 9 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "623 ÷ 7 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "290 ÷ 5 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95 ÷ 5 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "414 ÷ 6 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 ÷ 4 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 ÷ 3 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "450 ÷ 5 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "480 ÷ 6 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "148 ÷ 2 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 ÷ 3 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "297 ÷ 3 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 ÷ 2 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "549 ÷ 9 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 ÷ 3 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "511 ÷ 7 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 ÷ 8 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "390 ÷ 5 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "276 ÷ 4 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 ÷ 3 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "260 ÷ 5 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "162 ÷ 9 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 ÷ 4 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 ÷ 4 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "255 ÷ 3 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "369 ÷ 9 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "469 ÷ 7 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "528 ÷ 6 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "305 ÷ 5 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "693 ÷ 9 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "810 ÷ 9 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "178 ÷ 2 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "203 ÷ 7 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 ÷ 2 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "440 ÷ 5 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "440 ÷ 8 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102 ÷ 6 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "184 ÷ 4 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "388 ÷ 4 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "252 ÷ 3 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "220 ÷ 5 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "294 ÷ 6 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144 ÷ 3 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 ÷ 8 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 ÷ 2 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "166 ÷ 2 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240 ÷ 8 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "516 ÷ 6 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "424 ÷ 8 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 ÷ 6 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "891 ÷ 9 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49 ÷ 7 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 ÷ 2 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 ÷ 2 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "455 ÷ 5 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "156 ÷ 4 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 ÷ 2 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 ÷ 2 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "252 ÷ 9 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "104 ÷ 8 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 ÷ 2 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 ÷ 2 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "665 ÷ 7 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "496 ÷ 8 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "522 ÷ 6 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "208 ÷ 4 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "165 ÷ 3 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 ÷ 3 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "207 ÷ 9 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 ÷ 5 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75 ÷ 5 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "612 ÷ 9 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 ÷ 4 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "438 ÷ 6 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "279 ÷ 9 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "152 ÷ 8 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "390 ÷ 6 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "205 ÷ 5 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "387 ÷ 9 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "356 ÷ 4 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "351 ÷ 9 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "792 ÷ 8 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "336 ÷ 4 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 ÷ 6 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "231 ÷ 3 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "244 ÷ 4 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "291 ÷ 3 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "136 ÷ 4 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 ÷ 5 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "465 ÷ 5 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "477 ÷ 9 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "486 ÷ 6 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160 ÷ 8 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "360 ÷ 4 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "728 ÷ 8 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "368 ÷ 8 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "495 ÷ 9 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "435 ÷ 5 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "117 ÷ 9 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "603 ÷ 9 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "145 ÷ 5 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "168 ÷ 2 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "640 ÷ 8 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "210 ÷ 7 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "176 ÷ 2 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "360 ÷ 6 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "415 ÷ 5 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "395 ÷ 5 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "104 ÷ 2 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126 ÷ 2 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 ÷ 4 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240 ÷ 3 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 ÷ 5 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "344 ÷ 4 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "420 ÷ 5 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "602 ÷ 7 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 ÷ 2 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "504 ÷ 8 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "273 ÷ 7 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "324 ÷ 9 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "174 ÷ 3 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "276 ÷ 3 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "468 ÷ 9 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "256 ÷ 4 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "162 ÷ 3 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "546 ÷ 6 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "128 ÷ 8 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "585 ÷ 9 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "328 ÷ 8 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "175 ÷ 7 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 ÷ 8 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "340 ÷ 4 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120 ÷ 2 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "232 ÷ 4 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 ÷ 7 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 ÷ 4 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "273 ÷ 3 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "275 ÷ 5 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120 ÷ 6 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 ÷ 3 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "648 ÷ 8 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "470 ÷ 5 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "445 ÷ 5 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "498 ÷ 6 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "450 ÷ 9 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "330 ÷ 6 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "768 ÷ 8 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "162 ÷ 6 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 ÷ 3 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "174 ÷ 2 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144 ÷ 8 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 ÷ 4 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "486 ÷ 9 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "153 ÷ 9 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 ÷ 5 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "132 ÷ 6 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "738 ÷ 9 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 ÷ 4 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "396 ÷ 9 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 ÷ 6 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 ÷ 3 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 ÷ 3 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "216 ÷ 4 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "488 ÷ 8 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "322 ÷ 7 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "133 ÷ 7 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 ÷ 2 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164 ÷ 2 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "207 ÷ 3 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "522 ÷ 9 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 ÷ 5 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "245 ÷ 5 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288 ÷ 6 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "320 ÷ 8 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 ÷ 7 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "385 ÷ 7 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 ÷ 7 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "330 ÷ 5 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "546 ÷ 7 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "371 ÷ 7 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "284 ÷ 4 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "252 ÷ 6 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "246 ÷ 3 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99 ÷ 3 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 ÷ 3 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "340 ÷ 5 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "224 ÷ 4 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "238 ÷ 7 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "365 ÷ 5 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "188 ÷ 2 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "315 ÷ 5 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "180 ÷ 6 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 ÷ 3 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 ÷ 2 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "380 ÷ 5 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "216 ÷ 8 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240 ÷ 5 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "564 ÷ 6 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "184 ÷ 8 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "320 ÷ 4 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "384 ÷ 8 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "532 ÷ 7 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "180 ÷ 5 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "308 ÷ 7 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "518 ÷ 7 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "568 ÷ 8 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "170 ÷ 2 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "468 ÷ 6 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 ÷ 6 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "154 ÷ 2 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "448 ÷ 7 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "204 ÷ 6 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 ÷ 6 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "261 ÷ 9 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "135 ÷ 5 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62 ÷ 2 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "175 ÷ 5 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "495 ÷ 5 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "248 ÷ 4 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 ÷ 3 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 ÷ 6 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "364 ÷ 7 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 ÷ 7 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "152 ÷ 2 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102 ÷ 2 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "320 ÷ 5 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 ÷ 2 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 ÷ 3 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "630 ÷ 7 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "132 ÷ 2 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 ÷ 4 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 ÷ 6 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "357 ÷ 7 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "280 ÷ 7 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "372 ÷ 6 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "680 ÷ 8 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "243 ÷ 3 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "648 ÷ 9 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288 ÷ 9 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "408 ÷ 6 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "595 ÷ 7 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 ÷ 8 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "267 ÷ 3 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "576 ÷ 6 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "248 ÷ 8 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 ÷ 8 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "329 ÷ 7 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 ÷ 2 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "108 ÷ 9 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "125 ÷ 5 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "182 ÷ 2 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "594 ÷ 9 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "360 ÷ 8 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "185 ÷ 5 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "873 ÷ 9 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "189 ÷ 9 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 ÷ 5 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "624 ÷ 8 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "196 ÷ 4 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "686 ÷ 7 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "378 ÷ 7 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "656 ÷ 8 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 ÷ 3 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "168 ÷ 6 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "558 ÷ 6 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 ÷ 3 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "413 ÷ 7 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "837 ÷ 9 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "246 ÷ 6 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 ÷ 5 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "174 ÷ 6 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126 ÷ 6 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120 ÷ 8 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "156 ÷ 6 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "378 ÷ 9 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160 ÷ 4 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 ÷ 3 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "490 ÷ 7 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "140 ÷ 4 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "534 ÷ 6 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "162 ÷ 2 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 ÷ 6 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "576 ÷ 9 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "180 ÷ 2 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "258 ÷ 3 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "350 ÷ 7 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "128 ÷ 2 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "250 ÷ 5 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "342 ÷ 9 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "855 ÷ 9 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "335 ÷ 5 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160 ÷ 2 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "396 ÷ 6 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "270 ÷ 9 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200 ÷ 8 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "544 ÷ 8 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 ÷ 6 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "616 ÷ 7 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "621 ÷ 9 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 ÷ 9 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85 ÷ 5 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "136 ÷ 8 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "196 ÷ 7 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 ÷ 7 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "182 ÷ 7 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "783 ÷ 9 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "266 ÷ 7 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288 ÷ 8 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "462 ÷ 6 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "400 ÷ 8 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 ÷ 2 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "117 ÷ 3 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "245 ÷ 7 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 ÷ 3 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "201 ÷ 3 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "234 ÷ 6 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "130 ÷ 5 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "280 ÷ 8 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "432 ÷ 6 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "368 ÷ 4 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "111 ÷ 3 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "729 ÷ 9 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "180 ÷ 4 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "408 ÷ 8 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "222 ÷ 3 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "116 ÷ 2 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "184 ÷ 2 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "520 ÷ 8 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 ÷ 9 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "672 ÷ 8 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198 ÷ 2 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "146 ÷ 2 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120 ÷ 4 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "504 ÷ 6 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "819 ÷ 9 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "268 ÷ 4 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "747 ÷ 9 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "776 ÷ 8 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "480 ÷ 8 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "450 ÷ 6 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 ÷ 5 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "476 ÷ 7 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "558 ÷ 9 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 ÷ 2 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "399 ÷ 7 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "106 ÷ 2 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "152 ÷ 4 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225 ÷ 9 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 ÷ 2 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "105 ÷ 7 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "472 ÷ 8 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "188 ÷ 4 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "475 ÷ 5 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "364 ÷ 4 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "474 ÷ 6 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "134 ÷ 2 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "265 ÷ 5 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 ÷ 3 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 ÷ 4 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "150 ÷ 5 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 ÷ 8 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 ÷ 2 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "105 ÷ 5 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "155 ÷ 5 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "756 ÷ 9 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "765 ÷ 9 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "657 ÷ 9 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144 ÷ 6 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198 ÷ 3 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "301 ÷ 7 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "459 ÷ 9 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "124 ÷ 4 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "576 ÷ 8 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186 ÷ 6 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "456 ÷ 6 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "220 ÷ 4 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 ÷ 3 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "279 ÷ 3 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "124 ÷ 2 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "306 ÷ 9 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 ÷ 2 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "736 ÷ 8 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200 ÷ 4 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "215 ÷ 5 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 ÷ 7 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "651 ÷ 7 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "392 ÷ 7 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "236 ÷ 4 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "140 ÷ 7 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "324 ÷ 6 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 ÷ 2 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "190 ÷ 2 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 ÷ 4 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "172 ÷ 4 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "190 ÷ 5 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "430 ÷ 5 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "204 ÷ 4 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "344 ÷ 8 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 ÷ 2 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "304 ÷ 4 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "216 ÷ 6 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "304 ÷ 8 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 ÷ 2 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "256 ÷ 8 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 ÷ 7 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "384 ÷ 4 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "140 ÷ 2 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 ÷ 8 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99 ÷ 9 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "172 ÷ 2 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "132 ÷ 4 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 ÷ 2 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "235 ÷ 5 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 ÷ 6 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "644 ÷ 7 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "224 ÷ 8 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 ÷ 4 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "112 ÷ 7 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "171 ÷ 9 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 ÷ 2 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "425 ÷ 5 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 ÷ 5 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198 ÷ 6 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "372 ÷ 4 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "216 ÷ 9 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "574 ÷ 7 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 ÷ 4 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "672 ÷ 7 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "332 ÷ 4 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288 ÷ 3 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "230 ÷ 5 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "592 ÷ 8 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "170 ÷ 5 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "752 ÷ 8 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138 ÷ 6 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "270 ÷ 6 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "882 ÷ 9 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "147 ÷ 7 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "176 ÷ 4 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "594 ÷ 6 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 ÷ 2 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "584 ÷ 8 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 ÷ 3 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 ÷ 5 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "180 ÷ 3 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "658 ÷ 7 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "189 ÷ 7 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "405 ÷ 5 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "294 ÷ 7 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "114 ÷ 2 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240 ÷ 4 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "119 ÷ 7 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "553 ÷ 7 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "217 ÷ 7 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 ÷ 9 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "846 ÷ 9 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "784 ÷ 8 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "114 ÷ 6 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 ÷ 4 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "259 ÷ 7 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "760 ÷ 8 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "189 ÷ 3 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "231 ÷ 7 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "296 ÷ 4 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225 ÷ 5 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "255 ÷ 5 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 ÷ 2 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "212 ÷ 4 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "376 ÷ 4 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "195 ÷ 5 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126 ÷ 3 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "688 ÷ 8 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "552 ÷ 6 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225 ÷ 3 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "402 ÷ 6 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "252 ÷ 7 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "712 ÷ 8 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 ÷ 3 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "159 ÷ 3 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "312 ÷ 6 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 ÷ 9 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "141 ÷ 3 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "108 ÷ 2 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200 ÷ 5 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 ÷ 6 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126 ÷ 7 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 ÷ 5 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160 ÷ 5 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "355 ÷ 5 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "460 ÷ 5 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "264 ÷ 3 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "693 ÷ 7 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "264 ÷ 8 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 ÷ 2 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 ÷ 2 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "312 ÷ 8 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 ÷ 8 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "261 ÷ 3 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 ÷ 3 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "455 ÷ 7 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "300 ÷ 4 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "828 ÷ 9 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "504 ÷ 7 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "510 ÷ 6 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "414 ÷ 9 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "336 ÷ 8 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 ÷ 6 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "531 ÷ 9 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "114 ÷ 3 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 ÷ 4 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "616 ÷ 8 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "232 ÷ 8 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 ÷ 6 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240 ÷ 6 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "600 ÷ 8 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "480 ÷ 5 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "100 ÷ 5 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 ÷ 3 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "161 ÷ 7 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "420 ÷ 7 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "462 ÷ 7 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76 ÷ 4 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 ÷ 6 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "222 ÷ 6 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "376 ÷ 8 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "300 ÷ 6 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "177 ÷ 3 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "864 ÷ 9 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "536 ÷ 8 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198 ÷ 9 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "112 ÷ 8 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "441 ÷ 9 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "675 ÷ 9 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144 ÷ 2 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "112 ÷ 2 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "315 ÷ 7 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "664 ÷ 8 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "272 ÷ 4 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "195 ÷ 3 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102 ÷ 3 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 ÷ 2 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "228 ÷ 3 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 ÷ 2 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "122 ÷ 2 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "497 ÷ 7 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "333 ÷ 9 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "153 ÷ 3 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126 ÷ 9 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "348 ÷ 4 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "352 ÷ 4 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "228 ÷ 6 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "432 ÷ 9 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44 ÷ 2 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 ÷ 3 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "282 ÷ 3 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 ÷ 4 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "528 ÷ 8 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 ÷ 2 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 ÷ 2 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "130 ÷ 2 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "252 ÷ 4 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "370 ÷ 5 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "285 ÷ 5 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "380 ÷ 4 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 ÷ 6 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "570 ÷ 6 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "308 ÷ 4 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "142 ÷ 2 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164 ÷ 4 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "165 ÷ 5 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "375 ÷ 5 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "237 ÷ 3 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "324 ÷ 4 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120 ÷ 3 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "148 ÷ 4 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 ÷ 4 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "287 ÷ 7 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "588 ÷ 7 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 ÷ 8 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "774 ÷ 9 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "392 ÷ 4 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "123 ÷ 3 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "100 ÷ 2 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "711 ÷ 9 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "243 ÷ 9 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "345 ÷ 5 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25 ÷ 5 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "325 ÷ 5 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "336 ÷ 7 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "158 ÷ 2 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "720 ÷ 8 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 ÷ 9 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "406 ÷ 7 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "234 ÷ 9 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "540 ÷ 6 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 ÷ 3 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "104 ÷ 4 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 ÷ 7 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 ÷ 6 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 ÷ 9 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 ÷ 4 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 ÷ 2 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 ÷ 3 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 ÷ 4 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "582 ÷ 6 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "456 ÷ 8 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "128 ÷ 4 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "156 ÷ 2 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "194 ÷ 2 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 ÷ 3 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "118 ÷ 2 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "426 ÷ 6 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44 ÷ 4 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75 ÷ 3 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "378 ÷ 6 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 ÷ 5 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "156 ÷ 3 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 ÷ 2 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "282 ÷ 6 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "405 ÷ 9 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138 ÷ 3 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "702 ÷ 9 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 ÷ 2 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "552 ÷ 8 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "609 ÷ 7 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "513 ÷ 9 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186 ÷ 2 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "316 ÷ 4 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "666 ÷ 9 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "632 ÷ 8 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120 ÷ 5 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 ÷ 8 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288 ÷ 4 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "297 ÷ 9 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "180 ÷ 9 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "264 ÷ 6 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "539 ÷ 7 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 ÷ 9 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "434 ÷ 7 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "280 ÷ 4 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

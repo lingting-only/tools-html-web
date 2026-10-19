@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "total": 30135,
+  "grades": [
+    {
+      "id": 1,
+      "name": "1年级",
+      "categories": [
+        {
+          "id": "add-20",
+          "name": "20以内加法",
+          "range": "基础 · 和不超过20",
+          "count": 100,
+          "file": "grade-1/add-20.json"
+        },
+        {
+          "id": "subtract-20",
+          "name": "20以内减法",
+          "range": "基础 · 非负结果",
+          "count": 209,
+          "file": "grade-1/subtract-20.json"
+        },
+        {
+          "id": "add-100",
+          "name": "100以内加法",
+          "range": "进阶 · 和不超过100",
+          "count": 1500,
+          "file": "grade-1/add-100.json"
+        },
+        {
+          "id": "subtract-100",
+          "name": "100以内减法",
+          "range": "进阶 · 非负结果",
+          "count": 1500,
+          "file": "grade-1/subtract-100.json"
+        },
+        {
+          "id": "mixed-operations",
+          "name": "混合运算",
+          "range": "基础 · 20以内加减混合",
+          "count": 1500,
+          "file": "grade-1/mixed-operations.json"
+        },
+        {
+          "id": "mixed-add-subtract-100",
+          "name": "100以内加减混合",
+          "range": "进阶 · 两步加减，非负结果",
+          "count": 600,
+          "file": "grade-1/mixed-add-subtract-100.json"
+        },
+        {
+          "id": "word-combine",
+          "name": "应用题 · 合并数量",
+          "range": "20以内 · 求总数",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-1/word-combine.json"
+        },
+        {
+          "id": "word-compare",
+          "name": "应用题 · 比较多少",
+          "range": "20以内 · 求相差数量",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-1/word-compare.json"
+        },
+        {
+          "id": "word-remain",
+          "name": "应用题 · 求剩余",
+          "range": "20以内 · 减法情境",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-1/word-remain.json"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "2年级",
+      "categories": [
+        {
+          "id": "add-100",
+          "name": "100以内加法",
+          "range": "基础 · 两位数加法",
+          "count": 1500,
+          "file": "grade-2/add-100.json"
+        },
+        {
+          "id": "subtract-100",
+          "name": "100以内减法",
+          "range": "基础 · 两位数减法",
+          "count": 1500,
+          "file": "grade-2/subtract-100.json"
+        },
+        {
+          "id": "table-multiply",
+          "name": "乘法口诀",
+          "range": "基础 · 1–9乘法，交换因数不重复",
+          "count": 45,
+          "file": "grade-2/table-multiply.json"
+        },
+        {
+          "id": "table-divide",
+          "name": "表内除法",
+          "range": "基础 · 1–9口诀对应整除",
+          "count": 81,
+          "file": "grade-2/table-divide.json"
+        },
+        {
+          "id": "mixed-operations",
+          "name": "混合运算",
+          "range": "进阶 · 表内乘除与加减、括号",
+          "count": 1500,
+          "file": "grade-2/mixed-operations.json"
+        },
+        {
+          "id": "mixed-add-subtract-100",
+          "name": "100以内加减混合",
+          "range": "进阶 · 两步加减，非负结果",
+          "count": 600,
+          "file": "grade-2/mixed-add-subtract-100.json"
+        },
+        {
+          "id": "word-groups",
+          "name": "应用题 · 分组总数",
+          "range": "乘法口诀 · 相同数量合并",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-2/word-groups.json"
+        },
+        {
+          "id": "word-sharing",
+          "name": "应用题 · 平均分",
+          "range": "表内除法 · 求每份数量",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-2/word-sharing.json"
+        },
+        {
+          "id": "word-change",
+          "name": "应用题 · 购物找零",
+          "range": "整数 · 先乘后减",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-2/word-change.json"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "3年级",
+      "categories": [
+        {
+          "id": "add-1000",
+          "name": "千以内加法",
+          "range": "基础 · 和不超过1000",
+          "count": 1200,
+          "file": "grade-3/add-1000.json"
+        },
+        {
+          "id": "subtract-1000",
+          "name": "千以内减法",
+          "range": "基础 · 非负结果",
+          "count": 1200,
+          "file": "grade-3/subtract-1000.json"
+        },
+        {
+          "id": "multiply-digit",
+          "name": "两位数乘一位数",
+          "range": "进阶 · 2–99乘2–9",
+          "count": 700,
+          "file": "grade-3/multiply-digit.json"
+        },
+        {
+          "id": "divide-digit",
+          "name": "整除口算",
+          "range": "进阶 · 商2–99，除数2–9",
+          "count": 700,
+          "file": "grade-3/divide-digit.json"
+        },
+        {
+          "id": "mixed-operations",
+          "name": "混合运算",
+          "range": "进阶 · 整数四则与括号",
+          "count": 1200,
+          "file": "grade-3/mixed-operations.json"
+        },
+        {
+          "id": "word-shopping",
+          "name": "应用题 · 组合购物",
+          "range": "整数 · 单价、数量与总价",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-3/word-shopping.json"
+        },
+        {
+          "id": "word-multiple",
+          "name": "应用题 · 倍数关系",
+          "range": "整数 · 已知倍数求总量",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-3/word-multiple.json"
+        },
+        {
+          "id": "word-distribution",
+          "name": "应用题 · 留出后分配",
+          "range": "整数 · 先减后除，结果整除",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-3/word-distribution.json"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "4年级",
+      "categories": [
+        {
+          "id": "add-large",
+          "name": "整数加法",
+          "range": "基础 · 和不超过10000",
+          "count": 900,
+          "file": "grade-4/add-large.json"
+        },
+        {
+          "id": "subtract-large",
+          "name": "整数减法",
+          "range": "基础 · 被减数不超过10000",
+          "count": 900,
+          "file": "grade-4/subtract-large.json"
+        },
+        {
+          "id": "round-multiply",
+          "name": "整十数乘两位数",
+          "range": "进阶 · 简便口算",
+          "count": 700,
+          "file": "grade-4/round-multiply.json"
+        },
+        {
+          "id": "decimal-add",
+          "name": "小数加法",
+          "range": "进阶 · 一位小数",
+          "count": 850,
+          "file": "grade-4/decimal-add.json"
+        },
+        {
+          "id": "decimal-subtract",
+          "name": "小数减法",
+          "range": "进阶 · 一位小数，非负结果",
+          "count": 850,
+          "file": "grade-4/decimal-subtract.json"
+        },
+        {
+          "id": "mixed-operations",
+          "name": "混合运算",
+          "range": "进阶 · 整数四则与括号",
+          "count": 800,
+          "file": "grade-4/mixed-operations.json"
+        },
+        {
+          "id": "word-travel",
+          "name": "应用题 · 行程问题",
+          "range": "整数 · 速度、时间与剩余路程",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-4/word-travel.json"
+        },
+        {
+          "id": "word-efficiency",
+          "name": "应用题 · 工作效率",
+          "range": "整数 · 效率、时间与剩余工作量",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-4/word-efficiency.json"
+        },
+        {
+          "id": "word-average",
+          "name": "应用题 · 平均数",
+          "range": "整数 · 三组数据求平均",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-4/word-average.json"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "5年级",
+      "categories": [
+        {
+          "id": "decimal-multiply",
+          "name": "小数乘整数",
+          "range": "基础 · 一位小数乘2–9",
+          "count": 1000,
+          "file": "grade-5/decimal-multiply.json"
+        },
+        {
+          "id": "decimal-divide",
+          "name": "小数除以整数",
+          "range": "基础 · 有限小数结果",
+          "count": 1000,
+          "file": "grade-5/decimal-divide.json"
+        },
+        {
+          "id": "fraction-add",
+          "name": "分数加法",
+          "range": "进阶 · 分母2–20",
+          "count": 1000,
+          "file": "grade-5/fraction-add.json"
+        },
+        {
+          "id": "fraction-subtract",
+          "name": "分数减法",
+          "range": "进阶 · 分母2–20，非负结果",
+          "count": 1000,
+          "file": "grade-5/fraction-subtract.json"
+        },
+        {
+          "id": "mixed-operations",
+          "name": "混合运算",
+          "range": "进阶 · 小数四则与括号",
+          "count": 1000,
+          "file": "grade-5/mixed-operations.json"
+        },
+        {
+          "id": "word-decimal-shopping",
+          "name": "应用题 · 小数购物",
+          "range": "小数 · 总价与找零",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-5/word-decimal-shopping.json"
+        },
+        {
+          "id": "word-area",
+          "name": "应用题 · 小数面积",
+          "range": "小数 · 长方形面积",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-5/word-area.json"
+        },
+        {
+          "id": "word-fraction",
+          "name": "应用题 · 分数合并情境",
+          "range": "分数 · 部分量合并，不超过整体",
+          "kind": "application",
+          "count": 300,
+          "file": "grade-5/word-fraction.json"
+        }
+      ]
+    }
+  ]
+}

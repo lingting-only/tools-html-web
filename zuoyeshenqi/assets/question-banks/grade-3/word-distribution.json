@@ -1,0 +1,3009 @@
+{
+  "title": "3年级 · 应用题 · 留出后分配",
+  "grade": 3,
+  "category": "应用题 · 留出后分配",
+  "kind": "application",
+  "range": "整数 · 先减后除，结果整除",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有222张彩纸，先留出27张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(222 − 27) ÷ 5 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有51张彩纸，先留出16张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(51 − 16) ÷ 7 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有250张彩纸，先留出12张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(250 − 12) ÷ 7 = 34（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有136张彩纸，先留出24张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(136 − 24) ÷ 7 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有176张彩纸，先留出2张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(176 − 2) ÷ 6 = 29（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有52张彩纸，先留出22张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "(52 − 22) ÷ 2 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有128张彩纸，先留出24张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(128 − 24) ÷ 4 = 26（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有56张彩纸，先留出20张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(56 − 20) ÷ 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有237张彩纸，先留出9张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(237 − 9) ÷ 6 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有43张彩纸，先留出27张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(43 − 27) ÷ 4 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有128张彩纸，先留出16张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(128 − 16) ÷ 7 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有120张彩纸，先留出24张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(120 − 24) ÷ 8 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有237张彩纸，先留出21张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(237 − 21) ÷ 8 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有214张彩纸，先留出28张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(214 − 28) ÷ 6 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有84张彩纸，先留出9张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(84 − 9) ÷ 3 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有144张彩纸，先留出9张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "(144 − 9) ÷ 9 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有53张彩纸，先留出23张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(53 − 23) ÷ 3 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有28张彩纸，先留出12张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(28 − 12) ÷ 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有90张彩纸，先留出26张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(90 − 26) ÷ 8 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有211张彩纸，先留出25张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(211 − 25) ÷ 6 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有78张彩纸，先留出16张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(78 − 16) ÷ 2 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有100张彩纸，先留出15张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(100 − 15) ÷ 5 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有40张彩纸，先留出4张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "(40 − 4) ÷ 6 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有208张彩纸，先留出28张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(208 − 28) ÷ 9 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有133张彩纸，先留出18张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(133 − 18) ÷ 5 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有43张彩纸，先留出3张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(43 − 3) ÷ 2 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有189张彩纸，先留出27张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "(189 − 27) ÷ 9 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有117张彩纸，先留出21张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(117 − 21) ÷ 8 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有26张彩纸，先留出6张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(26 − 6) ÷ 2 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有123张彩纸，先留出28张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "(123 − 28) ÷ 5 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有370张彩纸，先留出10张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(370 − 10) ÷ 9 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有122张彩纸，先留出5张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "(122 − 5) ÷ 9 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有27张彩纸，先留出9张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "(27 − 9) ÷ 3 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有240张彩纸，先留出16张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(240 − 16) ÷ 7 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有93张彩纸，先留出21张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(93 − 21) ÷ 9 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有44张彩纸，先留出4张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(44 − 4) ÷ 4 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有224张彩纸，先留出17张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(224 − 17) ÷ 9 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有243张彩纸，先留出11张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(243 − 11) ÷ 8 = 29（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有94张彩纸，先留出20张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(94 − 20) ÷ 2 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有197张彩纸，先留出13张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(197 − 13) ÷ 8 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有96张彩纸，先留出18张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "(96 − 18) ÷ 6 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有133张彩纸，先留出25张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "(133 − 25) ÷ 6 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有31张彩纸，先留出7张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(31 − 7) ÷ 2 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有55张彩纸，先留出25张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "(55 − 25) ÷ 5 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有232张彩纸，先留出24张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(232 − 24) ÷ 8 = 26（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有210张彩纸，先留出12张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "(210 − 12) ÷ 9 = 22（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有184张彩纸，先留出22张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "(184 − 22) ÷ 9 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有44张彩纸，先留出9张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(44 − 9) ÷ 7 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有240张彩纸，先留出18张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(240 − 18) ÷ 6 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有65张彩纸，先留出17张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(65 − 17) ÷ 4 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有64张彩纸，先留出4张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "(64 − 4) ÷ 4 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有69张彩纸，先留出21张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(69 − 21) ÷ 2 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有67张彩纸，先留出11张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(67 − 11) ÷ 2 = 28（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有309张彩纸，先留出3张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(309 − 3) ÷ 9 = 34（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有255张彩纸，先留出24张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(255 − 24) ÷ 7 = 33（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有196张彩纸，先留出10张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(196 − 10) ÷ 6 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有28张彩纸，先留出18张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(28 − 18) ÷ 2 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有149张彩纸，先留出25张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(149 − 25) ÷ 4 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有99张彩纸，先留出25张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(99 − 25) ÷ 2 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有68张彩纸，先留出16张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "(68 − 16) ÷ 4 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有44张彩纸，先留出28张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(44 − 28) ÷ 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有67张彩纸，先留出3张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(67 − 3) ÷ 8 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有81张彩纸，先留出29张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "(81 − 29) ÷ 4 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有94张彩纸，先留出2张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(94 − 2) ÷ 4 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有47张彩纸，先留出7张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(47 − 7) ÷ 4 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有31张彩纸，先留出10张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(31 − 10) ÷ 7 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有49张彩纸，先留出19张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "(49 − 19) ÷ 2 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有283张彩纸，先留出3张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(283 − 3) ÷ 7 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有249张彩纸，先留出15张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(249 − 15) ÷ 6 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有184张彩纸，先留出16张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(184 − 16) ÷ 7 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有99张彩纸，先留出3张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(99 − 3) ÷ 3 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有108张彩纸，先留出3张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(108 − 3) ÷ 5 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有18张彩纸，先留出8张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(18 − 8) ÷ 2 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有161张彩纸，先留出5张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(161 − 5) ÷ 6 = 26（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有261张彩纸，先留出13张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(261 − 13) ÷ 8 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有55张彩纸，先留出7张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(55 − 7) ÷ 2 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有45张彩纸，先留出9张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(45 − 9) ÷ 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有99张彩纸，先留出3张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(99 − 3) ÷ 3 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有101张彩纸，先留出21张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(101 − 21) ÷ 8 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有309张彩纸，先留出30张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(309 − 30) ÷ 9 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有304张彩纸，先留出25张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(304 − 25) ÷ 9 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有94张彩纸，先留出28张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(94 − 28) ÷ 2 = 33（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有45张彩纸，先留出29张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(45 − 29) ÷ 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有357张彩纸，先留出24张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(357 − 24) ÷ 9 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有230张彩纸，先留出23张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(230 − 23) ÷ 9 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有147张彩纸，先留出27张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(147 − 27) ÷ 3 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有72张彩纸，先留出9张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "(72 − 9) ÷ 9 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有58张彩纸，先留出14张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "(58 − 14) ÷ 2 = 22（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有123张彩纸，先留出11张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(123 − 11) ÷ 4 = 28（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有76张彩纸，先留出28张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(76 − 28) ÷ 3 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有144张彩纸，先留出24张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "(144 − 24) ÷ 8 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有381张彩纸，先留出21张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(381 − 21) ÷ 9 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有210张彩纸，先留出21张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(210 − 21) ÷ 7 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有37张彩纸，先留出21张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(37 − 21) ÷ 4 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有35张彩纸，先留出27张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(35 − 27) ÷ 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有50张彩纸，先留出30张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(50 − 30) ÷ 5 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有214张彩纸，先留出14张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(214 − 14) ÷ 8 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有205张彩纸，先留出23张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(205 − 23) ÷ 7 = 26（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有82张彩纸，先留出6张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(82 − 6) ÷ 2 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有135张彩纸，先留出24张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(135 − 24) ÷ 3 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有245张彩纸，先留出5张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(245 − 5) ÷ 8 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有163张彩纸，先留出19张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(163 − 19) ÷ 9 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有71张彩纸，先留出15张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "(71 − 15) ÷ 4 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有71张彩纸，先留出11张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(71 − 11) ÷ 2 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有50张彩纸，先留出2张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(50 − 2) ÷ 2 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有93张彩纸，先留出21张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(93 − 21) ÷ 3 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有42张彩纸，先留出4张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "(42 − 4) ÷ 2 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有98张彩纸，先留出30张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(98 − 30) ÷ 2 = 34（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有82张彩纸，先留出12张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "(82 − 12) ÷ 5 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有273张彩纸，先留出14张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(273 − 14) ÷ 7 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有262张彩纸，先留出22张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(262 − 22) ÷ 6 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有19张彩纸，先留出4张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(19 − 4) ÷ 5 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有18张彩纸，先留出9张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(18 − 9) ÷ 3 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有158张彩纸，先留出13张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(158 − 13) ÷ 5 = 29（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有46张彩纸，先留出14张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(46 − 14) ÷ 4 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有273张彩纸，先留出7张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(273 − 7) ÷ 7 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有53张彩纸，先留出29张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(53 − 29) ÷ 3 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有107张彩纸，先留出11张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(107 − 11) ÷ 8 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有47张彩纸，先留出2张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(47 − 2) ÷ 9 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有115张彩纸，先留出30张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(115 − 30) ÷ 5 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有243张彩纸，先留出19张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(243 − 19) ÷ 8 = 28（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有70张彩纸，先留出6张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(70 − 6) ÷ 8 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有41张彩纸，先留出23张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(41 − 23) ÷ 2 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有60张彩纸，先留出12张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(60 − 12) ÷ 2 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有117张彩纸，先留出22张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "(117 − 22) ÷ 5 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有97张彩纸，先留出5张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(97 − 5) ÷ 4 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有51张彩纸，先留出19张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(51 − 19) ÷ 2 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有100张彩纸，先留出20张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(100 − 20) ÷ 4 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有168张彩纸，先留出24张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(168 − 24) ÷ 6 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有207张彩纸，先留出23张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(207 − 23) ÷ 8 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有71张彩纸，先留出11张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(71 − 11) ÷ 3 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有28张彩纸，先留出14张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "(28 − 14) ÷ 2 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有103张彩纸，先留出22张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(103 − 22) ÷ 3 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有107张彩纸，先留出2张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(107 − 2) ÷ 5 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有54张彩纸，先留出14张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(54 − 14) ÷ 2 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有215张彩纸，先留出25张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(215 − 25) ÷ 5 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有57张彩纸，先留出22张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "(57 − 22) ÷ 5 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有66张彩纸，先留出12张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(66 − 12) ÷ 6 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有147张彩纸，先留出11张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(147 − 11) ÷ 4 = 34（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有40张彩纸，先留出12张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(40 − 12) ÷ 7 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有58张彩纸，先留出12张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(58 − 12) ÷ 2 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有73张彩纸，先留出25张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(73 − 25) ÷ 3 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有247张彩纸，先留出9张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(247 − 9) ÷ 7 = 34（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有52张彩纸，先留出8张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "(52 − 8) ÷ 2 = 22（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有27张彩纸，先留出21张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(27 − 21) ÷ 2 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有171张彩纸，先留出27张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "(171 − 27) ÷ 4 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有158张彩纸，先留出18张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(158 − 18) ÷ 4 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有180张彩纸，先留出5张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(180 − 5) ÷ 5 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有64张彩纸，先留出8张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "(64 − 8) ÷ 4 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有44张彩纸，先留出24张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(44 − 24) ÷ 4 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有198张彩纸，先留出18张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(198 − 18) ÷ 6 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有48张彩纸，先留出18张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(48 − 18) ÷ 6 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有126张彩纸，先留出6张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "(126 − 6) ÷ 8 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有31张彩纸，先留出16张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(31 − 16) ÷ 3 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有182张彩纸，先留出22张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(182 − 22) ÷ 4 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有42张彩纸，先留出22张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(42 − 22) ÷ 2 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有137张彩纸，先留出9张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(137 − 9) ÷ 8 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有54张彩纸，先留出24张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(54 − 24) ÷ 6 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有116张彩纸，先留出20张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(116 − 20) ÷ 8 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有145张彩纸，先留出19张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(145 − 19) ÷ 6 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有155张彩纸，先留出29张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "(155 − 29) ÷ 7 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有64张彩纸，先留出6张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(64 − 6) ÷ 2 = 29（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有132张彩纸，先留出6张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(132 − 6) ÷ 6 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有262张彩纸，先留出6张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(262 − 6) ÷ 8 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有59张彩纸，先留出17张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(59 − 17) ÷ 2 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有116张彩纸，先留出4张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(116 − 4) ÷ 7 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有60张彩纸，先留出15张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "(60 − 15) ÷ 3 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有161张彩纸，先留出6张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(161 − 6) ÷ 5 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有120张彩纸，先留出3张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(120 − 3) ÷ 3 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有123张彩纸，先留出4张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(123 − 4) ÷ 7 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有103张彩纸，先留出3张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(103 − 3) ÷ 5 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有79张彩纸，先留出15张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(79 − 15) ÷ 4 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有182张彩纸，先留出17张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(182 − 17) ÷ 5 = 33（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有88张彩纸，先留出19张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(88 − 19) ÷ 3 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有306张彩纸，先留出27张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(306 − 27) ÷ 9 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有257张彩纸，先留出29张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(257 − 29) ÷ 6 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有49张彩纸，先留出25张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(49 − 25) ÷ 8 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有110张彩纸，先留出11张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(110 − 11) ÷ 3 = 33（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有213张彩纸，先留出21张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(213 − 21) ÷ 6 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有219张彩纸，先留出27张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(219 − 27) ÷ 6 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有156张彩纸，先留出20张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(156 − 20) ÷ 4 = 34（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有44张彩纸，先留出14张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "(44 − 14) ÷ 5 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有45张彩纸，先留出25张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(45 − 25) ÷ 2 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有137张彩纸，先留出23张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(137 − 23) ÷ 3 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有41张彩纸，先留出26张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(41 − 26) ÷ 5 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有120张彩纸，先留出22张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "(120 − 22) ÷ 7 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有32张彩纸，先留出26张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(32 − 26) ÷ 2 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有34张彩纸，先留出18张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(34 − 18) ÷ 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有21张彩纸，先留出3张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(21 − 3) ÷ 6 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有77张彩纸，先留出15张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(77 − 15) ÷ 2 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有110张彩纸，先留出17张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(110 − 17) ÷ 3 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有176张彩纸，先留出23张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(176 − 23) ÷ 9 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有267张彩纸，先留出27张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(267 − 27) ÷ 6 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有152张彩纸，先留出20张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "(152 − 20) ÷ 6 = 22（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有23张彩纸，先留出3张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(23 − 3) ÷ 5 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有61张彩纸，先留出25张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(61 − 25) ÷ 9 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有60张彩纸，先留出9张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(60 − 9) ÷ 3 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有159张彩纸，先留出3张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(159 − 3) ÷ 4 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有274张彩纸，先留出29张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(274 − 29) ÷ 7 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有97张彩纸，先留出25张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "(97 − 25) ÷ 4 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有62张彩纸，先留出22张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(62 − 22) ÷ 8 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有291张彩纸，先留出11张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(291 − 11) ÷ 8 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有89张彩纸，先留出13张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(89 − 13) ÷ 2 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有319张彩纸，先留出4张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(319 − 4) ÷ 9 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有112张彩纸，先留出7张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(112 − 7) ÷ 3 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有71张彩纸，先留出3张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(71 − 3) ÷ 2 = 34（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有341张彩纸，先留出29张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(341 − 29) ÷ 8 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有42张彩纸，先留出14张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "(42 − 14) ÷ 2 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有155张彩纸，先留出10张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(155 − 10) ÷ 5 = 29（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有120张彩纸，先留出24张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(120 − 24) ÷ 4 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有214张彩纸，先留出29张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(214 − 29) ÷ 5 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有107张彩纸，先留出5张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(107 − 5) ÷ 6 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有208张彩纸，先留出8张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(208 − 8) ÷ 5 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有37张彩纸，先留出4张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "(37 − 4) ÷ 3 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有191张彩纸，先留出11张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(191 − 11) ÷ 9 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有229张彩纸，先留出5张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(229 − 5) ÷ 7 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有289张彩纸，先留出30张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(289 − 30) ÷ 7 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有139张彩纸，先留出23张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(139 − 23) ÷ 4 = 29（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有80张彩纸，先留出26张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(80 − 26) ÷ 6 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有245张彩纸，先留出29张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(245 − 29) ÷ 8 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有308张彩纸，先留出11张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(308 − 11) ÷ 9 = 33（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有235张彩纸，先留出19张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "(235 − 19) ÷ 6 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有335张彩纸，先留出2张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(335 − 2) ÷ 9 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有158张彩纸，先留出26张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(158 − 26) ÷ 4 = 33（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有99张彩纸，先留出24张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "(99 − 24) ÷ 5 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有45张彩纸，先留出24张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "(45 − 24) ÷ 3 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有44张彩纸，先留出9张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(44 − 9) ÷ 7 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有47张彩纸，先留出26张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "(47 − 26) ÷ 3 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有262张彩纸，先留出28张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(262 − 28) ÷ 6 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有89张彩纸，先留出21张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(89 − 21) ÷ 4 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有179张彩纸，先留出27张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(179 − 27) ÷ 4 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有233张彩纸，先留出23张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(233 − 23) ÷ 7 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有77张彩纸，先留出5张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(77 − 5) ÷ 8 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有130张彩纸，先留出5张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(130 − 5) ÷ 5 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有250张彩纸，先留出10张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(250 − 10) ÷ 6 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有74张彩纸，先留出11张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(74 − 11) ÷ 3 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有239张彩纸，先留出29张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(239 − 29) ÷ 7 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有50张彩纸，先留出10张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(50 − 10) ÷ 8 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有86张彩纸，先留出26张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(86 − 26) ÷ 6 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有29张彩纸，先留出9张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "(29 − 9) ÷ 2 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有93张彩纸，先留出30张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(93 − 30) ÷ 7 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有216张彩纸，先留出27张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(216 − 27) ÷ 7 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有90张彩纸，先留出5张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(90 − 5) ÷ 5 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有253张彩纸，先留出8张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(253 − 8) ÷ 7 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有141张彩纸，先留出30张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(141 − 30) ÷ 3 = 37（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有58张彩纸，先留出4张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(58 − 4) ÷ 6 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有193张彩纸，先留出25张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(193 − 25) ÷ 8 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有57张彩纸，先留出3张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(57 − 3) ÷ 6 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有251张彩纸，先留出27张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(251 − 27) ÷ 8 = 28（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有160张彩纸，先留出25张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(160 − 25) ÷ 5 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有273张彩纸，先留出28张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(273 − 28) ÷ 7 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有123张彩纸，先留出19张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(123 − 19) ÷ 4 = 26（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有169张彩纸，先留出29张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(169 − 29) ÷ 4 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有288张彩纸，先留出18张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(288 − 18) ÷ 9 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有212张彩纸，先留出23张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(212 − 23) ÷ 7 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有316张彩纸，先留出4张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(316 − 4) ÷ 8 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有213张彩纸，先留出24张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(213 − 24) ÷ 7 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有290张彩纸，先留出18张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(290 − 18) ÷ 8 = 34（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有48张彩纸，先留出28张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(48 − 28) ÷ 5 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有110张彩纸，先留出26张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(110 − 26) ÷ 4 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有108张彩纸，先留出12张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(108 − 12) ÷ 4 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有228张彩纸，先留出28张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(228 − 28) ÷ 8 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有218张彩纸，先留出18张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(218 − 18) ÷ 8 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有55张彩纸，先留出19张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(55 − 19) ÷ 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有233张彩纸，先留出8张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(233 − 8) ÷ 9 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有87张彩纸，先留出15张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(87 − 15) ÷ 8 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有244张彩纸，先留出10张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(244 − 10) ÷ 9 = 26（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有142张彩纸，先留出16张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(142 − 16) ÷ 6 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有154张彩纸，先留出10张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(154 − 10) ÷ 6 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有172张彩纸，先留出4张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(172 − 4) ÷ 8 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有122张彩纸，先留出10张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "(122 − 10) ÷ 7 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有232张彩纸，先留出4张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(232 − 4) ÷ 6 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有215张彩纸，先留出8张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(215 − 8) ÷ 9 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有145张彩纸，先留出20张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(145 − 20) ÷ 5 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有136张彩纸，先留出10张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "(136 − 10) ÷ 7 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有39张彩纸，先留出14张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "(39 − 14) ÷ 5 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有15张彩纸，先留出9张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "(15 − 9) ÷ 2 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有142张彩纸，先留出28张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(142 − 28) ÷ 3 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有306张彩纸，先留出26张，其余平均分给7个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(306 − 26) ÷ 7 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有111张彩纸，先留出9张，其余平均分给6个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "(111 − 9) ÷ 6 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有34张彩纸，先留出12张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "(34 − 12) ÷ 2 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有122张彩纸，先留出29张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(122 − 29) ÷ 3 = 31（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有30张彩纸，先留出6张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "(30 − 6) ÷ 2 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有166张彩纸，先留出26张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(166 − 26) ÷ 4 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有227张彩纸，先留出11张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(227 − 11) ÷ 9 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有143张彩纸，先留出26张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "(143 − 26) ÷ 9 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有91张彩纸，先留出10张，其余平均分给3个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(91 − 10) ÷ 3 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有39张彩纸，先留出7张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "(39 − 7) ÷ 4 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有197张彩纸，先留出22张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(197 − 22) ÷ 5 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有48张彩纸，先留出3张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(48 − 3) ÷ 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有34张彩纸，先留出6张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "(34 − 6) ÷ 4 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有308张彩纸，先留出4张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(308 − 4) ÷ 8 = 38（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有49张彩纸，先留出3张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(49 − 3) ÷ 2 = 23（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有123张彩纸，先留出7张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(123 − 7) ÷ 4 = 29（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有116张彩纸，先留出20张，其余平均分给4个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(116 − 20) ÷ 4 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有104张彩纸，先留出5张，其余平均分给9个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "(104 − 5) ÷ 9 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有48张彩纸，先留出26张，其余平均分给2个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "(48 − 26) ÷ 2 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有84张彩纸，先留出12张，其余平均分给8个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "(84 − 12) ÷ 8 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有38张彩纸，先留出18张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "(38 − 18) ÷ 5 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有166张彩纸，先留出26张，其余平均分给5个小组。每组分到多少张？（只填数值，单位：张）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(166 − 26) ÷ 5 = 28（张）。"
+    }
+  ]
+}

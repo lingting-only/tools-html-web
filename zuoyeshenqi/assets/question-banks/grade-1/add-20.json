@@ -1,0 +1,908 @@
+{
+  "title": "1年级 · 20以内加法",
+  "grade": 1,
+  "category": "20以内加法",
+  "range": "基础 · 和不超过20",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "9 + 10 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 11 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 15 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 4 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 1 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 6 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 6 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 10 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 10 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 1 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 9 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 12 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 10 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 6 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 4 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 5 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 4 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 6 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 1 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 7 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 1 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 11 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 11 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 3 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 6 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 4 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 2 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 2 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 8 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 7 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 3 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 15 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 2 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 3 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 1 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 9 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 4 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 1 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 1 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 2 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 17 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 1 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 11 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 3 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 14 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 2 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 2 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 4 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 4 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 2 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 4 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 13 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 1 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 16 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 5 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 5 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 3 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 8 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 3 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 2 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 12 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 6 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 4 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 7 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 3 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 2 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 12 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 1 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 8 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 4 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 8 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 5 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 8 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 7 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 14 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 6 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 6 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 7 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 9 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 3 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 10 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 2 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 7 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 1 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 8 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 2 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 10 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 11 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 4 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 3 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 2 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 6 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 4 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 7 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 2 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 5 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 7 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 6 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 4 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 1 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

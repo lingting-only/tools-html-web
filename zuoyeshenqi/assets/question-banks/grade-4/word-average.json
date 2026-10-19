@@ -1,0 +1,3009 @@
+{
+  "title": "4年级 · 应用题 · 平均数",
+  "grade": 4,
+  "category": "应用题 · 平均数",
+  "kind": "application",
+  "range": "整数 · 三组数据求平均",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了24个、27个、30个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(24 + 27 + 30) ÷ 3 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了19个、32个、45个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(19 + 32 + 45) ÷ 3 = 32（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了9个、20个、31个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(9 + 20 + 31) ÷ 3 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了22个、24个、26个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(22 + 24 + 26) ÷ 3 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了9个、22个、35个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "(9 + 22 + 35) ÷ 3 = 22（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了74个、80个、86个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "(74 + 80 + 86) ÷ 3 = 80（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了61个、67个、73个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "(61 + 67 + 73) ÷ 3 = 67（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了36个、44个、52个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "(36 + 44 + 52) ÷ 3 = 44（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了52个、53个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "(52 + 53 + 54) ÷ 3 = 53（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了45个、46个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "(45 + 46 + 47) ÷ 3 = 46（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了19个、35个、51个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(19 + 35 + 51) ÷ 3 = 35（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了33个、51个、69个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(33 + 51 + 69) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了31个、50个、69个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "(31 + 50 + 69) ÷ 3 = 50（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了38个、51个、64个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(38 + 51 + 64) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了49个、60个、71个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "(49 + 60 + 71) ÷ 3 = 60（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了30个、42个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "(30 + 42 + 54) ÷ 3 = 42（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了9个、21个、33个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(9 + 21 + 33) ÷ 3 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了38个、49个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "(38 + 49 + 60) ÷ 3 = 49（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了29个、31个、33个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(29 + 31 + 33) ÷ 3 = 31（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了73个、78个、83个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "(73 + 78 + 83) ÷ 3 = 78（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了11个、27个、43个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(11 + 27 + 43) ÷ 3 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了56个、68个、80个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "(56 + 68 + 80) ÷ 3 = 68（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了39个、55个、71个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "(39 + 55 + 71) ÷ 3 = 55（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了26个、40个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(26 + 40 + 54) ÷ 3 = 40（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了21个、26个、31个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(21 + 26 + 31) ÷ 3 = 26（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了15个、30个、45个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(15 + 30 + 45) ÷ 3 = 30（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了16个、33个、50个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(16 + 33 + 50) ÷ 3 = 33（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了64个、68个、72个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "(64 + 68 + 72) ÷ 3 = 68（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了57个、62个、67个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "(57 + 62 + 67) ÷ 3 = 62（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了51个、58个、65个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "(51 + 58 + 65) ÷ 3 = 58（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了34个、51个、68个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(34 + 51 + 68) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了77个、79个、81个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "(77 + 79 + 81) ÷ 3 = 79（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了55个、70个、85个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "(55 + 70 + 85) ÷ 3 = 70（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了50个、68个、86个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "(50 + 68 + 86) ÷ 3 = 68（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了54个、57个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": "(54 + 57 + 60) ÷ 3 = 57（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了60个、66个、72个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "(60 + 66 + 72) ÷ 3 = 66（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了53个、61个、69个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "(53 + 61 + 69) ÷ 3 = 61（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了61个、76个、91个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "(61 + 76 + 91) ÷ 3 = 76（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了34个、44个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "(34 + 44 + 54) ÷ 3 = 44（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了55个、66个、77个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "(55 + 66 + 77) ÷ 3 = 66（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了31个、42个、53个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "(31 + 42 + 53) ÷ 3 = 42（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了30个、35个、40个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(30 + 35 + 40) ÷ 3 = 35（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了24个、28个、32个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(24 + 28 + 32) ÷ 3 = 28（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了48个、66个、84个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "(48 + 66 + 84) ÷ 3 = 66（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了29个、34个、39个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "(29 + 34 + 39) ÷ 3 = 34（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了23个、29个、35个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(23 + 29 + 35) ÷ 3 = 29（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了52个、71个、90个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "(52 + 71 + 90) ÷ 3 = 71（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了64个、72个、80个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "(64 + 72 + 80) ÷ 3 = 72（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了51个、63个、75个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "(51 + 63 + 75) ÷ 3 = 63（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了46个、53个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "(46 + 53 + 60) ÷ 3 = 53（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了51个、70个、89个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "(51 + 70 + 89) ÷ 3 = 70（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了24个、26个、28个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(24 + 26 + 28) ÷ 3 = 26（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了64个、70个、76个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "(64 + 70 + 76) ÷ 3 = 70（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了48个、60个、72个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "(48 + 60 + 72) ÷ 3 = 60（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了68个、72个、76个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "(68 + 72 + 76) ÷ 3 = 72（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了41个、45个、49个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "(41 + 45 + 49) ÷ 3 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了47个、53个、59个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "(47 + 53 + 59) ÷ 3 = 53（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了32个、36个、40个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "(32 + 36 + 40) ÷ 3 = 36（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了42个、46个、50个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "(42 + 46 + 50) ÷ 3 = 46（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了39个、46个、53个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "(39 + 46 + 53) ÷ 3 = 46（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了34个、47个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "(34 + 47 + 60) ÷ 3 = 47（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了10个、27个、44个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(10 + 27 + 44) ÷ 3 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了27个、38个、49个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(27 + 38 + 49) ÷ 3 = 38（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了54个、67个、80个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "(54 + 67 + 80) ÷ 3 = 67（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了32个、39个、46个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(32 + 39 + 46) ÷ 3 = 39（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了40个、41个、42个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "(40 + 41 + 42) ÷ 3 = 41（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了28个、38个、48个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(28 + 38 + 48) ÷ 3 = 38（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了65个、72个、79个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "(65 + 72 + 79) ÷ 3 = 72（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了44个、45个、46个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "(44 + 45 + 46) ÷ 3 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了60个、66个、72个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "(60 + 66 + 72) ÷ 3 = 66（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了28个、37个、46个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(28 + 37 + 46) ÷ 3 = 37（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了9个、25个、41个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(9 + 25 + 41) ÷ 3 = 25（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了44个、60个、76个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "(44 + 60 + 76) ÷ 3 = 60（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了29个、44个、59个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "(29 + 44 + 59) ÷ 3 = 44（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了39个、48个、57个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "(39 + 48 + 57) ÷ 3 = 48（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了35个、41个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "(35 + 41 + 47) ÷ 3 = 41（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了10个、24个、38个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(10 + 24 + 38) ÷ 3 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了12个、26个、40个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(12 + 26 + 40) ÷ 3 = 26（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了43个、54个、65个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "(43 + 54 + 65) ÷ 3 = 54（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了70个、73个、76个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": "(70 + 73 + 76) ÷ 3 = 73（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了68个、80个、92个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "(68 + 80 + 92) ÷ 3 = 80（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了33个、46个、59个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "(33 + 46 + 59) ÷ 3 = 46（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了53个、58个、63个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "(53 + 58 + 63) ÷ 3 = 58（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了20个、22个、24个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "(20 + 22 + 24) ÷ 3 = 22（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了66个、79个、92个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "(66 + 79 + 92) ÷ 3 = 79（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了30个、45个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "(30 + 45 + 60) ÷ 3 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了43个、49个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "(43 + 49 + 55) ÷ 3 = 49（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了58个、61个、64个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "(58 + 61 + 64) ÷ 3 = 61（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了51个、53个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "(51 + 53 + 55) ÷ 3 = 53（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了33个、36个、39个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "(33 + 36 + 39) ÷ 3 = 36（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了58个、72个、86个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "(58 + 72 + 86) ÷ 3 = 72（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了62个、67个、72个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "(62 + 67 + 72) ÷ 3 = 67（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了18个、28个、38个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(18 + 28 + 38) ÷ 3 = 28（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了48个、51个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(48 + 51 + 54) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了12个、20个、28个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(12 + 20 + 28) ÷ 3 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了69个、74个、79个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "(69 + 74 + 79) ÷ 3 = 74（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了56个、60个、64个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "(56 + 60 + 64) ÷ 3 = 60（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了45个、51个、57个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(45 + 51 + 57) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了20个、32个、44个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(20 + 32 + 44) ÷ 3 = 32（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了44个、55个、66个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "(44 + 55 + 66) ÷ 3 = 55（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了61个、73个、85个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": "(61 + 73 + 85) ÷ 3 = 73（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了32个、39个、46个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(32 + 39 + 46) ÷ 3 = 39（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了34个、42个、50个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "(34 + 42 + 50) ÷ 3 = 42（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了32个、51个、70个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(32 + 51 + 70) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了36个、41个、46个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "(36 + 41 + 46) ÷ 3 = 41（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了20个、24个、28个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(20 + 24 + 28) ÷ 3 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了76个、80个、84个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "(76 + 80 + 84) ÷ 3 = 80（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了36个、37个、38个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(36 + 37 + 38) ÷ 3 = 37（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了56个、62个、68个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "(56 + 62 + 68) ÷ 3 = 62（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了57个、69个、81个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "(57 + 69 + 81) ÷ 3 = 69（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了53个、59个、65个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "(53 + 59 + 65) ÷ 3 = 59（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了70个、80个、90个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "(70 + 80 + 90) ÷ 3 = 80（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了20个、37个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(20 + 37 + 54) ÷ 3 = 37（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了9个、27个、45个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(9 + 27 + 45) ÷ 3 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了25个、27个、29个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(25 + 27 + 29) ÷ 3 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了10个、27个、44个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(10 + 27 + 44) ÷ 3 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了62个、65个、68个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "(62 + 65 + 68) ÷ 3 = 65（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了61个、66个、71个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "(61 + 66 + 71) ÷ 3 = 66（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了18个、21个、24个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(18 + 21 + 24) ÷ 3 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了24个、31个、38个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(24 + 31 + 38) ÷ 3 = 31（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了60个、79个、98个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "(60 + 79 + 98) ÷ 3 = 79（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了55个、71个、87个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "(55 + 71 + 87) ÷ 3 = 71（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了64个、79个、94个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "(64 + 79 + 94) ÷ 3 = 79（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了28个、47个、66个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "(28 + 47 + 66) ÷ 3 = 47（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了36个、39个、42个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(36 + 39 + 42) ÷ 3 = 39（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了60个、63个、66个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "(60 + 63 + 66) ÷ 3 = 63（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了20个、23个、26个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(20 + 23 + 26) ÷ 3 = 23（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了30个、40个、50个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(30 + 40 + 50) ÷ 3 = 40（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了21个、38个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(21 + 38 + 55) ÷ 3 = 38（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了39个、55个、71个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "(39 + 55 + 71) ÷ 3 = 55（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了23个、33个、43个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(23 + 33 + 43) ÷ 3 = 33（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了37个、54个、71个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "(37 + 54 + 71) ÷ 3 = 54（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了71个、75个、79个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "(71 + 75 + 79) ÷ 3 = 75（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了57个、74个、91个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "(57 + 74 + 91) ÷ 3 = 74（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了32个、51个、70个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(32 + 51 + 70) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了27个、28个、29个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(27 + 28 + 29) ÷ 3 = 28（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了36个、48个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "(36 + 48 + 60) ÷ 3 = 48（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了48个、57个、66个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": "(48 + 57 + 66) ÷ 3 = 57（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了47个、51个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(47 + 51 + 55) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了37个、50个、63个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "(37 + 50 + 63) ÷ 3 = 50（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了38个、47个、56个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "(38 + 47 + 56) ÷ 3 = 47（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了26个、40个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(26 + 40 + 54) ÷ 3 = 40（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了36个、38个、40个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(36 + 38 + 40) ÷ 3 = 38（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了57个、70个、83个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "(57 + 70 + 83) ÷ 3 = 70（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了6个、21个、36个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(6 + 21 + 36) ÷ 3 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了28个、46个、64个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "(28 + 46 + 64) ÷ 3 = 46（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了71个、74个、77个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "(71 + 74 + 77) ÷ 3 = 74（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了66个、75个、84个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "(66 + 75 + 84) ÷ 3 = 75（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了55个、72个、89个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "(55 + 72 + 89) ÷ 3 = 72（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了63个、72个、81个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "(63 + 72 + 81) ÷ 3 = 72（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了67个、75个、83个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "(67 + 75 + 83) ÷ 3 = 75（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了24个、43个、62个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": "(24 + 43 + 62) ÷ 3 = 43（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了48个、58个、68个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "(48 + 58 + 68) ÷ 3 = 58（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了72个、79个、86个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "(72 + 79 + 86) ÷ 3 = 79（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了21个、23个、25个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(21 + 23 + 25) ÷ 3 = 23（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了61个、77个、93个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "(61 + 77 + 93) ÷ 3 = 77（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了29个、45个、61个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "(29 + 45 + 61) ÷ 3 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了67个、76个、85个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "(67 + 76 + 85) ÷ 3 = 76（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了57个、66个、75个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "(57 + 66 + 75) ÷ 3 = 66（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了9个、28个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(9 + 28 + 47) ÷ 3 = 28（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了35个、43个、51个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": "(35 + 43 + 51) ÷ 3 = 43（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了24个、26个、28个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(24 + 26 + 28) ÷ 3 = 26（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了67个、70个、73个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "(67 + 70 + 73) ÷ 3 = 70（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了49个、57个、65个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": "(49 + 57 + 65) ÷ 3 = 57（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了16个、22个、28个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "(16 + 22 + 28) ÷ 3 = 22（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了23个、30个、37个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(23 + 30 + 37) ÷ 3 = 30（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了17个、32个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(17 + 32 + 47) ÷ 3 = 32（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了74个、75个、76个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "(74 + 75 + 76) ÷ 3 = 75（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了32个、47个、62个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "(32 + 47 + 62) ÷ 3 = 47（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了22个、30个、38个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(22 + 30 + 38) ÷ 3 = 30（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了62个、69个、76个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "(62 + 69 + 76) ÷ 3 = 69（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了31个、43个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": "(31 + 43 + 55) ÷ 3 = 43（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了34个、49个、64个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "(34 + 49 + 64) ÷ 3 = 49（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了50个、69个、88个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "(50 + 69 + 88) ÷ 3 = 69（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了53个、55个、57个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "(53 + 55 + 57) ÷ 3 = 55（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了14个、25个、36个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(14 + 25 + 36) ÷ 3 = 25（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了61个、62个、63个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "(61 + 62 + 63) ÷ 3 = 62（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了37个、39个、41个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(37 + 39 + 41) ÷ 3 = 39（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了41个、45个、49个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "(41 + 45 + 49) ÷ 3 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了21个、33个、45个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(21 + 33 + 45) ÷ 3 = 33（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了25个、31个、37个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(25 + 31 + 37) ÷ 3 = 31（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了24个、28个、32个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(24 + 28 + 32) ÷ 3 = 28（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了51个、70个、89个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "(51 + 70 + 89) ÷ 3 = 70（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了66个、74个、82个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "(66 + 74 + 82) ÷ 3 = 74（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了21个、36个、51个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "(21 + 36 + 51) ÷ 3 = 36（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了27个、45个、63个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "(27 + 45 + 63) ÷ 3 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了13个、28个、43个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(13 + 28 + 43) ÷ 3 = 28（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了43个、59个、75个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "(43 + 59 + 75) ÷ 3 = 59（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了19个、23个、27个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(19 + 23 + 27) ÷ 3 = 23（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了30个、32个、34个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(30 + 32 + 34) ÷ 3 = 32（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了37个、47个、57个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "(37 + 47 + 57) ÷ 3 = 47（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了35个、52个、69个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "(35 + 52 + 69) ÷ 3 = 52（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了23个、35个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(23 + 35 + 47) ÷ 3 = 35（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了43个、44个、45个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "(43 + 44 + 45) ÷ 3 = 44（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了61个、69个、77个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "(61 + 69 + 77) ÷ 3 = 69（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了20个、33个、46个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(20 + 33 + 46) ÷ 3 = 33（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了49个、57个、65个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": "(49 + 57 + 65) ÷ 3 = 57（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了39个、43个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": "(39 + 43 + 47) ÷ 3 = 43（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了11个、26个、41个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(11 + 26 + 41) ÷ 3 = 26（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了54个、58个、62个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "(54 + 58 + 62) ÷ 3 = 58（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了70个、80个、90个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "(70 + 80 + 90) ÷ 3 = 80（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了40个、44个、48个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "(40 + 44 + 48) ÷ 3 = 44（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了59个、75个、91个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "(59 + 75 + 91) ÷ 3 = 75（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了25个、35个、45个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(25 + 35 + 45) ÷ 3 = 35（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了62个、70个、78个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "(62 + 70 + 78) ÷ 3 = 70（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了34个、53个、72个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "(34 + 53 + 72) ÷ 3 = 53（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了17个、26个、35个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "(17 + 26 + 35) ÷ 3 = 26（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了62个、68个、74个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "(62 + 68 + 74) ÷ 3 = 68（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了60个、68个、76个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "(60 + 68 + 76) ÷ 3 = 68（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了55个、58个、61个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "(55 + 58 + 61) ÷ 3 = 58（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了72个、78个、84个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "(72 + 78 + 84) ÷ 3 = 78（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了65个、79个、93个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "(65 + 79 + 93) ÷ 3 = 79（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了45个、46个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "(45 + 46 + 47) ÷ 3 = 46（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了29个、35个、41个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "(29 + 35 + 41) ÷ 3 = 35（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了31个、33个、35个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(31 + 33 + 35) ÷ 3 = 33（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了50个、62个、74个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "(50 + 62 + 74) ÷ 3 = 62（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了39个、47个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "(39 + 47 + 55) ÷ 3 = 47（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了25个、30个、35个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(25 + 30 + 35) ÷ 3 = 30（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了7个、23个、39个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "(7 + 23 + 39) ÷ 3 = 23（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了57个、70个、83个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "(57 + 70 + 83) ÷ 3 = 70（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了71个、72个、73个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "(71 + 72 + 73) ÷ 3 = 72（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了36个、52个、68个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "(36 + 52 + 68) ÷ 3 = 52（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了35个、41个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "(35 + 41 + 47) ÷ 3 = 41（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了21个、37个、53个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(21 + 37 + 53) ÷ 3 = 37（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了11个、24个、37个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(11 + 24 + 37) ÷ 3 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了36个、52个、68个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "(36 + 52 + 68) ÷ 3 = 52（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了23个、37个、51个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(23 + 37 + 51) ÷ 3 = 37（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了18个、33个、48个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "(18 + 33 + 48) ÷ 3 = 33（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了52个、62个、72个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "(52 + 62 + 72) ÷ 3 = 62（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了51个、64个、77个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "(51 + 64 + 77) ÷ 3 = 64（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了32个、42个、52个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "(32 + 42 + 52) ÷ 3 = 42（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了29个、47个、65个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "(29 + 47 + 65) ÷ 3 = 47（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了53个、58个、63个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "(53 + 58 + 63) ÷ 3 = 58（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了18个、20个、22个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(18 + 20 + 22) ÷ 3 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了37个、43个、49个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": "(37 + 43 + 49) ÷ 3 = 43（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了35个、52个、69个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "(35 + 52 + 69) ÷ 3 = 52（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了60个、65个、70个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "(60 + 65 + 70) ÷ 3 = 65（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了75个、77个、79个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "(75 + 77 + 79) ÷ 3 = 77（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了57个、75个、93个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "(57 + 75 + 93) ÷ 3 = 75（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了58个、77个、96个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "(58 + 77 + 96) ÷ 3 = 77（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了7个、24个、41个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(7 + 24 + 41) ÷ 3 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了67个、74个、81个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "(67 + 74 + 81) ÷ 3 = 74（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了37个、40个、43个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(37 + 40 + 43) ÷ 3 = 40（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了41个、46个、51个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "(41 + 46 + 51) ÷ 3 = 46（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了47个、56个、65个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "(47 + 56 + 65) ÷ 3 = 56（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了28个、44个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "(28 + 44 + 60) ÷ 3 = 44（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了26个、45个、64个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "(26 + 45 + 64) ÷ 3 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了48个、52个、56个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "(48 + 52 + 56) ÷ 3 = 52（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了66个、71个、76个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "(66 + 71 + 76) ÷ 3 = 71（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了45个、47个、49个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "(45 + 47 + 49) ÷ 3 = 47（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了17个、27个、37个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(17 + 27 + 37) ÷ 3 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了32个、51个、70个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(32 + 51 + 70) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了65个、69个、73个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "(65 + 69 + 73) ÷ 3 = 69（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了50个、58个、66个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "(50 + 58 + 66) ÷ 3 = 58（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了5个、21个、37个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "(5 + 21 + 37) ÷ 3 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了57个、59个、61个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "(57 + 59 + 61) ÷ 3 = 59（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了22个、31个、40个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "(22 + 31 + 40) ÷ 3 = 31（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了44个、49个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "(44 + 49 + 54) ÷ 3 = 49（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了28个、37个、46个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "(28 + 37 + 46) ÷ 3 = 37（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了51个、59个、67个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "(51 + 59 + 67) ÷ 3 = 59（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了33个、44个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "(33 + 44 + 55) ÷ 3 = 44（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了55个、59个、63个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "(55 + 59 + 63) ÷ 3 = 59（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了19个、32个、45个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "(19 + 32 + 45) ÷ 3 = 32（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了56个、71个、86个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "(56 + 71 + 86) ÷ 3 = 71（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了52个、65个、78个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "(52 + 65 + 78) ÷ 3 = 65（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了28个、42个、56个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "(28 + 42 + 56) ÷ 3 = 42（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了26个、40个、54个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(26 + 40 + 54) ÷ 3 = 40（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了45个、50个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "(45 + 50 + 55) ÷ 3 = 50（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了11个、29个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(11 + 29 + 47) ÷ 3 = 29（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了56个、65个、74个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "(56 + 65 + 74) ÷ 3 = 65（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了25个、44个、63个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "(25 + 44 + 63) ÷ 3 = 44（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦参加回收活动，三个班分别收集了9个、20个、31个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "(9 + 20 + 31) ÷ 3 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了56个、60个、64个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "(56 + 60 + 64) ÷ 3 = 60（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了12个、27个、42个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "(12 + 27 + 42) ÷ 3 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了57个、74个、91个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "(57 + 74 + 91) ÷ 3 = 74（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了29个、39个、49个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(29 + 39 + 49) ÷ 3 = 39（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明参加回收活动，三个班分别收集了43个、45个、47个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "(43 + 45 + 47) ÷ 3 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了58个、76个、94个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "(58 + 76 + 94) ÷ 3 = 76（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了17个、28个、39个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "(17 + 28 + 39) ÷ 3 = 28（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了51个、66个、81个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "(51 + 66 + 81) ÷ 3 = 66（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了36个、51个、66个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "(36 + 51 + 66) ÷ 3 = 51（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了40个、50个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "(40 + 50 + 60) ÷ 3 = 50（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了50个、60个、70个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "(50 + 60 + 70) ÷ 3 = 60（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了26个、39个、52个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "(26 + 39 + 52) ÷ 3 = 39（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了52个、61个、70个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "(52 + 61 + 70) ÷ 3 = 61（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了27个、41个、55个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "(27 + 41 + 55) ÷ 3 = 41（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了37个、50个、63个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "(37 + 50 + 63) ÷ 3 = 50（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了72个、78个、84个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "(72 + 78 + 84) ÷ 3 = 78（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了75个、80个、85个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "(75 + 80 + 85) ÷ 3 = 80（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了20个、38个、56个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "(20 + 38 + 56) ÷ 3 = 38（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了20个、25个、30个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "(20 + 25 + 30) ÷ 3 = 25（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了28个、30个、32个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "(28 + 30 + 32) ÷ 3 = 30（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林参加回收活动，三个班分别收集了67个、68个、69个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "(67 + 68 + 69) ÷ 3 = 68（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了56个、59个、62个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "(56 + 59 + 62) ÷ 3 = 59（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐参加回收活动，三个班分别收集了21个、24个、27个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "(21 + 24 + 27) ÷ 3 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了15个、29个、43个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "(15 + 29 + 43) ÷ 3 = 29（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨参加回收活动，三个班分别收集了32个、40个、48个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "(32 + 40 + 48) ÷ 3 = 40（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华参加回收活动，三个班分别收集了56个、58个、60个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "(56 + 58 + 60) ÷ 3 = 58（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红参加回收活动，三个班分别收集了38个、48个、58个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "(38 + 48 + 58) ÷ 3 = 48（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安参加回收活动，三个班分别收集了57个、69个、81个饮料瓶。平均每个班收集多少个？（只填数值，单位：个）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "(57 + 69 + 81) ÷ 3 = 69（个）。"
+    }
+  ]
+}

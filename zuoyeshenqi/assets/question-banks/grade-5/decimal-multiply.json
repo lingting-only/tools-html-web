@@ -1,0 +1,9008 @@
+{
+  "title": "5年级 · 小数乘整数",
+  "grade": 5,
+  "category": "小数乘整数",
+  "range": "基础 · 一位小数乘2–9",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "65.7 × 5 = ?",
+      "answer": [
+        "328.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.9 × 5 = ?",
+      "answer": [
+        "499.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.6 × 3 = ?",
+      "answer": [
+        "235.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 × 8 = ?",
+      "answer": [
+        "248"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.1 × 9 = ?",
+      "answer": [
+        "45.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 × 9 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.1 × 8 = ?",
+      "answer": [
+        "408.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.5 × 9 = ?",
+      "answer": [
+        "697.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.6 × 5 = ?",
+      "answer": [
+        "278"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.2 × 4 = ?",
+      "answer": [
+        "284.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.1 × 6 = ?",
+      "answer": [
+        "174.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.8 × 6 = ?",
+      "answer": [
+        "574.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.6 × 7 = ?",
+      "answer": [
+        "634.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 × 7 = ?",
+      "answer": [
+        "22.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.1 × 6 = ?",
+      "answer": [
+        "324.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71 × 9 = ?",
+      "answer": [
+        "639"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.5 × 6 = ?",
+      "answer": [
+        "237"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.1 × 6 = ?",
+      "answer": [
+        "366.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 × 2 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.5 × 3 = ?",
+      "answer": [
+        "46.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.6 × 2 = ?",
+      "answer": [
+        "159.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.1 × 7 = ?",
+      "answer": [
+        "581.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.8 × 8 = ?",
+      "answer": [
+        "486.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.9 × 5 = ?",
+      "answer": [
+        "429.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 × 7 = ?",
+      "answer": [
+        "567"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.6 × 4 = ?",
+      "answer": [
+        "138.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 × 5 = ?",
+      "answer": [
+        "270"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.8 × 5 = ?",
+      "answer": [
+        "174"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.9 × 5 = ?",
+      "answer": [
+        "49.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.7 × 7 = ?",
+      "answer": [
+        "613.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.1 × 4 = ?",
+      "answer": [
+        "244.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.9 × 4 = ?",
+      "answer": [
+        "263.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.1 × 3 = ?",
+      "answer": [
+        "165.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.7 × 3 = ?",
+      "answer": [
+        "83.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 × 7 = ?",
+      "answer": [
+        "539"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.3 × 3 = ?",
+      "answer": [
+        "297.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.1 × 2 = ?",
+      "answer": [
+        "184.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.6 × 4 = ?",
+      "answer": [
+        "298.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.8 × 4 = ?",
+      "answer": [
+        "163.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.2 × 7 = ?",
+      "answer": [
+        "64.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.3 × 8 = ?",
+      "answer": [
+        "210.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 × 9 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.2 × 9 = ?",
+      "answer": [
+        "523.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.5 × 4 = ?",
+      "answer": [
+        "214"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.6 × 3 = ?",
+      "answer": [
+        "127.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.7 × 2 = ?",
+      "answer": [
+        "127.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.8 × 7 = ?",
+      "answer": [
+        "208.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.4 × 5 = ?",
+      "answer": [
+        "302"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.5 × 9 = ?",
+      "answer": [
+        "562.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.6 × 9 = ?",
+      "answer": [
+        "401.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.4 × 7 = ?",
+      "answer": [
+        "597.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.4 × 9 = ?",
+      "answer": [
+        "633.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.7 × 8 = ?",
+      "answer": [
+        "53.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.7 × 8 = ?",
+      "answer": [
+        "357.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.3 × 8 = ?",
+      "answer": [
+        "202.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.3 × 2 = ?",
+      "answer": [
+        "70.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.4 × 5 = ?",
+      "answer": [
+        "317"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.8 × 8 = ?",
+      "answer": [
+        "694.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.8 × 2 = ?",
+      "answer": [
+        "133.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.6 × 5 = ?",
+      "answer": [
+        "363"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.3 × 3 = ?",
+      "answer": [
+        "192.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.1 × 2 = ?",
+      "answer": [
+        "66.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 × 2 = ?",
+      "answer": [
+        "196"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.2 × 5 = ?",
+      "answer": [
+        "386"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.7 × 7 = ?",
+      "answer": [
+        "459.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.6 × 5 = ?",
+      "answer": [
+        "248"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.3 × 7 = ?",
+      "answer": [
+        "261.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.3 × 4 = ?",
+      "answer": [
+        "353.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.2 × 4 = ?",
+      "answer": [
+        "144.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.6 × 2 = ?",
+      "answer": [
+        "53.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.6 × 6 = ?",
+      "answer": [
+        "591.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.3 × 6 = ?",
+      "answer": [
+        "79.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.4 × 4 = ?",
+      "answer": [
+        "201.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.2 × 7 = ?",
+      "answer": [
+        "386.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.5 × 8 = ?",
+      "answer": [
+        "516"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.3 × 5 = ?",
+      "answer": [
+        "36.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.7 × 7 = ?",
+      "answer": [
+        "627.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 × 8 = ?",
+      "answer": [
+        "488"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.6 × 3 = ?",
+      "answer": [
+        "190.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.1 × 4 = ?",
+      "answer": [
+        "40.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.4 × 6 = ?",
+      "answer": [
+        "290.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.5 × 6 = ?",
+      "answer": [
+        "555"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.6 × 3 = ?",
+      "answer": [
+        "166.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.6 × 8 = ?",
+      "answer": [
+        "300.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 × 4 = ?",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.2 × 9 = ?",
+      "answer": [
+        "604.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.9 × 5 = ?",
+      "answer": [
+        "109.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 × 5 = ?",
+      "answer": [
+        "155"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 × 3 = ?",
+      "answer": [
+        "141"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.1 × 6 = ?",
+      "answer": [
+        "438.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.7 × 2 = ?",
+      "answer": [
+        "125.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.4 × 6 = ?",
+      "answer": [
+        "368.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.2 × 4 = ?",
+      "answer": [
+        "340.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.7 × 5 = ?",
+      "answer": [
+        "133.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.7 × 9 = ?",
+      "answer": [
+        "6.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.3 × 2 = ?",
+      "answer": [
+        "182.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.9 × 8 = ?",
+      "answer": [
+        "767.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.4 × 9 = ?",
+      "answer": [
+        "786.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.9 × 7 = ?",
+      "answer": [
+        "629.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.6 × 2 = ?",
+      "answer": [
+        "183.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.3 × 3 = ?",
+      "answer": [
+        "159.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.1 × 2 = ?",
+      "answer": [
+        "56.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.4 × 7 = ?",
+      "answer": [
+        "226.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.5 × 8 = ?",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.2 × 3 = ?",
+      "answer": [
+        "42.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.4 × 2 = ?",
+      "answer": [
+        "122.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.2 × 7 = ?",
+      "answer": [
+        "694.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.1 × 6 = ?",
+      "answer": [
+        "168.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.4 × 8 = ?",
+      "answer": [
+        "547.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.4 × 5 = ?",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 3 = ?",
+      "answer": [
+        "180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.6 × 6 = ?",
+      "answer": [
+        "555.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.3 × 9 = ?",
+      "answer": [
+        "857.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.3 × 5 = ?",
+      "answer": [
+        "61.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.7 × 4 = ?",
+      "answer": [
+        "66.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.3 × 2 = ?",
+      "answer": [
+        "168.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.3 × 3 = ?",
+      "answer": [
+        "132.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.8 × 9 = ?",
+      "answer": [
+        "133.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.3 × 7 = ?",
+      "answer": [
+        "37.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.6 × 5 = ?",
+      "answer": [
+        "193"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.3 × 8 = ?",
+      "answer": [
+        "714.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.7 × 3 = ?",
+      "answer": [
+        "26.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.4 × 7 = ?",
+      "answer": [
+        "408.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 × 7 = ?",
+      "answer": [
+        "483"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.6 × 8 = ?",
+      "answer": [
+        "196.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.1 × 7 = ?",
+      "answer": [
+        "245.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.3 × 3 = ?",
+      "answer": [
+        "27.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.3 × 5 = ?",
+      "answer": [
+        "191.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 × 8 = ?",
+      "answer": [
+        "432"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 × 8 = ?",
+      "answer": [
+        "688"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.4 × 2 = ?",
+      "answer": [
+        "50.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.2 × 2 = ?",
+      "answer": [
+        "96.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.7 × 4 = ?",
+      "answer": [
+        "354.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 × 7 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.7 × 7 = ?",
+      "answer": [
+        "375.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.8 × 3 = ?",
+      "answer": [
+        "215.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.6 × 3 = ?",
+      "answer": [
+        "49.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 × 5 = ?",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.2 × 7 = ?",
+      "answer": [
+        "372.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.7 × 9 = ?",
+      "answer": [
+        "285.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 × 3 = ?",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.2 × 8 = ?",
+      "answer": [
+        "41.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.4 × 7 = ?",
+      "answer": [
+        "590.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.3 × 4 = ?",
+      "answer": [
+        "337.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.6 × 8 = ?",
+      "answer": [
+        "436.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 × 8 = ?",
+      "answer": [
+        "25.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.6 × 4 = ?",
+      "answer": [
+        "218.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.5 × 2 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.9 × 4 = ?",
+      "answer": [
+        "107.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 5 = ?",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.5 × 6 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.9 × 4 = ?",
+      "answer": [
+        "279.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.7 × 3 = ?",
+      "answer": [
+        "287.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.2 × 6 = ?",
+      "answer": [
+        "259.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.3 × 8 = ?",
+      "answer": [
+        "226.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.6 × 7 = ?",
+      "answer": [
+        "130.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.1 × 5 = ?",
+      "answer": [
+        "485.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.1 × 8 = ?",
+      "answer": [
+        "64.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.6 × 3 = ?",
+      "answer": [
+        "31.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.9 × 3 = ?",
+      "answer": [
+        "134.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.4 × 5 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.6 × 7 = ?",
+      "answer": [
+        "627.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.7 × 4 = ?",
+      "answer": [
+        "310.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.8 × 4 = ?",
+      "answer": [
+        "123.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.1 × 7 = ?",
+      "answer": [
+        "469.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.4 × 7 = ?",
+      "answer": [
+        "569.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.8 × 4 = ?",
+      "answer": [
+        "67.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.7 × 3 = ?",
+      "answer": [
+        "296.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 × 7 = ?",
+      "answer": [
+        "273"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 × 6 = ?",
+      "answer": [
+        "468"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.1 × 8 = ?",
+      "answer": [
+        "128.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.2 × 8 = ?",
+      "answer": [
+        "777.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.3 × 2 = ?",
+      "answer": [
+        "8.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.5 × 6 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.4 × 2 = ?",
+      "answer": [
+        "198.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.7 × 9 = ?",
+      "answer": [
+        "393.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.5 × 5 = ?",
+      "answer": [
+        "277.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.9 × 2 = ?",
+      "answer": [
+        "123.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.3 × 4 = ?",
+      "answer": [
+        "269.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.8 × 3 = ?",
+      "answer": [
+        "68.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.4 × 2 = ?",
+      "answer": [
+        "118.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.2 × 5 = ?",
+      "answer": [
+        "396"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.4 × 2 = ?",
+      "answer": [
+        "86.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.4 × 7 = ?",
+      "answer": [
+        "289.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.4 × 2 = ?",
+      "answer": [
+        "64.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.1 × 6 = ?",
+      "answer": [
+        "126.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.6 × 6 = ?",
+      "answer": [
+        "171.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.8 × 8 = ?",
+      "answer": [
+        "318.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.3 × 9 = ?",
+      "answer": [
+        "191.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 × 5 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 4 = ?",
+      "answer": [
+        "240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 × 9 = ?",
+      "answer": [
+        "531"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.8 × 6 = ?",
+      "answer": [
+        "550.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.1 × 2 = ?",
+      "answer": [
+        "34.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 × 3 = ?",
+      "answer": [
+        "231"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.3 × 4 = ?",
+      "answer": [
+        "257.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.1 × 8 = ?",
+      "answer": [
+        "176.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 × 2 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.5 × 5 = ?",
+      "answer": [
+        "467.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.5 × 8 = ?",
+      "answer": [
+        "204"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.1 × 8 = ?",
+      "answer": [
+        "24.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.1 × 5 = ?",
+      "answer": [
+        "250.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.9 × 5 = ?",
+      "answer": [
+        "379.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.3 × 3 = ?",
+      "answer": [
+        "156.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.5 × 9 = ?",
+      "answer": [
+        "400.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 × 4 = ?",
+      "answer": [
+        "132"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.7 × 8 = ?",
+      "answer": [
+        "221.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.7 × 4 = ?",
+      "answer": [
+        "350.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.3 × 9 = ?",
+      "answer": [
+        "794.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.9 × 2 = ?",
+      "answer": [
+        "29.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.5 × 5 = ?",
+      "answer": [
+        "402.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.9 × 7 = ?",
+      "answer": [
+        "391.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.2 × 4 = ?",
+      "answer": [
+        "108.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.8 × 5 = ?",
+      "answer": [
+        "349"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.2 × 7 = ?",
+      "answer": [
+        "638.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.3 × 6 = ?",
+      "answer": [
+        "403.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.7 × 6 = ?",
+      "answer": [
+        "178.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.9 × 7 = ?",
+      "answer": [
+        "398.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.9 × 2 = ?",
+      "answer": [
+        "89.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.7 × 5 = ?",
+      "answer": [
+        "398.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.7 × 8 = ?",
+      "answer": [
+        "573.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.1 × 4 = ?",
+      "answer": [
+        "136.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.7 × 6 = ?",
+      "answer": [
+        "388.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 × 2 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.5 × 8 = ?",
+      "answer": [
+        "596"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29 × 4 = ?",
+      "answer": [
+        "116"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.1 × 9 = ?",
+      "answer": [
+        "333.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.3 × 6 = ?",
+      "answer": [
+        "289.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.5 × 4 = ?",
+      "answer": [
+        "262"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.6 × 8 = ?",
+      "answer": [
+        "692.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.5 × 4 = ?",
+      "answer": [
+        "290"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.6 × 4 = ?",
+      "answer": [
+        "170.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.1 × 8 = ?",
+      "answer": [
+        "376.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.7 × 7 = ?",
+      "answer": [
+        "690.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.3 × 4 = ?",
+      "answer": [
+        "25.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.5 × 8 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.6 × 9 = ?",
+      "answer": [
+        "860.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.7 × 6 = ?",
+      "answer": [
+        "358.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.9 × 7 = ?",
+      "answer": [
+        "132.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.5 × 8 = ?",
+      "answer": [
+        "252"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.1 × 9 = ?",
+      "answer": [
+        "423.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.1 × 9 = ?",
+      "answer": [
+        "405.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.5 × 2 = ?",
+      "answer": [
+        "173"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.7 × 4 = ?",
+      "answer": [
+        "242.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.6 × 4 = ?",
+      "answer": [
+        "14.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.9 × 8 = ?",
+      "answer": [
+        "455.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.9 × 2 = ?",
+      "answer": [
+        "71.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.6 × 9 = ?",
+      "answer": [
+        "212.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.6 × 2 = ?",
+      "answer": [
+        "81.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.3 × 8 = ?",
+      "answer": [
+        "618.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.9 × 5 = ?",
+      "answer": [
+        "274.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.6 × 3 = ?",
+      "answer": [
+        "112.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.3 × 8 = ?",
+      "answer": [
+        "578.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 × 8 = ?",
+      "answer": [
+        "224"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.4 × 2 = ?",
+      "answer": [
+        "120.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.8 × 5 = ?",
+      "answer": [
+        "459"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.3 × 9 = ?",
+      "answer": [
+        "641.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.9 × 5 = ?",
+      "answer": [
+        "179.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.9 × 3 = ?",
+      "answer": [
+        "65.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.2 × 8 = ?",
+      "answer": [
+        "329.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.5 × 2 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.6 × 4 = ?",
+      "answer": [
+        "22.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 × 4 = ?",
+      "answer": [
+        "164"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.2 × 2 = ?",
+      "answer": [
+        "12.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.3 × 6 = ?",
+      "answer": [
+        "427.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.1 × 7 = ?",
+      "answer": [
+        "679.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 × 6 = ?",
+      "answer": [
+        "528"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.8 × 6 = ?",
+      "answer": [
+        "478.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.9 × 3 = ?",
+      "answer": [
+        "248.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.4 × 2 = ?",
+      "answer": [
+        "22.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 × 8 = ?",
+      "answer": [
+        "752"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.8 × 7 = ?",
+      "answer": [
+        "278.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.5 × 2 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.8 × 8 = ?",
+      "answer": [
+        "638.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.9 × 3 = ?",
+      "answer": [
+        "299.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 × 5 = ?",
+      "answer": [
+        "340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.2 × 6 = ?",
+      "answer": [
+        "103.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.5 × 6 = ?",
+      "answer": [
+        "375"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.6 × 3 = ?",
+      "answer": [
+        "181.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.3 × 8 = ?",
+      "answer": [
+        "602.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.2 × 4 = ?",
+      "answer": [
+        "348.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.1 × 7 = ?",
+      "answer": [
+        "357.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.8 × 6 = ?",
+      "answer": [
+        "40.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.1 × 6 = ?",
+      "answer": [
+        "198.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 5 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 × 3 = ?",
+      "answer": [
+        "234"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62 × 3 = ?",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.1 × 5 = ?",
+      "answer": [
+        "55.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.1 × 7 = ?",
+      "answer": [
+        "231.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.5 × 3 = ?",
+      "answer": [
+        "49.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.1 × 8 = ?",
+      "answer": [
+        "168.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.3 × 3 = ?",
+      "answer": [
+        "24.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.6 × 9 = ?",
+      "answer": [
+        "761.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.6 × 7 = ?",
+      "answer": [
+        "396.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.4 × 2 = ?",
+      "answer": [
+        "134.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.3 × 8 = ?",
+      "answer": [
+        "402.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.8 × 9 = ?",
+      "answer": [
+        "79.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.6 × 4 = ?",
+      "answer": [
+        "206.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 × 2 = ?",
+      "answer": [
+        "6.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.4 × 5 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.2 × 9 = ?",
+      "answer": [
+        "208.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.6 × 2 = ?",
+      "answer": [
+        "191.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.9 × 4 = ?",
+      "answer": [
+        "371.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.5 × 7 = ?",
+      "answer": [
+        "66.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.5 × 5 = ?",
+      "answer": [
+        "142.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.4 × 6 = ?",
+      "answer": [
+        "38.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.9 × 7 = ?",
+      "answer": [
+        "573.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.5 × 6 = ?",
+      "answer": [
+        "435"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 × 6 = ?",
+      "answer": [
+        "330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.7 × 6 = ?",
+      "answer": [
+        "424.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.6 × 9 = ?",
+      "answer": [
+        "329.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.2 × 6 = ?",
+      "answer": [
+        "97.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 × 9 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.3 × 4 = ?",
+      "answer": [
+        "389.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.9 × 3 = ?",
+      "answer": [
+        "194.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.1 × 3 = ?",
+      "answer": [
+        "204.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.4 × 6 = ?",
+      "answer": [
+        "92.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.5 × 5 = ?",
+      "answer": [
+        "122.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.5 × 9 = ?",
+      "answer": [
+        "517.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.5 × 5 = ?",
+      "answer": [
+        "377.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.5 × 6 = ?",
+      "answer": [
+        "261"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.5 × 2 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.4 × 9 = ?",
+      "answer": [
+        "750.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.2 × 5 = ?",
+      "answer": [
+        "351"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.9 × 7 = ?",
+      "answer": [
+        "174.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.4 × 8 = ?",
+      "answer": [
+        "291.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.1 × 8 = ?",
+      "answer": [
+        "768.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.1 × 5 = ?",
+      "answer": [
+        "380.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.4 × 7 = ?",
+      "answer": [
+        "170.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.6 × 2 = ?",
+      "answer": [
+        "157.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 × 5 = ?",
+      "answer": [
+        "305"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.7 × 7 = ?",
+      "answer": [
+        "214.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.8 × 8 = ?",
+      "answer": [
+        "766.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.9 × 6 = ?",
+      "answer": [
+        "191.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 2 = ?",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 × 5 = ?",
+      "answer": [
+        "205"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.3 × 9 = ?",
+      "answer": [
+        "542.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.5 × 3 = ?",
+      "answer": [
+        "169.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.4 × 8 = ?",
+      "answer": [
+        "51.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.9 × 4 = ?",
+      "answer": [
+        "227.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 × 5 = ?",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.7 × 9 = ?",
+      "answer": [
+        "483.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.8 × 8 = ?",
+      "answer": [
+        "382.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.8 × 9 = ?",
+      "answer": [
+        "286.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.5 × 5 = ?",
+      "answer": [
+        "472.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.3 × 9 = ?",
+      "answer": [
+        "722.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.5 × 5 = ?",
+      "answer": [
+        "382.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.1 × 9 = ?",
+      "answer": [
+        "360.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.3 × 2 = ?",
+      "answer": [
+        "98.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.8 × 5 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.6 × 7 = ?",
+      "answer": [
+        "312.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.9 × 8 = ?",
+      "answer": [
+        "407.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.7 × 9 = ?",
+      "answer": [
+        "438.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.1 × 5 = ?",
+      "answer": [
+        "20.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.5 × 7 = ?",
+      "answer": [
+        "605.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.9 × 3 = ?",
+      "answer": [
+        "173.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.9 × 5 = ?",
+      "answer": [
+        "9.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.1 × 3 = ?",
+      "answer": [
+        "21.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.9 × 6 = ?",
+      "answer": [
+        "281.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.5 × 8 = ?",
+      "answer": [
+        "524"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.9 × 7 = ?",
+      "answer": [
+        "139.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.1 × 9 = ?",
+      "answer": [
+        "657.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.7 × 7 = ?",
+      "answer": [
+        "109.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.2 × 5 = ?",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.2 × 7 = ?",
+      "answer": [
+        "547.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.4 × 4 = ?",
+      "answer": [
+        "73.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.3 × 6 = ?",
+      "answer": [
+        "409.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.2 × 3 = ?",
+      "answer": [
+        "192.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.2 × 6 = ?",
+      "answer": [
+        "517.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.8 × 6 = ?",
+      "answer": [
+        "484.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.5 × 4 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.2 × 8 = ?",
+      "answer": [
+        "641.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62 × 4 = ?",
+      "answer": [
+        "248"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.9 × 9 = ?",
+      "answer": [
+        "413.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.9 × 5 = ?",
+      "answer": [
+        "64.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.8 × 2 = ?",
+      "answer": [
+        "27.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.2 × 4 = ?",
+      "answer": [
+        "96.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.3 × 8 = ?",
+      "answer": [
+        "50.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.7 × 8 = ?",
+      "answer": [
+        "645.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.8 × 6 = ?",
+      "answer": [
+        "166.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.3 × 9 = ?",
+      "answer": [
+        "407.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.7 × 9 = ?",
+      "answer": [
+        "420.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.3 × 2 = ?",
+      "answer": [
+        "22.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.2 × 7 = ?",
+      "answer": [
+        "435.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.8 × 7 = ?",
+      "answer": [
+        "425.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 × 9 = ?",
+      "answer": [
+        "28.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.3 × 4 = ?",
+      "answer": [
+        "81.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.2 × 3 = ?",
+      "answer": [
+        "141.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.7 × 7 = ?",
+      "answer": [
+        "452.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.6 × 9 = ?",
+      "answer": [
+        "662.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.3 × 8 = ?",
+      "answer": [
+        "730.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.6 × 8 = ?",
+      "answer": [
+        "516.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.7 × 3 = ?",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.5 × 4 = ?",
+      "answer": [
+        "218"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.7 × 5 = ?",
+      "answer": [
+        "473.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.7 × 5 = ?",
+      "answer": [
+        "138.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 × 8 = ?",
+      "answer": [
+        "576"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.2 × 4 = ?",
+      "answer": [
+        "244.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.5 × 2 = ?",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.3 × 7 = ?",
+      "answer": [
+        "576.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.3 × 4 = ?",
+      "answer": [
+        "393.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.2 × 6 = ?",
+      "answer": [
+        "379.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.9 × 9 = ?",
+      "answer": [
+        "494.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.9 × 3 = ?",
+      "answer": [
+        "227.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.7 × 6 = ?",
+      "answer": [
+        "214.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.7 × 2 = ?",
+      "answer": [
+        "173.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.3 × 4 = ?",
+      "answer": [
+        "277.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.7 × 6 = ?",
+      "answer": [
+        "514.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.1 × 8 = ?",
+      "answer": [
+        "56.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.4 × 8 = ?",
+      "answer": [
+        "219.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.3 × 2 = ?",
+      "answer": [
+        "16.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.2 × 5 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.4 × 6 = ?",
+      "answer": [
+        "134.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.4 × 3 = ?",
+      "answer": [
+        "283.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.6 × 6 = ?",
+      "answer": [
+        "285.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 × 7 = ?",
+      "answer": [
+        "476"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.4 × 8 = ?",
+      "answer": [
+        "667.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.2 × 9 = ?",
+      "answer": [
+        "307.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.9 × 5 = ?",
+      "answer": [
+        "184.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 × 7 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.8 × 3 = ?",
+      "answer": [
+        "239.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.6 × 2 = ?",
+      "answer": [
+        "131.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.6 × 3 = ?",
+      "answer": [
+        "175.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.8 × 9 = ?",
+      "answer": [
+        "565.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.5 × 5 = ?",
+      "answer": [
+        "412.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.4 × 9 = ?",
+      "answer": [
+        "228.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.5 × 9 = ?",
+      "answer": [
+        "391.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.3 × 9 = ?",
+      "answer": [
+        "137.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.2 × 6 = ?",
+      "answer": [
+        "253.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.9 × 5 = ?",
+      "answer": [
+        "114.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 × 7 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.2 × 2 = ?",
+      "answer": [
+        "88.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.6 × 7 = ?",
+      "answer": [
+        "599.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 × 6 = ?",
+      "answer": [
+        "216"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.9 × 2 = ?",
+      "answer": [
+        "39.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.2 × 9 = ?",
+      "answer": [
+        "1.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.7 × 9 = ?",
+      "answer": [
+        "852.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 × 2 = ?",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.7 × 5 = ?",
+      "answer": [
+        "68.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.3 × 7 = ?",
+      "answer": [
+        "282.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.1 × 9 = ?",
+      "answer": [
+        "36.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.3 × 4 = ?",
+      "answer": [
+        "1.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.1 × 6 = ?",
+      "answer": [
+        "42.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.7 × 8 = ?",
+      "answer": [
+        "725.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.6 × 2 = ?",
+      "answer": [
+        "77.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.5 × 4 = ?",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 × 8 = ?",
+      "answer": [
+        "784"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.5 × 2 = ?",
+      "answer": [
+        "123"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.9 × 6 = ?",
+      "answer": [
+        "455.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.5 × 3 = ?",
+      "answer": [
+        "91.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.8 × 5 = ?",
+      "answer": [
+        "189"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.2 × 7 = ?",
+      "answer": [
+        "659.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.5 × 3 = ?",
+      "answer": [
+        "256.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.9 × 9 = ?",
+      "answer": [
+        "557.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.6 × 3 = ?",
+      "answer": [
+        "67.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.9 × 5 = ?",
+      "answer": [
+        "374.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.5 × 7 = ?",
+      "answer": [
+        "521.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.6 × 5 = ?",
+      "answer": [
+        "333"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.5 × 4 = ?",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.7 × 9 = ?",
+      "answer": [
+        "474.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.2 × 5 = ?",
+      "answer": [
+        "446"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.4 × 2 = ?",
+      "answer": [
+        "28.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.4 × 7 = ?",
+      "answer": [
+        "457.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.5 × 6 = ?",
+      "answer": [
+        "441"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.7 × 3 = ?",
+      "answer": [
+        "47.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.8 × 9 = ?",
+      "answer": [
+        "34.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.6 × 7 = ?",
+      "answer": [
+        "494.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.5 × 4 = ?",
+      "answer": [
+        "330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.5 × 9 = ?",
+      "answer": [
+        "283.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.2 × 9 = ?",
+      "answer": [
+        "181.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.7 × 7 = ?",
+      "answer": [
+        "585.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.7 × 8 = ?",
+      "answer": [
+        "429.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.4 × 5 = ?",
+      "answer": [
+        "447"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 × 9 = ?",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.6 × 5 = ?",
+      "answer": [
+        "108"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.3 × 7 = ?",
+      "answer": [
+        "233.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.1 × 2 = ?",
+      "answer": [
+        "10.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.2 × 6 = ?",
+      "answer": [
+        "241.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.6 × 2 = ?",
+      "answer": [
+        "105.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.4 × 9 = ?",
+      "answer": [
+        "534.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.9 × 5 = ?",
+      "answer": [
+        "54.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.7 × 6 = ?",
+      "answer": [
+        "160.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.8 × 3 = ?",
+      "answer": [
+        "161.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.2 × 8 = ?",
+      "answer": [
+        "9.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.5 × 4 = ?",
+      "answer": [
+        "362"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.7 × 4 = ?",
+      "answer": [
+        "26.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.9 × 4 = ?",
+      "answer": [
+        "291.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.4 × 6 = ?",
+      "answer": [
+        "326.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.1 × 2 = ?",
+      "answer": [
+        "40.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.3 × 6 = ?",
+      "answer": [
+        "133.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.4 × 7 = ?",
+      "answer": [
+        "681.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.2 × 6 = ?",
+      "answer": [
+        "559.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.4 × 6 = ?",
+      "answer": [
+        "86.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.6 × 5 = ?",
+      "answer": [
+        "393"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.1 × 3 = ?",
+      "answer": [
+        "90.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.4 × 5 = ?",
+      "answer": [
+        "392"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.9 × 8 = ?",
+      "answer": [
+        "647.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.8 × 3 = ?",
+      "answer": [
+        "164.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.8 × 8 = ?",
+      "answer": [
+        "558.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.1 × 9 = ?",
+      "answer": [
+        "189.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.3 × 3 = ?",
+      "answer": [
+        "237.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.1 × 7 = ?",
+      "answer": [
+        "497.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.1 × 9 = ?",
+      "answer": [
+        "0.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.5 × 2 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.9 × 4 = ?",
+      "answer": [
+        "347.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 × 5 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.2 × 9 = ?",
+      "answer": [
+        "739.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.9 × 2 = ?",
+      "answer": [
+        "111.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.7 × 7 = ?",
+      "answer": [
+        "74.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.1 × 8 = ?",
+      "answer": [
+        "448.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.5 × 3 = ?",
+      "answer": [
+        "268.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.5 × 6 = ?",
+      "answer": [
+        "405"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.4 × 8 = ?",
+      "answer": [
+        "603.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.2 × 3 = ?",
+      "answer": [
+        "138.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.8 × 9 = ?",
+      "answer": [
+        "772.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.6 × 7 = ?",
+      "answer": [
+        "452.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.9 × 8 = ?",
+      "answer": [
+        "735.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.4 × 9 = ?",
+      "answer": [
+        "669.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.8 × 6 = ?",
+      "answer": [
+        "250.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.5 × 7 = ?",
+      "answer": [
+        "661.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.9 × 2 = ?",
+      "answer": [
+        "133.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.2 × 8 = ?",
+      "answer": [
+        "633.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.8 × 5 = ?",
+      "answer": [
+        "359"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.2 × 7 = ?",
+      "answer": [
+        "211.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34 × 7 = ?",
+      "answer": [
+        "238"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.7 × 5 = ?",
+      "answer": [
+        "203.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.8 × 6 = ?",
+      "answer": [
+        "394.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.3 × 6 = ?",
+      "answer": [
+        "529.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.7 × 7 = ?",
+      "answer": [
+        "102.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.9 × 5 = ?",
+      "answer": [
+        "59.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.4 × 6 = ?",
+      "answer": [
+        "20.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.7 × 2 = ?",
+      "answer": [
+        "79.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.3 × 2 = ?",
+      "answer": [
+        "72.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.6 × 6 = ?",
+      "answer": [
+        "339.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.5 × 7 = ?",
+      "answer": [
+        "171.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.8 × 6 = ?",
+      "answer": [
+        "28.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.3 × 4 = ?",
+      "answer": [
+        "373.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.7 × 3 = ?",
+      "answer": [
+        "167.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.2 × 5 = ?",
+      "answer": [
+        "366"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.3 × 3 = ?",
+      "answer": [
+        "105.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.5 × 4 = ?",
+      "answer": [
+        "182"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 × 5 = ?",
+      "answer": [
+        "470"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.1 × 9 = ?",
+      "answer": [
+        "342.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.7 × 7 = ?",
+      "answer": [
+        "683.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.4 × 8 = ?",
+      "answer": [
+        "363.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.7 × 9 = ?",
+      "answer": [
+        "222.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.5 × 6 = ?",
+      "answer": [
+        "363"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 × 5 = ?",
+      "answer": [
+        "295"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.5 × 2 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.7 × 7 = ?",
+      "answer": [
+        "235.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.5 × 6 = ?",
+      "answer": [
+        "519"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 × 4 = ?",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.5 × 5 = ?",
+      "answer": [
+        "432.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.5 × 9 = ?",
+      "answer": [
+        "76.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.7 × 9 = ?",
+      "answer": [
+        "816.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.4 × 3 = ?",
+      "answer": [
+        "250.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.4 × 7 = ?",
+      "answer": [
+        "527.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.9 × 5 = ?",
+      "answer": [
+        "439.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.9 × 7 = ?",
+      "answer": [
+        "349.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 × 4 = ?",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.6 × 2 = ?",
+      "answer": [
+        "95.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.9 × 7 = ?",
+      "answer": [
+        "461.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.2 × 9 = ?",
+      "answer": [
+        "91.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.6 × 3 = ?",
+      "answer": [
+        "136.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.5 × 5 = ?",
+      "answer": [
+        "287.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.2 × 7 = ?",
+      "answer": [
+        "78.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.2 × 2 = ?",
+      "answer": [
+        "0.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.2 × 3 = ?",
+      "answer": [
+        "21.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.8 × 3 = ?",
+      "answer": [
+        "212.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.1 × 2 = ?",
+      "answer": [
+        "130.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.3 × 8 = ?",
+      "answer": [
+        "154.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.2 × 9 = ?",
+      "answer": [
+        "226.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.3 × 4 = ?",
+      "answer": [
+        "341.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.4 × 9 = ?",
+      "answer": [
+        "543.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.5 × 2 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.7 × 4 = ?",
+      "answer": [
+        "78.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99 × 9 = ?",
+      "answer": [
+        "891"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.6 × 3 = ?",
+      "answer": [
+        "19.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.6 × 4 = ?",
+      "answer": [
+        "66.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.5 × 2 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.5 × 3 = ?",
+      "answer": [
+        "73.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.5 × 4 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.5 × 3 = ?",
+      "answer": [
+        "37.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.2 × 5 = ?",
+      "answer": [
+        "346"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.4 × 8 = ?",
+      "answer": [
+        "579.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.7 × 8 = ?",
+      "answer": [
+        "437.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.8 × 6 = ?",
+      "answer": [
+        "310.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.4 × 3 = ?",
+      "answer": [
+        "19.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.8 × 5 = ?",
+      "answer": [
+        "484"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.1 × 2 = ?",
+      "answer": [
+        "72.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.5 × 5 = ?",
+      "answer": [
+        "62.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.2 × 5 = ?",
+      "answer": [
+        "421"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 7 = ?",
+      "answer": [
+        "630"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.2 × 7 = ?",
+      "answer": [
+        "477.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.8 × 4 = ?",
+      "answer": [
+        "319.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.1 × 8 = ?",
+      "answer": [
+        "584.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.5 × 5 = ?",
+      "answer": [
+        "47.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.4 × 7 = ?",
+      "answer": [
+        "338.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.8 × 7 = ?",
+      "answer": [
+        "530.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.1 × 2 = ?",
+      "answer": [
+        "2.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.7 × 8 = ?",
+      "answer": [
+        "397.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 × 7 = ?",
+      "answer": [
+        "336"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.8 × 8 = ?",
+      "answer": [
+        "54.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.9 × 3 = ?",
+      "answer": [
+        "167.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.5 × 9 = ?",
+      "answer": [
+        "553.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.1 × 2 = ?",
+      "answer": [
+        "188.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.7 × 7 = ?",
+      "answer": [
+        "186.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79 × 8 = ?",
+      "answer": [
+        "632"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.3 × 8 = ?",
+      "answer": [
+        "642.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.3 × 9 = ?",
+      "answer": [
+        "695.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.8 × 9 = ?",
+      "answer": [
+        "349.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.1 × 9 = ?",
+      "answer": [
+        "801.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.7 × 2 = ?",
+      "answer": [
+        "25.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.1 × 9 = ?",
+      "answer": [
+        "63.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.2 × 5 = ?",
+      "answer": [
+        "436"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.9 × 8 = ?",
+      "answer": [
+        "415.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.9 × 6 = ?",
+      "answer": [
+        "539.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.4 × 5 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.2 × 9 = ?",
+      "answer": [
+        "316.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.5 × 3 = ?",
+      "answer": [
+        "136.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 × 6 = ?",
+      "answer": [
+        "354"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.9 × 4 = ?",
+      "answer": [
+        "379.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.2 × 8 = ?",
+      "answer": [
+        "673.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.4 × 7 = ?",
+      "answer": [
+        "436.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.3 × 7 = ?",
+      "answer": [
+        "555.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.5 × 4 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.5 × 3 = ?",
+      "answer": [
+        "298.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.4 × 3 = ?",
+      "answer": [
+        "202.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.3 × 2 = ?",
+      "answer": [
+        "52.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.1 × 3 = ?",
+      "answer": [
+        "123.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 × 4 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.9 × 9 = ?",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.4 × 5 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.6 × 8 = ?",
+      "answer": [
+        "12.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.5 × 5 = ?",
+      "answer": [
+        "22.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.2 × 3 = ?",
+      "answer": [
+        "135.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.3 × 8 = ?",
+      "answer": [
+        "82.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.9 × 6 = ?",
+      "answer": [
+        "299.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.2 × 4 = ?",
+      "answer": [
+        "148.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 × 9 = ?",
+      "answer": [
+        "585"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.6 × 3 = ?",
+      "answer": [
+        "160.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.3 × 2 = ?",
+      "answer": [
+        "164.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.5 × 5 = ?",
+      "answer": [
+        "347.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.4 × 5 = ?",
+      "answer": [
+        "287"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.9 × 6 = ?",
+      "answer": [
+        "137.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 × 4 = ?",
+      "answer": [
+        "312"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.6 × 8 = ?",
+      "answer": [
+        "532.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.2 × 4 = ?",
+      "answer": [
+        "184.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.9 × 2 = ?",
+      "answer": [
+        "171.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.8 × 8 = ?",
+      "answer": [
+        "494.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.3 × 7 = ?",
+      "answer": [
+        "667.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.5 × 2 = ?",
+      "answer": [
+        "187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.9 × 7 = ?",
+      "answer": [
+        "517.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.1 × 7 = ?",
+      "answer": [
+        "532.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.3 × 4 = ?",
+      "answer": [
+        "357.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.3 × 2 = ?",
+      "answer": [
+        "68.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.1 × 4 = ?",
+      "answer": [
+        "176.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.4 × 9 = ?",
+      "answer": [
+        "813.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 × 3 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.9 × 6 = ?",
+      "answer": [
+        "275.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.8 × 9 = ?",
+      "answer": [
+        "664.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.6 × 9 = ?",
+      "answer": [
+        "410.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.1 × 7 = ?",
+      "answer": [
+        "112.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.9 × 2 = ?",
+      "answer": [
+        "47.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.2 × 7 = ?",
+      "answer": [
+        "666.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 × 9 = ?",
+      "answer": [
+        "603"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.6 × 2 = ?",
+      "answer": [
+        "75.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.9 × 9 = ?",
+      "answer": [
+        "71.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.6 × 5 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.9 × 5 = ?",
+      "answer": [
+        "154.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.4 × 6 = ?",
+      "answer": [
+        "152.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 × 9 = ?",
+      "answer": [
+        "837"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.9 × 4 = ?",
+      "answer": [
+        "155.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.3 × 6 = ?",
+      "answer": [
+        "49.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.8 × 7 = ?",
+      "answer": [
+        "110.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.2 × 3 = ?",
+      "answer": [
+        "18.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.7 × 4 = ?",
+      "answer": [
+        "170.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.4 × 5 = ?",
+      "answer": [
+        "137"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.9 × 7 = ?",
+      "answer": [
+        "188.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.6 × 6 = ?",
+      "answer": [
+        "279.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.9 × 8 = ?",
+      "answer": [
+        "759.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.4 × 7 = ?",
+      "answer": [
+        "247.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 × 4 = ?",
+      "answer": [
+        "296"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.2 × 6 = ?",
+      "answer": [
+        "31.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.4 × 4 = ?",
+      "answer": [
+        "225.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.5 × 4 = ?",
+      "answer": [
+        "298"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.2 × 4 = ?",
+      "answer": [
+        "356.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38 × 5 = ?",
+      "answer": [
+        "190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.3 × 5 = ?",
+      "answer": [
+        "436.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.6 × 6 = ?",
+      "answer": [
+        "51.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.1 × 8 = ?",
+      "answer": [
+        "432.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.4 × 5 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.6 × 5 = ?",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.7 × 2 = ?",
+      "answer": [
+        "73.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 × 9 = ?",
+      "answer": [
+        "369"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.5 × 6 = ?",
+      "answer": [
+        "597"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.2 × 8 = ?",
+      "answer": [
+        "465.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.8 × 8 = ?",
+      "answer": [
+        "166.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.3 × 4 = ?",
+      "answer": [
+        "253.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.6 × 3 = ?",
+      "answer": [
+        "37.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.6 × 9 = ?",
+      "answer": [
+        "167.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.2 × 8 = ?",
+      "answer": [
+        "353.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.7 × 7 = ?",
+      "answer": [
+        "172.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.8 × 8 = ?",
+      "answer": [
+        "22.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.7 × 8 = ?",
+      "answer": [
+        "317.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.6 × 6 = ?",
+      "answer": [
+        "513.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.4 × 8 = ?",
+      "answer": [
+        "595.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.3 × 6 = ?",
+      "answer": [
+        "109.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 × 9 = ?",
+      "answer": [
+        "252"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.3 × 4 = ?",
+      "answer": [
+        "173.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.8 × 8 = ?",
+      "answer": [
+        "374.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.1 × 4 = ?",
+      "answer": [
+        "44.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.2 × 9 = ?",
+      "answer": [
+        "586.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.5 × 9 = ?",
+      "answer": [
+        "382.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.4 × 5 = ?",
+      "answer": [
+        "417"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 5 = ?",
+      "answer": [
+        "250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.5 × 7 = ?",
+      "answer": [
+        "528.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.5 × 3 = ?",
+      "answer": [
+        "190.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.2 × 8 = ?",
+      "answer": [
+        "313.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 × 4 = ?",
+      "answer": [
+        "268"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.3 × 8 = ?",
+      "answer": [
+        "362.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.5 × 3 = ?",
+      "answer": [
+        "40.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.1 × 6 = ?",
+      "answer": [
+        "450.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.9 × 2 = ?",
+      "answer": [
+        "83.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.2 × 7 = ?",
+      "answer": [
+        "239.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.8 × 2 = ?",
+      "answer": [
+        "109.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.3 × 5 = ?",
+      "answer": [
+        "346.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 × 5 = ?",
+      "answer": [
+        "420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.5 × 8 = ?",
+      "answer": [
+        "276"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.3 × 8 = ?",
+      "answer": [
+        "634.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.5 × 9 = ?",
+      "answer": [
+        "31.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.6 × 6 = ?",
+      "answer": [
+        "441.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.3 × 7 = ?",
+      "answer": [
+        "44.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.1 × 2 = ?",
+      "answer": [
+        "52.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.9 × 4 = ?",
+      "answer": [
+        "211.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.6 × 2 = ?",
+      "answer": [
+        "69.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.6 × 5 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.1 × 7 = ?",
+      "answer": [
+        "329.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.5 × 9 = ?",
+      "answer": [
+        "445.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.2 × 6 = ?",
+      "answer": [
+        "535.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.7 × 3 = ?",
+      "answer": [
+        "152.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.5 × 8 = ?",
+      "answer": [
+        "732"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.7 × 3 = ?",
+      "answer": [
+        "182.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.6 × 9 = ?",
+      "answer": [
+        "23.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 × 9 = ?",
+      "answer": [
+        "351"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.1 × 2 = ?",
+      "answer": [
+        "120.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.2 × 4 = ?",
+      "answer": [
+        "212.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.9 × 9 = ?",
+      "answer": [
+        "836.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.3 × 7 = ?",
+      "answer": [
+        "408.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.1 × 4 = ?",
+      "answer": [
+        "396.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.4 × 2 = ?",
+      "answer": [
+        "178.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.4 × 3 = ?",
+      "answer": [
+        "55.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.4 × 9 = ?",
+      "answer": [
+        "804.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.8 × 8 = ?",
+      "answer": [
+        "686.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.6 × 6 = ?",
+      "answer": [
+        "585.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.5 × 5 = ?",
+      "answer": [
+        "437.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.2 × 4 = ?",
+      "answer": [
+        "320.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 × 6 = ?",
+      "answer": [
+        "588"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.8 × 2 = ?",
+      "answer": [
+        "43.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.5 × 8 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.6 × 5 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.5 × 5 = ?",
+      "answer": [
+        "267.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.3 × 3 = ?",
+      "answer": [
+        "216.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.1 × 4 = ?",
+      "answer": [
+        "216.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43 × 9 = ?",
+      "answer": [
+        "387"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.1 × 4 = ?",
+      "answer": [
+        "140.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.4 × 8 = ?",
+      "answer": [
+        "27.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.5 × 2 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.8 × 4 = ?",
+      "answer": [
+        "311.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.9 × 7 = ?",
+      "answer": [
+        "601.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.2 × 2 = ?",
+      "answer": [
+        "28.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.5 × 8 = ?",
+      "answer": [
+        "420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.9 × 6 = ?",
+      "answer": [
+        "257.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 × 4 = ?",
+      "answer": [
+        "168"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.9 × 2 = ?",
+      "answer": [
+        "193.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.3 × 6 = ?",
+      "answer": [
+        "277.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.7 × 3 = ?",
+      "answer": [
+        "170.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.1 × 2 = ?",
+      "answer": [
+        "118.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.5 × 9 = ?",
+      "answer": [
+        "85.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.1 × 8 = ?",
+      "answer": [
+        "640.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.7 × 4 = ?",
+      "answer": [
+        "146.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.1 × 8 = ?",
+      "answer": [
+        "712.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.8 × 4 = ?",
+      "answer": [
+        "275.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.4 × 8 = ?",
+      "answer": [
+        "731.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.4 × 9 = ?",
+      "answer": [
+        "642.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.3 × 7 = ?",
+      "answer": [
+        "422.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.6 × 8 = ?",
+      "answer": [
+        "412.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.9 × 9 = ?",
+      "answer": [
+        "269.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.1 × 2 = ?",
+      "answer": [
+        "198.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.7 × 6 = ?",
+      "answer": [
+        "4.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.6 × 7 = ?",
+      "answer": [
+        "326.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 × 6 = ?",
+      "answer": [
+        "552"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 × 7 = ?",
+      "answer": [
+        "644"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.3 × 4 = ?",
+      "answer": [
+        "149.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.6 × 5 = ?",
+      "answer": [
+        "198"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.4 × 6 = ?",
+      "answer": [
+        "284.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 × 3 = ?",
+      "answer": [
+        "288"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.5 × 4 = ?",
+      "answer": [
+        "322"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.5 × 7 = ?",
+      "answer": [
+        "388.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.2 × 2 = ?",
+      "answer": [
+        "162.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.4 × 3 = ?",
+      "answer": [
+        "217.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.2 × 6 = ?",
+      "answer": [
+        "283.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.2 × 4 = ?",
+      "answer": [
+        "36.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.5 × 2 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.9 × 5 = ?",
+      "answer": [
+        "394.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.2 × 2 = ?",
+      "answer": [
+        "100.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 × 4 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.9 × 8 = ?",
+      "answer": [
+        "311.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 × 9 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.1 × 6 = ?",
+      "answer": [
+        "60.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.6 × 7 = ?",
+      "answer": [
+        "424.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.8 × 8 = ?",
+      "answer": [
+        "782.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.5 × 7 = ?",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.8 × 8 = ?",
+      "answer": [
+        "446.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.2 × 7 = ?",
+      "answer": [
+        "309.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.3 × 8 = ?",
+      "answer": [
+        "10.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.6 × 7 = ?",
+      "answer": [
+        "109.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.3 × 6 = ?",
+      "answer": [
+        "55.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 × 2 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.3 × 4 = ?",
+      "answer": [
+        "37.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.3 × 6 = ?",
+      "answer": [
+        "259.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.7 × 6 = ?",
+      "answer": [
+        "430.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.3 × 3 = ?",
+      "answer": [
+        "120.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 × 4 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.3 × 3 = ?",
+      "answer": [
+        "288.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.1 × 3 = ?",
+      "answer": [
+        "213.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.8 × 7 = ?",
+      "answer": [
+        "341.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.6 × 3 = ?",
+      "answer": [
+        "34.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.4 × 7 = ?",
+      "answer": [
+        "121.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.8 × 2 = ?",
+      "answer": [
+        "47.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.3 × 4 = ?",
+      "answer": [
+        "53.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.7 × 3 = ?",
+      "answer": [
+        "44.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.6 × 9 = ?",
+      "answer": [
+        "104.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.6 × 6 = ?",
+      "answer": [
+        "93.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.6 × 6 = ?",
+      "answer": [
+        "327.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.5 × 9 = ?",
+      "answer": [
+        "22.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.4 × 3 = ?",
+      "answer": [
+        "184.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.1 × 7 = ?",
+      "answer": [
+        "525.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.8 × 3 = ?",
+      "answer": [
+        "59.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.2 × 2 = ?",
+      "answer": [
+        "122.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.6 × 5 = ?",
+      "answer": [
+        "163"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.3 × 3 = ?",
+      "answer": [
+        "30.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.9 × 2 = ?",
+      "answer": [
+        "191.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.6 × 4 = ?",
+      "answer": [
+        "262.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.8 × 6 = ?",
+      "answer": [
+        "16.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49 × 2 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.8 × 4 = ?",
+      "answer": [
+        "283.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.9 × 5 = ?",
+      "answer": [
+        "464.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.9 × 5 = ?",
+      "answer": [
+        "369.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.7 × 5 = ?",
+      "answer": [
+        "423.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 × 5 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.5 × 8 = ?",
+      "answer": [
+        "492"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.8 × 3 = ?",
+      "answer": [
+        "149.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.1 × 7 = ?",
+      "answer": [
+        "70.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.9 × 6 = ?",
+      "answer": [
+        "311.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.2 × 3 = ?",
+      "answer": [
+        "78.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.6 × 4 = ?",
+      "answer": [
+        "190.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 × 4 = ?",
+      "answer": [
+        "12.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.7 × 6 = ?",
+      "answer": [
+        "466.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.8 × 7 = ?",
+      "answer": [
+        "362.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.2 × 8 = ?",
+      "answer": [
+        "289.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.1 × 8 = ?",
+      "answer": [
+        "160.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.8 × 9 = ?",
+      "answer": [
+        "484.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.8 × 6 = ?",
+      "answer": [
+        "268.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.4 × 5 = ?",
+      "answer": [
+        "342"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.5 × 8 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.8 × 4 = ?",
+      "answer": [
+        "187.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.9 × 3 = ?",
+      "answer": [
+        "59.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.8 × 6 = ?",
+      "answer": [
+        "76.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.3 × 7 = ?",
+      "answer": [
+        "184.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.5 × 8 = ?",
+      "answer": [
+        "572"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.8 × 8 = ?",
+      "answer": [
+        "566.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 × 3 = ?",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.1 × 2 = ?",
+      "answer": [
+        "20.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 × 6 = ?",
+      "answer": [
+        "234"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.4 × 4 = ?",
+      "answer": [
+        "41.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.4 × 5 = ?",
+      "answer": [
+        "337"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.2 × 9 = ?",
+      "answer": [
+        "694.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.3 × 8 = ?",
+      "answer": [
+        "146.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.1 × 9 = ?",
+      "answer": [
+        "585.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.5 × 3 = ?",
+      "answer": [
+        "133.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.1 × 2 = ?",
+      "answer": [
+        "12.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.6 × 7 = ?",
+      "answer": [
+        "193.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.1 × 5 = ?",
+      "answer": [
+        "490.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79 × 5 = ?",
+      "answer": [
+        "395"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.5 × 7 = ?",
+      "answer": [
+        "10.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.1 × 6 = ?",
+      "answer": [
+        "384.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.9 × 2 = ?",
+      "answer": [
+        "37.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.5 × 3 = ?",
+      "answer": [
+        "28.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.4 × 6 = ?",
+      "answer": [
+        "524.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.4 × 7 = ?",
+      "answer": [
+        "555.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.7 × 4 = ?",
+      "answer": [
+        "318.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.4 × 5 = ?",
+      "answer": [
+        "467"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 × 6 = ?",
+      "answer": [
+        "114"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.7 × 6 = ?",
+      "answer": [
+        "220.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.3 × 2 = ?",
+      "answer": [
+        "46.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.7 × 6 = ?",
+      "answer": [
+        "244.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.3 × 5 = ?",
+      "answer": [
+        "81.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.5 × 4 = ?",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.6 × 9 = ?",
+      "answer": [
+        "626.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.8 × 5 = ?",
+      "answer": [
+        "469"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.7 × 4 = ?",
+      "answer": [
+        "262.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.9 × 4 = ?",
+      "answer": [
+        "159.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.7 × 3 = ?",
+      "answer": [
+        "284.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.6 × 6 = ?",
+      "answer": [
+        "381.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.8 × 5 = ?",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.6 × 9 = ?",
+      "answer": [
+        "698.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.9 × 3 = ?",
+      "answer": [
+        "44.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22 × 9 = ?",
+      "answer": [
+        "198"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 3 = ?",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.5 × 3 = ?",
+      "answer": [
+        "226.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.2 × 7 = ?",
+      "answer": [
+        "540.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 2 = ?",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.7 × 7 = ?",
+      "answer": [
+        "389.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.5 × 2 = ?",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.4 × 2 = ?",
+      "answer": [
+        "114.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.5 × 8 = ?",
+      "answer": [
+        "348"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.4 × 9 = ?",
+      "answer": [
+        "444.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.7 × 8 = ?",
+      "answer": [
+        "501.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.8 × 8 = ?",
+      "answer": [
+        "590.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.1 × 6 = ?",
+      "answer": [
+        "348.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.6 × 5 = ?",
+      "answer": [
+        "438"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.2 × 2 = ?",
+      "answer": [
+        "82.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.1 × 8 = ?",
+      "answer": [
+        "40.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.2 × 7 = ?",
+      "answer": [
+        "120.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.7 × 4 = ?",
+      "answer": [
+        "46.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.2 × 4 = ?",
+      "answer": [
+        "392.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.2 × 4 = ?",
+      "answer": [
+        "16.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.2 × 4 = ?",
+      "answer": [
+        "52.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.1 × 5 = ?",
+      "answer": [
+        "90.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.8 × 3 = ?",
+      "answer": [
+        "269.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.8 × 4 = ?",
+      "answer": [
+        "355.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 × 8 = ?",
+      "answer": [
+        "360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 × 4 = ?",
+      "answer": [
+        "368"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.3 × 2 = ?",
+      "answer": [
+        "160.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.9 × 2 = ?",
+      "answer": [
+        "179.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.3 × 2 = ?",
+      "answer": [
+        "112.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.8 × 6 = ?",
+      "answer": [
+        "322.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.2 × 6 = ?",
+      "answer": [
+        "445.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.8 × 6 = ?",
+      "answer": [
+        "226.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.9 × 5 = ?",
+      "answer": [
+        "444.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.4 × 4 = ?",
+      "answer": [
+        "77.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.8 × 8 = ?",
+      "answer": [
+        "238.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.1 × 4 = ?",
+      "answer": [
+        "172.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.4 × 8 = ?",
+      "answer": [
+        "227.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.8 × 2 = ?",
+      "answer": [
+        "69.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.7 × 9 = ?",
+      "answer": [
+        "753.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.2 × 3 = ?",
+      "answer": [
+        "216.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.3 × 8 = ?",
+      "answer": [
+        "98.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.1 × 8 = ?",
+      "answer": [
+        "232.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.6 × 4 = ?",
+      "answer": [
+        "250.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.7 × 2 = ?",
+      "answer": [
+        "57.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 × 6 = ?",
+      "answer": [
+        "444"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.8 × 9 = ?",
+      "answer": [
+        "367.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.7 × 8 = ?",
+      "answer": [
+        "525.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.1 × 7 = ?",
+      "answer": [
+        "63.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.7 × 6 = ?",
+      "answer": [
+        "334.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.1 × 6 = ?",
+      "answer": [
+        "180.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.4 × 4 = ?",
+      "answer": [
+        "69.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.3 × 9 = ?",
+      "answer": [
+        "353.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.4 × 7 = ?",
+      "answer": [
+        "268.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.3 × 5 = ?",
+      "answer": [
+        "481.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.2 × 6 = ?",
+      "answer": [
+        "235.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.1 × 8 = ?",
+      "answer": [
+        "664.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.1 × 2 = ?",
+      "answer": [
+        "154.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.2 × 4 = ?",
+      "answer": [
+        "164.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.6 × 8 = ?",
+      "answer": [
+        "132.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14.1 × 5 = ?",
+      "answer": [
+        "70.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.6 × 2 = ?",
+      "answer": [
+        "151.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.1 × 7 = ?",
+      "answer": [
+        "133.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.4 × 2 = ?",
+      "answer": [
+        "52.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.2 × 8 = ?",
+      "answer": [
+        "1.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.3 × 3 = ?",
+      "answer": [
+        "6.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.1 × 6 = ?",
+      "answer": [
+        "378.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.2 × 5 = ?",
+      "answer": [
+        "406"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.1 × 3 = ?",
+      "answer": [
+        "279.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.4 × 9 = ?",
+      "answer": [
+        "606.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.5 × 9 = ?",
+      "answer": [
+        "571.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.1 × 7 = ?",
+      "answer": [
+        "301.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.3 × 3 = ?",
+      "answer": [
+        "168.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 × 6 = ?",
+      "answer": [
+        "282"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.2 × 8 = ?",
+      "answer": [
+        "57.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.2 × 4 = ?",
+      "answer": [
+        "80.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.3 × 6 = ?",
+      "answer": [
+        "355.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.4 × 5 = ?",
+      "answer": [
+        "207"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.6 × 3 = ?",
+      "answer": [
+        "253.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.2 × 2 = ?",
+      "answer": [
+        "104.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.7 × 7 = ?",
+      "answer": [
+        "284.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.6 × 5 = ?",
+      "answer": [
+        "488"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.3 × 3 = ?",
+      "answer": [
+        "285.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.1 × 9 = ?",
+      "answer": [
+        "396.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.8 × 2 = ?",
+      "answer": [
+        "163.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.4 × 8 = ?",
+      "answer": [
+        "763.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.1 × 3 = ?",
+      "answer": [
+        "282.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.9 × 7 = ?",
+      "answer": [
+        "384.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.1 × 5 = ?",
+      "answer": [
+        "30.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.5 × 2 = ?",
+      "answer": [
+        "169"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.9 × 7 = ?",
+      "answer": [
+        "279.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.1 × 9 = ?",
+      "answer": [
+        "702.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.5 × 9 = ?",
+      "answer": [
+        "841.5"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

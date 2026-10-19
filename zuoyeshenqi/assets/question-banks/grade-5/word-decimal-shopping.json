@@ -1,0 +1,3009 @@
+{
+  "title": "5年级 · 应用题 · 小数购物",
+  "grade": 5,
+  "category": "应用题 · 小数购物",
+  "kind": "application",
+  "range": "小数 · 总价与找零",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.3元，小悦买了2本，付了32.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": "32.5 − 12.3 × 2 = 7.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.7元，小悦买了7本，付了84元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.1"
+      ],
+      "options": [],
+      "explanation": "84 − 11.7 × 7 = 2.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.8元，小悦买了7本，付了44.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.7"
+      ],
+      "options": [],
+      "explanation": "44.3 − 5.8 × 7 = 3.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.4元，小安买了9本，付了95.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.6"
+      ],
+      "options": [],
+      "explanation": "95.2 − 10.4 × 9 = 1.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15元，小安买了8本，付了128.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": "128.7 − 15 × 8 = 8.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.8元，小悦买了4本，付了65.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.4"
+      ],
+      "options": [],
+      "explanation": "65.6 − 14.8 × 4 = 6.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.4元，小华买了7本，付了53.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.9"
+      ],
+      "options": [],
+      "explanation": "53.7 − 7.4 × 7 = 1.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.2元，小乐买了7本，付了9.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.7"
+      ],
+      "options": [],
+      "explanation": "9.1 − 1.2 × 7 = 0.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.1元，小悦买了9本，付了107.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.5"
+      ],
+      "options": [],
+      "explanation": "107.4 − 11.1 × 9 = 7.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.8元，小红买了2本，付了15.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.1"
+      ],
+      "options": [],
+      "explanation": "15.7 − 6.8 × 2 = 2.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.2元，小乐买了9本，付了46.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": "46.9 − 4.2 × 9 = 9.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.3元，小华买了5本，付了54.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.3"
+      ],
+      "options": [],
+      "explanation": "54.8 − 10.3 × 5 = 3.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.4元，小乐买了8本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.8"
+      ],
+      "options": [],
+      "explanation": "39 − 4.4 × 8 = 3.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.9元，小乐买了9本，付了120.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.2"
+      ],
+      "options": [],
+      "explanation": "120.3 − 12.9 × 9 = 4.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.4元，小安买了3本，付了62.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.2"
+      ],
+      "options": [],
+      "explanation": "62.4 − 18.4 × 3 = 7.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.8元，小华买了9本，付了147.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.9"
+      ],
+      "options": [],
+      "explanation": "147.1 − 15.8 × 9 = 4.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.1元，小林买了7本，付了17元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.3"
+      ],
+      "options": [],
+      "explanation": "17 − 1.1 × 7 = 9.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.3元，小华买了5本，付了55.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "55.5 − 9.3 × 5 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.8元，小乐买了9本，付了134元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": "134 − 14.8 × 9 = 0.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9元，小乐买了4本，付了43.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": "43.9 − 9 × 4 = 7.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.2元，小明买了9本，付了29.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.4"
+      ],
+      "options": [],
+      "explanation": "29.2 − 2.2 × 9 = 9.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.6元，小悦买了6本，付了62.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.2"
+      ],
+      "options": [],
+      "explanation": "62.8 − 9.6 × 6 = 5.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.9元，小悦买了5本，付了32.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": "32.6 − 4.9 × 5 = 8.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.8元，小林买了6本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.2"
+      ],
+      "options": [],
+      "explanation": "31 − 4.8 × 6 = 2.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.8元，小乐买了7本，付了99.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": "99.4 − 13.8 × 7 = 2.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.8元，小林买了3本，付了60.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.8"
+      ],
+      "options": [],
+      "explanation": "60.2 − 18.8 × 3 = 3.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.4元，小华买了5本，付了8.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.3"
+      ],
+      "options": [],
+      "explanation": "8.3 − 1.4 × 5 = 1.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.1元，小华买了2本，付了35.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.3"
+      ],
+      "options": [],
+      "explanation": "35.5 − 15.1 × 2 = 5.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.2元，小乐买了7本，付了11.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.7"
+      ],
+      "options": [],
+      "explanation": "11.1 − 1.2 × 7 = 2.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.9元，小林买了3本，付了26.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.2"
+      ],
+      "options": [],
+      "explanation": "26.9 − 5.9 × 3 = 9.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.8元，小华买了8本，付了85.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.3"
+      ],
+      "options": [],
+      "explanation": "85.7 − 9.8 × 8 = 7.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.9元，小悦买了4本，付了11.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": "11.1 − 1.9 × 4 = 3.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.6元，小华买了4本，付了57.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": "57.8 − 12.6 × 4 = 7.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.4元，小悦买了5本，付了56.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.8"
+      ],
+      "options": [],
+      "explanation": "56.8 − 9.4 × 5 = 9.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.1元，小红买了7本，付了16.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": "16.1 − 1.1 × 7 = 8.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2元，小华买了2本，付了6.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.6"
+      ],
+      "options": [],
+      "explanation": "6.6 − 2 × 2 = 2.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.3元，小安买了9本，付了12.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.9"
+      ],
+      "options": [],
+      "explanation": "12.6 − 1.3 × 9 = 0.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.1元，小华买了9本，付了144.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.6"
+      ],
+      "options": [],
+      "explanation": "144.5 − 15.1 × 9 = 8.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.3元，小雨买了2本，付了37.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": "37.4 − 17.3 × 2 = 2.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.3元，小林买了8本，付了50.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.7"
+      ],
+      "options": [],
+      "explanation": "50.1 − 5.3 × 8 = 7.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.9元，小悦买了3本，付了20.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.1"
+      ],
+      "options": [],
+      "explanation": "20.8 − 5.9 × 3 = 3.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.9元，小雨买了9本，付了47.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": "47.6 − 4.9 × 9 = 3.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.4元，小雨买了6本，付了73.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.2"
+      ],
+      "options": [],
+      "explanation": "73.6 − 11.4 × 6 = 5.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.7元，小华买了7本，付了23.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.9"
+      ],
+      "options": [],
+      "explanation": "23.8 − 2.7 × 7 = 4.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.1元，小乐买了5本，付了51.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.3"
+      ],
+      "options": [],
+      "explanation": "51.8 − 10.1 × 5 = 1.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.5元，小雨买了6本，付了41.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": "41.4 − 5.5 × 6 = 8.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.7元，小雨买了7本，付了75.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.5"
+      ],
+      "options": [],
+      "explanation": "75.4 − 9.7 × 7 = 7.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.2元，小雨买了6本，付了98.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "98.2 − 16.2 × 6 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.7元，小华买了9本，付了97.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.8"
+      ],
+      "options": [],
+      "explanation": "97.1 − 9.7 × 9 = 9.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.7元，小安买了5本，付了22元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": "22 − 3.7 × 5 = 3.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.7元，小乐买了7本，付了70.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.6"
+      ],
+      "options": [],
+      "explanation": "70.5 − 8.7 × 7 = 9.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.8元，小悦买了2本，付了34.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.8"
+      ],
+      "options": [],
+      "explanation": "34.4 − 14.8 × 2 = 4.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.6元，小林买了3本，付了15.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.4"
+      ],
+      "options": [],
+      "explanation": "15.2 − 4.6 × 3 = 1.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.5元，小华买了6本，付了93.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.3"
+      ],
+      "options": [],
+      "explanation": "93.3 − 14.5 × 6 = 6.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.8元，小红买了5本，付了33.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.7"
+      ],
+      "options": [],
+      "explanation": "33.7 − 4.8 × 5 = 9.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.5元，小华买了7本，付了143.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": "143.9 − 19.5 × 7 = 7.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.3元，小悦买了3本，付了35.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.5"
+      ],
+      "options": [],
+      "explanation": "35.4 − 9.3 × 3 = 7.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.9元，小华买了5本，付了81元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": "81 − 15.9 × 5 = 1.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.9元，小明买了8本，付了44.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.1"
+      ],
+      "options": [],
+      "explanation": "44.3 − 4.9 × 8 = 5.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.7元，小林买了2本，付了42.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.7"
+      ],
+      "options": [],
+      "explanation": "42.1 − 19.7 × 2 = 2.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.1元，小华买了2本，付了23.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "23.2 − 7.1 × 2 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16元，小乐买了7本，付了114.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.6"
+      ],
+      "options": [],
+      "explanation": "114.6 − 16 × 7 = 2.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.4元，小明买了3本，付了57.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.7"
+      ],
+      "options": [],
+      "explanation": "57.9 − 18.4 × 3 = 2.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.6元，小安买了4本，付了18.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.5"
+      ],
+      "options": [],
+      "explanation": "18.9 − 2.6 × 4 = 8.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.7元，小雨买了8本，付了140.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.6"
+      ],
+      "options": [],
+      "explanation": "140.2 − 16.7 × 8 = 6.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.3元，小林买了4本，付了30.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": "30.9 − 7.3 × 4 = 1.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.3元，小明买了7本，付了82元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.9"
+      ],
+      "options": [],
+      "explanation": "82 − 10.3 × 7 = 9.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.7元，小明买了6本，付了16.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.6"
+      ],
+      "options": [],
+      "explanation": "16.8 − 1.7 × 6 = 6.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.3元，小悦买了3本，付了29.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.8"
+      ],
+      "options": [],
+      "explanation": "29.7 − 9.3 × 3 = 1.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.9元，小华买了8本，付了119.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.4"
+      ],
+      "options": [],
+      "explanation": "119.6 − 14.9 × 8 = 0.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.5元，小雨买了9本，付了72.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.9"
+      ],
+      "options": [],
+      "explanation": "72.4 − 7.5 × 9 = 4.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.5元，小华买了6本，付了78.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.7"
+      ],
+      "options": [],
+      "explanation": "78.7 − 12.5 × 6 = 3.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.1元，小红买了7本，付了99.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": "99.1 − 13.1 × 7 = 7.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.5元，小林买了5本，付了63.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": "63.3 − 12.5 × 5 = 0.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14元，小雨买了6本，付了91.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.6"
+      ],
+      "options": [],
+      "explanation": "91.6 − 14 × 6 = 7.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4元，小安买了9本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "38 − 4 × 9 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.6元，小红买了8本，付了92.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": "92.7 − 10.6 × 8 = 7.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.1元，小悦买了4本，付了41.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": "41.8 − 9.1 × 4 = 5.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.9元，小红买了4本，付了11.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": "11.7 − 2.9 × 4 = 0.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.1元，小安买了8本，付了42.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.8"
+      ],
+      "options": [],
+      "explanation": "42.6 − 4.1 × 8 = 9.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.2元，小雨买了6本，付了37.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": "37.7 − 6.2 × 6 = 0.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.5元，小红买了6本，付了23.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.3"
+      ],
+      "options": [],
+      "explanation": "23.3 − 2.5 × 6 = 8.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.8元，小乐买了2本，付了12.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.1"
+      ],
+      "options": [],
+      "explanation": "12.7 − 2.8 × 2 = 7.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.3元，小红买了8本，付了132.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.2"
+      ],
+      "options": [],
+      "explanation": "132.6 − 16.3 × 8 = 2.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.5元，小乐买了9本，付了162.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": "162.9 − 17.5 × 9 = 5.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9元，小林买了2本，付了23.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.8"
+      ],
+      "options": [],
+      "explanation": "23.8 − 9 × 2 = 5.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14元，小明买了8本，付了119元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "119 − 14 × 8 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.8元，小乐买了2本，付了23.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.6"
+      ],
+      "options": [],
+      "explanation": "23.2 − 10.8 × 2 = 1.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.9元，小红买了7本，付了83元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.7"
+      ],
+      "options": [],
+      "explanation": "83 − 10.9 × 7 = 6.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.2元，小悦买了7本，付了126.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.5"
+      ],
+      "options": [],
+      "explanation": "126.9 − 17.2 × 7 = 6.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.6元，小悦买了6本，付了113.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.1"
+      ],
+      "options": [],
+      "explanation": "113.7 − 18.6 × 6 = 2.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.6元，小林买了3本，付了43.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.3"
+      ],
+      "options": [],
+      "explanation": "43.1 − 11.6 × 3 = 8.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.2元，小华买了2本，付了15元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.6"
+      ],
+      "options": [],
+      "explanation": "15 − 6.2 × 2 = 2.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.8元，小悦买了9本，付了162.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.6"
+      ],
+      "options": [],
+      "explanation": "162.8 − 17.8 × 9 = 2.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.6元，小华买了4本，付了52元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.6"
+      ],
+      "options": [],
+      "explanation": "52 − 10.6 × 4 = 9.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.7元，小林买了5本，付了59.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.2"
+      ],
+      "options": [],
+      "explanation": "59.7 − 11.7 × 5 = 1.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.8元，小安买了9本，付了112.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.7"
+      ],
+      "options": [],
+      "explanation": "112.9 − 11.8 × 9 = 6.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.9元，小乐买了4本，付了55.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": "55.7 − 13.9 × 4 = 0.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.4元，小华买了2本，付了14.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": "14.5 − 6.4 × 2 = 1.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.5元，小林买了5本，付了26.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": "26.2 − 3.5 × 5 = 8.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.8元，小雨买了5本，付了92元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "92 − 16.8 × 5 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.2元，小林买了3本，付了49.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.5"
+      ],
+      "options": [],
+      "explanation": "49.1 − 13.2 × 3 = 9.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.2元，小安买了2本，付了41.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "41.4 − 17.2 × 2 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.7元，小华买了3本，付了31.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": "31.8 − 7.7 × 3 = 8.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.9元，小林买了6本，付了121.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": "121.1 − 19.9 × 6 = 1.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.1元，小林买了4本，付了83元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.6"
+      ],
+      "options": [],
+      "explanation": "83 − 19.1 × 4 = 6.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.7元，小雨买了2本，付了7.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.2"
+      ],
+      "options": [],
+      "explanation": "7.6 − 3.7 × 2 = 0.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.5元，小雨买了3本，付了35.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.7"
+      ],
+      "options": [],
+      "explanation": "35.2 − 8.5 × 3 = 9.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.7元，小雨买了6本，付了16.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": "16.3 − 2.7 × 6 = 0.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4元，小明买了7本，付了30.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": "30.8 − 4 × 7 = 2.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.2元，小林买了4本，付了76.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": "76.3 − 18.2 × 4 = 3.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.2元，小乐买了6本，付了14.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": "14.7 − 2.2 × 6 = 1.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.6元，小安买了9本，付了143.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": "143.2 − 15.6 × 9 = 2.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.3元，小安买了6本，付了91.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "91.8 − 14.3 × 6 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.1元，小林买了5本，付了47.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.9"
+      ],
+      "options": [],
+      "explanation": "47.4 − 8.1 × 5 = 6.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.7元，小红买了4本，付了36.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.3"
+      ],
+      "options": [],
+      "explanation": "36.1 − 7.7 × 4 = 5.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.7元，小悦买了9本，付了176.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.8"
+      ],
+      "options": [],
+      "explanation": "176.1 − 18.7 × 9 = 7.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.9元，小明买了3本，付了34元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.3"
+      ],
+      "options": [],
+      "explanation": "34 − 10.9 × 3 = 1.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15元，小明买了6本，付了98.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.6"
+      ],
+      "options": [],
+      "explanation": "98.6 − 15 × 6 = 8.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.3元，小华买了3本，付了8.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.9"
+      ],
+      "options": [],
+      "explanation": "8.8 − 1.3 × 3 = 4.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.6元，小悦买了3本，付了18.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": "18.3 − 5.6 × 3 = 1.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.2元，小安买了7本，付了86.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.3"
+      ],
+      "options": [],
+      "explanation": "86.7 − 12.2 × 7 = 1.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.4元，小悦买了3本，付了52.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.2"
+      ],
+      "options": [],
+      "explanation": "52.4 − 15.4 × 3 = 6.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.7元，小红买了4本，付了21.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "21.8 − 3.7 × 4 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14元，小乐买了3本，付了51.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.9"
+      ],
+      "options": [],
+      "explanation": "51.9 − 14 × 3 = 9.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.1元，小悦买了4本，付了47.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.8"
+      ],
+      "options": [],
+      "explanation": "47.2 − 10.1 × 4 = 6.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.8元，小华买了2本，付了20.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.8"
+      ],
+      "options": [],
+      "explanation": "20.4 − 6.8 × 2 = 6.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.9元，小雨买了2本，付了29.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.8"
+      ],
+      "options": [],
+      "explanation": "29.6 − 13.9 × 2 = 1.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4元，小华买了7本，付了37.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": "37.1 − 4 × 7 = 9.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.7元，小安买了3本，付了63.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.7"
+      ],
+      "options": [],
+      "explanation": "63.8 − 18.7 × 3 = 7.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.9元，小红买了3本，付了64.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": "64.6 − 18.9 × 3 = 7.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.9元，小林买了7本，付了17.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "17.3 − 1.9 × 7 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.5元，小乐买了2本，付了8.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": "8.6 − 1.5 × 2 = 5.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9元，小华买了5本，付了48.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.4"
+      ],
+      "options": [],
+      "explanation": "48.4 − 9 × 5 = 3.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.9元，小红买了6本，付了67.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": "67.3 − 9.9 × 6 = 7.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.4元，小明买了5本，付了69.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": "69.8 − 13.4 × 5 = 2.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.5元，小明买了3本，付了47.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.3"
+      ],
+      "options": [],
+      "explanation": "47.8 − 13.5 × 3 = 7.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.1元，小乐买了4本，付了59.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.4"
+      ],
+      "options": [],
+      "explanation": "59.8 − 14.1 × 4 = 3.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.2元，小林买了6本，付了68元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.8"
+      ],
+      "options": [],
+      "explanation": "68 − 10.2 × 6 = 6.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.4元，小林买了5本，付了55.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.1"
+      ],
+      "options": [],
+      "explanation": "55.1 − 10.4 × 5 = 3.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.8元，小安买了3本，付了9.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.1"
+      ],
+      "options": [],
+      "explanation": "9.5 − 1.8 × 3 = 4.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.8元，小雨买了7本，付了62.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": "62.7 − 7.8 × 7 = 8.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.2元，小红买了4本，付了83.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.8"
+      ],
+      "options": [],
+      "explanation": "83.6 − 19.2 × 4 = 6.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.1元，小悦买了9本，付了132.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "132.9 − 14.1 × 9 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.2元，小明买了9本，付了63.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": "63.9 − 6.2 × 9 = 8.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.5元，小红买了5本，付了56.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.2"
+      ],
+      "options": [],
+      "explanation": "56.7 − 9.5 × 5 = 9.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.4元，小林买了5本，付了84.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": "84.8 − 16.4 × 5 = 2.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.1元，小华买了8本，付了25.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": "25.9 − 2.1 × 8 = 9.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.9元，小悦买了7本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.7"
+      ],
+      "options": [],
+      "explanation": "39 − 4.9 × 7 = 4.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.2元，小明买了5本，付了96.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": "96.5 − 19.2 × 5 = 0.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.1元，小林买了5本，付了49元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": "49 − 9.1 × 5 = 3.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.7元，小林买了7本，付了103.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": "103.3 − 13.7 × 7 = 7.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.5元，小悦买了8本，付了151.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.2"
+      ],
+      "options": [],
+      "explanation": "151.2 − 18.5 × 8 = 3.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.3元，小华买了3本，付了36.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": "36.3 − 9.3 × 3 = 8.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6元，小明买了2本，付了13.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.2"
+      ],
+      "options": [],
+      "explanation": "13.2 − 6 × 2 = 1.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.2元，小林买了6本，付了59.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.9"
+      ],
+      "options": [],
+      "explanation": "59.1 − 9.2 × 6 = 3.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.2元，小乐买了3本，付了31.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.1"
+      ],
+      "options": [],
+      "explanation": "31.7 − 8.2 × 3 = 7.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11元，小明买了2本，付了24.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.7"
+      ],
+      "options": [],
+      "explanation": "24.7 − 11 × 2 = 2.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.3元，小林买了4本，付了36.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.3"
+      ],
+      "options": [],
+      "explanation": "36.5 − 8.3 × 4 = 3.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.8元，小雨买了7本，付了89.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.3"
+      ],
+      "options": [],
+      "explanation": "89.9 − 12.8 × 7 = 0.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.3元，小乐买了4本，付了78.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "78.2 − 18.3 × 4 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.2元，小悦买了7本，付了85.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.1"
+      ],
+      "options": [],
+      "explanation": "85.5 − 11.2 × 7 = 7.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2元，小华买了7本，付了16.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.2"
+      ],
+      "options": [],
+      "explanation": "16.2 − 2 × 7 = 2.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.9元，小林买了5本，付了57元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.5"
+      ],
+      "options": [],
+      "explanation": "57 − 9.9 × 5 = 7.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.6元，小华买了8本，付了133.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "133.8 − 16.6 × 8 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.2元，小明买了8本，付了19.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.7"
+      ],
+      "options": [],
+      "explanation": "19.3 − 1.2 × 8 = 9.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.8元，小安买了3本，付了23.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.5"
+      ],
+      "options": [],
+      "explanation": "23.9 − 5.8 × 3 = 6.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.5元，小乐买了9本，付了136.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.1"
+      ],
+      "options": [],
+      "explanation": "136.6 − 14.5 × 9 = 6.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.8元，小明买了5本，付了99.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": "99.6 − 18.8 × 5 = 5.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6元，小林买了4本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "28 − 6 × 4 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.5元，小悦买了6本，付了40.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.2"
+      ],
+      "options": [],
+      "explanation": "40.2 − 6.5 × 6 = 1.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4元，小红买了8本，付了39.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": "39.4 − 4 × 8 = 7.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.5元，小雨买了7本，付了37.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.2"
+      ],
+      "options": [],
+      "explanation": "37.7 − 4.5 × 7 = 6.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.6元，小红买了8本，付了165.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "165.8 − 19.6 × 8 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.3元，小华买了5本，付了45.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.6"
+      ],
+      "options": [],
+      "explanation": "45.1 − 7.3 × 5 = 8.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.7元，小安买了8本，付了49.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": "49.1 − 5.7 × 8 = 3.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3元，小明买了9本，付了34.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.5"
+      ],
+      "options": [],
+      "explanation": "34.5 − 3 × 9 = 7.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.5元，小乐买了7本，付了108.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.4"
+      ],
+      "options": [],
+      "explanation": "108.9 − 15.5 × 7 = 0.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.5元，小乐买了5本，付了106.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.9"
+      ],
+      "options": [],
+      "explanation": "106.4 − 19.5 × 5 = 8.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.8元，小华买了4本，付了59.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.6"
+      ],
+      "options": [],
+      "explanation": "59.8 − 12.8 × 4 = 8.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.3元，小悦买了9本，付了95.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.7"
+      ],
+      "options": [],
+      "explanation": "95.4 − 10.3 × 9 = 2.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.9元，小乐买了8本，付了112元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": "112 − 13.9 × 8 = 0.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.5元，小雨买了6本，付了99.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.4"
+      ],
+      "options": [],
+      "explanation": "99.4 − 16.5 × 6 = 0.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.8元，小悦买了3本，付了50.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": "50.5 − 13.8 × 3 = 9.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.7元，小安买了8本，付了144.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.3"
+      ],
+      "options": [],
+      "explanation": "144.9 − 17.7 × 8 = 3.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17元，小林买了2本，付了34.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": "34.5 − 17 × 2 = 0.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.2元，小红买了5本，付了7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "7 − 1.2 × 5 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.5元，小林买了9本，付了35.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.1"
+      ],
+      "options": [],
+      "explanation": "35.6 − 3.5 × 9 = 4.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.3元，小华买了7本，付了30.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.7"
+      ],
+      "options": [],
+      "explanation": "30.8 − 4.3 × 7 = 0.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.3元，小雨买了7本，付了143.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "143.1 − 19.3 × 7 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.3元，小悦买了3本，付了56.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.7"
+      ],
+      "options": [],
+      "explanation": "56.6 − 16.3 × 3 = 7.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.2元，小雨买了2本，付了31.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.9"
+      ],
+      "options": [],
+      "explanation": "31.3 − 12.2 × 2 = 6.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.8元，小华买了9本，付了40元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.8"
+      ],
+      "options": [],
+      "explanation": "40 − 3.8 × 9 = 5.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.7元，小华买了6本，付了113元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": "113 − 18.7 × 6 = 0.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.2元，小悦买了7本，付了37.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": "37.8 − 4.2 × 7 = 8.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.9元，小红买了7本，付了24.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.4"
+      ],
+      "options": [],
+      "explanation": "24.7 − 2.9 × 7 = 4.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.1元，小红买了5本，付了11元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": "11 − 2.1 × 5 = 0.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.6元，小悦买了7本，付了59.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "59.2 − 7.6 × 7 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.2元，小红买了8本，付了51.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": "51.1 − 6.2 × 8 = 1.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.5元，小安买了9本，付了139.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": "139.2 − 14.5 × 9 = 8.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.1元，小雨买了7本，付了36.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": "36.6 − 4.1 × 7 = 7.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.2元，小乐买了9本，付了29.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": "29.6 − 3.2 × 9 = 0.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.3元，小红买了5本，付了23.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.3"
+      ],
+      "options": [],
+      "explanation": "23.8 − 3.3 × 5 = 7.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.3元，小林买了5本，付了18.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": "18.9 − 2.3 × 5 = 7.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.4元，小雨买了5本，付了39.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.7"
+      ],
+      "options": [],
+      "explanation": "39.7 − 7.4 × 5 = 2.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.4元，小悦买了4本，付了80.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.1"
+      ],
+      "options": [],
+      "explanation": "80.7 − 19.4 × 4 = 3.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.5元，小乐买了5本，付了20.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": "20.4 − 2.5 × 5 = 7.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.5元，小乐买了6本，付了115.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.1"
+      ],
+      "options": [],
+      "explanation": "115.1 − 18.5 × 6 = 4.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12元，小华买了2本，付了26.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.6"
+      ],
+      "options": [],
+      "explanation": "26.6 − 12 × 2 = 2.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.9元，小红买了4本，付了13.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.3"
+      ],
+      "options": [],
+      "explanation": "13.9 − 2.9 × 4 = 2.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.3元，小雨买了7本，付了73.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": "73.8 − 9.3 × 7 = 8.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.9元，小林买了8本，付了128.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": "128.3 − 14.9 × 8 = 9.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.7元，小明买了4本，付了58.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": "58.7 − 12.7 × 4 = 7.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13元，小乐买了8本，付了114元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "114 − 13 × 8 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.7元，小安买了6本，付了126.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.3"
+      ],
+      "options": [],
+      "explanation": "126.5 − 19.7 × 6 = 8.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.3元，小明买了9本，付了47.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": "47.8 − 5.3 × 9 = 0.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.5元，小雨买了4本，付了41.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.1"
+      ],
+      "options": [],
+      "explanation": "41.1 − 9.5 × 4 = 3.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本5.8元，小雨买了2本，付了11.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": "11.7 − 5.8 × 2 = 0.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.9元，小华买了2本，付了33.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.3"
+      ],
+      "options": [],
+      "explanation": "33.1 − 11.9 × 2 = 9.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.6元，小悦买了4本，付了77.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": "77.2 − 18.6 × 4 = 2.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.9元，小红买了5本，付了96.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.9"
+      ],
+      "options": [],
+      "explanation": "96.4 − 17.9 × 5 = 6.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.2元，小安买了3本，付了45.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.2"
+      ],
+      "options": [],
+      "explanation": "45.8 − 15.2 × 3 = 0.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.4元，小雨买了5本，付了76.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": "76.1 − 13.4 × 5 = 9.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.7元，小安买了7本，付了111.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": "111.4 − 15.7 × 7 = 1.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.7元，小雨买了8本，付了40.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.9"
+      ],
+      "options": [],
+      "explanation": "40.5 − 4.7 × 8 = 2.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.8元，小红买了7本，付了84.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": "84.1 − 11.8 × 7 = 1.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.4元，小明买了8本，付了139.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.4"
+      ],
+      "options": [],
+      "explanation": "139.6 − 17.4 × 8 = 0.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.8元，小明买了5本，付了73.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.6"
+      ],
+      "options": [],
+      "explanation": "73.6 − 12.8 × 5 = 9.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.2元，小华买了6本，付了67.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.6"
+      ],
+      "options": [],
+      "explanation": "67.8 − 11.2 × 6 = 0.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.5元，小乐买了2本，付了26.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.9"
+      ],
+      "options": [],
+      "explanation": "26.9 − 8.5 × 2 = 9.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.5元，小明买了6本，付了76.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.9"
+      ],
+      "options": [],
+      "explanation": "76.9 − 12.5 × 6 = 1.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.3元，小明买了3本，付了52.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.7"
+      ],
+      "options": [],
+      "explanation": "52.6 − 17.3 × 3 = 0.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.2元，小安买了2本，付了31.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.5"
+      ],
+      "options": [],
+      "explanation": "31.9 − 13.2 × 2 = 5.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.1元，小华买了3本，付了48.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.4"
+      ],
+      "options": [],
+      "explanation": "48.7 − 14.1 × 3 = 6.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.6元，小雨买了6本，付了78.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.8"
+      ],
+      "options": [],
+      "explanation": "78.4 − 11.6 × 6 = 8.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.6元，小乐买了2本，付了45.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": "45.6 − 18.6 × 2 = 8.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.1元，小红买了4本，付了28.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": "28.5 − 7.1 × 4 = 0.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.3元，小乐买了6本，付了45.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.8"
+      ],
+      "options": [],
+      "explanation": "45.6 − 6.3 × 6 = 7.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.4元，小华买了4本，付了29.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": "29.1 − 6.4 × 4 = 3.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.4元，小明买了8本，付了155元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.8"
+      ],
+      "options": [],
+      "explanation": "155 − 18.4 × 8 = 7.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.4元，小安买了5本，付了11.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.5"
+      ],
+      "options": [],
+      "explanation": "11.5 − 1.4 × 5 = 4.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18元，小乐买了2本，付了43.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": "43.4 − 18 × 2 = 7.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.6元，小红买了7本，付了115.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.3"
+      ],
+      "options": [],
+      "explanation": "115.5 − 15.6 × 7 = 6.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.9元，小明买了4本，付了17.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.5"
+      ],
+      "options": [],
+      "explanation": "17.1 − 2.9 × 4 = 5.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.8元，小雨买了6本，付了59.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.8"
+      ],
+      "options": [],
+      "explanation": "59.6 − 8.8 × 6 = 6.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.3元，小悦买了7本，付了112.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": "112.5 − 15.3 × 7 = 5.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.1元，小明买了7本，付了13.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.9"
+      ],
+      "options": [],
+      "explanation": "13.6 − 1.1 × 7 = 5.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.8元，小红买了8本，付了86.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": "86.9 − 10.8 × 8 = 0.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.6元，小乐买了6本，付了115.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.9"
+      ],
+      "options": [],
+      "explanation": "115.5 − 18.6 × 6 = 3.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.1元，小安买了9本，付了37.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.8"
+      ],
+      "options": [],
+      "explanation": "37.7 − 3.1 × 9 = 9.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.9元，小乐买了2本，付了31.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "31.8 − 10.9 × 2 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11元，小悦买了2本，付了26.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.9"
+      ],
+      "options": [],
+      "explanation": "26.9 − 11 × 2 = 4.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.7元，小华买了2本，付了17.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "17.4 − 7.7 × 2 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.4元，小明买了2本，付了39.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.8"
+      ],
+      "options": [],
+      "explanation": "39.6 − 16.4 × 2 = 6.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.6元，小安买了9本，付了182.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.1"
+      ],
+      "options": [],
+      "explanation": "182.5 − 19.6 × 9 = 6.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.1元，小乐买了9本，付了77.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.3"
+      ],
+      "options": [],
+      "explanation": "77.2 − 8.1 × 9 = 4.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.9元，小雨买了2本，付了23.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.5"
+      ],
+      "options": [],
+      "explanation": "23.3 − 7.9 × 2 = 7.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.8元，小安买了7本，付了126.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.6"
+      ],
+      "options": [],
+      "explanation": "126.2 − 17.8 × 7 = 1.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.7元，小雨买了4本，付了60.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "60.8 − 14.7 × 4 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.2元，小林买了8本，付了130元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": "130 − 15.2 × 8 = 8.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.8元，小悦买了8本，付了29.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": "29.8 − 2.8 × 8 = 7.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本2.6元，小悦买了6本，付了24.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.8"
+      ],
+      "options": [],
+      "explanation": "24.4 − 2.6 × 6 = 8.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.1元，小乐买了3本，付了27.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.4"
+      ],
+      "options": [],
+      "explanation": "27.7 − 7.1 × 3 = 6.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.6元，小华买了3本，付了24.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.1"
+      ],
+      "options": [],
+      "explanation": "24.9 − 7.6 × 3 = 2.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14.4元，小明买了7本，付了110.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.7"
+      ],
+      "options": [],
+      "explanation": "110.5 − 14.4 × 7 = 9.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.3元，小雨买了7本，付了68.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.3"
+      ],
+      "options": [],
+      "explanation": "68.4 − 9.3 × 7 = 3.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.2元，小安买了4本，付了26.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9.6"
+      ],
+      "options": [],
+      "explanation": "26.4 − 4.2 × 4 = 9.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.3元，小乐买了9本，付了89.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": "89.1 − 9.3 × 9 = 5.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.2元，小安买了8本，付了158.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.6"
+      ],
+      "options": [],
+      "explanation": "158.2 − 19.2 × 8 = 4.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.9元，小明买了6本，付了102.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": "102.2 − 16.9 × 6 = 0.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本1.2元，小明买了9本，付了15元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.2"
+      ],
+      "options": [],
+      "explanation": "15 − 1.2 × 9 = 4.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9元，小乐买了2本，付了22.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.7"
+      ],
+      "options": [],
+      "explanation": "22.7 − 9 × 2 = 4.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.2元，小红买了3本，付了50.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.7"
+      ],
+      "options": [],
+      "explanation": "50.3 − 15.2 × 3 = 4.7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.4元，小悦买了7本，付了95元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8.2"
+      ],
+      "options": [],
+      "explanation": "95 − 12.4 × 7 = 8.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.3元，小安买了8本，付了95.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": "95.8 − 11.3 × 8 = 5.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.7元，小明买了9本，付了81.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.9"
+      ],
+      "options": [],
+      "explanation": "81.2 − 8.7 × 9 = 2.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本14元，小乐买了3本，付了47.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": "47.6 − 14 × 3 = 5.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.9元，小华买了6本，付了124.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.8"
+      ],
+      "options": [],
+      "explanation": "124.2 − 19.9 × 6 = 4.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本18.7元，小悦买了6本，付了114.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "114.2 − 18.7 × 6 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本15.1元，小雨买了2本，付了30.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.4"
+      ],
+      "options": [],
+      "explanation": "30.6 − 15.1 × 2 = 0.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.3元，小安买了6本，付了86.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.9"
+      ],
+      "options": [],
+      "explanation": "86.7 − 13.3 × 6 = 6.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.3元，小华买了6本，付了106元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.2"
+      ],
+      "options": [],
+      "explanation": "106 − 17.3 × 6 = 2.2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本9.2元，小林买了2本，付了25.3元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6.9"
+      ],
+      "options": [],
+      "explanation": "25.3 − 9.2 × 2 = 6.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.7元，小华买了9本，付了119.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": "119.9 − 12.7 × 9 = 5.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8.1元，小悦买了3本，付了26.7元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2.4"
+      ],
+      "options": [],
+      "explanation": "26.7 − 8.1 × 3 = 2.4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本3.1元，小悦买了5本，付了21.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": "21.1 − 3.1 × 5 = 5.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本17.6元，小雨买了7本，付了130.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.6"
+      ],
+      "options": [],
+      "explanation": "130.8 − 17.6 × 7 = 7.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本12.1元，小安买了6本，付了77.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.3"
+      ],
+      "options": [],
+      "explanation": "77.9 − 12.1 × 6 = 5.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本19.5元，小红买了7本，付了137.6元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.1"
+      ],
+      "options": [],
+      "explanation": "137.6 − 19.5 × 7 = 1.1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.4元，小安买了6本，付了48.2元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.8"
+      ],
+      "options": [],
+      "explanation": "48.2 − 7.4 × 6 = 3.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.7元，小华买了7本，付了53.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "53.9 − 6.7 × 7 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本4.1元，小林买了7本，付了34.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5.8"
+      ],
+      "options": [],
+      "explanation": "34.5 − 4.1 × 7 = 5.8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本11.2元，小红买了8本，付了96.9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7.3"
+      ],
+      "options": [],
+      "explanation": "96.9 − 11.2 × 8 = 7.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本8元，小安买了5本，付了40.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": "40.5 − 8 × 5 = 0.5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.2元，小华买了6本，付了65.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.9"
+      ],
+      "options": [],
+      "explanation": "65.1 − 10.2 × 6 = 3.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本7.9元，小安买了5本，付了42.5元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "42.5 − 7.9 × 5 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本13.7元，小林买了7本，付了97.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1.9"
+      ],
+      "options": [],
+      "explanation": "97.8 − 13.7 × 7 = 1.9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本16.2元，小红买了4本，付了69.1元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4.3"
+      ],
+      "options": [],
+      "explanation": "69.1 − 16.2 × 4 = 4.3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本10.8元，小明买了4本，付了46.8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.6"
+      ],
+      "options": [],
+      "explanation": "46.8 − 10.8 × 4 = 3.6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本笔记本6.3元，小红买了3本，付了22.4元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": "22.4 − 6.3 × 3 = 3.5（元）。"
+    }
+  ]
+}

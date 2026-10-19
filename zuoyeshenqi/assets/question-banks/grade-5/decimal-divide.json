@@ -1,0 +1,9008 @@
+{
+  "title": "5年级 · 小数除以整数",
+  "grade": 5,
+  "category": "小数除以整数",
+  "range": "基础 · 有限小数结果",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "120.8 ÷ 4 = ?",
+      "answer": [
+        "30.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "193.2 ÷ 4 = ?",
+      "answer": [
+        "48.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138 ÷ 6 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.6 ÷ 4 = ?",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "161.1 ÷ 9 = ?",
+      "answer": [
+        "17.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "181.6 ÷ 4 = ?",
+      "answer": [
+        "45.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.2 ÷ 6 = ?",
+      "answer": [
+        "0.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 ÷ 6 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.9 ÷ 7 = ?",
+      "answer": [
+        "5.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.2 ÷ 3 = ?",
+      "answer": [
+        "3.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.6 ÷ 6 = ?",
+      "answer": [
+        "8.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.6 ÷ 4 = ?",
+      "answer": [
+        "0.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "437.4 ÷ 9 = ?",
+      "answer": [
+        "48.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "231 ÷ 7 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "174.8 ÷ 4 = ?",
+      "answer": [
+        "43.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.4 ÷ 4 = ?",
+      "answer": [
+        "17.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "209.7 ÷ 9 = ?",
+      "answer": [
+        "23.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "133.2 ÷ 3 = ?",
+      "answer": [
+        "44.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "166.5 ÷ 9 = ?",
+      "answer": [
+        "18.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.4 ÷ 4 = ?",
+      "answer": [
+        "6.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.8 ÷ 3 = ?",
+      "answer": [
+        "9.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240.3 ÷ 9 = ?",
+      "answer": [
+        "26.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "351.2 ÷ 8 = ?",
+      "answer": [
+        "43.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.5 ÷ 5 = ?",
+      "answer": [
+        "7.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.9 ÷ 9 = ?",
+      "answer": [
+        "1.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "125.6 ÷ 4 = ?",
+      "answer": [
+        "31.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "291.9 ÷ 7 = ?",
+      "answer": [
+        "41.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 ÷ 5 = ?",
+      "answer": [
+        "3.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "260.4 ÷ 6 = ?",
+      "answer": [
+        "43.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.8 ÷ 6 = ?",
+      "answer": [
+        "7.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "239.4 ÷ 7 = ?",
+      "answer": [
+        "34.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "137.2 ÷ 7 = ?",
+      "answer": [
+        "19.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 ÷ 5 = ?",
+      "answer": [
+        "1.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "169.6 ÷ 4 = ?",
+      "answer": [
+        "42.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 ÷ 5 = ?",
+      "answer": [
+        "12.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "151.2 ÷ 6 = ?",
+      "answer": [
+        "25.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.5 ÷ 9 = ?",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.8 ÷ 4 = ?",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "127.2 ÷ 3 = ?",
+      "answer": [
+        "42.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 ÷ 8 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160.2 ÷ 6 = ?",
+      "answer": [
+        "26.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "293.6 ÷ 8 = ?",
+      "answer": [
+        "36.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.6 ÷ 7 = ?",
+      "answer": [
+        "4.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "188.1 ÷ 9 = ?",
+      "answer": [
+        "20.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160.5 ÷ 5 = ?",
+      "answer": [
+        "32.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "101.5 ÷ 7 = ?",
+      "answer": [
+        "14.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.8 ÷ 3 = ?",
+      "answer": [
+        "19.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.5 ÷ 7 = ?",
+      "answer": [
+        "6.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.1 ÷ 3 = ?",
+      "answer": [
+        "7.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "188 ÷ 8 = ?",
+      "answer": [
+        "23.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "268.8 ÷ 8 = ?",
+      "answer": [
+        "33.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.9 ÷ 7 = ?",
+      "answer": [
+        "3.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "116 ÷ 5 = ?",
+      "answer": [
+        "23.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 ÷ 5 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.5 ÷ 5 = ?",
+      "answer": [
+        "2.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.9 ÷ 9 = ?",
+      "answer": [
+        "10.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.4 ÷ 2 = ?",
+      "answer": [
+        "36.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 ÷ 8 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.3 ÷ 3 = ?",
+      "answer": [
+        "12.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "266.4 ÷ 6 = ?",
+      "answer": [
+        "44.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.6 ÷ 8 = ?",
+      "answer": [
+        "3.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "308.7 ÷ 9 = ?",
+      "answer": [
+        "34.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.4 ÷ 8 = ?",
+      "answer": [
+        "3.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "156 ÷ 4 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "305.2 ÷ 7 = ?",
+      "answer": [
+        "43.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288.4 ÷ 7 = ?",
+      "answer": [
+        "41.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 ÷ 8 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.5 ÷ 9 = ?",
+      "answer": [
+        "8.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.5 ÷ 7 = ?",
+      "answer": [
+        "7.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "344 ÷ 8 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.6 ÷ 6 = ?",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "241 ÷ 5 = ?",
+      "answer": [
+        "48.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225 ÷ 5 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "430.2 ÷ 9 = ?",
+      "answer": [
+        "47.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "315 ÷ 9 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.3 ÷ 7 = ?",
+      "answer": [
+        "9.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "157 ÷ 5 = ?",
+      "answer": [
+        "31.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "264.6 ÷ 7 = ?",
+      "answer": [
+        "37.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "280.8 ÷ 8 = ?",
+      "answer": [
+        "35.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "379.8 ÷ 9 = ?",
+      "answer": [
+        "42.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.2 ÷ 2 = ?",
+      "answer": [
+        "24.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 ÷ 5 = ?",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "359.1 ÷ 9 = ?",
+      "answer": [
+        "39.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.8 ÷ 2 = ?",
+      "answer": [
+        "33.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "153 ÷ 5 = ?",
+      "answer": [
+        "30.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "163.1 ÷ 7 = ?",
+      "answer": [
+        "23.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "141.4 ÷ 7 = ?",
+      "answer": [
+        "20.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "187.6 ÷ 7 = ?",
+      "answer": [
+        "26.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.3 ÷ 3 = ?",
+      "answer": [
+        "6.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "170 ÷ 5 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "224.5 ÷ 5 = ?",
+      "answer": [
+        "44.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "282.1 ÷ 7 = ?",
+      "answer": [
+        "40.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.8 ÷ 6 = ?",
+      "answer": [
+        "13.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15.4 ÷ 7 = ?",
+      "answer": [
+        "2.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.3 ÷ 3 = ?",
+      "answer": [
+        "20.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "300.6 ÷ 9 = ?",
+      "answer": [
+        "33.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "448.2 ÷ 9 = ?",
+      "answer": [
+        "49.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.2 ÷ 2 = ?",
+      "answer": [
+        "14.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.1 ÷ 7 = ?",
+      "answer": [
+        "4.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "318.5 ÷ 7 = ?",
+      "answer": [
+        "45.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "156.4 ÷ 4 = ?",
+      "answer": [
+        "39.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "289.6 ÷ 8 = ?",
+      "answer": [
+        "36.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "123.6 ÷ 4 = ?",
+      "answer": [
+        "30.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "128.7 ÷ 3 = ?",
+      "answer": [
+        "42.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.6 ÷ 2 = ?",
+      "answer": [
+        "9.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "180 ÷ 9 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.4 ÷ 2 = ?",
+      "answer": [
+        "9.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 ÷ 4 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.8 ÷ 2 = ?",
+      "answer": [
+        "45.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57.9 ÷ 3 = ?",
+      "answer": [
+        "19.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.6 ÷ 9 = ?",
+      "answer": [
+        "3.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "249.2 ÷ 7 = ?",
+      "answer": [
+        "35.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.4 ÷ 4 = ?",
+      "answer": [
+        "16.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 ÷ 9 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "358.2 ÷ 9 = ?",
+      "answer": [
+        "39.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "256.9 ÷ 7 = ?",
+      "answer": [
+        "36.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "114 ÷ 4 = ?",
+      "answer": [
+        "28.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "210 ÷ 5 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "131.1 ÷ 3 = ?",
+      "answer": [
+        "43.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.8 ÷ 6 = ?",
+      "answer": [
+        "3.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.4 ÷ 8 = ?",
+      "answer": [
+        "4.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "354.4 ÷ 8 = ?",
+      "answer": [
+        "44.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 ÷ 6 = ?",
+      "answer": [
+        "11.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.5 ÷ 9 = ?",
+      "answer": [
+        "10.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.4 ÷ 2 = ?",
+      "answer": [
+        "26.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "265.6 ÷ 8 = ?",
+      "answer": [
+        "33.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 ÷ 2 = ?",
+      "answer": [
+        "5.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "159.2 ÷ 4 = ?",
+      "answer": [
+        "39.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "386.4 ÷ 8 = ?",
+      "answer": [
+        "48.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "116.9 ÷ 7 = ?",
+      "answer": [
+        "16.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.8 ÷ 6 = ?",
+      "answer": [
+        "11.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "214.8 ÷ 6 = ?",
+      "answer": [
+        "35.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.2 ÷ 4 = ?",
+      "answer": [
+        "15.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.8 ÷ 4 = ?",
+      "answer": [
+        "22.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138.4 ÷ 8 = ?",
+      "answer": [
+        "17.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 ÷ 5 = ?",
+      "answer": [
+        "2.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.4 ÷ 4 = ?",
+      "answer": [
+        "1.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "219.6 ÷ 9 = ?",
+      "answer": [
+        "24.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "111.9 ÷ 3 = ?",
+      "answer": [
+        "37.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "219.1 ÷ 7 = ?",
+      "answer": [
+        "31.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200.5 ÷ 5 = ?",
+      "answer": [
+        "40.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "267 ÷ 6 = ?",
+      "answer": [
+        "44.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "340.2 ÷ 9 = ?",
+      "answer": [
+        "37.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.4 ÷ 3 = ?",
+      "answer": [
+        "7.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "116.5 ÷ 5 = ?",
+      "answer": [
+        "23.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.6 ÷ 2 = ?",
+      "answer": [
+        "37.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "105 ÷ 6 = ?",
+      "answer": [
+        "17.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "217.5 ÷ 5 = ?",
+      "answer": [
+        "43.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "353.7 ÷ 9 = ?",
+      "answer": [
+        "39.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "340.9 ÷ 7 = ?",
+      "answer": [
+        "48.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.4 ÷ 2 = ?",
+      "answer": [
+        "40.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "354.6 ÷ 9 = ?",
+      "answer": [
+        "39.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.6 ÷ 3 = ?",
+      "answer": [
+        "22.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.8 ÷ 4 = ?",
+      "answer": [
+        "5.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.2 ÷ 4 = ?",
+      "answer": [
+        "21.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "148.8 ÷ 6 = ?",
+      "answer": [
+        "24.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 ÷ 6 = ?",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "235.2 ÷ 8 = ?",
+      "answer": [
+        "29.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 ÷ 2 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.7 ÷ 3 = ?",
+      "answer": [
+        "25.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.8 ÷ 8 = ?",
+      "answer": [
+        "5.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "323.1 ÷ 9 = ?",
+      "answer": [
+        "35.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.9 ÷ 7 = ?",
+      "answer": [
+        "12.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 ÷ 5 = ?",
+      "answer": [
+        "11.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "129.6 ÷ 8 = ?",
+      "answer": [
+        "16.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.6 ÷ 6 = ?",
+      "answer": [
+        "3.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "247.5 ÷ 9 = ?",
+      "answer": [
+        "27.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "128.8 ÷ 7 = ?",
+      "answer": [
+        "18.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "129.6 ÷ 4 = ?",
+      "answer": [
+        "32.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "145.8 ÷ 6 = ?",
+      "answer": [
+        "24.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 ÷ 5 = ?",
+      "answer": [
+        "3.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.8 ÷ 2 = ?",
+      "answer": [
+        "2.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "252.9 ÷ 9 = ?",
+      "answer": [
+        "28.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "330.3 ÷ 9 = ?",
+      "answer": [
+        "36.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 ÷ 4 = ?",
+      "answer": [
+        "11.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "118.8 ÷ 6 = ?",
+      "answer": [
+        "19.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.2 ÷ 4 = ?",
+      "answer": [
+        "20.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 ÷ 2 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 ÷ 6 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144 ÷ 4 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.6 ÷ 2 = ?",
+      "answer": [
+        "39.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.4 ÷ 3 = ?",
+      "answer": [
+        "25.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "224.7 ÷ 7 = ?",
+      "answer": [
+        "32.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.5 ÷ 5 = ?",
+      "answer": [
+        "12.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "324.8 ÷ 7 = ?",
+      "answer": [
+        "46.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12.6 ÷ 7 = ?",
+      "answer": [
+        "1.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "295.2 ÷ 8 = ?",
+      "answer": [
+        "36.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99 ÷ 5 = ?",
+      "answer": [
+        "19.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.6 ÷ 4 = ?",
+      "answer": [
+        "13.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 ÷ 4 = ?",
+      "answer": [
+        "22.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "203.4 ÷ 6 = ?",
+      "answer": [
+        "33.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "278.4 ÷ 8 = ?",
+      "answer": [
+        "34.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144.3 ÷ 3 = ?",
+      "answer": [
+        "48.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "118.4 ÷ 8 = ?",
+      "answer": [
+        "14.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.8 ÷ 2 = ?",
+      "answer": [
+        "19.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.4 ÷ 4 = ?",
+      "answer": [
+        "7.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "246.6 ÷ 9 = ?",
+      "answer": [
+        "27.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.6 ÷ 4 = ?",
+      "answer": [
+        "13.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "408.6 ÷ 9 = ?",
+      "answer": [
+        "45.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "104 ÷ 8 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "211.4 ÷ 7 = ?",
+      "answer": [
+        "30.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "315.2 ÷ 8 = ?",
+      "answer": [
+        "39.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "270.2 ÷ 7 = ?",
+      "answer": [
+        "38.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "166.2 ÷ 6 = ?",
+      "answer": [
+        "27.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "157.2 ÷ 6 = ?",
+      "answer": [
+        "26.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.5 ÷ 3 = ?",
+      "answer": [
+        "31.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "177.5 ÷ 5 = ?",
+      "answer": [
+        "35.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.8 ÷ 2 = ?",
+      "answer": [
+        "15.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "167.3 ÷ 7 = ?",
+      "answer": [
+        "23.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "321.6 ÷ 8 = ?",
+      "answer": [
+        "40.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.2 ÷ 3 = ?",
+      "answer": [
+        "11.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49.6 ÷ 2 = ?",
+      "answer": [
+        "24.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192.6 ÷ 9 = ?",
+      "answer": [
+        "21.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "424.8 ÷ 9 = ?",
+      "answer": [
+        "47.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198 ÷ 6 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.4 ÷ 8 = ?",
+      "answer": [
+        "0.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.6 ÷ 4 = ?",
+      "answer": [
+        "21.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "152.8 ÷ 4 = ?",
+      "answer": [
+        "38.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "146.3 ÷ 7 = ?",
+      "answer": [
+        "20.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.6 ÷ 6 = ?",
+      "answer": [
+        "11.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "270.9 ÷ 7 = ?",
+      "answer": [
+        "38.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "365.4 ÷ 9 = ?",
+      "answer": [
+        "40.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.6 ÷ 3 = ?",
+      "answer": [
+        "6.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.2 ÷ 8 = ?",
+      "answer": [
+        "3.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "111.6 ÷ 6 = ?",
+      "answer": [
+        "18.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "112 ÷ 7 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "109.2 ÷ 4 = ?",
+      "answer": [
+        "27.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.4 ÷ 2 = ?",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 ÷ 5 = ?",
+      "answer": [
+        "9.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.4 ÷ 4 = ?",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "165.9 ÷ 7 = ?",
+      "answer": [
+        "23.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 ÷ 2 = ?",
+      "answer": [
+        "13.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "261.9 ÷ 9 = ?",
+      "answer": [
+        "29.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "311.2 ÷ 8 = ?",
+      "answer": [
+        "38.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "360 ÷ 9 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.6 ÷ 4 = ?",
+      "answer": [
+        "16.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "178.5 ÷ 5 = ?",
+      "answer": [
+        "35.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.5 ÷ 5 = ?",
+      "answer": [
+        "0.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "244.2 ÷ 6 = ?",
+      "answer": [
+        "40.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "391.5 ÷ 9 = ?",
+      "answer": [
+        "43.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.8 ÷ 2 = ?",
+      "answer": [
+        "9.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "265.5 ÷ 9 = ?",
+      "answer": [
+        "29.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.6 ÷ 8 = ?",
+      "answer": [
+        "4.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138 ÷ 3 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "239.4 ÷ 9 = ?",
+      "answer": [
+        "26.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "234.9 ÷ 9 = ?",
+      "answer": [
+        "26.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.1 ÷ 3 = ?",
+      "answer": [
+        "18.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.2 ÷ 4 = ?",
+      "answer": [
+        "13.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 ÷ 4 = ?",
+      "answer": [
+        "17.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 ÷ 6 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.1 ÷ 9 = ?",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 ÷ 5 = ?",
+      "answer": [
+        "16.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.1 ÷ 3 = ?",
+      "answer": [
+        "29.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126 ÷ 3 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.5 ÷ 5 = ?",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.3 ÷ 3 = ?",
+      "answer": [
+        "25.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "368.8 ÷ 8 = ?",
+      "answer": [
+        "46.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "184 ÷ 5 = ?",
+      "answer": [
+        "36.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 ÷ 4 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 ÷ 6 = ?",
+      "answer": [
+        "6.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.4 ÷ 6 = ?",
+      "answer": [
+        "4.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "124.8 ÷ 6 = ?",
+      "answer": [
+        "20.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.5 ÷ 5 = ?",
+      "answer": [
+        "4.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.1 ÷ 7 = ?",
+      "answer": [
+        "2.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "208.8 ÷ 9 = ?",
+      "answer": [
+        "23.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "273.6 ÷ 9 = ?",
+      "answer": [
+        "30.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "224.4 ÷ 6 = ?",
+      "answer": [
+        "37.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "156 ÷ 5 = ?",
+      "answer": [
+        "31.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "191.2 ÷ 8 = ?",
+      "answer": [
+        "23.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.8 ÷ 2 = ?",
+      "answer": [
+        "23.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.7 ÷ 3 = ?",
+      "answer": [
+        "21.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 ÷ 3 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "113.4 ÷ 9 = ?",
+      "answer": [
+        "12.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "146.1 ÷ 3 = ?",
+      "answer": [
+        "48.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "137.4 ÷ 6 = ?",
+      "answer": [
+        "22.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.4 ÷ 2 = ?",
+      "answer": [
+        "23.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "166.8 ÷ 6 = ?",
+      "answer": [
+        "27.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "346.5 ÷ 7 = ?",
+      "answer": [
+        "49.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "287 ÷ 7 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "175.8 ÷ 6 = ?",
+      "answer": [
+        "29.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.5 ÷ 7 = ?",
+      "answer": [
+        "5.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "106.4 ÷ 4 = ?",
+      "answer": [
+        "26.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.4 ÷ 6 = ?",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.6 ÷ 6 = ?",
+      "answer": [
+        "7.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 ÷ 3 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "123 ÷ 5 = ?",
+      "answer": [
+        "24.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164.7 ÷ 9 = ?",
+      "answer": [
+        "18.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.2 ÷ 4 = ?",
+      "answer": [
+        "14.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.2 ÷ 6 = ?",
+      "answer": [
+        "11.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 ÷ 2 = ?",
+      "answer": [
+        "34.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.4 ÷ 8 = ?",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.2 ÷ 4 = ?",
+      "answer": [
+        "6.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "153 ÷ 6 = ?",
+      "answer": [
+        "25.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "168.7 ÷ 7 = ?",
+      "answer": [
+        "24.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160 ÷ 5 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.4 ÷ 2 = ?",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "343.7 ÷ 7 = ?",
+      "answer": [
+        "49.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 ÷ 7 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.3 ÷ 9 = ?",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.4 ÷ 4 = ?",
+      "answer": [
+        "24.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "123 ÷ 6 = ?",
+      "answer": [
+        "20.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.1 ÷ 3 = ?",
+      "answer": [
+        "5.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "364 ÷ 8 = ?",
+      "answer": [
+        "45.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "263.2 ÷ 7 = ?",
+      "answer": [
+        "37.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.6 ÷ 7 = ?",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "294.4 ÷ 8 = ?",
+      "answer": [
+        "36.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.4 ÷ 3 = ?",
+      "answer": [
+        "27.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.8 ÷ 2 = ?",
+      "answer": [
+        "40.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.7 ÷ 9 = ?",
+      "answer": [
+        "2.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.6 ÷ 6 = ?",
+      "answer": [
+        "4.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "205.6 ÷ 8 = ?",
+      "answer": [
+        "25.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "172 ÷ 4 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225.6 ÷ 6 = ?",
+      "answer": [
+        "37.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.1 ÷ 9 = ?",
+      "answer": [
+        "2.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.4 ÷ 4 = ?",
+      "answer": [
+        "2.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.2 ÷ 6 = ?",
+      "answer": [
+        "14.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.6 ÷ 2 = ?",
+      "answer": [
+        "35.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 ÷ 3 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "100.8 ÷ 6 = ?",
+      "answer": [
+        "16.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.8 ÷ 8 = ?",
+      "answer": [
+        "10.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "232 ÷ 8 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "343.2 ÷ 8 = ?",
+      "answer": [
+        "42.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "162.9 ÷ 9 = ?",
+      "answer": [
+        "18.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "338.8 ÷ 7 = ?",
+      "answer": [
+        "48.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "135.9 ÷ 9 = ?",
+      "answer": [
+        "15.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.9 ÷ 9 = ?",
+      "answer": [
+        "2.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.6 ÷ 7 = ?",
+      "answer": [
+        "3.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.2 ÷ 8 = ?",
+      "answer": [
+        "4.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102.8 ÷ 4 = ?",
+      "answer": [
+        "25.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.9 ÷ 3 = ?",
+      "answer": [
+        "30.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "266.7 ÷ 7 = ?",
+      "answer": [
+        "38.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "390.6 ÷ 9 = ?",
+      "answer": [
+        "43.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "132.3 ÷ 9 = ?",
+      "answer": [
+        "14.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.8 ÷ 2 = ?",
+      "answer": [
+        "1.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.6 ÷ 8 = ?",
+      "answer": [
+        "11.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.4 ÷ 2 = ?",
+      "answer": [
+        "32.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 ÷ 6 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "122.4 ÷ 3 = ?",
+      "answer": [
+        "40.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "325.5 ÷ 7 = ?",
+      "answer": [
+        "46.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.2 ÷ 3 = ?",
+      "answer": [
+        "17.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "176 ÷ 4 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "148.8 ÷ 3 = ?",
+      "answer": [
+        "49.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.3 ÷ 3 = ?",
+      "answer": [
+        "26.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "260.8 ÷ 8 = ?",
+      "answer": [
+        "32.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.5 ÷ 9 = ?",
+      "answer": [
+        "2.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 ÷ 5 = ?",
+      "answer": [
+        "15.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.5 ÷ 5 = ?",
+      "answer": [
+        "13.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "132.6 ÷ 3 = ?",
+      "answer": [
+        "44.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.5 ÷ 5 = ?",
+      "answer": [
+        "18.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "175.5 ÷ 9 = ?",
+      "answer": [
+        "19.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24.5 ÷ 7 = ?",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.9 ÷ 9 = ?",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120 ÷ 8 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "248.5 ÷ 5 = ?",
+      "answer": [
+        "49.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.5 ÷ 5 = ?",
+      "answer": [
+        "3.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.4 ÷ 2 = ?",
+      "answer": [
+        "30.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.8 ÷ 3 = ?",
+      "answer": [
+        "7.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.4 ÷ 2 = ?",
+      "answer": [
+        "16.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "301.6 ÷ 8 = ?",
+      "answer": [
+        "37.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.2 ÷ 6 = ?",
+      "answer": [
+        "4.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.8 ÷ 6 = ?",
+      "answer": [
+        "12.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.4 ÷ 2 = ?",
+      "answer": [
+        "22.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "210.6 ÷ 6 = ?",
+      "answer": [
+        "35.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "215.4 ÷ 6 = ?",
+      "answer": [
+        "35.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "246.4 ÷ 7 = ?",
+      "answer": [
+        "35.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "281.7 ÷ 9 = ?",
+      "answer": [
+        "31.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164 ÷ 4 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "406.8 ÷ 9 = ?",
+      "answer": [
+        "45.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "259.2 ÷ 8 = ?",
+      "answer": [
+        "32.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "331.1 ÷ 7 = ?",
+      "answer": [
+        "47.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.8 ÷ 8 = ?",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "195.2 ÷ 8 = ?",
+      "answer": [
+        "24.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.2 ÷ 4 = ?",
+      "answer": [
+        "7.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "121.5 ÷ 3 = ?",
+      "answer": [
+        "40.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "169.6 ÷ 8 = ?",
+      "answer": [
+        "21.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "191.4 ÷ 6 = ?",
+      "answer": [
+        "31.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "143.5 ÷ 5 = ?",
+      "answer": [
+        "28.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "315.9 ÷ 9 = ?",
+      "answer": [
+        "35.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.5 ÷ 5 = ?",
+      "answer": [
+        "19.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "125.7 ÷ 3 = ?",
+      "answer": [
+        "41.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75 ÷ 6 = ?",
+      "answer": [
+        "12.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.2 ÷ 6 = ?",
+      "answer": [
+        "10.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "394.2 ÷ 9 = ?",
+      "answer": [
+        "43.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 ÷ 3 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.8 ÷ 4 = ?",
+      "answer": [
+        "12.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.8 ÷ 2 = ?",
+      "answer": [
+        "11.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 ÷ 8 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "332 ÷ 8 = ?",
+      "answer": [
+        "41.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "204.4 ÷ 7 = ?",
+      "answer": [
+        "29.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.6 ÷ 2 = ?",
+      "answer": [
+        "38.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.6 ÷ 2 = ?",
+      "answer": [
+        "1.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "100.2 ÷ 3 = ?",
+      "answer": [
+        "33.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "313.2 ÷ 9 = ?",
+      "answer": [
+        "34.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "350.1 ÷ 9 = ?",
+      "answer": [
+        "38.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.6 ÷ 2 = ?",
+      "answer": [
+        "29.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "174.5 ÷ 5 = ?",
+      "answer": [
+        "34.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.4 ÷ 4 = ?",
+      "answer": [
+        "4.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "338.1 ÷ 7 = ?",
+      "answer": [
+        "48.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "131.4 ÷ 9 = ?",
+      "answer": [
+        "14.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "142.1 ÷ 7 = ?",
+      "answer": [
+        "20.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "267.2 ÷ 8 = ?",
+      "answer": [
+        "33.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22 ÷ 2 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "272.4 ÷ 6 = ?",
+      "answer": [
+        "45.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "130.2 ÷ 6 = ?",
+      "answer": [
+        "21.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.6 ÷ 4 = ?",
+      "answer": [
+        "18.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "212.1 ÷ 7 = ?",
+      "answer": [
+        "30.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.4 ÷ 9 = ?",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "208.6 ÷ 7 = ?",
+      "answer": [
+        "29.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "111.6 ÷ 3 = ?",
+      "answer": [
+        "37.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "291.6 ÷ 6 = ?",
+      "answer": [
+        "48.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63.6 ÷ 3 = ?",
+      "answer": [
+        "21.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23 ÷ 2 = ?",
+      "answer": [
+        "11.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "322.2 ÷ 9 = ?",
+      "answer": [
+        "35.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.2 ÷ 2 = ?",
+      "answer": [
+        "30.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19.2 ÷ 8 = ?",
+      "answer": [
+        "2.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79 ÷ 5 = ?",
+      "answer": [
+        "15.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "216 ÷ 6 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.6 ÷ 4 = ?",
+      "answer": [
+        "11.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89.6 ÷ 4 = ?",
+      "answer": [
+        "22.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.5 ÷ 5 = ?",
+      "answer": [
+        "9.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.5 ÷ 5 = ?",
+      "answer": [
+        "13.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "211.5 ÷ 9 = ?",
+      "answer": [
+        "23.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.5 ÷ 3 = ?",
+      "answer": [
+        "1.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.2 ÷ 3 = ?",
+      "answer": [
+        "12.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "209.4 ÷ 6 = ?",
+      "answer": [
+        "34.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.6 ÷ 2 = ?",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "110.4 ÷ 6 = ?",
+      "answer": [
+        "18.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.2 ÷ 9 = ?",
+      "answer": [
+        "9.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "183 ÷ 6 = ?",
+      "answer": [
+        "30.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "216.9 ÷ 9 = ?",
+      "answer": [
+        "24.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240.5 ÷ 5 = ?",
+      "answer": [
+        "48.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.9 ÷ 7 = ?",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84.6 ÷ 9 = ?",
+      "answer": [
+        "9.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.5 ÷ 5 = ?",
+      "answer": [
+        "4.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45.3 ÷ 3 = ?",
+      "answer": [
+        "15.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.4 ÷ 2 = ?",
+      "answer": [
+        "40.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225 ÷ 9 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186.5 ÷ 5 = ?",
+      "answer": [
+        "37.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.5 ÷ 5 = ?",
+      "answer": [
+        "10.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "149.4 ÷ 3 = ?",
+      "answer": [
+        "49.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.8 ÷ 4 = ?",
+      "answer": [
+        "5.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "107.1 ÷ 9 = ?",
+      "answer": [
+        "11.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.8 ÷ 2 = ?",
+      "answer": [
+        "13.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.8 ÷ 3 = ?",
+      "answer": [
+        "29.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "137.7 ÷ 3 = ?",
+      "answer": [
+        "45.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.6 ÷ 2 = ?",
+      "answer": [
+        "17.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.8 ÷ 4 = ?",
+      "answer": [
+        "7.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "278.1 ÷ 9 = ?",
+      "answer": [
+        "30.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.5 ÷ 5 = ?",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "301.7 ÷ 7 = ?",
+      "answer": [
+        "43.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97 ÷ 2 = ?",
+      "answer": [
+        "48.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 ÷ 5 = ?",
+      "answer": [
+        "18.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "175.2 ÷ 6 = ?",
+      "answer": [
+        "29.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "336.8 ÷ 8 = ?",
+      "answer": [
+        "42.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "254.4 ÷ 6 = ?",
+      "answer": [
+        "42.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "177.1 ÷ 7 = ?",
+      "answer": [
+        "25.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "176.4 ÷ 7 = ?",
+      "answer": [
+        "25.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "215.5 ÷ 5 = ?",
+      "answer": [
+        "43.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "129.6 ÷ 6 = ?",
+      "answer": [
+        "21.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.6 ÷ 4 = ?",
+      "answer": [
+        "16.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "330.4 ÷ 8 = ?",
+      "answer": [
+        "41.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.4 ÷ 9 = ?",
+      "answer": [
+        "6.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 ÷ 6 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "388.8 ÷ 8 = ?",
+      "answer": [
+        "48.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "128.1 ÷ 3 = ?",
+      "answer": [
+        "42.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "213.5 ÷ 7 = ?",
+      "answer": [
+        "30.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144.2 ÷ 7 = ?",
+      "answer": [
+        "20.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.8 ÷ 8 = ?",
+      "answer": [
+        "12.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "224 ÷ 7 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 ÷ 6 = ?",
+      "answer": [
+        "10.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.4 ÷ 4 = ?",
+      "answer": [
+        "7.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.3 ÷ 3 = ?",
+      "answer": [
+        "33.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.2 ÷ 6 = ?",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "169.2 ÷ 4 = ?",
+      "answer": [
+        "42.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.7 ÷ 3 = ?",
+      "answer": [
+        "23.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30.4 ÷ 2 = ?",
+      "answer": [
+        "15.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.8 ÷ 2 = ?",
+      "answer": [
+        "34.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 ÷ 8 = ?",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "334.8 ÷ 9 = ?",
+      "answer": [
+        "37.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "133.2 ÷ 9 = ?",
+      "answer": [
+        "14.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "249.9 ÷ 7 = ?",
+      "answer": [
+        "35.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "261.8 ÷ 7 = ?",
+      "answer": [
+        "37.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "319.9 ÷ 7 = ?",
+      "answer": [
+        "45.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.8 ÷ 9 = ?",
+      "answer": [
+        "4.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 ÷ 2 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "114 ÷ 3 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "384.8 ÷ 8 = ?",
+      "answer": [
+        "48.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76.4 ÷ 2 = ?",
+      "answer": [
+        "38.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "297.5 ÷ 7 = ?",
+      "answer": [
+        "42.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 ÷ 2 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "321.3 ÷ 7 = ?",
+      "answer": [
+        "45.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "298.8 ÷ 9 = ?",
+      "answer": [
+        "33.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "196 ÷ 4 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "258.6 ÷ 6 = ?",
+      "answer": [
+        "43.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "220.2 ÷ 6 = ?",
+      "answer": [
+        "36.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.8 ÷ 3 = ?",
+      "answer": [
+        "13.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "236.7 ÷ 9 = ?",
+      "answer": [
+        "26.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.4 ÷ 8 = ?",
+      "answer": [
+        "2.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "226.8 ÷ 9 = ?",
+      "answer": [
+        "25.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "103.8 ÷ 6 = ?",
+      "answer": [
+        "17.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.6 ÷ 6 = ?",
+      "answer": [
+        "13.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "181.5 ÷ 5 = ?",
+      "answer": [
+        "36.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138.3 ÷ 3 = ?",
+      "answer": [
+        "46.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "201.6 ÷ 6 = ?",
+      "answer": [
+        "33.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.6 ÷ 2 = ?",
+      "answer": [
+        "24.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.8 ÷ 2 = ?",
+      "answer": [
+        "42.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "193.5 ÷ 9 = ?",
+      "answer": [
+        "21.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.1 ÷ 3 = ?",
+      "answer": [
+        "12.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95.6 ÷ 4 = ?",
+      "answer": [
+        "23.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "193.5 ÷ 5 = ?",
+      "answer": [
+        "38.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "346.4 ÷ 8 = ?",
+      "answer": [
+        "43.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "336 ÷ 7 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "247.8 ÷ 6 = ?",
+      "answer": [
+        "41.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "390.4 ÷ 8 = ?",
+      "answer": [
+        "48.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "110.4 ÷ 4 = ?",
+      "answer": [
+        "27.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22.2 ÷ 3 = ?",
+      "answer": [
+        "7.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "213.6 ÷ 8 = ?",
+      "answer": [
+        "26.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "182.7 ÷ 7 = ?",
+      "answer": [
+        "26.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.6 ÷ 3 = ?",
+      "answer": [
+        "30.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "130.9 ÷ 7 = ?",
+      "answer": [
+        "18.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "117.3 ÷ 3 = ?",
+      "answer": [
+        "39.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.4 ÷ 3 = ?",
+      "answer": [
+        "20.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "129.5 ÷ 5 = ?",
+      "answer": [
+        "25.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "296.4 ÷ 6 = ?",
+      "answer": [
+        "49.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "274.2 ÷ 6 = ?",
+      "answer": [
+        "45.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.1 ÷ 3 = ?",
+      "answer": [
+        "21.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.6 ÷ 2 = ?",
+      "answer": [
+        "20.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.4 ÷ 7 = ?",
+      "answer": [
+        "12.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.4 ÷ 4 = ?",
+      "answer": [
+        "6.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.4 ÷ 2 = ?",
+      "answer": [
+        "11.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "250.4 ÷ 8 = ?",
+      "answer": [
+        "31.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "151.2 ÷ 9 = ?",
+      "answer": [
+        "16.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "226 ÷ 5 = ?",
+      "answer": [
+        "45.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44.6 ÷ 2 = ?",
+      "answer": [
+        "22.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102.5 ÷ 5 = ?",
+      "answer": [
+        "20.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "398.7 ÷ 9 = ?",
+      "answer": [
+        "44.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 ÷ 5 = ?",
+      "answer": [
+        "3.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.3 ÷ 3 = ?",
+      "answer": [
+        "30.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "145.2 ÷ 6 = ?",
+      "answer": [
+        "24.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "191.5 ÷ 5 = ?",
+      "answer": [
+        "38.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "382.5 ÷ 9 = ?",
+      "answer": [
+        "42.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "348 ÷ 8 = ?",
+      "answer": [
+        "43.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "190.2 ÷ 6 = ?",
+      "answer": [
+        "31.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.5 ÷ 5 = ?",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.2 ÷ 9 = ?",
+      "answer": [
+        "2.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.6 ÷ 2 = ?",
+      "answer": [
+        "1.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "110.7 ÷ 3 = ?",
+      "answer": [
+        "36.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.8 ÷ 4 = ?",
+      "answer": [
+        "21.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25 ÷ 2 = ?",
+      "answer": [
+        "12.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 ÷ 5 = ?",
+      "answer": [
+        "16.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "172 ÷ 8 = ?",
+      "answer": [
+        "21.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "163.2 ÷ 6 = ?",
+      "answer": [
+        "27.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "223.2 ÷ 9 = ?",
+      "answer": [
+        "24.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "124.2 ÷ 9 = ?",
+      "answer": [
+        "13.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "194.4 ÷ 9 = ?",
+      "answer": [
+        "21.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "121.1 ÷ 7 = ?",
+      "answer": [
+        "17.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.8 ÷ 6 = ?",
+      "answer": [
+        "16.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "153.5 ÷ 5 = ?",
+      "answer": [
+        "30.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126 ÷ 5 = ?",
+      "answer": [
+        "25.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.2 ÷ 2 = ?",
+      "answer": [
+        "4.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "302.4 ÷ 7 = ?",
+      "answer": [
+        "43.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186.3 ÷ 9 = ?",
+      "answer": [
+        "20.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "143 ÷ 5 = ?",
+      "answer": [
+        "28.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.4 ÷ 2 = ?",
+      "answer": [
+        "21.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "253.2 ÷ 6 = ?",
+      "answer": [
+        "42.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "168.4 ÷ 4 = ?",
+      "answer": [
+        "42.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "245.7 ÷ 9 = ?",
+      "answer": [
+        "27.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.6 ÷ 3 = ?",
+      "answer": [
+        "33.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102.6 ÷ 6 = ?",
+      "answer": [
+        "17.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.6 ÷ 8 = ?",
+      "answer": [
+        "0.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47.5 ÷ 5 = ?",
+      "answer": [
+        "9.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "109.8 ÷ 9 = ?",
+      "answer": [
+        "12.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "201.6 ÷ 9 = ?",
+      "answer": [
+        "22.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "199.2 ÷ 4 = ?",
+      "answer": [
+        "49.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.2 ÷ 2 = ?",
+      "answer": [
+        "2.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.3 ÷ 3 = ?",
+      "answer": [
+        "27.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "439.2 ÷ 9 = ?",
+      "answer": [
+        "48.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "146.4 ÷ 8 = ?",
+      "answer": [
+        "18.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.8 ÷ 2 = ?",
+      "answer": [
+        "1.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "243 ÷ 5 = ?",
+      "answer": [
+        "48.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.6 ÷ 4 = ?",
+      "answer": [
+        "9.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.6 ÷ 8 = ?",
+      "answer": [
+        "10.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40.5 ÷ 3 = ?",
+      "answer": [
+        "13.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "239.5 ÷ 5 = ?",
+      "answer": [
+        "47.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "279 ÷ 9 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.6 ÷ 2 = ?",
+      "answer": [
+        "46.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "130.5 ÷ 5 = ?",
+      "answer": [
+        "26.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.8 ÷ 4 = ?",
+      "answer": [
+        "15.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "173.4 ÷ 6 = ?",
+      "answer": [
+        "28.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.2 ÷ 8 = ?",
+      "answer": [
+        "10.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 ÷ 5 = ?",
+      "answer": [
+        "13.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "193.8 ÷ 6 = ?",
+      "answer": [
+        "32.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "223.8 ÷ 6 = ?",
+      "answer": [
+        "37.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "335.2 ÷ 8 = ?",
+      "answer": [
+        "41.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "226.4 ÷ 8 = ?",
+      "answer": [
+        "28.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "312.8 ÷ 8 = ?",
+      "answer": [
+        "39.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "315.7 ÷ 7 = ?",
+      "answer": [
+        "45.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.2 ÷ 2 = ?",
+      "answer": [
+        "16.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.2 ÷ 4 = ?",
+      "answer": [
+        "0.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "316 ÷ 8 = ?",
+      "answer": [
+        "39.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "224.1 ÷ 9 = ?",
+      "answer": [
+        "24.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.4 ÷ 8 = ?",
+      "answer": [
+        "8.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "148.2 ÷ 3 = ?",
+      "answer": [
+        "49.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55.8 ÷ 9 = ?",
+      "answer": [
+        "6.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "158.4 ÷ 8 = ?",
+      "answer": [
+        "19.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.2 ÷ 6 = ?",
+      "answer": [
+        "12.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 ÷ 4 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "382.4 ÷ 8 = ?",
+      "answer": [
+        "47.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.8 ÷ 8 = ?",
+      "answer": [
+        "3.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 ÷ 6 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.2 ÷ 2 = ?",
+      "answer": [
+        "28.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "234.5 ÷ 7 = ?",
+      "answer": [
+        "33.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.2 ÷ 2 = ?",
+      "answer": [
+        "34.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.6 ÷ 9 = ?",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "129.3 ÷ 3 = ?",
+      "answer": [
+        "43.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83.2 ÷ 8 = ?",
+      "answer": [
+        "10.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.5 ÷ 5 = ?",
+      "answer": [
+        "17.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80.5 ÷ 5 = ?",
+      "answer": [
+        "16.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "229.5 ÷ 9 = ?",
+      "answer": [
+        "25.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "178.4 ÷ 8 = ?",
+      "answer": [
+        "22.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.5 ÷ 5 = ?",
+      "answer": [
+        "1.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.6 ÷ 9 = ?",
+      "answer": [
+        "2.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "139.8 ÷ 6 = ?",
+      "answer": [
+        "23.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.4 ÷ 6 = ?",
+      "answer": [
+        "11.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "159.2 ÷ 8 = ?",
+      "answer": [
+        "19.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 ÷ 7 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 ÷ 5 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "100.2 ÷ 6 = ?",
+      "answer": [
+        "16.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "197 ÷ 5 = ?",
+      "answer": [
+        "39.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38 ÷ 2 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.2 ÷ 2 = ?",
+      "answer": [
+        "20.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "264.8 ÷ 8 = ?",
+      "answer": [
+        "33.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21.4 ÷ 2 = ?",
+      "answer": [
+        "10.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.4 ÷ 3 = ?",
+      "answer": [
+        "22.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18.2 ÷ 2 = ?",
+      "answer": [
+        "9.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "280.7 ÷ 7 = ?",
+      "answer": [
+        "40.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85.2 ÷ 2 = ?",
+      "answer": [
+        "42.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 ÷ 8 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "266.4 ÷ 9 = ?",
+      "answer": [
+        "29.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198.8 ÷ 4 = ?",
+      "answer": [
+        "49.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "163.8 ÷ 9 = ?",
+      "answer": [
+        "18.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.4 ÷ 8 = ?",
+      "answer": [
+        "4.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51.6 ÷ 4 = ?",
+      "answer": [
+        "12.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288.6 ÷ 6 = ?",
+      "answer": [
+        "48.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.5 ÷ 5 = ?",
+      "answer": [
+        "15.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "133.5 ÷ 3 = ?",
+      "answer": [
+        "44.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "109.6 ÷ 8 = ?",
+      "answer": [
+        "13.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 ÷ 4 = ?",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.9 ÷ 3 = ?",
+      "answer": [
+        "14.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.6 ÷ 6 = ?",
+      "answer": [
+        "13.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.2 ÷ 4 = ?",
+      "answer": [
+        "19.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 ÷ 5 = ?",
+      "answer": [
+        "17.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 ÷ 4 = ?",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "101.4 ÷ 3 = ?",
+      "answer": [
+        "33.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.6 ÷ 3 = ?",
+      "answer": [
+        "1.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.5 ÷ 5 = ?",
+      "answer": [
+        "12.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26.1 ÷ 3 = ?",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "376 ÷ 8 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.4 ÷ 3 = ?",
+      "answer": [
+        "28.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "0.4 ÷ 4 = ?",
+      "answer": [
+        "0.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.9 ÷ 7 = ?",
+      "answer": [
+        "10.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.7 ÷ 7 = ?",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.4 ÷ 2 = ?",
+      "answer": [
+        "39.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "252.6 ÷ 6 = ?",
+      "answer": [
+        "42.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.4 ÷ 4 = ?",
+      "answer": [
+        "18.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "206.5 ÷ 7 = ?",
+      "answer": [
+        "29.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "395.2 ÷ 8 = ?",
+      "answer": [
+        "49.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 ÷ 6 = ?",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "306.6 ÷ 7 = ?",
+      "answer": [
+        "43.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "247 ÷ 5 = ?",
+      "answer": [
+        "49.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "201.5 ÷ 5 = ?",
+      "answer": [
+        "40.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.2 ÷ 4 = ?",
+      "answer": [
+        "9.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82.4 ÷ 4 = ?",
+      "answer": [
+        "20.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "179.4 ÷ 6 = ?",
+      "answer": [
+        "29.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "134.7 ÷ 3 = ?",
+      "answer": [
+        "44.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "299.2 ÷ 8 = ?",
+      "answer": [
+        "37.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "193.6 ÷ 8 = ?",
+      "answer": [
+        "24.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.6 ÷ 4 = ?",
+      "answer": [
+        "8.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.8 ÷ 9 = ?",
+      "answer": [
+        "7.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.7 ÷ 9 = ?",
+      "answer": [
+        "4.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "338.4 ÷ 9 = ?",
+      "answer": [
+        "37.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "173.6 ÷ 7 = ?",
+      "answer": [
+        "24.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56.8 ÷ 2 = ?",
+      "answer": [
+        "28.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53.2 ÷ 2 = ?",
+      "answer": [
+        "26.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "139.5 ÷ 5 = ?",
+      "answer": [
+        "27.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "405 ÷ 9 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77.4 ÷ 2 = ?",
+      "answer": [
+        "38.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 ÷ 9 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "185.5 ÷ 5 = ?",
+      "answer": [
+        "37.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 ÷ 4 = ?",
+      "answer": [
+        "24.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32.4 ÷ 4 = ?",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126.6 ÷ 6 = ?",
+      "answer": [
+        "21.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "208.8 ÷ 8 = ?",
+      "answer": [
+        "26.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.2 ÷ 4 = ?",
+      "answer": [
+        "10.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "156.8 ÷ 7 = ?",
+      "answer": [
+        "22.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "175.2 ÷ 4 = ?",
+      "answer": [
+        "43.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "211 ÷ 5 = ?",
+      "answer": [
+        "42.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "194 ÷ 4 = ?",
+      "answer": [
+        "48.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "284 ÷ 8 = ?",
+      "answer": [
+        "35.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "106 ÷ 4 = ?",
+      "answer": [
+        "26.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20.8 ÷ 8 = ?",
+      "answer": [
+        "2.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.8 ÷ 3 = ?",
+      "answer": [
+        "11.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "144.6 ÷ 3 = ?",
+      "answer": [
+        "48.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "145.5 ÷ 5 = ?",
+      "answer": [
+        "29.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 ÷ 5 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 ÷ 2 = ?",
+      "answer": [
+        "1.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.2 ÷ 2 = ?",
+      "answer": [
+        "2.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "287.4 ÷ 6 = ?",
+      "answer": [
+        "47.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "125.1 ÷ 9 = ?",
+      "answer": [
+        "13.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "419.4 ÷ 9 = ?",
+      "answer": [
+        "46.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "218.5 ÷ 5 = ?",
+      "answer": [
+        "43.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52.5 ÷ 5 = ?",
+      "answer": [
+        "10.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 ÷ 3 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.6 ÷ 3 = ?",
+      "answer": [
+        "9.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.2 ÷ 2 = ?",
+      "answer": [
+        "35.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "237 ÷ 6 = ?",
+      "answer": [
+        "39.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.2 ÷ 3 = ?",
+      "answer": [
+        "29.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "290.4 ÷ 8 = ?",
+      "answer": [
+        "36.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "247.5 ÷ 5 = ?",
+      "answer": [
+        "49.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "386.1 ÷ 9 = ?",
+      "answer": [
+        "42.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "209 ÷ 5 = ?",
+      "answer": [
+        "41.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.9 ÷ 7 = ?",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.5 ÷ 5 = ?",
+      "answer": [
+        "15.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 ÷ 5 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "322.4 ÷ 8 = ?",
+      "answer": [
+        "40.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102.2 ÷ 7 = ?",
+      "answer": [
+        "14.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.6 ÷ 4 = ?",
+      "answer": [
+        "15.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "228 ÷ 5 = ?",
+      "answer": [
+        "45.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "115.5 ÷ 3 = ?",
+      "answer": [
+        "38.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13.6 ÷ 8 = ?",
+      "answer": [
+        "1.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "201.6 ÷ 7 = ?",
+      "answer": [
+        "28.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "111.3 ÷ 7 = ?",
+      "answer": [
+        "15.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.5 ÷ 9 = ?",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 ÷ 6 = ?",
+      "answer": [
+        "15.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44 ÷ 8 = ?",
+      "answer": [
+        "5.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81.6 ÷ 2 = ?",
+      "answer": [
+        "40.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "132 ÷ 4 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "117.6 ÷ 8 = ?",
+      "answer": [
+        "14.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.8 ÷ 4 = ?",
+      "answer": [
+        "10.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.8 ÷ 4 = ?",
+      "answer": [
+        "24.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "222.6 ÷ 7 = ?",
+      "answer": [
+        "31.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 ÷ 4 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164 ÷ 5 = ?",
+      "answer": [
+        "32.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "356.8 ÷ 8 = ?",
+      "answer": [
+        "44.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "248 ÷ 8 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198.1 ÷ 7 = ?",
+      "answer": [
+        "28.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.5 ÷ 5 = ?",
+      "answer": [
+        "12.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "438.3 ÷ 9 = ?",
+      "answer": [
+        "48.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186 ÷ 5 = ?",
+      "answer": [
+        "37.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "154.8 ÷ 9 = ?",
+      "answer": [
+        "17.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.8 ÷ 3 = ?",
+      "answer": [
+        "32.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99.6 ÷ 6 = ?",
+      "answer": [
+        "16.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "423.9 ÷ 9 = ?",
+      "answer": [
+        "47.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62 ÷ 5 = ?",
+      "answer": [
+        "12.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59.2 ÷ 2 = ?",
+      "answer": [
+        "29.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "253.8 ÷ 9 = ?",
+      "answer": [
+        "28.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42.3 ÷ 3 = ?",
+      "answer": [
+        "14.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.8 ÷ 2 = ?",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "254.7 ÷ 9 = ?",
+      "answer": [
+        "28.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 ÷ 2 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "182.4 ÷ 6 = ?",
+      "answer": [
+        "30.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "191.7 ÷ 9 = ?",
+      "answer": [
+        "21.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120 ÷ 5 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "152.6 ÷ 7 = ?",
+      "answer": [
+        "21.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65.5 ÷ 5 = ?",
+      "answer": [
+        "13.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "137 ÷ 5 = ?",
+      "answer": [
+        "27.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.6 ÷ 3 = ?",
+      "answer": [
+        "29.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.7 ÷ 7 = ?",
+      "answer": [
+        "10.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.9 ÷ 3 = ?",
+      "answer": [
+        "32.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90.6 ÷ 2 = ?",
+      "answer": [
+        "45.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "273 ÷ 6 = ?",
+      "answer": [
+        "45.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "323.2 ÷ 8 = ?",
+      "answer": [
+        "40.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "188.8 ÷ 4 = ?",
+      "answer": [
+        "47.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.9 ÷ 9 = ?",
+      "answer": [
+        "8.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "140.8 ÷ 8 = ?",
+      "answer": [
+        "17.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41.6 ÷ 8 = ?",
+      "answer": [
+        "5.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72.8 ÷ 2 = ?",
+      "answer": [
+        "36.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "117.6 ÷ 6 = ?",
+      "answer": [
+        "19.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 ÷ 2 = ?",
+      "answer": [
+        "32.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "119.6 ÷ 4 = ?",
+      "answer": [
+        "29.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "219.8 ÷ 7 = ?",
+      "answer": [
+        "31.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.2 ÷ 8 = ?",
+      "answer": [
+        "5.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "231.2 ÷ 8 = ?",
+      "answer": [
+        "28.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "163.8 ÷ 6 = ?",
+      "answer": [
+        "27.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102 ÷ 6 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.2 ÷ 4 = ?",
+      "answer": [
+        "23.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62.8 ÷ 4 = ?",
+      "answer": [
+        "15.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98.4 ÷ 3 = ?",
+      "answer": [
+        "32.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "206.4 ÷ 8 = ?",
+      "answer": [
+        "25.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 ÷ 4 = ?",
+      "answer": [
+        "4.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10.5 ÷ 3 = ?",
+      "answer": [
+        "3.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.1 ÷ 9 = ?",
+      "answer": [
+        "0.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6.4 ÷ 2 = ?",
+      "answer": [
+        "3.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "117.6 ÷ 7 = ?",
+      "answer": [
+        "16.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38 ÷ 5 = ?",
+      "answer": [
+        "7.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "125.4 ÷ 3 = ?",
+      "answer": [
+        "41.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 ÷ 6 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23.8 ÷ 2 = ?",
+      "answer": [
+        "11.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.2 ÷ 9 = ?",
+      "answer": [
+        "7.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "376.2 ÷ 9 = ?",
+      "answer": [
+        "41.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.8 ÷ 3 = ?",
+      "answer": [
+        "23.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60.8 ÷ 2 = ?",
+      "answer": [
+        "30.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78.6 ÷ 3 = ?",
+      "answer": [
+        "26.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "387 ÷ 9 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198.8 ÷ 7 = ?",
+      "answer": [
+        "28.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "303.3 ÷ 9 = ?",
+      "answer": [
+        "33.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61.8 ÷ 2 = ?",
+      "answer": [
+        "30.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "320.6 ÷ 7 = ?",
+      "answer": [
+        "45.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "112.7 ÷ 7 = ?",
+      "answer": [
+        "16.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "207.9 ÷ 7 = ?",
+      "answer": [
+        "29.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64.2 ÷ 6 = ?",
+      "answer": [
+        "10.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.4 ÷ 6 = ?",
+      "answer": [
+        "14.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "176.8 ÷ 4 = ?",
+      "answer": [
+        "44.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "140.4 ÷ 6 = ?",
+      "answer": [
+        "23.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "271.6 ÷ 7 = ?",
+      "answer": [
+        "38.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "149.1 ÷ 7 = ?",
+      "answer": [
+        "21.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75.6 ÷ 7 = ?",
+      "answer": [
+        "10.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9.2 ÷ 4 = ?",
+      "answer": [
+        "2.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "142.8 ÷ 3 = ?",
+      "answer": [
+        "47.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225.6 ÷ 8 = ?",
+      "answer": [
+        "28.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "177 ÷ 5 = ?",
+      "answer": [
+        "35.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "170.1 ÷ 7 = ?",
+      "answer": [
+        "24.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "142.2 ÷ 3 = ?",
+      "answer": [
+        "47.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.2 ÷ 8 = ?",
+      "answer": [
+        "0.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "261 ÷ 6 = ?",
+      "answer": [
+        "43.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.6 ÷ 4 = ?",
+      "answer": [
+        "19.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288.8 ÷ 8 = ?",
+      "answer": [
+        "36.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49 ÷ 2 = ?",
+      "answer": [
+        "24.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "115.8 ÷ 3 = ?",
+      "answer": [
+        "38.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "158.8 ÷ 4 = ?",
+      "answer": [
+        "39.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11.8 ÷ 2 = ?",
+      "answer": [
+        "5.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "324 ÷ 8 = ?",
+      "answer": [
+        "40.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "168 ÷ 6 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.4 ÷ 2 = ?",
+      "answer": [
+        "17.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "205.5 ÷ 5 = ?",
+      "answer": [
+        "41.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "141.3 ÷ 9 = ?",
+      "answer": [
+        "15.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "333.9 ÷ 9 = ?",
+      "answer": [
+        "37.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "128.4 ÷ 6 = ?",
+      "answer": [
+        "21.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "327.6 ÷ 7 = ?",
+      "answer": [
+        "46.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97.6 ÷ 8 = ?",
+      "answer": [
+        "12.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 ÷ 5 = ?",
+      "answer": [
+        "6.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 ÷ 2 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 ÷ 5 = ?",
+      "answer": [
+        "38.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "106.5 ÷ 5 = ?",
+      "answer": [
+        "21.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34.2 ÷ 9 = ?",
+      "answer": [
+        "3.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.6 ÷ 6 = ?",
+      "answer": [
+        "5.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "133.8 ÷ 3 = ?",
+      "answer": [
+        "44.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "125.3 ÷ 7 = ?",
+      "answer": [
+        "17.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "305.6 ÷ 8 = ?",
+      "answer": [
+        "38.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "228.8 ÷ 8 = ?",
+      "answer": [
+        "28.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "136.8 ÷ 9 = ?",
+      "answer": [
+        "15.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "127.5 ÷ 3 = ?",
+      "answer": [
+        "42.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "229.8 ÷ 6 = ?",
+      "answer": [
+        "38.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "339.5 ÷ 7 = ?",
+      "answer": [
+        "48.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "106.2 ÷ 9 = ?",
+      "answer": [
+        "11.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "178.8 ÷ 6 = ?",
+      "answer": [
+        "29.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126.3 ÷ 3 = ?",
+      "answer": [
+        "42.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2.1 ÷ 3 = ?",
+      "answer": [
+        "0.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.8 ÷ 3 = ?",
+      "answer": [
+        "8.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "384 ÷ 8 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "115.2 ÷ 6 = ?",
+      "answer": [
+        "19.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "163.2 ÷ 4 = ?",
+      "answer": [
+        "40.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.8 ÷ 2 = ?",
+      "answer": [
+        "37.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4.2 ÷ 3 = ?",
+      "answer": [
+        "1.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 ÷ 5 = ?",
+      "answer": [
+        "1.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "115.2 ÷ 8 = ?",
+      "answer": [
+        "14.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74.4 ÷ 6 = ?",
+      "answer": [
+        "12.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186.8 ÷ 4 = ?",
+      "answer": [
+        "46.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8.4 ÷ 2 = ?",
+      "answer": [
+        "4.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "172 ÷ 5 = ?",
+      "answer": [
+        "34.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76 ÷ 2 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "378 ÷ 9 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 ÷ 5 = ?",
+      "answer": [
+        "2.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "127 ÷ 5 = ?",
+      "answer": [
+        "25.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 ÷ 2 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "170.4 ÷ 4 = ?",
+      "answer": [
+        "42.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16.8 ÷ 7 = ?",
+      "answer": [
+        "2.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225.4 ÷ 7 = ?",
+      "answer": [
+        "32.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164.8 ÷ 8 = ?",
+      "answer": [
+        "20.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "183.5 ÷ 5 = ?",
+      "answer": [
+        "36.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 ÷ 2 = ?",
+      "answer": [
+        "10.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31.8 ÷ 6 = ?",
+      "answer": [
+        "5.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.3 ÷ 3 = ?",
+      "answer": [
+        "32.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200.4 ÷ 6 = ?",
+      "answer": [
+        "33.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198 ÷ 5 = ?",
+      "answer": [
+        "39.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.4 ÷ 4 = ?",
+      "answer": [
+        "12.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "123.5 ÷ 5 = ?",
+      "answer": [
+        "24.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "157.6 ÷ 4 = ?",
+      "answer": [
+        "39.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "267.3 ÷ 9 = ?",
+      "answer": [
+        "29.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 ÷ 8 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.7 ÷ 3 = ?",
+      "answer": [
+        "16.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "150.3 ÷ 9 = ?",
+      "answer": [
+        "16.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92.4 ÷ 2 = ?",
+      "answer": [
+        "46.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "373.5 ÷ 9 = ?",
+      "answer": [
+        "41.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138.5 ÷ 5 = ?",
+      "answer": [
+        "27.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58.1 ÷ 7 = ?",
+      "answer": [
+        "8.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "143.4 ÷ 3 = ?",
+      "answer": [
+        "47.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "348.3 ÷ 9 = ?",
+      "answer": [
+        "38.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "115.2 ÷ 3 = ?",
+      "answer": [
+        "38.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5.6 ÷ 4 = ?",
+      "answer": [
+        "1.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "103.5 ÷ 5 = ?",
+      "answer": [
+        "20.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.6 ÷ 3 = ?",
+      "answer": [
+        "13.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 ÷ 5 = ?",
+      "answer": [
+        "0.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "227.5 ÷ 7 = ?",
+      "answer": [
+        "32.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160.8 ÷ 6 = ?",
+      "answer": [
+        "26.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "140.4 ÷ 3 = ?",
+      "answer": [
+        "46.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.5 ÷ 3 = ?",
+      "answer": [
+        "14.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.4 ÷ 2 = ?",
+      "answer": [
+        "48.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93.9 ÷ 3 = ?",
+      "answer": [
+        "31.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "191 ÷ 5 = ?",
+      "answer": [
+        "38.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 ÷ 7 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "149.5 ÷ 5 = ?",
+      "answer": [
+        "29.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "243.9 ÷ 9 = ?",
+      "answer": [
+        "27.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "153.9 ÷ 9 = ?",
+      "answer": [
+        "17.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1.5 ÷ 3 = ?",
+      "answer": [
+        "0.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68.6 ÷ 7 = ?",
+      "answer": [
+        "9.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "157.6 ÷ 8 = ?",
+      "answer": [
+        "19.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48.6 ÷ 3 = ?",
+      "answer": [
+        "16.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "280 ÷ 8 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88.8 ÷ 4 = ?",
+      "answer": [
+        "22.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "158.2 ÷ 7 = ?",
+      "answer": [
+        "22.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "218.7 ÷ 9 = ?",
+      "answer": [
+        "24.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "187.2 ÷ 8 = ?",
+      "answer": [
+        "23.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "190 ÷ 5 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "171 ÷ 5 = ?",
+      "answer": [
+        "34.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94.2 ÷ 2 = ?",
+      "answer": [
+        "47.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "213.3 ÷ 9 = ?",
+      "answer": [
+        "23.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "241.5 ÷ 7 = ?",
+      "answer": [
+        "34.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17.2 ÷ 2 = ?",
+      "answer": [
+        "8.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43.5 ÷ 5 = ?",
+      "answer": [
+        "8.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "239.4 ÷ 6 = ?",
+      "answer": [
+        "39.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 ÷ 2 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "220.8 ÷ 8 = ?",
+      "answer": [
+        "27.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "340 ÷ 8 = ?",
+      "answer": [
+        "42.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96.4 ÷ 4 = ?",
+      "answer": [
+        "24.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "189 ÷ 9 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 ÷ 5 = ?",
+      "answer": [
+        "12.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "172.8 ÷ 4 = ?",
+      "answer": [
+        "43.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25 ÷ 5 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "139.2 ÷ 4 = ?",
+      "answer": [
+        "34.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7.6 ÷ 4 = ?",
+      "answer": [
+        "1.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91.4 ÷ 2 = ?",
+      "answer": [
+        "45.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "109.2 ÷ 7 = ?",
+      "answer": [
+        "15.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39.5 ÷ 5 = ?",
+      "answer": [
+        "7.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "118.5 ÷ 5 = ?",
+      "answer": [
+        "23.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "331.8 ÷ 7 = ?",
+      "answer": [
+        "47.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3.3 ÷ 3 = ?",
+      "answer": [
+        "1.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37.8 ÷ 3 = ?",
+      "answer": [
+        "12.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79.8 ÷ 2 = ?",
+      "answer": [
+        "39.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54.6 ÷ 2 = ?",
+      "answer": [
+        "27.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "176.8 ÷ 8 = ?",
+      "answer": [
+        "22.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "322 ÷ 7 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "105.7 ÷ 7 = ?",
+      "answer": [
+        "15.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73.8 ÷ 6 = ?",
+      "answer": [
+        "12.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "103.6 ÷ 4 = ?",
+      "answer": [
+        "25.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "104.3 ÷ 7 = ?",
+      "answer": [
+        "14.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "203 ÷ 7 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164.5 ÷ 7 = ?",
+      "answer": [
+        "23.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70.5 ÷ 3 = ?",
+      "answer": [
+        "23.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87.2 ÷ 4 = ?",
+      "answer": [
+        "21.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "158.4 ÷ 6 = ?",
+      "answer": [
+        "26.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67.8 ÷ 3 = ?",
+      "answer": [
+        "22.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "181.8 ÷ 6 = ?",
+      "answer": [
+        "30.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "114.1 ÷ 7 = ?",
+      "answer": [
+        "16.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28.2 ÷ 2 = ?",
+      "answer": [
+        "14.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71.8 ÷ 2 = ?",
+      "answer": [
+        "35.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27.6 ÷ 4 = ?",
+      "answer": [
+        "6.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "178.8 ÷ 4 = ?",
+      "answer": [
+        "44.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "152.4 ÷ 6 = ?",
+      "answer": [
+        "25.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44 ÷ 5 = ?",
+      "answer": [
+        "8.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38.4 ÷ 6 = ?",
+      "answer": [
+        "6.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50.4 ÷ 6 = ?",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192.6 ÷ 6 = ?",
+      "answer": [
+        "32.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "122 ÷ 4 = ?",
+      "answer": [
+        "30.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "173 ÷ 5 = ?",
+      "answer": [
+        "34.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29.6 ÷ 8 = ?",
+      "answer": [
+        "3.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "139.5 ÷ 9 = ?",
+      "answer": [
+        "15.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102.4 ÷ 4 = ?",
+      "answer": [
+        "25.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "139.2 ÷ 8 = ?",
+      "answer": [
+        "17.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "196.8 ÷ 8 = ?",
+      "answer": [
+        "24.6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "235.5 ÷ 5 = ?",
+      "answer": [
+        "47.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66.4 ÷ 2 = ?",
+      "answer": [
+        "33.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "120.4 ÷ 7 = ?",
+      "answer": [
+        "17.2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35.1 ÷ 9 = ?",
+      "answer": [
+        "3.9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 ÷ 5 = ?",
+      "answer": [
+        "11.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33.5 ÷ 5 = ?",
+      "answer": [
+        "6.7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36.5 ÷ 5 = ?",
+      "answer": [
+        "7.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69.6 ÷ 4 = ?",
+      "answer": [
+        "17.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "108 ÷ 8 = ?",
+      "answer": [
+        "13.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46.2 ÷ 3 = ?",
+      "answer": [
+        "15.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "111.5 ÷ 5 = ?",
+      "answer": [
+        "22.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "283.2 ÷ 8 = ?",
+      "answer": [
+        "35.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "324 ÷ 9 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "123.9 ÷ 3 = ?",
+      "answer": [
+        "41.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25.5 ÷ 3 = ?",
+      "answer": [
+        "8.5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "138.6 ÷ 9 = ?",
+      "answer": [
+        "15.4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "155.2 ÷ 4 = ?",
+      "answer": [
+        "38.8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "396.9 ÷ 9 = ?",
+      "answer": [
+        "44.1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86.1 ÷ 7 = ?",
+      "answer": [
+        "12.3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "265.2 ÷ 6 = ?",
+      "answer": [
+        "44.2"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

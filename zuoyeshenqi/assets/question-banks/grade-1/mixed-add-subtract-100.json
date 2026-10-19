@@ -1,0 +1,5408 @@
+{
+  "title": "1年级 · 100以内加减混合",
+  "grade": 1,
+  "category": "100以内加减混合",
+  "range": "进阶 · 两步加减，非负结果",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "35 − 5 + 57 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 − 34 + 20 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71 − 49 + 47 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 + 9 − 69 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 + 15 − 12 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 − 23 + 53 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97 − 48 + 20 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 17 − 1 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 − 8 + 11 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 − 16 + 22 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62 + 6 − 19 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 − 38 + 52 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 − 2 + 84 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 + 15 − 52 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 + 1 − 45 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 + 9 − 27 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 − 27 + 71 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25 + 17 − 31 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 + 13 − 29 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 34 − 28 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 + 7 − 7 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 − 46 + 22 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 − 56 + 44 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 26 + 21 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 + 20 − 64 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 − 33 + 6 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 − 23 + 45 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 − 1 + 84 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 − 32 + 12 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 36 − 36 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 29 − 20 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 + 1 − 17 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 + 6 − 75 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22 + 14 − 20 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 + 45 − 85 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 − 47 + 5 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75 − 65 + 38 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 − 19 + 10 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 − 20 + 58 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 − 2 + 19 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 − 8 + 35 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 22 + 17 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 + 4 − 14 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44 − 16 + 15 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 − 8 + 98 = ?",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 − 28 + 40 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 − 7 + 70 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 + 13 − 69 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 + 46 − 75 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 88 − 18 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 + 24 − 63 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 − 40 + 14 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 + 16 − 46 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 + 1 − 35 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 + 38 − 65 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 − 82 + 12 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 + 20 − 61 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 + 40 − 47 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 − 80 + 48 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 − 57 + 7 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 − 70 + 86 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 + 8 − 30 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 − 9 + 9 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 + 3 − 6 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 + 13 − 53 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89 − 73 + 18 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 − 20 + 60 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49 − 16 + 5 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76 − 28 + 39 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 + 13 − 73 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 + 13 − 4 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 + 1 − 32 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 + 28 − 63 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 + 36 − 64 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 46 − 26 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 − 2 + 19 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 − 10 + 16 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 − 3 + 2 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 + 26 − 76 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 + 3 − 35 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 − 1 + 38 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 + 58 − 5 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 − 25 + 61 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 + 20 − 29 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23 − 18 + 16 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 − 9 + 50 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 − 93 + 68 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 − 1 + 2 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 + 14 − 17 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 6 − 6 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 − 47 + 90 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 + 48 − 6 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23 − 20 + 41 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 42 − 24 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 + 26 − 83 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 − 80 + 32 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 + 9 − 64 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 − 35 + 4 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 + 1 − 63 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 − 58 + 52 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 − 29 + 28 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34 − 13 + 78 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22 + 61 − 40 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 − 33 + 67 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 − 9 + 17 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 + 1 − 42 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 29 − 71 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 11 − 20 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29 − 27 + 30 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 − 19 + 3 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 34 + 42 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 3 − 29 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 − 39 + 11 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 − 13 + 33 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 + 13 − 16 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 4 − 1 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43 + 37 − 41 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 83 + 50 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89 − 45 + 28 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 − 4 + 1 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 − 53 + 57 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 + 16 − 16 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76 + 12 − 70 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23 − 14 + 76 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89 + 6 − 8 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 + 9 − 78 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 24 − 24 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 − 7 + 33 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 − 89 + 48 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 + 14 − 33 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 + 7 − 78 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 58 − 70 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 − 63 + 42 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 − 39 + 20 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 − 76 + 26 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85 − 75 + 79 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 + 20 − 31 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97 − 65 + 15 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76 + 7 − 36 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 83 − 29 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 + 28 − 27 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 − 85 + 38 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 + 8 − 15 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 + 30 − 43 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 − 20 + 15 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 − 3 + 23 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 69 − 83 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 − 37 + 8 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 + 6 − 87 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 − 2 + 3 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71 − 12 + 27 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 + 3 − 77 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 + 9 − 84 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53 + 3 − 48 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 + 17 − 86 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 + 17 − 70 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43 − 13 + 29 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 − 13 + 84 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 70 − 12 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 + 11 − 11 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89 + 6 − 95 = ?",
+      "answer": [
+        "0"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29 − 13 + 73 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 + 3 − 84 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 + 37 − 42 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 69 − 70 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 + 8 − 57 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 − 4 + 65 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 50 − 51 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 + 3 − 17 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 + 43 − 44 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 + 9 − 74 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 − 54 + 36 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 + 27 − 42 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 − 75 + 91 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 47 − 54 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 − 40 + 82 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 − 26 + 25 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 + 26 − 59 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 70 − 29 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 − 90 + 12 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 − 12 + 7 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 − 36 + 54 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 − 3 + 46 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 − 48 + 19 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 + 30 − 4 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34 − 27 + 51 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 − 18 + 11 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 − 31 + 81 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 − 50 + 21 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 − 12 + 16 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 79 − 81 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 63 − 53 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 + 13 − 48 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 − 25 + 60 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 51 − 50 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 − 12 + 46 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 + 9 − 50 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 − 2 + 86 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 − 18 + 5 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 + 3 − 73 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 + 17 − 50 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 − 17 + 30 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 − 87 + 66 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 − 11 + 6 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 6 − 9 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 − 15 + 11 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 + 25 − 62 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 − 48 + 5 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "76 + 10 − 72 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 − 12 + 8 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 + 1 − 47 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 + 2 − 76 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 − 21 + 25 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 − 18 + 77 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 + 2 − 83 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 53 − 99 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22 − 15 + 35 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 + 15 − 74 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 + 8 − 80 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95 − 12 + 8 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 + 12 − 29 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 + 6 − 14 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 + 11 − 16 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 23 − 18 = ?",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38 − 31 + 33 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 + 33 − 63 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 − 28 + 25 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 24 − 3 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 + 31 − 27 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 − 2 + 70 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 − 13 + 4 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 − 20 + 43 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 62 + 23 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 − 60 + 27 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29 + 14 − 43 = ?",
+      "answer": [
+        "0"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 − 11 + 28 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 + 8 − 32 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22 + 59 − 11 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 + 44 − 87 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 − 19 + 24 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 − 63 + 26 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 + 1 − 81 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 + 18 − 10 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 + 14 − 45 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62 − 5 + 2 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 + 13 − 56 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 + 6 − 22 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 − 5 + 22 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 + 5 − 66 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71 + 28 − 57 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 + 3 − 30 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 + 67 − 23 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 − 38 + 27 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 − 29 + 69 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 + 21 − 17 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 − 3 + 34 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 − 23 + 27 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43 + 36 − 43 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 + 24 − 6 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 − 18 + 48 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 − 27 + 52 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 − 29 + 5 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 − 1 + 8 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 − 43 + 36 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 + 28 − 11 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 − 26 + 6 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 + 21 − 34 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 91 − 50 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 − 1 + 32 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 30 − 6 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79 − 10 + 4 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 − 2 + 37 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 + 25 − 12 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 − 36 + 4 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 − 18 + 13 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 − 42 + 56 = ?",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 + 3 − 69 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23 + 75 − 39 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 − 10 + 90 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 − 20 + 51 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 + 19 − 20 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 − 17 + 14 = ?",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29 − 17 + 81 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 + 3 − 81 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 − 1 + 42 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 − 46 + 3 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 − 34 + 17 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 + 4 − 73 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 − 34 + 51 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 + 5 − 34 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 53 + 48 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 9 − 14 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 − 52 + 8 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 − 36 + 5 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62 + 22 − 16 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 39 − 41 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 + 2 − 64 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 + 3 − 2 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71 − 34 + 9 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 − 26 + 30 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 − 10 + 53 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "22 − 6 + 62 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 − 19 + 2 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 − 9 + 13 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "49 + 46 − 68 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 − 3 + 18 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71 + 9 − 65 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 + 20 − 50 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 + 38 − 33 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 + 7 − 60 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 − 2 + 27 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 − 33 + 52 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 87 − 56 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 + 18 − 25 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 + 50 − 44 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 − 21 + 69 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 − 56 + 70 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 74 − 1 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 − 17 + 16 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 − 78 + 82 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 − 61 + 43 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 45 − 32 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 22 − 4 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25 + 7 − 14 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 − 45 + 50 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 + 13 − 3 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53 − 10 + 14 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 + 14 − 94 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 − 6 + 8 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 − 4 + 27 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 − 33 + 9 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 − 48 + 48 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 − 15 + 13 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 − 8 + 86 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 + 1 − 65 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 + 30 − 10 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 + 1 − 18 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 + 44 − 29 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 − 28 + 81 = ?",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85 − 41 + 22 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 45 − 16 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 + 30 − 54 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 27 − 22 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 − 31 + 42 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75 + 16 − 27 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 + 14 − 79 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 − 19 + 75 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 − 44 + 58 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 + 5 − 78 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97 − 47 + 48 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 − 12 + 57 = ?",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 + 13 − 21 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 − 63 + 57 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 − 10 + 58 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 − 25 + 79 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 + 24 − 15 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 − 35 + 59 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 − 32 + 34 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43 − 34 + 36 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 − 41 + 13 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 72 − 45 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 − 37 + 50 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 − 8 + 64 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 − 12 + 3 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 + 29 − 43 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 + 5 − 35 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 − 8 + 12 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 + 11 − 63 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 + 24 − 36 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95 + 5 − 35 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 − 14 + 55 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25 − 1 + 73 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 − 21 + 49 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 − 12 + 1 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 + 12 − 31 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34 + 62 − 92 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 + 44 − 23 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 + 25 − 61 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 − 31 + 9 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 − 19 + 25 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 − 67 + 45 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34 + 45 − 11 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 50 − 22 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 + 2 − 98 = ?",
+      "answer": [
+        "0"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 28 − 39 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 − 20 + 3 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 23 − 19 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 − 59 + 36 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 + 1 − 11 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 76 − 55 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44 + 9 − 1 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 − 46 + 69 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 − 18 + 50 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 + 12 − 11 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43 + 3 − 35 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 − 36 + 2 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53 − 1 + 5 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 + 3 − 5 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 40 − 39 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 − 36 + 57 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 − 10 + 25 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 31 − 38 = ?",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 + 3 − 27 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 − 12 + 22 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 − 20 + 11 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71 − 15 + 22 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 17 − 8 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 + 4 − 92 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 − 27 + 28 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 − 55 + 82 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 − 32 + 51 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 + 28 − 35 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 − 26 + 21 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "29 − 17 + 13 = ?",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 − 2 + 45 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 + 20 − 43 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89 − 52 + 25 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 − 28 + 10 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 69 + 38 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 − 25 + 6 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 − 21 + 16 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 − 57 + 67 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 47 − 78 = ?",
+      "answer": [
+        "0"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 − 59 + 24 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 − 4 + 57 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 + 16 − 86 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 + 5 − 87 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 − 61 + 48 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 46 − 48 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 11 − 17 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 + 28 − 8 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 − 35 + 30 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 − 1 + 46 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 + 22 − 25 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 + 3 − 13 = ?",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 + 2 − 24 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 + 1 − 3 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 + 19 − 38 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 78 − 29 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 + 24 − 8 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 + 7 − 1 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 + 11 − 4 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 54 + 32 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 − 20 + 52 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53 + 47 − 62 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 + 3 − 22 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 − 1 + 31 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 + 44 − 71 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 − 27 + 29 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 − 59 + 17 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 + 41 − 26 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 − 47 + 61 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 − 16 + 3 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 + 13 − 15 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95 + 4 − 93 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 + 16 − 71 = ?",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 − 1 + 9 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 + 37 − 48 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 − 18 + 51 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 − 2 + 68 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 + 15 − 7 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 − 2 + 72 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 + 8 − 49 = ?",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 − 8 + 89 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 − 1 + 49 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 + 9 − 53 = ?",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 + 1 − 15 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 − 4 + 56 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 + 35 − 68 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 + 5 − 24 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 77 − 69 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 − 7 + 2 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 − 4 + 14 = ?",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 − 19 + 58 = ?",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "62 − 31 + 64 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 + 3 − 7 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 + 27 − 90 = ?",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 + 25 − 63 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 − 10 + 54 = ?",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 18 − 20 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 + 68 − 19 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 + 25 − 57 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 + 2 − 100 = ?",
+      "answer": [
+        "0"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 + 27 − 48 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "44 − 32 + 58 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23 + 22 − 28 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 − 12 + 48 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 + 5 − 8 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 − 31 + 1 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 − 1 + 64 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 + 39 − 9 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 51 − 47 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "92 − 70 + 76 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 − 2 + 3 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97 + 1 − 16 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 + 22 − 43 = ?",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 + 58 − 87 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 − 10 + 66 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 + 46 − 90 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34 + 11 − 37 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "47 + 22 − 48 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 + 27 − 51 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 + 4 − 37 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 82 − 42 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "36 − 16 + 80 = ?",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 − 26 + 26 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 − 10 + 1 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 93 − 34 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 − 8 + 10 = ?",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 − 22 + 47 = ?",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 + 31 − 49 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 − 31 + 45 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "59 − 1 + 39 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 + 2 − 2 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 + 4 − 16 = ?",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 + 18 − 47 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 + 16 − 23 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 − 74 + 83 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 + 7 − 43 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 + 33 − 64 = ?",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 81 − 3 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 − 38 + 41 = ?",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 + 27 − 37 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 + 5 − 22 = ?",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "35 − 34 + 40 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 + 21 − 78 = ?",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 − 87 + 31 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 + 25 − 56 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "77 − 16 + 1 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 − 5 + 70 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 + 9 − 49 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 − 9 + 30 = ?",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53 + 6 − 8 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "71 + 27 − 13 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "89 − 18 + 10 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 + 16 − 17 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "25 − 17 + 14 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "61 + 17 − 22 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 25 + 31 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95 − 51 + 54 = ?",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "81 + 9 − 49 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "94 + 6 − 52 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85 + 2 − 22 = ?",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 − 78 + 41 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 + 9 − 7 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 − 36 + 13 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 + 23 − 70 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 + 51 − 27 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 − 22 + 91 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 + 15 − 26 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 − 5 + 46 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95 − 53 + 17 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 + 35 − 3 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 80 + 89 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 + 4 − 49 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "39 − 21 + 50 = ?",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43 − 42 + 20 = ?",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 − 35 + 33 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 + 16 − 4 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 + 14 − 45 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 + 4 − 25 = ?",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 + 11 − 79 = ?",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 − 27 + 63 = ?",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85 − 64 + 57 = ?",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 − 16 + 38 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 − 24 + 53 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 + 15 − 48 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 − 36 + 47 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 − 35 + 3 = ?",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 46 − 17 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 + 25 − 60 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 − 13 + 91 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "26 + 64 − 11 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 − 69 + 27 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "97 + 2 − 29 = ?",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 − 49 + 58 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "67 + 11 − 24 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 10 − 12 = ?",
+      "answer": [
+        "0"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 66 − 15 = ?",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 74 − 50 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "72 − 19 + 40 = ?",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 − 2 + 95 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75 − 35 + 16 = ?",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "79 − 41 + 22 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "53 + 16 − 21 = ?",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "65 − 21 + 17 = ?",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 − 15 + 6 = ?",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "43 + 55 − 98 = ?",
+      "answer": [
+        "0"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "42 + 56 − 78 = ?",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 − 1 + 27 = ?",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 − 15 + 28 = ?",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "95 + 4 − 81 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 64 − 4 = ?",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23 − 16 + 40 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 + 16 − 30 = ?",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 + 15 − 77 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 74 − 10 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "85 − 80 + 54 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 − 10 + 27 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "74 − 37 + 1 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

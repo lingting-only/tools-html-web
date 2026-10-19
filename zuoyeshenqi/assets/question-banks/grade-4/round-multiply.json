@@ -1,0 +1,6308 @@
+{
+  "title": "4年级 · 整十数乘两位数",
+  "grade": 4,
+  "category": "整十数乘两位数",
+  "range": "进阶 · 简便口算",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "40 × 48 = ?",
+      "answer": [
+        "1920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 55 = ?",
+      "answer": [
+        "1100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 28 = ?",
+      "answer": [
+        "2520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 69 = ?",
+      "answer": [
+        "1380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 61 = ?",
+      "answer": [
+        "1220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 59 = ?",
+      "answer": [
+        "1180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 67 = ?",
+      "answer": [
+        "5360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 28 = ?",
+      "answer": [
+        "1680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 56 = ?",
+      "answer": [
+        "4480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 93 = ?",
+      "answer": [
+        "5580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 41 = ?",
+      "answer": [
+        "3690"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 23 = ?",
+      "answer": [
+        "690"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 60 = ?",
+      "answer": [
+        "1800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 96 = ?",
+      "answer": [
+        "3840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 58 = ?",
+      "answer": [
+        "4060"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 52 = ?",
+      "answer": [
+        "3640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 75 = ?",
+      "answer": [
+        "5250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 31 = ?",
+      "answer": [
+        "1550"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 95 = ?",
+      "answer": [
+        "8550"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 44 = ?",
+      "answer": [
+        "2640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 18 = ?",
+      "answer": [
+        "900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 37 = ?",
+      "answer": [
+        "1850"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 76 = ?",
+      "answer": [
+        "3800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 79 = ?",
+      "answer": [
+        "6320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 48 = ?",
+      "answer": [
+        "2880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 33 = ?",
+      "answer": [
+        "2310"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 47 = ?",
+      "answer": [
+        "1410"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 45 = ?",
+      "answer": [
+        "4050"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 29 = ?",
+      "answer": [
+        "1740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 21 = ?",
+      "answer": [
+        "1470"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 39 = ?",
+      "answer": [
+        "2340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 91 = ?",
+      "answer": [
+        "3640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 92 = ?",
+      "answer": [
+        "8280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 99 = ?",
+      "answer": [
+        "6930"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 38 = ?",
+      "answer": [
+        "380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 73 = ?",
+      "answer": [
+        "5840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 64 = ?",
+      "answer": [
+        "1280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 18 = ?",
+      "answer": [
+        "1440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 75 = ?",
+      "answer": [
+        "3750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 63 = ?",
+      "answer": [
+        "5040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 84 = ?",
+      "answer": [
+        "5880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 54 = ?",
+      "answer": [
+        "2700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 77 = ?",
+      "answer": [
+        "6930"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 28 = ?",
+      "answer": [
+        "1120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 91 = ?",
+      "answer": [
+        "7280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 81 = ?",
+      "answer": [
+        "6480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 13 = ?",
+      "answer": [
+        "1170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 36 = ?",
+      "answer": [
+        "2520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 47 = ?",
+      "answer": [
+        "470"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 67 = ?",
+      "answer": [
+        "4020"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 87 = ?",
+      "answer": [
+        "3480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 14 = ?",
+      "answer": [
+        "560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 56 = ?",
+      "answer": [
+        "2240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 37 = ?",
+      "answer": [
+        "370"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 11 = ?",
+      "answer": [
+        "770"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 83 = ?",
+      "answer": [
+        "2490"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 68 = ?",
+      "answer": [
+        "680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 11 = ?",
+      "answer": [
+        "440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 55 = ?",
+      "answer": [
+        "2750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 15 = ?",
+      "answer": [
+        "900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 88 = ?",
+      "answer": [
+        "7040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 17 = ?",
+      "answer": [
+        "1020"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 51 = ?",
+      "answer": [
+        "1020"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 67 = ?",
+      "answer": [
+        "2680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 42 = ?",
+      "answer": [
+        "2940"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 34 = ?",
+      "answer": [
+        "2380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 72 = ?",
+      "answer": [
+        "720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 62 = ?",
+      "answer": [
+        "3720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 74 = ?",
+      "answer": [
+        "5920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 14 = ?",
+      "answer": [
+        "980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 37 = ?",
+      "answer": [
+        "3330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 70 = ?",
+      "answer": [
+        "2800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 91 = ?",
+      "answer": [
+        "5460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 11 = ?",
+      "answer": [
+        "220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 27 = ?",
+      "answer": [
+        "1080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 46 = ?",
+      "answer": [
+        "2760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 69 = ?",
+      "answer": [
+        "2070"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 45 = ?",
+      "answer": [
+        "1800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 23 = ?",
+      "answer": [
+        "920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 93 = ?",
+      "answer": [
+        "8370"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 97 = ?",
+      "answer": [
+        "4850"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 60 = ?",
+      "answer": [
+        "3000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 22 = ?",
+      "answer": [
+        "1980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 81 = ?",
+      "answer": [
+        "1620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 83 = ?",
+      "answer": [
+        "4150"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 49 = ?",
+      "answer": [
+        "3430"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 11 = ?",
+      "answer": [
+        "990"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 53 = ?",
+      "answer": [
+        "4240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 32 = ?",
+      "answer": [
+        "2240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 79 = ?",
+      "answer": [
+        "1580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 53 = ?",
+      "answer": [
+        "2120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 82 = ?",
+      "answer": [
+        "1640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 79 = ?",
+      "answer": [
+        "2370"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 18 = ?",
+      "answer": [
+        "1620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 44 = ?",
+      "answer": [
+        "1760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 16 = ?",
+      "answer": [
+        "1120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 59 = ?",
+      "answer": [
+        "1770"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 38 = ?",
+      "answer": [
+        "760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 17 = ?",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 12 = ?",
+      "answer": [
+        "720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 68 = ?",
+      "answer": [
+        "1360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 58 = ?",
+      "answer": [
+        "2900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 90 = ?",
+      "answer": [
+        "3600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 65 = ?",
+      "answer": [
+        "1950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 28 = ?",
+      "answer": [
+        "2240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 68 = ?",
+      "answer": [
+        "2720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 26 = ?",
+      "answer": [
+        "1300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 72 = ?",
+      "answer": [
+        "5040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 89 = ?",
+      "answer": [
+        "5340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 66 = ?",
+      "answer": [
+        "1320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 43 = ?",
+      "answer": [
+        "2150"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 37 = ?",
+      "answer": [
+        "2220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 52 = ?",
+      "answer": [
+        "3120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 82 = ?",
+      "answer": [
+        "4100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 40 = ?",
+      "answer": [
+        "3200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 83 = ?",
+      "answer": [
+        "7470"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 33 = ?",
+      "answer": [
+        "2970"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 84 = ?",
+      "answer": [
+        "6720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 84 = ?",
+      "answer": [
+        "5040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 47 = ?",
+      "answer": [
+        "4230"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 57 = ?",
+      "answer": [
+        "2850"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 84 = ?",
+      "answer": [
+        "2520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 45 = ?",
+      "answer": [
+        "3150"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 53 = ?",
+      "answer": [
+        "3710"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 31 = ?",
+      "answer": [
+        "1860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 24 = ?",
+      "answer": [
+        "1440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 13 = ?",
+      "answer": [
+        "260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 27 = ?",
+      "answer": [
+        "2430"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 86 = ?",
+      "answer": [
+        "860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 39 = ?",
+      "answer": [
+        "1950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 82 = ?",
+      "answer": [
+        "4920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 48 = ?",
+      "answer": [
+        "3360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 95 = ?",
+      "answer": [
+        "2850"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 16 = ?",
+      "answer": [
+        "1280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 35 = ?",
+      "answer": [
+        "2100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 95 = ?",
+      "answer": [
+        "1900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 45 = ?",
+      "answer": [
+        "1350"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 23 = ?",
+      "answer": [
+        "2070"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 51 = ?",
+      "answer": [
+        "4590"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 27 = ?",
+      "answer": [
+        "1620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 44 = ?",
+      "answer": [
+        "880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 53 = ?",
+      "answer": [
+        "2650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 24 = ?",
+      "answer": [
+        "1680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 24 = ?",
+      "answer": [
+        "2160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 16 = ?",
+      "answer": [
+        "960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 12 = ?",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 38 = ?",
+      "answer": [
+        "3420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 39 = ?",
+      "answer": [
+        "1170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 18 = ?",
+      "answer": [
+        "540"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 85 = ?",
+      "answer": [
+        "5950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 15 = ?",
+      "answer": [
+        "300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 99 = ?",
+      "answer": [
+        "5940"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 47 = ?",
+      "answer": [
+        "2350"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 36 = ?",
+      "answer": [
+        "1080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 51 = ?",
+      "answer": [
+        "4080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 59 = ?",
+      "answer": [
+        "4720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 21 = ?",
+      "answer": [
+        "1260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 73 = ?",
+      "answer": [
+        "3650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 97 = ?",
+      "answer": [
+        "6790"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 58 = ?",
+      "answer": [
+        "580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 78 = ?",
+      "answer": [
+        "6240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 76 = ?",
+      "answer": [
+        "760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 92 = ?",
+      "answer": [
+        "3680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 44 = ?",
+      "answer": [
+        "3520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 34 = ?",
+      "answer": [
+        "2040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 59 = ?",
+      "answer": [
+        "3540"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 97 = ?",
+      "answer": [
+        "3880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 66 = ?",
+      "answer": [
+        "5280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 20 = ?",
+      "answer": [
+        "600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 21 = ?",
+      "answer": [
+        "1680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 78 = ?",
+      "answer": [
+        "1560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 92 = ?",
+      "answer": [
+        "2760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 50 = ?",
+      "answer": [
+        "1000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 94 = ?",
+      "answer": [
+        "4700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 35 = ?",
+      "answer": [
+        "3150"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 23 = ?",
+      "answer": [
+        "1840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 95 = ?",
+      "answer": [
+        "950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 69 = ?",
+      "answer": [
+        "3450"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 85 = ?",
+      "answer": [
+        "850"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 89 = ?",
+      "answer": [
+        "4450"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 52 = ?",
+      "answer": [
+        "4160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 92 = ?",
+      "answer": [
+        "7360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 44 = ?",
+      "answer": [
+        "3960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 25 = ?",
+      "answer": [
+        "250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 59 = ?",
+      "answer": [
+        "4130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 94 = ?",
+      "answer": [
+        "940"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 34 = ?",
+      "answer": [
+        "1700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 98 = ?",
+      "answer": [
+        "5880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 61 = ?",
+      "answer": [
+        "2440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 99 = ?",
+      "answer": [
+        "990"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 64 = ?",
+      "answer": [
+        "4480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 74 = ?",
+      "answer": [
+        "5180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 25 = ?",
+      "answer": [
+        "2250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 88 = ?",
+      "answer": [
+        "880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 67 = ?",
+      "answer": [
+        "670"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 77 = ?",
+      "answer": [
+        "3080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 28 = ?",
+      "answer": [
+        "840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 44 = ?",
+      "answer": [
+        "1320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 87 = ?",
+      "answer": [
+        "870"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 16 = ?",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 27 = ?",
+      "answer": [
+        "1890"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 11 = ?",
+      "answer": [
+        "880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 39 = ?",
+      "answer": [
+        "3120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 63 = ?",
+      "answer": [
+        "2520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 76 = ?",
+      "answer": [
+        "4560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 48 = ?",
+      "answer": [
+        "2400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 68 = ?",
+      "answer": [
+        "6120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 27 = ?",
+      "answer": [
+        "810"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 89 = ?",
+      "answer": [
+        "6230"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 91 = ?",
+      "answer": [
+        "6370"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 51 = ?",
+      "answer": [
+        "3570"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 48 = ?",
+      "answer": [
+        "480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 62 = ?",
+      "answer": [
+        "4340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 21 = ?",
+      "answer": [
+        "420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 42 = ?",
+      "answer": [
+        "2100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 42 = ?",
+      "answer": [
+        "1260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 30 = ?",
+      "answer": [
+        "1200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 57 = ?",
+      "answer": [
+        "1710"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 68 = ?",
+      "answer": [
+        "4080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 58 = ?",
+      "answer": [
+        "2320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 56 = ?",
+      "answer": [
+        "2800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 97 = ?",
+      "answer": [
+        "970"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 94 = ?",
+      "answer": [
+        "7520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 23 = ?",
+      "answer": [
+        "1150"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 73 = ?",
+      "answer": [
+        "6570"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 75 = ?",
+      "answer": [
+        "3000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 90 = ?",
+      "answer": [
+        "900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 50 = ?",
+      "answer": [
+        "500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 59 = ?",
+      "answer": [
+        "5310"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 83 = ?",
+      "answer": [
+        "1660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 13 = ?",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 25 = ?",
+      "answer": [
+        "1500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 57 = ?",
+      "answer": [
+        "4560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 14 = ?",
+      "answer": [
+        "420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 52 = ?",
+      "answer": [
+        "2080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 74 = ?",
+      "answer": [
+        "740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 64 = ?",
+      "answer": [
+        "640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 35 = ?",
+      "answer": [
+        "1750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 64 = ?",
+      "answer": [
+        "1920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 51 = ?",
+      "answer": [
+        "2040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 81 = ?",
+      "answer": [
+        "5670"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 89 = ?",
+      "answer": [
+        "7120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 42 = ?",
+      "answer": [
+        "3360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 50 = ?",
+      "answer": [
+        "3500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 96 = ?",
+      "answer": [
+        "4800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 28 = ?",
+      "answer": [
+        "1400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 85 = ?",
+      "answer": [
+        "4250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 16 = ?",
+      "answer": [
+        "480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 85 = ?",
+      "answer": [
+        "1700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 93 = ?",
+      "answer": [
+        "4650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 72 = ?",
+      "answer": [
+        "3600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 61 = ?",
+      "answer": [
+        "4880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 87 = ?",
+      "answer": [
+        "6090"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 11 = ?",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 49 = ?",
+      "answer": [
+        "1960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 72 = ?",
+      "answer": [
+        "5760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 38 = ?",
+      "answer": [
+        "1900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 90 = ?",
+      "answer": [
+        "1800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 42 = ?",
+      "answer": [
+        "3780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 54 = ?",
+      "answer": [
+        "3240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 78 = ?",
+      "answer": [
+        "5460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 15 = ?",
+      "answer": [
+        "600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 94 = ?",
+      "answer": [
+        "5640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 43 = ?",
+      "answer": [
+        "1290"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 94 = ?",
+      "answer": [
+        "1880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 15 = ?",
+      "answer": [
+        "750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 57 = ?",
+      "answer": [
+        "3990"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 55 = ?",
+      "answer": [
+        "4950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 45 = ?",
+      "answer": [
+        "3600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 29 = ?",
+      "answer": [
+        "2610"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 15 = ?",
+      "answer": [
+        "1050"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 73 = ?",
+      "answer": [
+        "1460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 91 = ?",
+      "answer": [
+        "1820"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 77 = ?",
+      "answer": [
+        "3850"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 64 = ?",
+      "answer": [
+        "2560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 39 = ?",
+      "answer": [
+        "780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 17 = ?",
+      "answer": [
+        "1190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 25 = ?",
+      "answer": [
+        "1250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 89 = ?",
+      "answer": [
+        "1780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 36 = ?",
+      "answer": [
+        "720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 60 = ?",
+      "answer": [
+        "4200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 63 = ?",
+      "answer": [
+        "1260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 85 = ?",
+      "answer": [
+        "7650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 27 = ?",
+      "answer": [
+        "270"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 78 = ?",
+      "answer": [
+        "3900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 60 = ?",
+      "answer": [
+        "2400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 21 = ?",
+      "answer": [
+        "630"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 39 = ?",
+      "answer": [
+        "390"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 74 = ?",
+      "answer": [
+        "2960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 76 = ?",
+      "answer": [
+        "3040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 37 = ?",
+      "answer": [
+        "1480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 19 = ?",
+      "answer": [
+        "380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 65 = ?",
+      "answer": [
+        "3900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 90 = ?",
+      "answer": [
+        "7200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 86 = ?",
+      "answer": [
+        "5160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 41 = ?",
+      "answer": [
+        "410"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 66 = ?",
+      "answer": [
+        "4620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 54 = ?",
+      "answer": [
+        "4320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 94 = ?",
+      "answer": [
+        "8460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 40 = ?",
+      "answer": [
+        "400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 25 = ?",
+      "answer": [
+        "1750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 65 = ?",
+      "answer": [
+        "5200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 18 = ?",
+      "answer": [
+        "1080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 49 = ?",
+      "answer": [
+        "2940"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 17 = ?",
+      "answer": [
+        "1360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 71 = ?",
+      "answer": [
+        "6390"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 29 = ?",
+      "answer": [
+        "2030"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 44 = ?",
+      "answer": [
+        "2200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 17 = ?",
+      "answer": [
+        "510"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 56 = ?",
+      "answer": [
+        "3920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 71 = ?",
+      "answer": [
+        "2840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 76 = ?",
+      "answer": [
+        "1520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 33 = ?",
+      "answer": [
+        "990"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 36 = ?",
+      "answer": [
+        "360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 81 = ?",
+      "answer": [
+        "810"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 93 = ?",
+      "answer": [
+        "7440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 82 = ?",
+      "answer": [
+        "7380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 34 = ?",
+      "answer": [
+        "340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 22 = ?",
+      "answer": [
+        "1760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 30 = ?",
+      "answer": [
+        "2400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 22 = ?",
+      "answer": [
+        "660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 76 = ?",
+      "answer": [
+        "6080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 81 = ?",
+      "answer": [
+        "4050"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 62 = ?",
+      "answer": [
+        "5580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 32 = ?",
+      "answer": [
+        "2560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 26 = ?",
+      "answer": [
+        "1040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 54 = ?",
+      "answer": [
+        "1620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 43 = ?",
+      "answer": [
+        "2580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 65 = ?",
+      "answer": [
+        "1300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 70 = ?",
+      "answer": [
+        "1400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 87 = ?",
+      "answer": [
+        "5220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 56 = ?",
+      "answer": [
+        "1120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 48 = ?",
+      "answer": [
+        "3840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 66 = ?",
+      "answer": [
+        "1980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 49 = ?",
+      "answer": [
+        "1470"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 37 = ?",
+      "answer": [
+        "1110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 61 = ?",
+      "answer": [
+        "4270"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 96 = ?",
+      "answer": [
+        "7680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 36 = ?",
+      "answer": [
+        "1800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 88 = ?",
+      "answer": [
+        "4400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 66 = ?",
+      "answer": [
+        "5940"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 12 = ?",
+      "answer": [
+        "600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 33 = ?",
+      "answer": [
+        "660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 72 = ?",
+      "answer": [
+        "4320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 54 = ?",
+      "answer": [
+        "2160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 90 = ?",
+      "answer": [
+        "8100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 96 = ?",
+      "answer": [
+        "5760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 88 = ?",
+      "answer": [
+        "6160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 88 = ?",
+      "answer": [
+        "5280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 66 = ?",
+      "answer": [
+        "3960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 14 = ?",
+      "answer": [
+        "1260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 84 = ?",
+      "answer": [
+        "4200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 76 = ?",
+      "answer": [
+        "5320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 64 = ?",
+      "answer": [
+        "3200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 59 = ?",
+      "answer": [
+        "2360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 19 = ?",
+      "answer": [
+        "190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 82 = ?",
+      "answer": [
+        "820"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 52 = ?",
+      "answer": [
+        "4680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 26 = ?",
+      "answer": [
+        "780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 43 = ?",
+      "answer": [
+        "3440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 27 = ?",
+      "answer": [
+        "540"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 77 = ?",
+      "answer": [
+        "5390"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 38 = ?",
+      "answer": [
+        "2280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 79 = ?",
+      "answer": [
+        "7110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 19 = ?",
+      "answer": [
+        "570"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 77 = ?",
+      "answer": [
+        "6160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 60 = ?",
+      "answer": [
+        "1200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 80 = ?",
+      "answer": [
+        "4800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 49 = ?",
+      "answer": [
+        "3920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 70 = ?",
+      "answer": [
+        "4900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 87 = ?",
+      "answer": [
+        "7830"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 97 = ?",
+      "answer": [
+        "2910"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 63 = ?",
+      "answer": [
+        "1890"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 58 = ?",
+      "answer": [
+        "3480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 87 = ?",
+      "answer": [
+        "4350"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 56 = ?",
+      "answer": [
+        "560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 93 = ?",
+      "answer": [
+        "3720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 74 = ?",
+      "answer": [
+        "6660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 94 = ?",
+      "answer": [
+        "2820"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 60 = ?",
+      "answer": [
+        "3600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 73 = ?",
+      "answer": [
+        "5110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 88 = ?",
+      "answer": [
+        "1760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 46 = ?",
+      "answer": [
+        "3680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 48 = ?",
+      "answer": [
+        "960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 49 = ?",
+      "answer": [
+        "490"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 75 = ?",
+      "answer": [
+        "6000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 87 = ?",
+      "answer": [
+        "1740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 69 = ?",
+      "answer": [
+        "6210"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 67 = ?",
+      "answer": [
+        "3350"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 32 = ?",
+      "answer": [
+        "1280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 22 = ?",
+      "answer": [
+        "1320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 38 = ?",
+      "answer": [
+        "2660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 95 = ?",
+      "answer": [
+        "5700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 57 = ?",
+      "answer": [
+        "2280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 68 = ?",
+      "answer": [
+        "3400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 32 = ?",
+      "answer": [
+        "2880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 80 = ?",
+      "answer": [
+        "6400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 11 = ?",
+      "answer": [
+        "660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 11 = ?",
+      "answer": [
+        "330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 38 = ?",
+      "answer": [
+        "3040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 55 = ?",
+      "answer": [
+        "3300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 98 = ?",
+      "answer": [
+        "1960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 29 = ?",
+      "answer": [
+        "290"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 50 = ?",
+      "answer": [
+        "2500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 79 = ?",
+      "answer": [
+        "3950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 96 = ?",
+      "answer": [
+        "2880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 14 = ?",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 93 = ?",
+      "answer": [
+        "2790"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 63 = ?",
+      "answer": [
+        "3150"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 64 = ?",
+      "answer": [
+        "3840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 63 = ?",
+      "answer": [
+        "3780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 69 = ?",
+      "answer": [
+        "5520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 99 = ?",
+      "answer": [
+        "7920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 45 = ?",
+      "answer": [
+        "2250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 65 = ?",
+      "answer": [
+        "650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 98 = ?",
+      "answer": [
+        "3920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 12 = ?",
+      "answer": [
+        "960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 61 = ?",
+      "answer": [
+        "3660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 27 = ?",
+      "answer": [
+        "2160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 44 = ?",
+      "answer": [
+        "3080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 80 = ?",
+      "answer": [
+        "5600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 85 = ?",
+      "answer": [
+        "2550"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 35 = ?",
+      "answer": [
+        "1400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 97 = ?",
+      "answer": [
+        "8730"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 71 = ?",
+      "answer": [
+        "3550"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 69 = ?",
+      "answer": [
+        "690"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 91 = ?",
+      "answer": [
+        "4550"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 80 = ?",
+      "answer": [
+        "800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 92 = ?",
+      "answer": [
+        "5520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 89 = ?",
+      "answer": [
+        "890"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 34 = ?",
+      "answer": [
+        "2720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 29 = ?",
+      "answer": [
+        "2320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 35 = ?",
+      "answer": [
+        "2800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 37 = ?",
+      "answer": [
+        "2960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 43 = ?",
+      "answer": [
+        "3870"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 80 = ?",
+      "answer": [
+        "4000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 20 = ?",
+      "answer": [
+        "1600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 97 = ?",
+      "answer": [
+        "7760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 82 = ?",
+      "answer": [
+        "5740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 19 = ?",
+      "answer": [
+        "950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 56 = ?",
+      "answer": [
+        "1680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 84 = ?",
+      "answer": [
+        "1680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 45 = ?",
+      "answer": [
+        "900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 91 = ?",
+      "answer": [
+        "910"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 33 = ?",
+      "answer": [
+        "1980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 78 = ?",
+      "answer": [
+        "780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 83 = ?",
+      "answer": [
+        "6640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 15 = ?",
+      "answer": [
+        "1200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 25 = ?",
+      "answer": [
+        "750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 81 = ?",
+      "answer": [
+        "2430"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 75 = ?",
+      "answer": [
+        "6750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 61 = ?",
+      "answer": [
+        "610"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 43 = ?",
+      "answer": [
+        "3010"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 79 = ?",
+      "answer": [
+        "790"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 68 = ?",
+      "answer": [
+        "2040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 24 = ?",
+      "answer": [
+        "240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 34 = ?",
+      "answer": [
+        "680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 69 = ?",
+      "answer": [
+        "4140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 34 = ?",
+      "answer": [
+        "3060"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 55 = ?",
+      "answer": [
+        "2200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 25 = ?",
+      "answer": [
+        "2000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 13 = ?",
+      "answer": [
+        "1040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 86 = ?",
+      "answer": [
+        "6020"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 39 = ?",
+      "answer": [
+        "2730"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 43 = ?",
+      "answer": [
+        "1720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 93 = ?",
+      "answer": [
+        "930"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 70 = ?",
+      "answer": [
+        "2100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 32 = ?",
+      "answer": [
+        "1920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 54 = ?",
+      "answer": [
+        "3780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 36 = ?",
+      "answer": [
+        "3240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 35 = ?",
+      "answer": [
+        "350"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 24 = ?",
+      "answer": [
+        "1920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 98 = ?",
+      "answer": [
+        "8820"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 41 = ?",
+      "answer": [
+        "1640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 53 = ?",
+      "answer": [
+        "1590"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 88 = ?",
+      "answer": [
+        "7920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 19 = ?",
+      "answer": [
+        "1520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 22 = ?",
+      "answer": [
+        "1540"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 60 = ?",
+      "answer": [
+        "600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 62 = ?",
+      "answer": [
+        "3100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 41 = ?",
+      "answer": [
+        "2460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 78 = ?",
+      "answer": [
+        "4680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 73 = ?",
+      "answer": [
+        "730"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 25 = ?",
+      "answer": [
+        "500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 12 = ?",
+      "answer": [
+        "840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 23 = ?",
+      "answer": [
+        "1610"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 70 = ?",
+      "answer": [
+        "700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 82 = ?",
+      "answer": [
+        "3280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 75 = ?",
+      "answer": [
+        "1500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 45 = ?",
+      "answer": [
+        "2700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 26 = ?",
+      "answer": [
+        "1820"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 30 = ?",
+      "answer": [
+        "2700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 51 = ?",
+      "answer": [
+        "2550"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 19 = ?",
+      "answer": [
+        "1710"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 94 = ?",
+      "answer": [
+        "6580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 94 = ?",
+      "answer": [
+        "3760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 27 = ?",
+      "answer": [
+        "1350"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 99 = ?",
+      "answer": [
+        "1980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 99 = ?",
+      "answer": [
+        "4950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 90 = ?",
+      "answer": [
+        "6300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 98 = ?",
+      "answer": [
+        "980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 69 = ?",
+      "answer": [
+        "4830"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 69 = ?",
+      "answer": [
+        "2760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 75 = ?",
+      "answer": [
+        "4500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 85 = ?",
+      "answer": [
+        "5100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 87 = ?",
+      "answer": [
+        "6960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 66 = ?",
+      "answer": [
+        "660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 71 = ?",
+      "answer": [
+        "710"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 30 = ?",
+      "answer": [
+        "900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 74 = ?",
+      "answer": [
+        "3700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 55 = ?",
+      "answer": [
+        "550"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 96 = ?",
+      "answer": [
+        "1920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 28 = ?",
+      "answer": [
+        "560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 98 = ?",
+      "answer": [
+        "2940"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 68 = ?",
+      "answer": [
+        "4760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 30 = ?",
+      "answer": [
+        "1500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 14 = ?",
+      "answer": [
+        "700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 75 = ?",
+      "answer": [
+        "750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 33 = ?",
+      "answer": [
+        "1650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 12 = ?",
+      "answer": [
+        "1080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 79 = ?",
+      "answer": [
+        "4740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 91 = ?",
+      "answer": [
+        "8190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 72 = ?",
+      "answer": [
+        "6480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 61 = ?",
+      "answer": [
+        "3050"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 22 = ?",
+      "answer": [
+        "1100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 18 = ?",
+      "answer": [
+        "720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 46 = ?",
+      "answer": [
+        "460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 18 = ?",
+      "answer": [
+        "1260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 57 = ?",
+      "answer": [
+        "1140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 32 = ?",
+      "answer": [
+        "960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 21 = ?",
+      "answer": [
+        "1890"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 84 = ?",
+      "answer": [
+        "7560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 47 = ?",
+      "answer": [
+        "1880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 17 = ?",
+      "answer": [
+        "850"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 31 = ?",
+      "answer": [
+        "620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 49 = ?",
+      "answer": [
+        "980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 82 = ?",
+      "answer": [
+        "6560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 44 = ?",
+      "answer": [
+        "440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 29 = ?",
+      "answer": [
+        "870"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 13 = ?",
+      "answer": [
+        "650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 81 = ?",
+      "answer": [
+        "7290"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 36 = ?",
+      "answer": [
+        "2880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 92 = ?",
+      "answer": [
+        "920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 99 = ?",
+      "answer": [
+        "2970"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 38 = ?",
+      "answer": [
+        "1140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 76 = ?",
+      "answer": [
+        "2280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 63 = ?",
+      "answer": [
+        "630"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 24 = ?",
+      "answer": [
+        "480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 26 = ?",
+      "answer": [
+        "1560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 42 = ?",
+      "answer": [
+        "2520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 66 = ?",
+      "answer": [
+        "2640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 96 = ?",
+      "answer": [
+        "960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 22 = ?",
+      "answer": [
+        "880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 13 = ?",
+      "answer": [
+        "780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 45 = ?",
+      "answer": [
+        "450"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 16 = ?",
+      "answer": [
+        "1440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 55 = ?",
+      "answer": [
+        "3850"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 49 = ?",
+      "answer": [
+        "2450"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 67 = ?",
+      "answer": [
+        "2010"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 21 = ?",
+      "answer": [
+        "840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 34 = ?",
+      "answer": [
+        "1020"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 81 = ?",
+      "answer": [
+        "3240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 22 = ?",
+      "answer": [
+        "440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 96 = ?",
+      "answer": [
+        "6720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 95 = ?",
+      "answer": [
+        "7600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 46 = ?",
+      "answer": [
+        "1380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 19 = ?",
+      "answer": [
+        "760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 34 = ?",
+      "answer": [
+        "1360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 48 = ?",
+      "answer": [
+        "4320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 77 = ?",
+      "answer": [
+        "1540"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 79 = ?",
+      "answer": [
+        "3160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 95 = ?",
+      "answer": [
+        "6650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 31 = ?",
+      "answer": [
+        "2480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 84 = ?",
+      "answer": [
+        "840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 91 = ?",
+      "answer": [
+        "2730"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 98 = ?",
+      "answer": [
+        "7840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 47 = ?",
+      "answer": [
+        "940"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 86 = ?",
+      "answer": [
+        "7740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 16 = ?",
+      "answer": [
+        "320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 13 = ?",
+      "answer": [
+        "910"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 20 = ?",
+      "answer": [
+        "800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 90 = ?",
+      "answer": [
+        "4500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 37 = ?",
+      "answer": [
+        "2590"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 12 = ?",
+      "answer": [
+        "360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 62 = ?",
+      "answer": [
+        "1860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 24 = ?",
+      "answer": [
+        "1200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 21 = ?",
+      "answer": [
+        "210"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 81 = ?",
+      "answer": [
+        "4860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 58 = ?",
+      "answer": [
+        "1160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 46 = ?",
+      "answer": [
+        "2300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 78 = ?",
+      "answer": [
+        "3120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 43 = ?",
+      "answer": [
+        "860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 46 = ?",
+      "answer": [
+        "1840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 64 = ?",
+      "answer": [
+        "5120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 11 = ?",
+      "answer": [
+        "550"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 97 = ?",
+      "answer": [
+        "5820"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 83 = ?",
+      "answer": [
+        "3320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 73 = ?",
+      "answer": [
+        "2920"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 65 = ?",
+      "answer": [
+        "2600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 16 = ?",
+      "answer": [
+        "800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 83 = ?",
+      "answer": [
+        "4980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 97 = ?",
+      "answer": [
+        "1940"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 73 = ?",
+      "answer": [
+        "4380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 61 = ?",
+      "answer": [
+        "5490"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 89 = ?",
+      "answer": [
+        "3560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 98 = ?",
+      "answer": [
+        "6860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 17 = ?",
+      "answer": [
+        "340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 96 = ?",
+      "answer": [
+        "8640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 41 = ?",
+      "answer": [
+        "820"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 23 = ?",
+      "answer": [
+        "1380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 19 = ?",
+      "answer": [
+        "1330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 86 = ?",
+      "answer": [
+        "2580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 99 = ?",
+      "answer": [
+        "3960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 71 = ?",
+      "answer": [
+        "2130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 23 = ?",
+      "answer": [
+        "460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 33 = ?",
+      "answer": [
+        "1320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 38 = ?",
+      "answer": [
+        "1520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 42 = ?",
+      "answer": [
+        "420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 37 = ?",
+      "answer": [
+        "740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 12 = ?",
+      "answer": [
+        "240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 58 = ?",
+      "answer": [
+        "1740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 35 = ?",
+      "answer": [
+        "700"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 63 = ?",
+      "answer": [
+        "4410"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 93 = ?",
+      "answer": [
+        "6510"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 54 = ?",
+      "answer": [
+        "1080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 95 = ?",
+      "answer": [
+        "4750"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 46 = ?",
+      "answer": [
+        "4140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 18 = ?",
+      "answer": [
+        "180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 20 = ?",
+      "answer": [
+        "200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 22 = ?",
+      "answer": [
+        "220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 72 = ?",
+      "answer": [
+        "2880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 14 = ?",
+      "answer": [
+        "1120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 67 = ?",
+      "answer": [
+        "1340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 52 = ?",
+      "answer": [
+        "520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 26 = ?",
+      "answer": [
+        "2340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 43 = ?",
+      "answer": [
+        "430"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 54 = ?",
+      "answer": [
+        "4860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 87 = ?",
+      "answer": [
+        "2610"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 78 = ?",
+      "answer": [
+        "7020"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 20 = ?",
+      "answer": [
+        "400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 57 = ?",
+      "answer": [
+        "3420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 76 = ?",
+      "answer": [
+        "6840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 47 = ?",
+      "answer": [
+        "2820"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 65 = ?",
+      "answer": [
+        "3250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 66 = ?",
+      "answer": [
+        "3300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 14 = ?",
+      "answer": [
+        "840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 84 = ?",
+      "answer": [
+        "3360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 31 = ?",
+      "answer": [
+        "930"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 40 = ?",
+      "answer": [
+        "1600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 41 = ?",
+      "answer": [
+        "2870"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 35 = ?",
+      "answer": [
+        "1050"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 74 = ?",
+      "answer": [
+        "2220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 62 = ?",
+      "answer": [
+        "620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 63 = ?",
+      "answer": [
+        "5670"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 71 = ?",
+      "answer": [
+        "4970"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 19 = ?",
+      "answer": [
+        "1140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 92 = ?",
+      "answer": [
+        "4600"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 42 = ?",
+      "answer": [
+        "1680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 89 = ?",
+      "answer": [
+        "8010"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 47 = ?",
+      "answer": [
+        "3760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 32 = ?",
+      "answer": [
+        "640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 15 = ?",
+      "answer": [
+        "1350"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 74 = ?",
+      "answer": [
+        "4440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 86 = ?",
+      "answer": [
+        "4300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 72 = ?",
+      "answer": [
+        "1440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 14 = ?",
+      "answer": [
+        "280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 15 = ?",
+      "answer": [
+        "450"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 26 = ?",
+      "answer": [
+        "2080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 53 = ?",
+      "answer": [
+        "4770"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 31 = ?",
+      "answer": [
+        "2790"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 28 = ?",
+      "answer": [
+        "280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 26 = ?",
+      "answer": [
+        "520"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 85 = ?",
+      "answer": [
+        "6800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 57 = ?",
+      "answer": [
+        "5130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 71 = ?",
+      "answer": [
+        "4260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 62 = ?",
+      "answer": [
+        "1240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 67 = ?",
+      "answer": [
+        "6030"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 58 = ?",
+      "answer": [
+        "5220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 24 = ?",
+      "answer": [
+        "960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 57 = ?",
+      "answer": [
+        "570"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 88 = ?",
+      "answer": [
+        "2640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 53 = ?",
+      "answer": [
+        "3180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 52 = ?",
+      "answer": [
+        "1040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 59 = ?",
+      "answer": [
+        "2950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 86 = ?",
+      "answer": [
+        "6880"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 86 = ?",
+      "answer": [
+        "1720"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 29 = ?",
+      "answer": [
+        "580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 41 = ?",
+      "answer": [
+        "3280"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 77 = ?",
+      "answer": [
+        "4620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 25 = ?",
+      "answer": [
+        "1000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 78 = ?",
+      "answer": [
+        "2340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 79 = ?",
+      "answer": [
+        "5530"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "70 × 46 = ?",
+      "answer": [
+        "3220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "40 × 39 = ?",
+      "answer": [
+        "1560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "90 × 49 = ?",
+      "answer": [
+        "4410"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 68 = ?",
+      "answer": [
+        "5440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 × 51 = ?",
+      "answer": [
+        "510"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "80 × 58 = ?",
+      "answer": [
+        "4640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "50 × 40 = ?",
+      "answer": [
+        "2000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 48 = ?",
+      "answer": [
+        "1440"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

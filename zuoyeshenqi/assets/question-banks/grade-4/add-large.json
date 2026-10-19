@@ -1,0 +1,8108 @@
+{
+  "title": "4年级 · 整数加法",
+  "grade": 4,
+  "category": "整数加法",
+  "range": "基础 · 和不超过10000",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "9901 + 4 = ?",
+      "answer": [
+        "9905"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6570 + 3154 = ?",
+      "answer": [
+        "9724"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7503 + 617 = ?",
+      "answer": [
+        "8120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6375 + 1272 = ?",
+      "answer": [
+        "7647"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1305 + 304 = ?",
+      "answer": [
+        "1609"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2083 + 5124 = ?",
+      "answer": [
+        "7207"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2868 + 2010 = ?",
+      "answer": [
+        "4878"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4799 + 4404 = ?",
+      "answer": [
+        "9203"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5904 + 4093 = ?",
+      "answer": [
+        "9997"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5814 + 2817 = ?",
+      "answer": [
+        "8631"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "867 + 8116 = ?",
+      "answer": [
+        "8983"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6768 + 287 = ?",
+      "answer": [
+        "7055"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1659 + 1326 = ?",
+      "answer": [
+        "2985"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7946 + 1903 = ?",
+      "answer": [
+        "9849"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7116 + 142 = ?",
+      "answer": [
+        "7258"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3614 + 1072 = ?",
+      "answer": [
+        "4686"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2430 + 5786 = ?",
+      "answer": [
+        "8216"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5803 + 2987 = ?",
+      "answer": [
+        "8790"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8143 + 1441 = ?",
+      "answer": [
+        "9584"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "454 + 6629 = ?",
+      "answer": [
+        "7083"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6908 + 2127 = ?",
+      "answer": [
+        "9035"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2305 + 5407 = ?",
+      "answer": [
+        "7712"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "629 + 1159 = ?",
+      "answer": [
+        "1788"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7466 + 1141 = ?",
+      "answer": [
+        "8607"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3167 + 2320 = ?",
+      "answer": [
+        "5487"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5049 + 3706 = ?",
+      "answer": [
+        "8755"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6266 + 1905 = ?",
+      "answer": [
+        "8171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1784 + 6985 = ?",
+      "answer": [
+        "8769"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8834 + 1047 = ?",
+      "answer": [
+        "9881"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6018 + 1962 = ?",
+      "answer": [
+        "7980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2258 + 2723 = ?",
+      "answer": [
+        "4981"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 2184 = ?",
+      "answer": [
+        "2195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6896 + 2630 = ?",
+      "answer": [
+        "9526"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1915 + 6512 = ?",
+      "answer": [
+        "8427"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7416 + 26 = ?",
+      "answer": [
+        "7442"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1372 + 7563 = ?",
+      "answer": [
+        "8935"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7119 + 2408 = ?",
+      "answer": [
+        "9527"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5112 + 135 = ?",
+      "answer": [
+        "5247"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3915 + 321 = ?",
+      "answer": [
+        "4236"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1476 + 359 = ?",
+      "answer": [
+        "1835"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3107 + 5769 = ?",
+      "answer": [
+        "8876"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5244 + 128 = ?",
+      "answer": [
+        "5372"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4641 + 4418 = ?",
+      "answer": [
+        "9059"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6715 + 1787 = ?",
+      "answer": [
+        "8502"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4969 + 3178 = ?",
+      "answer": [
+        "8147"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1404 + 581 = ?",
+      "answer": [
+        "1985"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6191 + 1267 = ?",
+      "answer": [
+        "7458"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9284 + 248 = ?",
+      "answer": [
+        "9532"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7628 + 1417 = ?",
+      "answer": [
+        "9045"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4983 + 2467 = ?",
+      "answer": [
+        "7450"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7482 + 1119 = ?",
+      "answer": [
+        "8601"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2822 + 6355 = ?",
+      "answer": [
+        "9177"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4742 + 4267 = ?",
+      "answer": [
+        "9009"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3125 + 1467 = ?",
+      "answer": [
+        "4592"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3988 + 2380 = ?",
+      "answer": [
+        "6368"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8683 + 295 = ?",
+      "answer": [
+        "8978"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8253 + 819 = ?",
+      "answer": [
+        "9072"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2807 + 184 = ?",
+      "answer": [
+        "2991"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7602 + 1476 = ?",
+      "answer": [
+        "9078"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2834 + 66 = ?",
+      "answer": [
+        "2900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3570 + 3911 = ?",
+      "answer": [
+        "7481"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5548 + 3201 = ?",
+      "answer": [
+        "8749"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2133 + 6749 = ?",
+      "answer": [
+        "8882"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3368 + 1670 = ?",
+      "answer": [
+        "5038"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "362 + 1500 = ?",
+      "answer": [
+        "1862"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2744 + 101 = ?",
+      "answer": [
+        "2845"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4407 + 3644 = ?",
+      "answer": [
+        "8051"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8653 + 1228 = ?",
+      "answer": [
+        "9881"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8986 + 280 = ?",
+      "answer": [
+        "9266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1616 + 2552 = ?",
+      "answer": [
+        "4168"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1015 + 521 = ?",
+      "answer": [
+        "1536"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6104 + 1167 = ?",
+      "answer": [
+        "7271"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2545 + 297 = ?",
+      "answer": [
+        "2842"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1801 + 1759 = ?",
+      "answer": [
+        "3560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "671 + 6952 = ?",
+      "answer": [
+        "7623"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1568 + 2436 = ?",
+      "answer": [
+        "4004"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4550 + 2190 = ?",
+      "answer": [
+        "6740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2556 + 7206 = ?",
+      "answer": [
+        "9762"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2202 + 2896 = ?",
+      "answer": [
+        "5098"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9353 + 222 = ?",
+      "answer": [
+        "9575"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2234 + 3819 = ?",
+      "answer": [
+        "6053"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "589 + 5358 = ?",
+      "answer": [
+        "5947"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8161 + 520 = ?",
+      "answer": [
+        "8681"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2873 + 2493 = ?",
+      "answer": [
+        "5366"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5469 + 989 = ?",
+      "answer": [
+        "6458"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8516 + 1186 = ?",
+      "answer": [
+        "9702"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4069 + 3097 = ?",
+      "answer": [
+        "7166"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5905 + 1132 = ?",
+      "answer": [
+        "7037"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1323 + 1596 = ?",
+      "answer": [
+        "2919"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3946 + 106 = ?",
+      "answer": [
+        "4052"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3269 + 1034 = ?",
+      "answer": [
+        "4303"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4499 + 3458 = ?",
+      "answer": [
+        "7957"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4229 + 5284 = ?",
+      "answer": [
+        "9513"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9184 + 644 = ?",
+      "answer": [
+        "9828"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7424 + 2306 = ?",
+      "answer": [
+        "9730"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9489 + 372 = ?",
+      "answer": [
+        "9861"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1792 + 3309 = ?",
+      "answer": [
+        "5101"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1566 + 2596 = ?",
+      "answer": [
+        "4162"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2625 + 491 = ?",
+      "answer": [
+        "3116"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9638 + 289 = ?",
+      "answer": [
+        "9927"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6213 + 3616 = ?",
+      "answer": [
+        "9829"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4414 + 3613 = ?",
+      "answer": [
+        "8027"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1131 + 7533 = ?",
+      "answer": [
+        "8664"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5412 + 3971 = ?",
+      "answer": [
+        "9383"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1337 + 3142 = ?",
+      "answer": [
+        "4479"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8619 + 1120 = ?",
+      "answer": [
+        "9739"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8730 + 1091 = ?",
+      "answer": [
+        "9821"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3368 + 3165 = ?",
+      "answer": [
+        "6533"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5332 + 1776 = ?",
+      "answer": [
+        "7108"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4850 + 3136 = ?",
+      "answer": [
+        "7986"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7733 + 67 = ?",
+      "answer": [
+        "7800"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1177 + 1923 = ?",
+      "answer": [
+        "3100"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8988 + 522 = ?",
+      "answer": [
+        "9510"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6380 + 1204 = ?",
+      "answer": [
+        "7584"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5581 + 3584 = ?",
+      "answer": [
+        "9165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3271 + 362 = ?",
+      "answer": [
+        "3633"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9646 + 47 = ?",
+      "answer": [
+        "9693"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2552 + 1881 = ?",
+      "answer": [
+        "4433"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9085 + 622 = ?",
+      "answer": [
+        "9707"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7107 + 1390 = ?",
+      "answer": [
+        "8497"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "743 + 8012 = ?",
+      "answer": [
+        "8755"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2853 + 6609 = ?",
+      "answer": [
+        "9462"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4292 + 5466 = ?",
+      "answer": [
+        "9758"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 + 4833 = ?",
+      "answer": [
+        "4902"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6992 + 1070 = ?",
+      "answer": [
+        "8062"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1624 + 2585 = ?",
+      "answer": [
+        "4209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1970 + 7651 = ?",
+      "answer": [
+        "9621"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6977 + 998 = ?",
+      "answer": [
+        "7975"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5182 + 1359 = ?",
+      "answer": [
+        "6541"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3392 + 4623 = ?",
+      "answer": [
+        "8015"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8721 + 513 = ?",
+      "answer": [
+        "9234"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8242 + 218 = ?",
+      "answer": [
+        "8460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "605 + 6773 = ?",
+      "answer": [
+        "7378"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8830 + 554 = ?",
+      "answer": [
+        "9384"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3726 + 1435 = ?",
+      "answer": [
+        "5161"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8629 + 326 = ?",
+      "answer": [
+        "8955"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9102 + 728 = ?",
+      "answer": [
+        "9830"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1335 + 5558 = ?",
+      "answer": [
+        "6893"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1098 + 5553 = ?",
+      "answer": [
+        "6651"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6655 + 1713 = ?",
+      "answer": [
+        "8368"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4747 + 3827 = ?",
+      "answer": [
+        "8574"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4233 + 1278 = ?",
+      "answer": [
+        "5511"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7876 + 895 = ?",
+      "answer": [
+        "8771"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4606 + 1518 = ?",
+      "answer": [
+        "6124"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3138 + 6760 = ?",
+      "answer": [
+        "9898"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8618 + 579 = ?",
+      "answer": [
+        "9197"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7642 + 1888 = ?",
+      "answer": [
+        "9530"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9183 + 174 = ?",
+      "answer": [
+        "9357"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "331 + 240 = ?",
+      "answer": [
+        "571"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1805 + 5074 = ?",
+      "answer": [
+        "6879"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9749 + 74 = ?",
+      "answer": [
+        "9823"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2771 + 6922 = ?",
+      "answer": [
+        "9693"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7384 + 375 = ?",
+      "answer": [
+        "7759"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6410 + 708 = ?",
+      "answer": [
+        "7118"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4196 + 640 = ?",
+      "answer": [
+        "4836"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5335 + 2854 = ?",
+      "answer": [
+        "8189"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "542 + 6758 = ?",
+      "answer": [
+        "7300"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 + 1339 = ?",
+      "answer": [
+        "1402"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2107 + 6077 = ?",
+      "answer": [
+        "8184"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6936 + 3046 = ?",
+      "answer": [
+        "9982"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7026 + 2185 = ?",
+      "answer": [
+        "9211"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5732 + 1930 = ?",
+      "answer": [
+        "7662"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1847 + 411 = ?",
+      "answer": [
+        "2258"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "880 + 6675 = ?",
+      "answer": [
+        "7555"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6470 + 2375 = ?",
+      "answer": [
+        "8845"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2688 + 3314 = ?",
+      "answer": [
+        "6002"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "763 + 2288 = ?",
+      "answer": [
+        "3051"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7484 + 410 = ?",
+      "answer": [
+        "7894"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7961 + 1301 = ?",
+      "answer": [
+        "9262"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8081 + 1499 = ?",
+      "answer": [
+        "9580"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2546 + 5573 = ?",
+      "answer": [
+        "8119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8472 + 72 = ?",
+      "answer": [
+        "8544"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2727 + 6236 = ?",
+      "answer": [
+        "8963"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9152 + 244 = ?",
+      "answer": [
+        "9396"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "218 + 8912 = ?",
+      "answer": [
+        "9130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1996 + 739 = ?",
+      "answer": [
+        "2735"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2426 + 3551 = ?",
+      "answer": [
+        "5977"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6062 + 2819 = ?",
+      "answer": [
+        "8881"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4744 + 1425 = ?",
+      "answer": [
+        "6169"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8275 + 506 = ?",
+      "answer": [
+        "8781"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3078 + 4306 = ?",
+      "answer": [
+        "7384"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5347 + 894 = ?",
+      "answer": [
+        "6241"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9275 + 31 = ?",
+      "answer": [
+        "9306"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5874 + 330 = ?",
+      "answer": [
+        "6204"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4616 + 4827 = ?",
+      "answer": [
+        "9443"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4005 + 3209 = ?",
+      "answer": [
+        "7214"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9007 + 939 = ?",
+      "answer": [
+        "9946"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8588 + 399 = ?",
+      "answer": [
+        "8987"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6060 + 113 = ?",
+      "answer": [
+        "6173"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4200 + 2168 = ?",
+      "answer": [
+        "6368"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6673 + 1118 = ?",
+      "answer": [
+        "7791"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2969 + 6358 = ?",
+      "answer": [
+        "9327"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6318 + 3511 = ?",
+      "answer": [
+        "9829"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8594 + 110 = ?",
+      "answer": [
+        "8704"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3650 + 4192 = ?",
+      "answer": [
+        "7842"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6468 + 2519 = ?",
+      "answer": [
+        "8987"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "614 + 1491 = ?",
+      "answer": [
+        "2105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6307 + 1867 = ?",
+      "answer": [
+        "8174"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6704 + 686 = ?",
+      "answer": [
+        "7390"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6204 + 2422 = ?",
+      "answer": [
+        "8626"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2533 + 2611 = ?",
+      "answer": [
+        "5144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9494 + 281 = ?",
+      "answer": [
+        "9775"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "352 + 1819 = ?",
+      "answer": [
+        "2171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8359 + 1617 = ?",
+      "answer": [
+        "9976"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1704 + 3551 = ?",
+      "answer": [
+        "5255"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "557 + 5087 = ?",
+      "answer": [
+        "5644"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4844 + 583 = ?",
+      "answer": [
+        "5427"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8198 + 830 = ?",
+      "answer": [
+        "9028"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7095 + 2276 = ?",
+      "answer": [
+        "9371"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9971 + 11 = ?",
+      "answer": [
+        "9982"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9787 + 106 = ?",
+      "answer": [
+        "9893"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "714 + 96 = ?",
+      "answer": [
+        "810"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5945 + 3637 = ?",
+      "answer": [
+        "9582"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4750 + 2708 = ?",
+      "answer": [
+        "7458"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3374 + 5649 = ?",
+      "answer": [
+        "9023"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1894 + 3808 = ?",
+      "answer": [
+        "5702"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8306 + 434 = ?",
+      "answer": [
+        "8740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7520 + 2205 = ?",
+      "answer": [
+        "9725"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7251 + 121 = ?",
+      "answer": [
+        "7372"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "620 + 246 = ?",
+      "answer": [
+        "866"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7227 + 1619 = ?",
+      "answer": [
+        "8846"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6232 + 1440 = ?",
+      "answer": [
+        "7672"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7007 + 2663 = ?",
+      "answer": [
+        "9670"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1180 + 4368 = ?",
+      "answer": [
+        "5548"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4552 + 2076 = ?",
+      "answer": [
+        "6628"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4490 + 1875 = ?",
+      "answer": [
+        "6365"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8283 + 216 = ?",
+      "answer": [
+        "8499"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6423 + 1459 = ?",
+      "answer": [
+        "7882"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2344 + 5957 = ?",
+      "answer": [
+        "8301"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2512 + 5982 = ?",
+      "answer": [
+        "8494"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8513 + 984 = ?",
+      "answer": [
+        "9497"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1519 + 7722 = ?",
+      "answer": [
+        "9241"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9934 + 47 = ?",
+      "answer": [
+        "9981"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8708 + 696 = ?",
+      "answer": [
+        "9404"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4290 + 882 = ?",
+      "answer": [
+        "5172"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8357 + 789 = ?",
+      "answer": [
+        "9146"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6608 + 1193 = ?",
+      "answer": [
+        "7801"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1892 + 7751 = ?",
+      "answer": [
+        "9643"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4345 + 5041 = ?",
+      "answer": [
+        "9386"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "569 + 4201 = ?",
+      "answer": [
+        "4770"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9891 + 109 = ?",
+      "answer": [
+        "10000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4106 + 4380 = ?",
+      "answer": [
+        "8486"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8172 + 1807 = ?",
+      "answer": [
+        "9979"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9163 + 277 = ?",
+      "answer": [
+        "9440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9488 + 38 = ?",
+      "answer": [
+        "9526"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4087 + 2269 = ?",
+      "answer": [
+        "6356"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "260 + 8768 = ?",
+      "answer": [
+        "9028"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8810 + 1189 = ?",
+      "answer": [
+        "9999"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6824 + 1908 = ?",
+      "answer": [
+        "8732"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1342 + 3972 = ?",
+      "answer": [
+        "5314"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9953 + 12 = ?",
+      "answer": [
+        "9965"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4719 + 3287 = ?",
+      "answer": [
+        "8006"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "227 + 8954 = ?",
+      "answer": [
+        "9181"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "857 + 7003 = ?",
+      "answer": [
+        "7860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6947 + 2812 = ?",
+      "answer": [
+        "9759"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "173 + 4437 = ?",
+      "answer": [
+        "4610"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5722 + 3035 = ?",
+      "answer": [
+        "8757"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8428 + 395 = ?",
+      "answer": [
+        "8823"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2396 + 4506 = ?",
+      "answer": [
+        "6902"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4660 + 2172 = ?",
+      "answer": [
+        "6832"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3466 + 2475 = ?",
+      "answer": [
+        "5941"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6624 + 2540 = ?",
+      "answer": [
+        "9164"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5654 + 1783 = ?",
+      "answer": [
+        "7437"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2656 + 3504 = ?",
+      "answer": [
+        "6160"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9787 + 149 = ?",
+      "answer": [
+        "9936"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1358 + 4815 = ?",
+      "answer": [
+        "6173"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6636 + 348 = ?",
+      "answer": [
+        "6984"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3008 + 6532 = ?",
+      "answer": [
+        "9540"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4872 + 4049 = ?",
+      "answer": [
+        "8921"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9104 + 691 = ?",
+      "answer": [
+        "9795"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3808 + 2232 = ?",
+      "answer": [
+        "6040"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8958 + 372 = ?",
+      "answer": [
+        "9330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6059 + 1679 = ?",
+      "answer": [
+        "7738"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4725 + 2631 = ?",
+      "answer": [
+        "7356"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7800 + 1158 = ?",
+      "answer": [
+        "8958"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8792 + 567 = ?",
+      "answer": [
+        "9359"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6765 + 2016 = ?",
+      "answer": [
+        "8781"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9929 + 60 = ?",
+      "answer": [
+        "9989"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "645 + 5730 = ?",
+      "answer": [
+        "6375"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7100 + 2291 = ?",
+      "answer": [
+        "9391"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1041 + 5027 = ?",
+      "answer": [
+        "6068"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2353 + 5312 = ?",
+      "answer": [
+        "7665"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "638 + 5794 = ?",
+      "answer": [
+        "6432"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6680 + 328 = ?",
+      "answer": [
+        "7008"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3739 + 5085 = ?",
+      "answer": [
+        "8824"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5270 + 1808 = ?",
+      "answer": [
+        "7078"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2830 + 1211 = ?",
+      "answer": [
+        "4041"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1050 + 6333 = ?",
+      "answer": [
+        "7383"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6323 + 3241 = ?",
+      "answer": [
+        "9564"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7919 + 153 = ?",
+      "answer": [
+        "8072"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5139 + 2218 = ?",
+      "answer": [
+        "7357"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7596 + 1325 = ?",
+      "answer": [
+        "8921"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8286 + 103 = ?",
+      "answer": [
+        "8389"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6465 + 124 = ?",
+      "answer": [
+        "6589"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 + 5011 = ?",
+      "answer": [
+        "5099"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1345 + 737 = ?",
+      "answer": [
+        "2082"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4209 + 3429 = ?",
+      "answer": [
+        "7638"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5578 + 3031 = ?",
+      "answer": [
+        "8609"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2165 + 5825 = ?",
+      "answer": [
+        "7990"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9351 + 2 = ?",
+      "answer": [
+        "9353"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6428 + 545 = ?",
+      "answer": [
+        "6973"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "643 + 4349 = ?",
+      "answer": [
+        "4992"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "821 + 8118 = ?",
+      "answer": [
+        "8939"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5723 + 3224 = ?",
+      "answer": [
+        "8947"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3341 + 4251 = ?",
+      "answer": [
+        "7592"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "590 + 4855 = ?",
+      "answer": [
+        "5445"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9071 + 119 = ?",
+      "answer": [
+        "9190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7264 + 2439 = ?",
+      "answer": [
+        "9703"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3333 + 1813 = ?",
+      "answer": [
+        "5146"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1350 + 1546 = ?",
+      "answer": [
+        "2896"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7742 + 1504 = ?",
+      "answer": [
+        "9246"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9744 + 55 = ?",
+      "answer": [
+        "9799"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4323 + 97 = ?",
+      "answer": [
+        "4420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9940 + 18 = ?",
+      "answer": [
+        "9958"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5331 + 2384 = ?",
+      "answer": [
+        "7715"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4792 + 3821 = ?",
+      "answer": [
+        "8613"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8945 + 325 = ?",
+      "answer": [
+        "9270"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9170 + 280 = ?",
+      "answer": [
+        "9450"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3494 + 4051 = ?",
+      "answer": [
+        "7545"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7414 + 1159 = ?",
+      "answer": [
+        "8573"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5347 + 413 = ?",
+      "answer": [
+        "5760"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2972 + 2249 = ?",
+      "answer": [
+        "5221"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8162 + 667 = ?",
+      "answer": [
+        "8829"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4147 + 5450 = ?",
+      "answer": [
+        "9597"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3614 + 1085 = ?",
+      "answer": [
+        "4699"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2358 + 4323 = ?",
+      "answer": [
+        "6681"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6277 + 928 = ?",
+      "answer": [
+        "7205"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1813 + 5989 = ?",
+      "answer": [
+        "7802"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7819 + 1944 = ?",
+      "answer": [
+        "9763"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2004 + 1991 = ?",
+      "answer": [
+        "3995"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8153 + 60 = ?",
+      "answer": [
+        "8213"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6928 + 1801 = ?",
+      "answer": [
+        "8729"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3707 + 642 = ?",
+      "answer": [
+        "4349"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7454 + 1959 = ?",
+      "answer": [
+        "9413"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5471 + 352 = ?",
+      "answer": [
+        "5823"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5715 + 1913 = ?",
+      "answer": [
+        "7628"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1982 + 3621 = ?",
+      "answer": [
+        "5603"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2958 + 6566 = ?",
+      "answer": [
+        "9524"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4885 + 320 = ?",
+      "answer": [
+        "5205"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4747 + 1651 = ?",
+      "answer": [
+        "6398"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7246 + 2734 = ?",
+      "answer": [
+        "9980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9920 + 76 = ?",
+      "answer": [
+        "9996"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7264 + 2703 = ?",
+      "answer": [
+        "9967"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2220 + 6958 = ?",
+      "answer": [
+        "9178"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2541 + 733 = ?",
+      "answer": [
+        "3274"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5987 + 865 = ?",
+      "answer": [
+        "6852"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2558 + 3714 = ?",
+      "answer": [
+        "6272"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9845 + 9 = ?",
+      "answer": [
+        "9854"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9529 + 325 = ?",
+      "answer": [
+        "9854"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4755 + 5176 = ?",
+      "answer": [
+        "9931"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "278 + 5069 = ?",
+      "answer": [
+        "5347"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5372 + 499 = ?",
+      "answer": [
+        "5871"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4291 + 4421 = ?",
+      "answer": [
+        "8712"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6096 + 2941 = ?",
+      "answer": [
+        "9037"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5617 + 905 = ?",
+      "answer": [
+        "6522"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5727 + 3796 = ?",
+      "answer": [
+        "9523"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8752 + 384 = ?",
+      "answer": [
+        "9136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7124 + 1477 = ?",
+      "answer": [
+        "8601"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1186 + 1702 = ?",
+      "answer": [
+        "2888"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "790 + 6109 = ?",
+      "answer": [
+        "6899"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7737 + 791 = ?",
+      "answer": [
+        "8528"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3769 + 5128 = ?",
+      "answer": [
+        "8897"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4376 + 1005 = ?",
+      "answer": [
+        "5381"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7781 + 1865 = ?",
+      "answer": [
+        "9646"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1640 + 4590 = ?",
+      "answer": [
+        "6230"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2986 + 4672 = ?",
+      "answer": [
+        "7658"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "347 + 7763 = ?",
+      "answer": [
+        "8110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6288 + 1834 = ?",
+      "answer": [
+        "8122"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4726 + 4919 = ?",
+      "answer": [
+        "9645"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5591 + 599 = ?",
+      "answer": [
+        "6190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "643 + 7971 = ?",
+      "answer": [
+        "8614"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3905 + 4286 = ?",
+      "answer": [
+        "8191"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9062 + 9 = ?",
+      "answer": [
+        "9071"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9713 + 267 = ?",
+      "answer": [
+        "9980"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7425 + 1943 = ?",
+      "answer": [
+        "9368"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2505 + 5262 = ?",
+      "answer": [
+        "7767"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4064 + 1097 = ?",
+      "answer": [
+        "5161"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4880 + 3333 = ?",
+      "answer": [
+        "8213"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3344 + 2779 = ?",
+      "answer": [
+        "6123"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5132 + 4103 = ?",
+      "answer": [
+        "9235"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1671 + 4097 = ?",
+      "answer": [
+        "5768"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6720 + 3077 = ?",
+      "answer": [
+        "9797"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7018 + 1057 = ?",
+      "answer": [
+        "8075"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3525 + 2401 = ?",
+      "answer": [
+        "5926"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7147 + 1799 = ?",
+      "answer": [
+        "8946"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2303 + 2973 = ?",
+      "answer": [
+        "5276"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4152 + 783 = ?",
+      "answer": [
+        "4935"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6255 + 49 = ?",
+      "answer": [
+        "6304"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5511 + 1442 = ?",
+      "answer": [
+        "6953"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6087 + 1162 = ?",
+      "answer": [
+        "7249"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4277 + 796 = ?",
+      "answer": [
+        "5073"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7503 + 943 = ?",
+      "answer": [
+        "8446"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3583 + 6235 = ?",
+      "answer": [
+        "9818"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6509 + 812 = ?",
+      "answer": [
+        "7321"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3108 + 4410 = ?",
+      "answer": [
+        "7518"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6450 + 596 = ?",
+      "answer": [
+        "7046"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7659 + 1533 = ?",
+      "answer": [
+        "9192"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3186 + 2632 = ?",
+      "answer": [
+        "5818"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "537 + 1690 = ?",
+      "answer": [
+        "2227"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7296 + 558 = ?",
+      "answer": [
+        "7854"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6817 + 1271 = ?",
+      "answer": [
+        "8088"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4749 + 4012 = ?",
+      "answer": [
+        "8761"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4244 + 1532 = ?",
+      "answer": [
+        "5776"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9905 + 27 = ?",
+      "answer": [
+        "9932"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1840 + 6486 = ?",
+      "answer": [
+        "8326"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7301 + 481 = ?",
+      "answer": [
+        "7782"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8937 + 418 = ?",
+      "answer": [
+        "9355"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1079 + 6777 = ?",
+      "answer": [
+        "7856"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9760 + 218 = ?",
+      "answer": [
+        "9978"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3502 + 346 = ?",
+      "answer": [
+        "3848"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1216 + 3062 = ?",
+      "answer": [
+        "4278"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6443 + 440 = ?",
+      "answer": [
+        "6883"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4051 + 2991 = ?",
+      "answer": [
+        "7042"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2265 + 366 = ?",
+      "answer": [
+        "2631"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 + 8565 = ?",
+      "answer": [
+        "8619"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2976 + 1209 = ?",
+      "answer": [
+        "4185"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "410 + 5748 = ?",
+      "answer": [
+        "6158"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9101 + 433 = ?",
+      "answer": [
+        "9534"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2920 + 3825 = ?",
+      "answer": [
+        "6745"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2145 + 1148 = ?",
+      "answer": [
+        "3293"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8195 + 560 = ?",
+      "answer": [
+        "8755"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7069 + 1716 = ?",
+      "answer": [
+        "8785"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7512 + 345 = ?",
+      "answer": [
+        "7857"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3682 + 3927 = ?",
+      "answer": [
+        "7609"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7473 + 32 = ?",
+      "answer": [
+        "7505"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8358 + 908 = ?",
+      "answer": [
+        "9266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9124 + 109 = ?",
+      "answer": [
+        "9233"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9976 + 6 = ?",
+      "answer": [
+        "9982"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1697 + 6892 = ?",
+      "answer": [
+        "8589"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6499 + 1440 = ?",
+      "answer": [
+        "7939"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3627 + 3601 = ?",
+      "answer": [
+        "7228"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1092 + 1271 = ?",
+      "answer": [
+        "2363"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6000 + 1675 = ?",
+      "answer": [
+        "7675"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9189 + 572 = ?",
+      "answer": [
+        "9761"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6089 + 1275 = ?",
+      "answer": [
+        "7364"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "415 + 4719 = ?",
+      "answer": [
+        "5134"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1133 + 651 = ?",
+      "answer": [
+        "1784"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1757 + 8122 = ?",
+      "answer": [
+        "9879"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5013 + 2888 = ?",
+      "answer": [
+        "7901"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "921 + 3987 = ?",
+      "answer": [
+        "4908"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3001 + 999 = ?",
+      "answer": [
+        "4000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1238 + 1075 = ?",
+      "answer": [
+        "2313"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2197 + 4882 = ?",
+      "answer": [
+        "7079"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2070 + 1397 = ?",
+      "answer": [
+        "3467"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7853 + 1628 = ?",
+      "answer": [
+        "9481"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1085 + 3753 = ?",
+      "answer": [
+        "4838"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8221 + 55 = ?",
+      "answer": [
+        "8276"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7329 + 1859 = ?",
+      "answer": [
+        "9188"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3074 + 6051 = ?",
+      "answer": [
+        "9125"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6500 + 1931 = ?",
+      "answer": [
+        "8431"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3569 + 457 = ?",
+      "answer": [
+        "4026"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2314 + 2910 = ?",
+      "answer": [
+        "5224"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3611 + 3973 = ?",
+      "answer": [
+        "7584"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "391 + 2859 = ?",
+      "answer": [
+        "3250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5357 + 2293 = ?",
+      "answer": [
+        "7650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3555 + 2527 = ?",
+      "answer": [
+        "6082"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4030 + 5834 = ?",
+      "answer": [
+        "9864"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9952 + 6 = ?",
+      "answer": [
+        "9958"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9700 + 177 = ?",
+      "answer": [
+        "9877"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7901 + 1900 = ?",
+      "answer": [
+        "9801"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6184 + 2810 = ?",
+      "answer": [
+        "8994"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3875 + 2895 = ?",
+      "answer": [
+        "6770"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9706 + 170 = ?",
+      "answer": [
+        "9876"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2530 + 843 = ?",
+      "answer": [
+        "3373"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2519 + 6048 = ?",
+      "answer": [
+        "8567"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "175 + 934 = ?",
+      "answer": [
+        "1109"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9080 + 278 = ?",
+      "answer": [
+        "9358"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5597 + 327 = ?",
+      "answer": [
+        "5924"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4998 + 4095 = ?",
+      "answer": [
+        "9093"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4652 + 4785 = ?",
+      "answer": [
+        "9437"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1366 + 2078 = ?",
+      "answer": [
+        "3444"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7507 + 904 = ?",
+      "answer": [
+        "8411"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9653 + 9 = ?",
+      "answer": [
+        "9662"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9973 + 22 = ?",
+      "answer": [
+        "9995"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4813 + 4313 = ?",
+      "answer": [
+        "9126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2803 + 3808 = ?",
+      "answer": [
+        "6611"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6758 + 1761 = ?",
+      "answer": [
+        "8519"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5378 + 1921 = ?",
+      "answer": [
+        "7299"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2860 + 732 = ?",
+      "answer": [
+        "3592"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2689 + 2758 = ?",
+      "answer": [
+        "5447"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6632 + 3016 = ?",
+      "answer": [
+        "9648"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7010 + 1076 = ?",
+      "answer": [
+        "8086"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "251 + 6061 = ?",
+      "answer": [
+        "6312"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8177 + 94 = ?",
+      "answer": [
+        "8271"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1067 + 7645 = ?",
+      "answer": [
+        "8712"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8876 + 678 = ?",
+      "answer": [
+        "9554"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4771 + 3954 = ?",
+      "answer": [
+        "8725"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3851 + 5758 = ?",
+      "answer": [
+        "9609"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "371 + 5973 = ?",
+      "answer": [
+        "6344"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4426 + 2654 = ?",
+      "answer": [
+        "7080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4614 + 1315 = ?",
+      "answer": [
+        "5929"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2265 + 2877 = ?",
+      "answer": [
+        "5142"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6052 + 1124 = ?",
+      "answer": [
+        "7176"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8759 + 685 = ?",
+      "answer": [
+        "9444"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1364 + 697 = ?",
+      "answer": [
+        "2061"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8962 + 183 = ?",
+      "answer": [
+        "9145"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9116 + 562 = ?",
+      "answer": [
+        "9678"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1463 + 2761 = ?",
+      "answer": [
+        "4224"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8615 + 989 = ?",
+      "answer": [
+        "9604"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8120 + 1853 = ?",
+      "answer": [
+        "9973"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3994 + 1524 = ?",
+      "answer": [
+        "5518"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "58 + 6960 = ?",
+      "answer": [
+        "7018"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6208 + 2102 = ?",
+      "answer": [
+        "8310"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8817 + 476 = ?",
+      "answer": [
+        "9293"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8086 + 1781 = ?",
+      "answer": [
+        "9867"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4092 + 1853 = ?",
+      "answer": [
+        "5945"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 + 7919 = ?",
+      "answer": [
+        "8010"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1933 + 7748 = ?",
+      "answer": [
+        "9681"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6947 + 1206 = ?",
+      "answer": [
+        "8153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9841 + 102 = ?",
+      "answer": [
+        "9943"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7807 + 1241 = ?",
+      "answer": [
+        "9048"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7658 + 2109 = ?",
+      "answer": [
+        "9767"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5081 + 1758 = ?",
+      "answer": [
+        "6839"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5641 + 4001 = ?",
+      "answer": [
+        "9642"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9615 + 131 = ?",
+      "answer": [
+        "9746"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3651 + 4792 = ?",
+      "answer": [
+        "8443"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2367 + 6569 = ?",
+      "answer": [
+        "8936"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7846 + 1981 = ?",
+      "answer": [
+        "9827"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5220 + 3477 = ?",
+      "answer": [
+        "8697"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3797 + 4661 = ?",
+      "answer": [
+        "8458"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6114 + 3680 = ?",
+      "answer": [
+        "9794"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7412 + 1242 = ?",
+      "answer": [
+        "8654"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6137 + 2109 = ?",
+      "answer": [
+        "8246"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7608 + 60 = ?",
+      "answer": [
+        "7668"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8733 + 807 = ?",
+      "answer": [
+        "9540"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7101 + 2552 = ?",
+      "answer": [
+        "9653"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3686 + 1191 = ?",
+      "answer": [
+        "4877"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "244 + 6269 = ?",
+      "answer": [
+        "6513"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1039 + 1951 = ?",
+      "answer": [
+        "2990"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9313 + 19 = ?",
+      "answer": [
+        "9332"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2597 + 2462 = ?",
+      "answer": [
+        "5059"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3149 + 3024 = ?",
+      "answer": [
+        "6173"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1177 + 7524 = ?",
+      "answer": [
+        "8701"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4548 + 2428 = ?",
+      "answer": [
+        "6976"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "254 + 9223 = ?",
+      "answer": [
+        "9477"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5331 + 3173 = ?",
+      "answer": [
+        "8504"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9170 + 408 = ?",
+      "answer": [
+        "9578"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "481 + 813 = ?",
+      "answer": [
+        "1294"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1554 + 5167 = ?",
+      "answer": [
+        "6721"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5251 + 2369 = ?",
+      "answer": [
+        "7620"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7103 + 287 = ?",
+      "answer": [
+        "7390"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1673 + 7851 = ?",
+      "answer": [
+        "9524"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9401 + 96 = ?",
+      "answer": [
+        "9497"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3340 + 1330 = ?",
+      "answer": [
+        "4670"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4912 + 1026 = ?",
+      "answer": [
+        "5938"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9902 + 48 = ?",
+      "answer": [
+        "9950"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "814 + 5647 = ?",
+      "answer": [
+        "6461"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5151 + 1600 = ?",
+      "answer": [
+        "6751"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1820 + 6010 = ?",
+      "answer": [
+        "7830"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5124 + 4470 = ?",
+      "answer": [
+        "9594"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8664 + 614 = ?",
+      "answer": [
+        "9278"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5122 + 2851 = ?",
+      "answer": [
+        "7973"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3380 + 1402 = ?",
+      "answer": [
+        "4782"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7048 + 576 = ?",
+      "answer": [
+        "7624"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9047 + 194 = ?",
+      "answer": [
+        "9241"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "974 + 4676 = ?",
+      "answer": [
+        "5650"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4158 + 1181 = ?",
+      "answer": [
+        "5339"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7346 + 2494 = ?",
+      "answer": [
+        "9840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4261 + 1523 = ?",
+      "answer": [
+        "5784"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8727 + 91 = ?",
+      "answer": [
+        "8818"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6028 + 486 = ?",
+      "answer": [
+        "6514"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2488 + 707 = ?",
+      "answer": [
+        "3195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1424 + 1535 = ?",
+      "answer": [
+        "2959"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8350 + 1499 = ?",
+      "answer": [
+        "9849"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2102 + 2679 = ?",
+      "answer": [
+        "4781"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7194 + 1192 = ?",
+      "answer": [
+        "8386"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6714 + 309 = ?",
+      "answer": [
+        "7023"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 + 5657 = ?",
+      "answer": [
+        "5684"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6274 + 2184 = ?",
+      "answer": [
+        "8458"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8522 + 1220 = ?",
+      "answer": [
+        "9742"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5229 + 2874 = ?",
+      "answer": [
+        "8103"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1049 + 3780 = ?",
+      "answer": [
+        "4829"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8406 + 1103 = ?",
+      "answer": [
+        "9509"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "569 + 4135 = ?",
+      "answer": [
+        "4704"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6479 + 3074 = ?",
+      "answer": [
+        "9553"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3339 + 3066 = ?",
+      "answer": [
+        "6405"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5121 + 3029 = ?",
+      "answer": [
+        "8150"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9804 + 115 = ?",
+      "answer": [
+        "9919"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5495 + 443 = ?",
+      "answer": [
+        "5938"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1595 + 7294 = ?",
+      "answer": [
+        "8889"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6231 + 3117 = ?",
+      "answer": [
+        "9348"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1033 + 4606 = ?",
+      "answer": [
+        "5639"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9568 + 110 = ?",
+      "answer": [
+        "9678"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2056 + 3435 = ?",
+      "answer": [
+        "5491"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6788 + 2955 = ?",
+      "answer": [
+        "9743"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3967 + 5712 = ?",
+      "answer": [
+        "9679"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "620 + 1618 = ?",
+      "answer": [
+        "2238"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1902 + 6107 = ?",
+      "answer": [
+        "8009"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4760 + 3371 = ?",
+      "answer": [
+        "8131"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "442 + 4404 = ?",
+      "answer": [
+        "4846"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3177 + 6315 = ?",
+      "answer": [
+        "9492"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9266 + 200 = ?",
+      "answer": [
+        "9466"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4331 + 944 = ?",
+      "answer": [
+        "5275"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2245 + 5133 = ?",
+      "answer": [
+        "7378"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7997 + 1049 = ?",
+      "answer": [
+        "9046"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3890 + 625 = ?",
+      "answer": [
+        "4515"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4826 + 3553 = ?",
+      "answer": [
+        "8379"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9569 + 79 = ?",
+      "answer": [
+        "9648"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1303 + 8032 = ?",
+      "answer": [
+        "9335"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8380 + 1114 = ?",
+      "answer": [
+        "9494"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4581 + 4046 = ?",
+      "answer": [
+        "8627"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 + 341 = ?",
+      "answer": [
+        "432"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4208 + 432 = ?",
+      "answer": [
+        "4640"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4551 + 3248 = ?",
+      "answer": [
+        "7799"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7439 + 462 = ?",
+      "answer": [
+        "7901"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5689 + 2771 = ?",
+      "answer": [
+        "8460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5802 + 1943 = ?",
+      "answer": [
+        "7745"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9576 + 101 = ?",
+      "answer": [
+        "9677"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4878 + 1287 = ?",
+      "answer": [
+        "6165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9146 + 218 = ?",
+      "answer": [
+        "9364"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2793 + 4949 = ?",
+      "answer": [
+        "7742"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8684 + 1086 = ?",
+      "answer": [
+        "9770"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3870 + 5034 = ?",
+      "answer": [
+        "8904"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1382 + 2001 = ?",
+      "answer": [
+        "3383"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8867 + 863 = ?",
+      "answer": [
+        "9730"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7591 + 612 = ?",
+      "answer": [
+        "8203"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5681 + 4023 = ?",
+      "answer": [
+        "9704"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3964 + 754 = ?",
+      "answer": [
+        "4718"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6942 + 2422 = ?",
+      "answer": [
+        "9364"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6106 + 2279 = ?",
+      "answer": [
+        "8385"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3397 + 3826 = ?",
+      "answer": [
+        "7223"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9913 + 63 = ?",
+      "answer": [
+        "9976"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4494 + 5003 = ?",
+      "answer": [
+        "9497"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9251 + 374 = ?",
+      "answer": [
+        "9625"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "64 + 3045 = ?",
+      "answer": [
+        "3109"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "126 + 3550 = ?",
+      "answer": [
+        "3676"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9518 + 5 = ?",
+      "answer": [
+        "9523"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3999 + 308 = ?",
+      "answer": [
+        "4307"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7458 + 1520 = ?",
+      "answer": [
+        "8978"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5424 + 3099 = ?",
+      "answer": [
+        "8523"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7110 + 902 = ?",
+      "answer": [
+        "8012"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1630 + 6276 = ?",
+      "answer": [
+        "7906"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5485 + 434 = ?",
+      "answer": [
+        "5919"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4235 + 2921 = ?",
+      "answer": [
+        "7156"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6674 + 2439 = ?",
+      "answer": [
+        "9113"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5729 + 3993 = ?",
+      "answer": [
+        "9722"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2190 + 4889 = ?",
+      "answer": [
+        "7079"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5890 + 851 = ?",
+      "answer": [
+        "6741"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9749 + 16 = ?",
+      "answer": [
+        "9765"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5792 + 2016 = ?",
+      "answer": [
+        "7808"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4412 + 183 = ?",
+      "answer": [
+        "4595"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9548 + 118 = ?",
+      "answer": [
+        "9666"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8477 + 1453 = ?",
+      "answer": [
+        "9930"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6468 + 2811 = ?",
+      "answer": [
+        "9279"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9048 + 793 = ?",
+      "answer": [
+        "9841"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8752 + 231 = ?",
+      "answer": [
+        "8983"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4672 + 3963 = ?",
+      "answer": [
+        "8635"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2422 + 1233 = ?",
+      "answer": [
+        "3655"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4950 + 3403 = ?",
+      "answer": [
+        "8353"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1599 + 6469 = ?",
+      "answer": [
+        "8068"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9537 + 28 = ?",
+      "answer": [
+        "9565"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8821 + 419 = ?",
+      "answer": [
+        "9240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5440 + 2810 = ?",
+      "answer": [
+        "8250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6540 + 2109 = ?",
+      "answer": [
+        "8649"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3993 + 1546 = ?",
+      "answer": [
+        "5539"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7449 + 1517 = ?",
+      "answer": [
+        "8966"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1460 + 1834 = ?",
+      "answer": [
+        "3294"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3815 + 5936 = ?",
+      "answer": [
+        "9751"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9631 + 244 = ?",
+      "answer": [
+        "9875"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8447 + 1254 = ?",
+      "answer": [
+        "9701"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5340 + 1967 = ?",
+      "answer": [
+        "7307"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2493 + 6791 = ?",
+      "answer": [
+        "9284"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "304 + 6020 = ?",
+      "answer": [
+        "6324"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7673 + 461 = ?",
+      "answer": [
+        "8134"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5191 + 1448 = ?",
+      "answer": [
+        "6639"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3155 + 5707 = ?",
+      "answer": [
+        "8862"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4324 + 2203 = ?",
+      "answer": [
+        "6527"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9690 + 42 = ?",
+      "answer": [
+        "9732"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9924 + 42 = ?",
+      "answer": [
+        "9966"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6190 + 892 = ?",
+      "answer": [
+        "7082"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7302 + 2127 = ?",
+      "answer": [
+        "9429"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6384 + 1229 = ?",
+      "answer": [
+        "7613"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4900 + 4287 = ?",
+      "answer": [
+        "9187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5726 + 3387 = ?",
+      "answer": [
+        "9113"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5599 + 3168 = ?",
+      "answer": [
+        "8767"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1199 + 3632 = ?",
+      "answer": [
+        "4831"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8190 + 1754 = ?",
+      "answer": [
+        "9944"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9174 + 672 = ?",
+      "answer": [
+        "9846"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "413 + 4412 = ?",
+      "answer": [
+        "4825"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8995 + 644 = ?",
+      "answer": [
+        "9639"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7479 + 2060 = ?",
+      "answer": [
+        "9539"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2412 + 7167 = ?",
+      "answer": [
+        "9579"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2480 + 5900 = ?",
+      "answer": [
+        "8380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1552 + 1147 = ?",
+      "answer": [
+        "2699"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7580 + 314 = ?",
+      "answer": [
+        "7894"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "576 + 2088 = ?",
+      "answer": [
+        "2664"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7413 + 2322 = ?",
+      "answer": [
+        "9735"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8662 + 385 = ?",
+      "answer": [
+        "9047"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8580 + 144 = ?",
+      "answer": [
+        "8724"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4494 + 2305 = ?",
+      "answer": [
+        "6799"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1656 + 1478 = ?",
+      "answer": [
+        "3134"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4887 + 2642 = ?",
+      "answer": [
+        "7529"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4611 + 4187 = ?",
+      "answer": [
+        "8798"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2735 + 5200 = ?",
+      "answer": [
+        "7935"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9061 + 688 = ?",
+      "answer": [
+        "9749"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1909 + 2834 = ?",
+      "answer": [
+        "4743"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3241 + 1789 = ?",
+      "answer": [
+        "5030"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9282 + 487 = ?",
+      "answer": [
+        "9769"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8107 + 1460 = ?",
+      "answer": [
+        "9567"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6524 + 2802 = ?",
+      "answer": [
+        "9326"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5496 + 3430 = ?",
+      "answer": [
+        "8926"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6834 + 1715 = ?",
+      "answer": [
+        "8549"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9718 + 221 = ?",
+      "answer": [
+        "9939"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4255 + 511 = ?",
+      "answer": [
+        "4766"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6506 + 1366 = ?",
+      "answer": [
+        "7872"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5734 + 3528 = ?",
+      "answer": [
+        "9262"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5731 + 2261 = ?",
+      "answer": [
+        "7992"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8588 + 851 = ?",
+      "answer": [
+        "9439"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6772 + 2755 = ?",
+      "answer": [
+        "9527"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8517 + 365 = ?",
+      "answer": [
+        "8882"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7971 + 1746 = ?",
+      "answer": [
+        "9717"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5838 + 1119 = ?",
+      "answer": [
+        "6957"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4059 + 5284 = ?",
+      "answer": [
+        "9343"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "86 + 9262 = ?",
+      "answer": [
+        "9348"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7965 + 654 = ?",
+      "answer": [
+        "8619"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5635 + 725 = ?",
+      "answer": [
+        "6360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5921 + 2261 = ?",
+      "answer": [
+        "8182"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3514 + 6430 = ?",
+      "answer": [
+        "9944"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7265 + 1618 = ?",
+      "answer": [
+        "8883"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7040 + 1401 = ?",
+      "answer": [
+        "8441"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2840 + 2197 = ?",
+      "answer": [
+        "5037"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1470 + 2855 = ?",
+      "answer": [
+        "4325"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8412 + 1157 = ?",
+      "answer": [
+        "9569"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "281 + 7103 = ?",
+      "answer": [
+        "7384"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1999 + 7276 = ?",
+      "answer": [
+        "9275"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3270 + 5826 = ?",
+      "answer": [
+        "9096"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6519 + 770 = ?",
+      "answer": [
+        "7289"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4114 + 2438 = ?",
+      "answer": [
+        "6552"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1675 + 1168 = ?",
+      "answer": [
+        "2843"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7548 + 2323 = ?",
+      "answer": [
+        "9871"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1469 + 7360 = ?",
+      "answer": [
+        "8829"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8818 + 965 = ?",
+      "answer": [
+        "9783"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6258 + 1199 = ?",
+      "answer": [
+        "7457"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "566 + 1856 = ?",
+      "answer": [
+        "2422"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "758 + 3971 = ?",
+      "answer": [
+        "4729"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4803 + 1285 = ?",
+      "answer": [
+        "6088"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1899 + 5262 = ?",
+      "answer": [
+        "7161"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "131 + 5792 = ?",
+      "answer": [
+        "5923"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2945 + 1248 = ?",
+      "answer": [
+        "4193"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6850 + 1706 = ?",
+      "answer": [
+        "8556"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2774 + 2587 = ?",
+      "answer": [
+        "5361"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5148 + 4192 = ?",
+      "answer": [
+        "9340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1736 + 1193 = ?",
+      "answer": [
+        "2929"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3974 + 5317 = ?",
+      "answer": [
+        "9291"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7982 + 1351 = ?",
+      "answer": [
+        "9333"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "802 + 2535 = ?",
+      "answer": [
+        "3337"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "691 + 2572 = ?",
+      "answer": [
+        "3263"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4911 + 4761 = ?",
+      "answer": [
+        "9672"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9067 + 537 = ?",
+      "answer": [
+        "9604"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9349 + 398 = ?",
+      "answer": [
+        "9747"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8557 + 509 = ?",
+      "answer": [
+        "9066"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9234 + 228 = ?",
+      "answer": [
+        "9462"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8156 + 779 = ?",
+      "answer": [
+        "8935"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6549 + 1921 = ?",
+      "answer": [
+        "8470"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5226 + 3497 = ?",
+      "answer": [
+        "8723"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4090 + 1487 = ?",
+      "answer": [
+        "5577"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6733 + 1034 = ?",
+      "answer": [
+        "7767"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3715 + 2257 = ?",
+      "answer": [
+        "5972"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8310 + 1543 = ?",
+      "answer": [
+        "9853"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6562 + 2915 = ?",
+      "answer": [
+        "9477"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5035 + 1646 = ?",
+      "answer": [
+        "6681"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5385 + 3721 = ?",
+      "answer": [
+        "9106"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "358 + 8633 = ?",
+      "answer": [
+        "8991"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1660 + 2330 = ?",
+      "answer": [
+        "3990"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2065 + 4253 = ?",
+      "answer": [
+        "6318"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2629 + 3811 = ?",
+      "answer": [
+        "6440"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6681 + 1226 = ?",
+      "answer": [
+        "7907"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5930 + 2381 = ?",
+      "answer": [
+        "8311"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6242 + 3127 = ?",
+      "answer": [
+        "9369"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1970 + 4381 = ?",
+      "answer": [
+        "6351"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3812 + 4365 = ?",
+      "answer": [
+        "8177"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6698 + 2169 = ?",
+      "answer": [
+        "8867"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6673 + 2012 = ?",
+      "answer": [
+        "8685"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9937 + 19 = ?",
+      "answer": [
+        "9956"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8588 + 1077 = ?",
+      "answer": [
+        "9665"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6929 + 1730 = ?",
+      "answer": [
+        "8659"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5039 + 917 = ?",
+      "answer": [
+        "5956"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3242 + 5099 = ?",
+      "answer": [
+        "8341"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7854 + 1088 = ?",
+      "answer": [
+        "8942"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5716 + 785 = ?",
+      "answer": [
+        "6501"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8121 + 236 = ?",
+      "answer": [
+        "8357"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4576 + 130 = ?",
+      "answer": [
+        "4706"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8801 + 531 = ?",
+      "answer": [
+        "9332"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4394 + 863 = ?",
+      "answer": [
+        "5257"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "945 + 2611 = ?",
+      "answer": [
+        "3556"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4039 + 1092 = ?",
+      "answer": [
+        "5131"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9916 + 73 = ?",
+      "answer": [
+        "9989"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8279 + 226 = ?",
+      "answer": [
+        "8505"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "543 + 7050 = ?",
+      "answer": [
+        "7593"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6191 + 1718 = ?",
+      "answer": [
+        "7909"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2571 + 6555 = ?",
+      "answer": [
+        "9126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4030 + 2144 = ?",
+      "answer": [
+        "6174"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "362 + 4733 = ?",
+      "answer": [
+        "5095"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2724 + 4834 = ?",
+      "answer": [
+        "7558"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3221 + 2373 = ?",
+      "answer": [
+        "5594"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2637 + 4116 = ?",
+      "answer": [
+        "6753"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5268 + 4580 = ?",
+      "answer": [
+        "9848"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "768 + 645 = ?",
+      "answer": [
+        "1413"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6247 + 1833 = ?",
+      "answer": [
+        "8080"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8035 + 242 = ?",
+      "answer": [
+        "8277"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7204 + 1131 = ?",
+      "answer": [
+        "8335"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6811 + 1362 = ?",
+      "answer": [
+        "8173"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7406 + 1062 = ?",
+      "answer": [
+        "8468"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1345 + 5412 = ?",
+      "answer": [
+        "6757"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1450 + 8252 = ?",
+      "answer": [
+        "9702"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6255 + 1588 = ?",
+      "answer": [
+        "7843"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7914 + 866 = ?",
+      "answer": [
+        "8780"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "729 + 5976 = ?",
+      "answer": [
+        "6705"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3521 + 4630 = ?",
+      "answer": [
+        "8151"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8588 + 576 = ?",
+      "answer": [
+        "9164"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9153 + 101 = ?",
+      "answer": [
+        "9254"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6887 + 2797 = ?",
+      "answer": [
+        "9684"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6688 + 1296 = ?",
+      "answer": [
+        "7984"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8188 + 764 = ?",
+      "answer": [
+        "8952"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8005 + 749 = ?",
+      "answer": [
+        "8754"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4170 + 4024 = ?",
+      "answer": [
+        "8194"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "121 + 9839 = ?",
+      "answer": [
+        "9960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "746 + 5207 = ?",
+      "answer": [
+        "5953"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2808 + 188 = ?",
+      "answer": [
+        "2996"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7310 + 1803 = ?",
+      "answer": [
+        "9113"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7655 + 453 = ?",
+      "answer": [
+        "8108"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5316 + 3027 = ?",
+      "answer": [
+        "8343"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9934 + 31 = ?",
+      "answer": [
+        "9965"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3793 + 5626 = ?",
+      "answer": [
+        "9419"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7195 + 1467 = ?",
+      "answer": [
+        "8662"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1998 + 1466 = ?",
+      "answer": [
+        "3464"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1006 + 8619 = ?",
+      "answer": [
+        "9625"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1838 + 2201 = ?",
+      "answer": [
+        "4039"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "723 + 3950 = ?",
+      "answer": [
+        "4673"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5226 + 3211 = ?",
+      "answer": [
+        "8437"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "718 + 8585 = ?",
+      "answer": [
+        "9303"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4020 + 787 = ?",
+      "answer": [
+        "4807"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4948 + 416 = ?",
+      "answer": [
+        "5364"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2709 + 1491 = ?",
+      "answer": [
+        "4200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5300 + 3912 = ?",
+      "answer": [
+        "9212"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6501 + 1307 = ?",
+      "answer": [
+        "7808"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2581 + 460 = ?",
+      "answer": [
+        "3041"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9968 + 13 = ?",
+      "answer": [
+        "9981"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1600 + 435 = ?",
+      "answer": [
+        "2035"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3898 + 4330 = ?",
+      "answer": [
+        "8228"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4218 + 4549 = ?",
+      "answer": [
+        "8767"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "522 + 4929 = ?",
+      "answer": [
+        "5451"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6785 + 1506 = ?",
+      "answer": [
+        "8291"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9764 + 76 = ?",
+      "answer": [
+        "9840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "870 + 7360 = ?",
+      "answer": [
+        "8230"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1680 + 2048 = ?",
+      "answer": [
+        "3728"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8680 + 1205 = ?",
+      "answer": [
+        "9885"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2714 + 5837 = ?",
+      "answer": [
+        "8551"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7100 + 2569 = ?",
+      "answer": [
+        "9669"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5975 + 1184 = ?",
+      "answer": [
+        "7159"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6721 + 1323 = ?",
+      "answer": [
+        "8044"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8147 + 782 = ?",
+      "answer": [
+        "8929"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4800 + 4716 = ?",
+      "answer": [
+        "9516"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8210 + 1253 = ?",
+      "answer": [
+        "9463"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3537 + 1333 = ?",
+      "answer": [
+        "4870"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5625 + 3051 = ?",
+      "answer": [
+        "8676"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7577 + 1405 = ?",
+      "answer": [
+        "8982"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8136 + 511 = ?",
+      "answer": [
+        "8647"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7158 + 1994 = ?",
+      "answer": [
+        "9152"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1851 + 2244 = ?",
+      "answer": [
+        "4095"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5781 + 4089 = ?",
+      "answer": [
+        "9870"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8749 + 492 = ?",
+      "answer": [
+        "9241"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3849 + 408 = ?",
+      "answer": [
+        "4257"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9284 + 94 = ?",
+      "answer": [
+        "9378"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2143 + 6535 = ?",
+      "answer": [
+        "8678"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "222 + 995 = ?",
+      "answer": [
+        "1217"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1564 + 6482 = ?",
+      "answer": [
+        "8046"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "383 + 754 = ?",
+      "answer": [
+        "1137"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8045 + 1500 = ?",
+      "answer": [
+        "9545"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9447 + 295 = ?",
+      "answer": [
+        "9742"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4028 + 5215 = ?",
+      "answer": [
+        "9243"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7462 + 1500 = ?",
+      "answer": [
+        "8962"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "422 + 1719 = ?",
+      "answer": [
+        "2141"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5223 + 3004 = ?",
+      "answer": [
+        "8227"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5446 + 742 = ?",
+      "answer": [
+        "6188"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8184 + 1704 = ?",
+      "answer": [
+        "9888"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9269 + 41 = ?",
+      "answer": [
+        "9310"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9044 + 183 = ?",
+      "answer": [
+        "9227"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5835 + 281 = ?",
+      "answer": [
+        "6116"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6673 + 2104 = ?",
+      "answer": [
+        "8777"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5800 + 2305 = ?",
+      "answer": [
+        "8105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1534 + 1912 = ?",
+      "answer": [
+        "3446"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6979 + 1237 = ?",
+      "answer": [
+        "8216"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "252 + 1819 = ?",
+      "answer": [
+        "2071"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1205 + 3374 = ?",
+      "answer": [
+        "4579"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4492 + 3395 = ?",
+      "answer": [
+        "7887"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9012 + 950 = ?",
+      "answer": [
+        "9962"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1803 + 1558 = ?",
+      "answer": [
+        "3361"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6050 + 259 = ?",
+      "answer": [
+        "6309"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8571 + 139 = ?",
+      "answer": [
+        "8710"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7627 + 1925 = ?",
+      "answer": [
+        "9552"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7762 + 1546 = ?",
+      "answer": [
+        "9308"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "299 + 8805 = ?",
+      "answer": [
+        "9104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6580 + 1872 = ?",
+      "answer": [
+        "8452"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1904 + 4455 = ?",
+      "answer": [
+        "6359"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1729 + 7382 = ?",
+      "answer": [
+        "9111"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3952 + 5253 = ?",
+      "answer": [
+        "9205"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2405 + 4501 = ?",
+      "answer": [
+        "6906"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2772 + 1892 = ?",
+      "answer": [
+        "4664"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3701 + 1049 = ?",
+      "answer": [
+        "4750"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

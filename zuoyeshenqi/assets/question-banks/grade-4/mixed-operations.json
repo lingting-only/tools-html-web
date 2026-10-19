@@ -1,0 +1,7208 @@
+{
+  "title": "4年级 · 混合运算",
+  "grade": 4,
+  "category": "混合运算",
+  "range": "进阶 · 整数四则与括号",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "2 + 131 × 3 = ?",
+      "answer": [
+        "395"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1425 − 3) ÷ 3 = ?",
+      "answer": [
+        "474"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "387 × 3 + 4 = ?",
+      "answer": [
+        "1165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3051 ÷ 9 + 3 = ?",
+      "answer": [
+        "342"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "560 ÷ 7 + 10 = ?",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "497 × 7 + 7 = ?",
+      "answer": [
+        "3486"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(209 + 13) × 5 = ?",
+      "answer": [
+        "1110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "264 ÷ 3 + 11 = ?",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "918 ÷ 9 + 7 = ?",
+      "answer": [
+        "109"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "421 × 3 + 2 = ?",
+      "answer": [
+        "1265"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "404 × 5 + 11 = ?",
+      "answer": [
+        "2031"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(186 + 11) × 6 = ?",
+      "answer": [
+        "1182"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 225 × 9 = ?",
+      "answer": [
+        "2041"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 283 × 7 = ?",
+      "answer": [
+        "1994"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "435 × 4 + 4 = ?",
+      "answer": [
+        "1744"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "341 × 5 − 1692 = ?",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "20 × 2 − 30 = ?",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "370 × 2 − 545 = ?",
+      "answer": [
+        "195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(4 + 2) × 3 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "398 × 6 + 5 = ?",
+      "answer": [
+        "2393"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1544 − 8) ÷ 8 = ?",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "103 × 8 − 775 = ?",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "455 × 9 + 16 = ?",
+      "answer": [
+        "4111"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "199 × 9 + 18 = ?",
+      "answer": [
+        "1809"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(623 − 7) ÷ 7 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 262 × 4 = ?",
+      "answer": [
+        "1056"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "104 × 6 + 1 = ?",
+      "answer": [
+        "625"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "381 × 4 + 4 = ?",
+      "answer": [
+        "1528"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 458 × 9 = ?",
+      "answer": [
+        "4127"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(157 + 17) × 6 = ?",
+      "answer": [
+        "1044"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1497 − 3) ÷ 3 = ?",
+      "answer": [
+        "498"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200 × 9 + 18 = ?",
+      "answer": [
+        "1818"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 363 × 6 = ?",
+      "answer": [
+        "2189"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4464 ÷ 9 + 4 = ?",
+      "answer": [
+        "500"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 64 × 9 = ?",
+      "answer": [
+        "585"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "431 × 4 + 8 = ?",
+      "answer": [
+        "1732"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "196 × 3 + 6 = ?",
+      "answer": [
+        "594"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4131 ÷ 9 + 5 = ?",
+      "answer": [
+        "464"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1980 − 6) ÷ 6 = ?",
+      "answer": [
+        "329"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 443 × 8 = ?",
+      "answer": [
+        "3559"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200 ÷ 5 + 5 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(140 + 15) × 6 = ?",
+      "answer": [
+        "930"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99 × 3 + 1 = ?",
+      "answer": [
+        "298"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 346 × 6 = ?",
+      "answer": [
+        "2094"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 326 × 7 = ?",
+      "answer": [
+        "2284"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "612 ÷ 3 + 19 = ?",
+      "answer": [
+        "223"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "96 × 8 + 14 = ?",
+      "answer": [
+        "782"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "765 ÷ 5 + 5 = ?",
+      "answer": [
+        "158"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9 + 489 × 9 = ?",
+      "answer": [
+        "4410"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "245 ÷ 5 + 10 = ?",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 127 × 5 = ?",
+      "answer": [
+        "639"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "431 × 7 + 7 = ?",
+      "answer": [
+        "3024"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "124 × 6 + 10 = ?",
+      "answer": [
+        "754"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3624 ÷ 8 + 6 = ?",
+      "answer": [
+        "459"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "234 × 3 − 451 = ?",
+      "answer": [
+        "251"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1422 − 9) ÷ 9 = ?",
+      "answer": [
+        "157"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "457 × 9 − 2005 = ?",
+      "answer": [
+        "2108"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "66 × 5 + 14 = ?",
+      "answer": [
+        "344"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(35 + 16) × 2 = ?",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2850 ÷ 6 + 15 = ?",
+      "answer": [
+        "490"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(329 + 17) × 8 = ?",
+      "answer": [
+        "2768"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1704 − 4) ÷ 4 = ?",
+      "answer": [
+        "425"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1176 ÷ 3 + 17 = ?",
+      "answer": [
+        "409"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1344 ÷ 4 + 16 = ?",
+      "answer": [
+        "352"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "337 × 3 + 16 = ?",
+      "answer": [
+        "1027"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 409 × 2 = ?",
+      "answer": [
+        "829"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240 × 7 + 16 = ?",
+      "answer": [
+        "1696"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 93 × 5 = ?",
+      "answer": [
+        "484"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 434 × 8 = ?",
+      "answer": [
+        "3474"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 448 × 7 = ?",
+      "answer": [
+        "3149"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 209 × 4 = ?",
+      "answer": [
+        "837"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2640 ÷ 6 + 14 = ?",
+      "answer": [
+        "454"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "414 × 6 − 235 = ?",
+      "answer": [
+        "2249"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "73 × 4 − 281 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "463 × 5 + 7 = ?",
+      "answer": [
+        "2322"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "300 × 3 − 500 = ?",
+      "answer": [
+        "400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(477 + 2) × 2 = ?",
+      "answer": [
+        "958"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "129 × 5 − 123 = ?",
+      "answer": [
+        "522"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(84 + 17) × 4 = ?",
+      "answer": [
+        "404"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "385 × 7 + 9 = ?",
+      "answer": [
+        "2704"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(221 + 5) × 5 = ?",
+      "answer": [
+        "1130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 371 × 9 = ?",
+      "answer": [
+        "3342"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2888 ÷ 8 + 10 = ?",
+      "answer": [
+        "371"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "740 ÷ 2 + 2 = ?",
+      "answer": [
+        "372"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "159 × 8 + 14 = ?",
+      "answer": [
+        "1286"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "840 ÷ 3 + 18 = ?",
+      "answer": [
+        "298"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(15 + 11) × 4 = ?",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "234 ÷ 6 + 3 = ?",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(15 + 19) × 5 = ?",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(383 + 3) × 8 = ?",
+      "answer": [
+        "3088"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1862 ÷ 7 + 12 = ?",
+      "answer": [
+        "278"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 × 7 − 139 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "116 × 2 − 104 = ?",
+      "answer": [
+        "128"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3060 ÷ 9 + 18 = ?",
+      "answer": [
+        "358"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "471 × 4 − 1366 = ?",
+      "answer": [
+        "518"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "378 ÷ 9 + 15 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1155 − 7) ÷ 7 = ?",
+      "answer": [
+        "164"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3510 ÷ 9 + 14 = ?",
+      "answer": [
+        "404"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1792 − 7) ÷ 7 = ?",
+      "answer": [
+        "255"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(94 + 11) × 9 = ?",
+      "answer": [
+        "945"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "56 ÷ 4 + 3 = ?",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1016 ÷ 4 + 12 = ?",
+      "answer": [
+        "266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "129 × 2 − 179 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(389 + 15) × 8 = ?",
+      "answer": [
+        "3232"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(397 + 14) × 8 = ?",
+      "answer": [
+        "3288"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "612 ÷ 9 + 11 = ?",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 33 × 6 = ?",
+      "answer": [
+        "209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2800 − 8) ÷ 8 = ?",
+      "answer": [
+        "349"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 × 5 − 29 = ?",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 313 × 2 = ?",
+      "answer": [
+        "631"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(801 − 9) ÷ 9 = ?",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "415 × 2 − 158 = ?",
+      "answer": [
+        "672"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(456 + 3) × 8 = ?",
+      "answer": [
+        "3672"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "346 × 9 + 12 = ?",
+      "answer": [
+        "3126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(492 − 6) ÷ 6 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "52 × 7 + 7 = ?",
+      "answer": [
+        "371"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 230 × 7 = ?",
+      "answer": [
+        "1623"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(361 + 10) × 3 = ?",
+      "answer": [
+        "1113"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(410 + 19) × 9 = ?",
+      "answer": [
+        "3861"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "489 × 3 + 12 = ?",
+      "answer": [
+        "1479"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(114 + 1) × 4 = ?",
+      "answer": [
+        "460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1068 − 4) ÷ 4 = ?",
+      "answer": [
+        "266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(368 + 11) × 4 = ?",
+      "answer": [
+        "1516"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "392 × 2 − 31 = ?",
+      "answer": [
+        "753"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(688 − 4) ÷ 4 = ?",
+      "answer": [
+        "171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(412 + 3) × 4 = ?",
+      "answer": [
+        "1660"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 461 × 6 = ?",
+      "answer": [
+        "2776"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1290 − 5) ÷ 5 = ?",
+      "answer": [
+        "257"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2472 ÷ 8 + 2 = ?",
+      "answer": [
+        "311"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 364 × 6 = ?",
+      "answer": [
+        "2196"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(195 + 1) × 7 = ?",
+      "answer": [
+        "1372"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(448 + 9) × 8 = ?",
+      "answer": [
+        "3656"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(161 + 12) × 6 = ?",
+      "answer": [
+        "1038"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(82 + 3) × 3 = ?",
+      "answer": [
+        "255"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "170 × 4 − 205 = ?",
+      "answer": [
+        "475"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 6 × 6 = ?",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(404 − 2) ÷ 2 = ?",
+      "answer": [
+        "201"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "24 × 9 − 57 = ?",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 9 × 3 = ?",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(488 + 11) × 7 = ?",
+      "answer": [
+        "3493"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "568 ÷ 4 + 2 = ?",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 × 7 − 103 = ?",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2880 − 8) ÷ 8 = ?",
+      "answer": [
+        "359"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1975 ÷ 5 + 14 = ?",
+      "answer": [
+        "409"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "497 × 9 + 18 = ?",
+      "answer": [
+        "4491"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3488 ÷ 8 + 1 = ?",
+      "answer": [
+        "437"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(35 − 5) ÷ 5 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "269 × 7 + 9 = ?",
+      "answer": [
+        "1892"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "211 × 5 + 8 = ?",
+      "answer": [
+        "1063"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1536 − 4) ÷ 4 = ?",
+      "answer": [
+        "383"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 290 × 3 = ?",
+      "answer": [
+        "872"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(339 + 12) × 9 = ?",
+      "answer": [
+        "3159"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(365 + 14) × 3 = ?",
+      "answer": [
+        "1137"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "305 × 2 − 577 = ?",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1056 ÷ 3 + 2 = ?",
+      "answer": [
+        "354"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "576 ÷ 4 + 10 = ?",
+      "answer": [
+        "154"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(164 + 8) × 4 = ?",
+      "answer": [
+        "688"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1260 − 4) ÷ 4 = ?",
+      "answer": [
+        "314"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(262 + 14) × 5 = ?",
+      "answer": [
+        "1380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 435 × 8 = ?",
+      "answer": [
+        "3498"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225 ÷ 3 + 5 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1148 ÷ 7 + 12 = ?",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(180 + 19) × 8 = ?",
+      "answer": [
+        "1592"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "690 ÷ 3 + 8 = ?",
+      "answer": [
+        "238"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 283 × 5 = ?",
+      "answer": [
+        "1432"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1788 ÷ 6 + 6 = ?",
+      "answer": [
+        "304"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(432 − 2) ÷ 2 = ?",
+      "answer": [
+        "215"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1436 − 4) ÷ 4 = ?",
+      "answer": [
+        "358"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "465 × 4 − 1808 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "146 × 2 − 144 = ?",
+      "answer": [
+        "148"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "254 × 4 − 156 = ?",
+      "answer": [
+        "860"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "105 × 3 + 14 = ?",
+      "answer": [
+        "329"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 × 8 − 63 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "448 × 7 + 14 = ?",
+      "answer": [
+        "3150"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "281 × 6 − 959 = ?",
+      "answer": [
+        "727"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(141 + 1) × 7 = ?",
+      "answer": [
+        "994"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(173 + 17) × 6 = ?",
+      "answer": [
+        "1140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2562 ÷ 7 + 4 = ?",
+      "answer": [
+        "370"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 4 × 2 = ?",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "33 × 9 + 6 = ?",
+      "answer": [
+        "303"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(894 − 6) ÷ 6 = ?",
+      "answer": [
+        "148"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 310 × 3 = ?",
+      "answer": [
+        "931"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "139 × 5 − 39 = ?",
+      "answer": [
+        "656"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 20 × 5 = ?",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(429 + 17) × 7 = ?",
+      "answer": [
+        "3122"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "263 × 7 − 1272 = ?",
+      "answer": [
+        "569"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2205 ÷ 5 + 14 = ?",
+      "answer": [
+        "455"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 35 × 9 = ?",
+      "answer": [
+        "317"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 141 × 3 = ?",
+      "answer": [
+        "442"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1962 ÷ 6 + 4 = ?",
+      "answer": [
+        "331"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2709 ÷ 9 + 6 = ?",
+      "answer": [
+        "307"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(852 − 4) ÷ 4 = ?",
+      "answer": [
+        "212"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "402 × 8 + 9 = ?",
+      "answer": [
+        "3225"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 466 × 5 = ?",
+      "answer": [
+        "2332"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(71 + 2) × 2 = ?",
+      "answer": [
+        "146"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "640 ÷ 4 + 11 = ?",
+      "answer": [
+        "171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "270 × 8 − 674 = ?",
+      "answer": [
+        "1486"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3000 ÷ 8 + 12 = ?",
+      "answer": [
+        "387"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "316 × 7 − 360 = ?",
+      "answer": [
+        "1852"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "457 × 7 − 1436 = ?",
+      "answer": [
+        "1763"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(372 + 14) × 9 = ?",
+      "answer": [
+        "3474"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1875 − 5) ÷ 5 = ?",
+      "answer": [
+        "374"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(306 + 9) × 4 = ?",
+      "answer": [
+        "1260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 9 + 4 = ?",
+      "answer": [
+        "274"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(140 + 2) × 9 = ?",
+      "answer": [
+        "1278"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2826 ÷ 6 + 11 = ?",
+      "answer": [
+        "482"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 300 × 5 = ?",
+      "answer": [
+        "1519"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(369 + 9) × 2 = ?",
+      "answer": [
+        "756"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "21 × 6 − 121 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "273 ÷ 7 + 13 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1002 − 3) ÷ 3 = ?",
+      "answer": [
+        "333"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "282 ÷ 2 + 15 = ?",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "377 × 5 − 252 = ?",
+      "answer": [
+        "1633"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "924 ÷ 2 + 5 = ?",
+      "answer": [
+        "467"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "267 × 5 − 883 = ?",
+      "answer": [
+        "452"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(696 − 2) ÷ 2 = ?",
+      "answer": [
+        "347"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(3840 − 8) ÷ 8 = ?",
+      "answer": [
+        "479"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(374 + 6) × 3 = ?",
+      "answer": [
+        "1140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3344 ÷ 8 + 6 = ?",
+      "answer": [
+        "424"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1112 ÷ 4 + 16 = ?",
+      "answer": [
+        "294"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1347 ÷ 3 + 13 = ?",
+      "answer": [
+        "462"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "274 × 2 + 17 = ?",
+      "answer": [
+        "565"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 92 × 7 = ?",
+      "answer": [
+        "654"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1505 ÷ 5 + 18 = ?",
+      "answer": [
+        "319"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(274 + 11) × 6 = ?",
+      "answer": [
+        "1710"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 126 × 9 = ?",
+      "answer": [
+        "1144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "28 × 3 + 1 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "353 × 7 − 233 = ?",
+      "answer": [
+        "2238"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "349 × 2 + 9 = ?",
+      "answer": [
+        "707"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(494 + 9) × 2 = ?",
+      "answer": [
+        "1006"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1533 ÷ 7 + 10 = ?",
+      "answer": [
+        "229"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "191 × 6 + 12 = ?",
+      "answer": [
+        "1158"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 100 × 6 = ?",
+      "answer": [
+        "614"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "936 ÷ 8 + 7 = ?",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164 × 4 − 326 = ?",
+      "answer": [
+        "330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 148 × 2 = ?",
+      "answer": [
+        "301"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 × 4 − 258 = ?",
+      "answer": [
+        "114"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(249 + 1) × 8 = ?",
+      "answer": [
+        "2000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "165 × 4 + 17 = ?",
+      "answer": [
+        "677"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 167 × 9 = ?",
+      "answer": [
+        "1511"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 435 × 5 = ?",
+      "answer": [
+        "2189"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "37 × 9 − 70 = ?",
+      "answer": [
+        "263"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(462 + 9) × 3 = ?",
+      "answer": [
+        "1413"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 230 × 4 = ?",
+      "answer": [
+        "932"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(560 − 5) ÷ 5 = ?",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1442 − 7) ÷ 7 = ?",
+      "answer": [
+        "205"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "270 × 3 − 515 = ?",
+      "answer": [
+        "295"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(185 + 18) × 7 = ?",
+      "answer": [
+        "1421"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3132 ÷ 9 + 10 = ?",
+      "answer": [
+        "358"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 254 × 8 = ?",
+      "answer": [
+        "2039"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(231 + 4) × 5 = ?",
+      "answer": [
+        "1175"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "189 × 8 + 18 = ?",
+      "answer": [
+        "1530"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(91 + 3) × 7 = ?",
+      "answer": [
+        "658"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "399 ÷ 3 + 3 = ?",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "393 × 7 − 897 = ?",
+      "answer": [
+        "1854"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "376 ÷ 2 + 5 = ?",
+      "answer": [
+        "193"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "226 × 9 − 160 = ?",
+      "answer": [
+        "1874"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 452 × 3 = ?",
+      "answer": [
+        "1374"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 377 × 4 = ?",
+      "answer": [
+        "1516"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1068 ÷ 4 + 9 = ?",
+      "answer": [
+        "276"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 28 × 6 = ?",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "488 × 5 − 866 = ?",
+      "answer": [
+        "1574"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "48 × 3 − 67 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 2 × 8 = ?",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "480 ÷ 2 + 14 = ?",
+      "answer": [
+        "254"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2250 ÷ 9 + 9 = ?",
+      "answer": [
+        "259"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "399 × 6 − 798 = ?",
+      "answer": [
+        "1596"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 18 × 7 = ?",
+      "answer": [
+        "137"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "118 × 6 + 16 = ?",
+      "answer": [
+        "724"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(602 − 7) ÷ 7 = ?",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 416 × 3 = ?",
+      "answer": [
+        "1261"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 × 4 − 235 = ?",
+      "answer": [
+        "101"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 238 × 7 = ?",
+      "answer": [
+        "1669"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "453 ÷ 3 + 7 = ?",
+      "answer": [
+        "158"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1480 ÷ 8 + 1 = ?",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "165 × 8 + 13 = ?",
+      "answer": [
+        "1333"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(150 + 17) × 8 = ?",
+      "answer": [
+        "1336"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 473 × 6 = ?",
+      "answer": [
+        "2855"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(315 + 15) × 7 = ?",
+      "answer": [
+        "2310"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "107 × 5 + 12 = ?",
+      "answer": [
+        "547"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1872 ÷ 8 + 19 = ?",
+      "answer": [
+        "253"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "102 × 9 + 5 = ?",
+      "answer": [
+        "923"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 241 × 6 = ?",
+      "answer": [
+        "1460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(306 + 6) × 4 = ?",
+      "answer": [
+        "1248"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "384 × 5 − 132 = ?",
+      "answer": [
+        "1788"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 494 × 8 = ?",
+      "answer": [
+        "3956"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(105 + 10) × 4 = ?",
+      "answer": [
+        "460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "944 ÷ 2 + 9 = ?",
+      "answer": [
+        "481"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 240 × 4 = ?",
+      "answer": [
+        "973"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(277 + 4) × 2 = ?",
+      "answer": [
+        "562"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 × 6 + 2 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 164 × 4 = ?",
+      "answer": [
+        "659"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "290 × 7 − 670 = ?",
+      "answer": [
+        "1360"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(318 + 1) × 6 = ?",
+      "answer": [
+        "1914"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 430 × 6 = ?",
+      "answer": [
+        "2599"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(876 − 3) ÷ 3 = ?",
+      "answer": [
+        "291"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 283 × 3 = ?",
+      "answer": [
+        "855"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "334 × 8 + 8 = ?",
+      "answer": [
+        "2680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 168 × 8 = ?",
+      "answer": [
+        "1359"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "254 ÷ 2 + 14 = ?",
+      "answer": [
+        "141"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(351 + 14) × 6 = ?",
+      "answer": [
+        "2190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "167 × 3 + 9 = ?",
+      "answer": [
+        "510"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1672 ÷ 8 + 12 = ?",
+      "answer": [
+        "221"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(416 + 2) × 8 = ?",
+      "answer": [
+        "3344"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "136 × 9 − 498 = ?",
+      "answer": [
+        "726"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 280 × 3 = ?",
+      "answer": [
+        "848"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 487 × 2 = ?",
+      "answer": [
+        "979"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "403 × 4 − 1113 = ?",
+      "answer": [
+        "499"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(185 + 3) × 3 = ?",
+      "answer": [
+        "564"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 222 × 9 = ?",
+      "answer": [
+        "2006"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "294 × 2 − 440 = ?",
+      "answer": [
+        "148"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(765 − 3) ÷ 3 = ?",
+      "answer": [
+        "254"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "588 ÷ 3 + 10 = ?",
+      "answer": [
+        "206"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(840 − 2) ÷ 2 = ?",
+      "answer": [
+        "419"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "32 × 4 + 1 = ?",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(14 − 2) ÷ 2 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(71 + 14) × 8 = ?",
+      "answer": [
+        "680"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "225 × 9 − 1083 = ?",
+      "answer": [
+        "942"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 × 2 + 16 = ?",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(21 − 3) ÷ 3 = ?",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(4293 − 9) ÷ 9 = ?",
+      "answer": [
+        "476"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(351 + 13) × 8 = ?",
+      "answer": [
+        "2912"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "370 × 8 + 17 = ?",
+      "answer": [
+        "2977"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "963 ÷ 3 + 5 = ?",
+      "answer": [
+        "326"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(938 − 7) ÷ 7 = ?",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1900 − 5) ÷ 5 = ?",
+      "answer": [
+        "379"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "353 × 6 − 1086 = ?",
+      "answer": [
+        "1032"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2784 − 6) ÷ 6 = ?",
+      "answer": [
+        "463"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "123 × 2 − 191 = ?",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "485 × 2 + 6 = ?",
+      "answer": [
+        "976"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(18 + 2) × 4 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(424 + 2) × 6 = ?",
+      "answer": [
+        "2556"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 × 3 + 6 = ?",
+      "answer": [
+        "270"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2912 ÷ 8 + 3 = ?",
+      "answer": [
+        "367"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "233 × 6 − 989 = ?",
+      "answer": [
+        "409"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 148 × 2 = ?",
+      "answer": [
+        "312"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1263 ÷ 3 + 15 = ?",
+      "answer": [
+        "436"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 425 × 8 = ?",
+      "answer": [
+        "3406"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(91 + 18) × 4 = ?",
+      "answer": [
+        "436"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 64 × 2 = ?",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "408 × 6 + 12 = ?",
+      "answer": [
+        "2460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 23 × 5 = ?",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 68 × 2 = ?",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2022 ÷ 6 + 5 = ?",
+      "answer": [
+        "342"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "88 × 7 − 542 = ?",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(12 − 2) ÷ 2 = ?",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "255 × 4 + 10 = ?",
+      "answer": [
+        "1030"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 238 × 6 = ?",
+      "answer": [
+        "1445"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "113 × 2 + 15 = ?",
+      "answer": [
+        "241"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "198 × 4 + 18 = ?",
+      "answer": [
+        "810"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99 × 7 − 247 = ?",
+      "answer": [
+        "446"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 20 × 7 = ?",
+      "answer": [
+        "142"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 186 × 3 = ?",
+      "answer": [
+        "566"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 346 × 2 = ?",
+      "answer": [
+        "699"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(229 + 5) × 6 = ?",
+      "answer": [
+        "1404"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(460 − 2) ÷ 2 = ?",
+      "answer": [
+        "229"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2135 ÷ 7 + 6 = ?",
+      "answer": [
+        "311"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(308 − 7) ÷ 7 = ?",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "924 ÷ 4 + 18 = ?",
+      "answer": [
+        "249"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1780 − 4) ÷ 4 = ?",
+      "answer": [
+        "444"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "213 × 6 − 901 = ?",
+      "answer": [
+        "377"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "458 × 3 + 13 = ?",
+      "answer": [
+        "1387"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1490 − 5) ÷ 5 = ?",
+      "answer": [
+        "297"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "493 × 9 + 15 = ?",
+      "answer": [
+        "4452"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1422 ÷ 6 + 13 = ?",
+      "answer": [
+        "250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(253 + 18) × 7 = ?",
+      "answer": [
+        "1897"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3447 ÷ 9 + 6 = ?",
+      "answer": [
+        "389"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3120 ÷ 8 + 14 = ?",
+      "answer": [
+        "404"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "345 × 2 − 472 = ?",
+      "answer": [
+        "218"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "176 × 5 + 15 = ?",
+      "answer": [
+        "895"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2375 ÷ 5 + 7 = ?",
+      "answer": [
+        "482"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(675 − 3) ÷ 3 = ?",
+      "answer": [
+        "224"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "83 × 3 − 209 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "63 × 6 − 324 = ?",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3304 ÷ 8 + 7 = ?",
+      "answer": [
+        "420"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "478 × 3 + 9 = ?",
+      "answer": [
+        "1443"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(414 + 10) × 4 = ?",
+      "answer": [
+        "1696"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(192 − 3) ÷ 3 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(210 + 12) × 5 = ?",
+      "answer": [
+        "1110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 × 9 + 17 = ?",
+      "answer": [
+        "179"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(322 − 7) ÷ 7 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "232 × 7 + 3 = ?",
+      "answer": [
+        "1627"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(640 − 2) ÷ 2 = ?",
+      "answer": [
+        "319"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "293 × 3 + 9 = ?",
+      "answer": [
+        "888"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "98 × 3 + 17 = ?",
+      "answer": [
+        "311"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(3164 − 7) ÷ 7 = ?",
+      "answer": [
+        "451"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 264 × 8 = ?",
+      "answer": [
+        "2130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 229 × 4 = ?",
+      "answer": [
+        "935"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "344 × 5 − 1572 = ?",
+      "answer": [
+        "148"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 304 × 3 = ?",
+      "answer": [
+        "929"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(747 − 9) ÷ 9 = ?",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(460 + 2) × 3 = ?",
+      "answer": [
+        "1386"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "381 × 5 + 4 = ?",
+      "answer": [
+        "1909"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(235 + 5) × 4 = ?",
+      "answer": [
+        "960"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(544 − 2) ÷ 2 = ?",
+      "answer": [
+        "271"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "288 × 2 − 110 = ?",
+      "answer": [
+        "466"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "112 × 8 + 4 = ?",
+      "answer": [
+        "900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1449 − 7) ÷ 7 = ?",
+      "answer": [
+        "206"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2 + 8) × 5 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "123 × 6 + 8 = ?",
+      "answer": [
+        "746"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 396 × 9 = ?",
+      "answer": [
+        "3571"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 146 × 2 = ?",
+      "answer": [
+        "310"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(117 − 3) ÷ 3 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "158 × 7 − 248 = ?",
+      "answer": [
+        "858"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "173 × 7 − 40 = ?",
+      "answer": [
+        "1171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1449 ÷ 7 + 2 = ?",
+      "answer": [
+        "209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1408 ÷ 4 + 17 = ?",
+      "answer": [
+        "369"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 298 × 4 = ?",
+      "answer": [
+        "1199"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "431 × 3 − 345 = ?",
+      "answer": [
+        "948"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2889 − 9) ÷ 9 = ?",
+      "answer": [
+        "320"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "452 × 4 − 345 = ?",
+      "answer": [
+        "1463"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(363 + 4) × 8 = ?",
+      "answer": [
+        "2936"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "173 × 5 + 18 = ?",
+      "answer": [
+        "883"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 322 × 2 = ?",
+      "answer": [
+        "649"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1164 − 4) ÷ 4 = ?",
+      "answer": [
+        "290"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(102 + 12) × 6 = ?",
+      "answer": [
+        "684"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "281 × 7 − 1917 = ?",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(195 − 3) ÷ 3 = ?",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "457 × 4 + 9 = ?",
+      "answer": [
+        "1837"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(108 − 3) ÷ 3 = ?",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1692 ÷ 6 + 17 = ?",
+      "answer": [
+        "299"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 460 × 8 = ?",
+      "answer": [
+        "3684"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 483 × 5 = ?",
+      "answer": [
+        "2434"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160 × 6 + 19 = ?",
+      "answer": [
+        "979"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(564 − 4) ÷ 4 = ?",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(115 + 16) × 7 = ?",
+      "answer": [
+        "917"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "356 × 5 + 2 = ?",
+      "answer": [
+        "1782"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(396 + 19) × 9 = ?",
+      "answer": [
+        "3735"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1608 − 8) ÷ 8 = ?",
+      "answer": [
+        "200"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "354 × 8 − 2051 = ?",
+      "answer": [
+        "781"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(425 + 10) × 5 = ?",
+      "answer": [
+        "2175"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "342 × 4 − 1041 = ?",
+      "answer": [
+        "327"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(322 + 10) × 9 = ?",
+      "answer": [
+        "2988"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1512 − 4) ÷ 4 = ?",
+      "answer": [
+        "377"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 191 × 6 = ?",
+      "answer": [
+        "1165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 87 × 4 = ?",
+      "answer": [
+        "367"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "413 × 2 + 15 = ?",
+      "answer": [
+        "841"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1464 ÷ 6 + 5 = ?",
+      "answer": [
+        "249"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(133 + 18) × 6 = ?",
+      "answer": [
+        "906"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "175 ÷ 7 + 19 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2500 − 5) ÷ 5 = ?",
+      "answer": [
+        "499"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "172 × 3 + 3 = ?",
+      "answer": [
+        "519"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1692 ÷ 9 + 14 = ?",
+      "answer": [
+        "202"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 401 × 2 = ?",
+      "answer": [
+        "815"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "417 × 4 + 1 = ?",
+      "answer": [
+        "1669"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "316 × 3 + 11 = ?",
+      "answer": [
+        "959"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(21 + 9) × 4 = ?",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2880 ÷ 8 + 6 = ?",
+      "answer": [
+        "366"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "38 × 5 − 49 = ?",
+      "answer": [
+        "141"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1960 ÷ 8 + 15 = ?",
+      "answer": [
+        "260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(357 + 11) × 3 = ?",
+      "answer": [
+        "1104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "75 ÷ 3 + 19 = ?",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "444 ÷ 2 + 10 = ?",
+      "answer": [
+        "232"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2547 ÷ 9 + 8 = ?",
+      "answer": [
+        "291"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(432 − 8) ÷ 8 = ?",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1250 ÷ 5 + 17 = ?",
+      "answer": [
+        "267"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 83 × 3 = ?",
+      "answer": [
+        "257"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1092 − 4) ÷ 4 = ?",
+      "answer": [
+        "272"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 283 × 9 = ?",
+      "answer": [
+        "2557"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1296 − 8) ÷ 8 = ?",
+      "answer": [
+        "161"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(74 − 2) ÷ 2 = ?",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "431 × 5 + 9 = ?",
+      "answer": [
+        "2164"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 202 × 2 = ?",
+      "answer": [
+        "421"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1856 − 4) ÷ 4 = ?",
+      "answer": [
+        "463"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "342 ÷ 3 + 19 = ?",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(57 + 15) × 2 = ?",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "451 × 3 − 23 = ?",
+      "answer": [
+        "1330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(16 + 11) × 3 = ?",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "496 × 5 + 19 = ?",
+      "answer": [
+        "2499"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(36 − 9) ÷ 9 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "403 × 3 + 7 = ?",
+      "answer": [
+        "1216"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "357 × 8 − 931 = ?",
+      "answer": [
+        "1925"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "730 ÷ 2 + 8 = ?",
+      "answer": [
+        "373"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(312 − 3) ÷ 3 = ?",
+      "answer": [
+        "103"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2610 − 9) ÷ 9 = ?",
+      "answer": [
+        "289"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(51 + 12) × 5 = ?",
+      "answer": [
+        "315"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "491 × 6 − 1405 = ?",
+      "answer": [
+        "1541"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "474 ÷ 2 + 6 = ?",
+      "answer": [
+        "243"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "289 × 6 + 6 = ?",
+      "answer": [
+        "1740"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "390 × 5 − 1521 = ?",
+      "answer": [
+        "429"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(70 − 2) ÷ 2 = ?",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "60 × 6 + 18 = ?",
+      "answer": [
+        "378"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "394 × 3 − 435 = ?",
+      "answer": [
+        "747"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2475 − 5) ÷ 5 = ?",
+      "answer": [
+        "494"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "301 × 5 + 18 = ?",
+      "answer": [
+        "1523"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 121 × 2 = ?",
+      "answer": [
+        "261"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(840 − 4) ÷ 4 = ?",
+      "answer": [
+        "209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1302 ÷ 6 + 12 = ?",
+      "answer": [
+        "229"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "273 × 3 − 238 = ?",
+      "answer": [
+        "581"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 125 × 7 = ?",
+      "answer": [
+        "894"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "427 × 3 − 16 = ?",
+      "answer": [
+        "1265"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(127 + 1) × 2 = ?",
+      "answer": [
+        "256"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1926 ÷ 6 + 7 = ?",
+      "answer": [
+        "328"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1655 − 5) ÷ 5 = ?",
+      "answer": [
+        "330"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "234 × 3 − 515 = ?",
+      "answer": [
+        "187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(464 − 2) ÷ 2 = ?",
+      "answer": [
+        "231"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1088 ÷ 4 + 5 = ?",
+      "answer": [
+        "277"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 284 × 2 = ?",
+      "answer": [
+        "584"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2975 − 7) ÷ 7 = ?",
+      "answer": [
+        "424"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "57 × 3 + 7 = ?",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(114 − 6) ÷ 6 = ?",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1422 ÷ 3 + 7 = ?",
+      "answer": [
+        "481"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(411 + 9) × 2 = ?",
+      "answer": [
+        "840"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(388 + 18) × 4 = ?",
+      "answer": [
+        "1624"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "390 × 5 + 6 = ?",
+      "answer": [
+        "1956"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 164 × 9 = ?",
+      "answer": [
+        "1483"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 76 × 3 = ?",
+      "answer": [
+        "241"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "178 × 6 + 13 = ?",
+      "answer": [
+        "1081"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 248 × 8 = ?",
+      "answer": [
+        "1999"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 226 × 5 = ?",
+      "answer": [
+        "1133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(89 + 3) × 8 = ?",
+      "answer": [
+        "736"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "326 × 8 − 877 = ?",
+      "answer": [
+        "1731"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1480 ÷ 8 + 10 = ?",
+      "answer": [
+        "195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(3136 − 7) ÷ 7 = ?",
+      "answer": [
+        "447"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 77 × 6 = ?",
+      "answer": [
+        "463"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "243 × 2 − 59 = ?",
+      "answer": [
+        "427"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 447 × 5 = ?",
+      "answer": [
+        "2251"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "78 × 8 + 5 = ?",
+      "answer": [
+        "629"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "211 × 7 + 1 = ?",
+      "answer": [
+        "1478"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "214 × 5 − 465 = ?",
+      "answer": [
+        "605"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(175 + 3) × 8 = ?",
+      "answer": [
+        "1424"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "493 × 8 + 18 = ?",
+      "answer": [
+        "3962"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1812 − 6) ÷ 6 = ?",
+      "answer": [
+        "301"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(314 + 12) × 8 = ?",
+      "answer": [
+        "2608"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(312 − 8) ÷ 8 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(900 − 2) ÷ 2 = ?",
+      "answer": [
+        "449"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 45 × 3 = ?",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "294 ÷ 2 + 6 = ?",
+      "answer": [
+        "153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 112 × 7 = ?",
+      "answer": [
+        "792"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "55 × 2 + 9 = ?",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "466 × 7 + 8 = ?",
+      "answer": [
+        "3270"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 163 × 3 = ?",
+      "answer": [
+        "505"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8 + 97 × 4 = ?",
+      "answer": [
+        "396"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "279 × 3 − 488 = ?",
+      "answer": [
+        "349"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "91 × 3 − 12 = ?",
+      "answer": [
+        "261"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "385 × 2 − 98 = ?",
+      "answer": [
+        "672"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(467 + 14) × 7 = ?",
+      "answer": [
+        "3367"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 465 × 5 = ?",
+      "answer": [
+        "2336"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 214 × 4 = ?",
+      "answer": [
+        "868"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(486 + 2) × 6 = ?",
+      "answer": [
+        "2928"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2088 ÷ 6 + 19 = ?",
+      "answer": [
+        "367"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 268 × 4 = ?",
+      "answer": [
+        "1074"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "401 × 6 + 13 = ?",
+      "answer": [
+        "2419"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(389 + 9) × 4 = ?",
+      "answer": [
+        "1592"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1248 ÷ 8 + 14 = ?",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1764 − 6) ÷ 6 = ?",
+      "answer": [
+        "293"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "280 × 8 − 2217 = ?",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(301 + 8) × 7 = ?",
+      "answer": [
+        "2163"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "313 × 4 − 441 = ?",
+      "answer": [
+        "811"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "375 × 7 + 4 = ?",
+      "answer": [
+        "2629"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "117 × 4 + 15 = ?",
+      "answer": [
+        "483"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(294 − 7) ÷ 7 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "108 × 3 − 114 = ?",
+      "answer": [
+        "210"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(100 + 14) × 4 = ?",
+      "answer": [
+        "456"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "267 × 8 − 1685 = ?",
+      "answer": [
+        "451"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2100 − 6) ÷ 6 = ?",
+      "answer": [
+        "349"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "203 × 9 − 56 = ?",
+      "answer": [
+        "1771"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1432 − 8) ÷ 8 = ?",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "300 × 5 − 162 = ?",
+      "answer": [
+        "1338"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "239 × 6 − 1314 = ?",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(763 − 7) ÷ 7 = ?",
+      "answer": [
+        "108"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(183 + 15) × 3 = ?",
+      "answer": [
+        "594"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "485 × 2 + 1 = ?",
+      "answer": [
+        "971"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "240 ÷ 5 + 4 = ?",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 428 × 5 = ?",
+      "answer": [
+        "2157"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2796 − 6) ÷ 6 = ?",
+      "answer": [
+        "465"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(140 + 13) × 2 = ?",
+      "answer": [
+        "306"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "87 × 6 + 13 = ?",
+      "answer": [
+        "535"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1500 ÷ 4 + 9 = ?",
+      "answer": [
+        "384"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 320 × 7 = ?",
+      "answer": [
+        "2253"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1158 − 6) ÷ 6 = ?",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "356 × 4 + 2 = ?",
+      "answer": [
+        "1426"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "464 × 2 − 738 = ?",
+      "answer": [
+        "190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 170 × 6 = ?",
+      "answer": [
+        "1033"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(596 − 4) ÷ 4 = ?",
+      "answer": [
+        "148"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "192 × 5 − 636 = ?",
+      "answer": [
+        "324"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "934 ÷ 2 + 1 = ?",
+      "answer": [
+        "468"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "466 × 2 + 1 = ?",
+      "answer": [
+        "933"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "356 ÷ 4 + 17 = ?",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 190 × 5 = ?",
+      "answer": [
+        "952"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1464 ÷ 8 + 3 = ?",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "84 × 3 + 7 = ?",
+      "answer": [
+        "259"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19 + 377 × 2 = ?",
+      "answer": [
+        "773"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1088 ÷ 8 + 17 = ?",
+      "answer": [
+        "153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(465 + 6) × 8 = ?",
+      "answer": [
+        "3768"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "485 × 5 + 10 = ?",
+      "answer": [
+        "2435"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(840 − 6) ÷ 6 = ?",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(301 + 4) × 4 = ?",
+      "answer": [
+        "1220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(251 + 6) × 7 = ?",
+      "answer": [
+        "1799"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186 × 8 + 9 = ?",
+      "answer": [
+        "1497"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(496 − 4) ÷ 4 = ?",
+      "answer": [
+        "123"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17 + 117 × 5 = ?",
+      "answer": [
+        "602"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "366 × 7 + 16 = ?",
+      "answer": [
+        "2578"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(415 + 8) × 3 = ?",
+      "answer": [
+        "1269"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "248 × 5 − 71 = ?",
+      "answer": [
+        "1169"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 14 × 3 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "273 × 2 + 14 = ?",
+      "answer": [
+        "560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "419 × 2 − 212 = ?",
+      "answer": [
+        "626"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(3283 − 7) ÷ 7 = ?",
+      "answer": [
+        "468"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(157 + 4) × 8 = ?",
+      "answer": [
+        "1288"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 101 × 5 = ?",
+      "answer": [
+        "510"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(406 + 4) × 6 = ?",
+      "answer": [
+        "2460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "234 × 8 − 870 = ?",
+      "answer": [
+        "1002"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "51 × 6 − 101 = ?",
+      "answer": [
+        "205"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 344 × 7 = ?",
+      "answer": [
+        "2418"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "93 × 9 − 113 = ?",
+      "answer": [
+        "724"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "468 × 8 + 14 = ?",
+      "answer": [
+        "3758"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "193 × 9 + 8 = ?",
+      "answer": [
+        "1745"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(488 + 2) × 9 = ?",
+      "answer": [
+        "4410"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 × 2 − 3 = ?",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 452 × 9 = ?",
+      "answer": [
+        "4072"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 40 × 9 = ?",
+      "answer": [
+        "373"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "458 × 4 − 1048 = ?",
+      "answer": [
+        "784"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 36 × 9 = ?",
+      "answer": [
+        "342"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "82 × 6 + 4 = ?",
+      "answer": [
+        "496"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 30 × 7 = ?",
+      "answer": [
+        "221"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "473 × 6 + 19 = ?",
+      "answer": [
+        "2857"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(916 − 2) ÷ 2 = ?",
+      "answer": [
+        "457"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 310 × 6 = ?",
+      "answer": [
+        "1865"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 292 × 5 = ?",
+      "answer": [
+        "1476"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1125 ÷ 5 + 18 = ?",
+      "answer": [
+        "243"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "371 × 5 − 1338 = ?",
+      "answer": [
+        "517"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "447 × 3 + 12 = ?",
+      "answer": [
+        "1353"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 317 × 8 = ?",
+      "answer": [
+        "2549"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2358 − 9) ÷ 9 = ?",
+      "answer": [
+        "261"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "417 × 6 − 1116 = ?",
+      "answer": [
+        "1386"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "68 × 4 + 1 = ?",
+      "answer": [
+        "273"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(418 + 15) × 9 = ?",
+      "answer": [
+        "3897"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "135 × 8 − 42 = ?",
+      "answer": [
+        "1038"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "492 × 3 − 1035 = ?",
+      "answer": [
+        "441"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(271 + 12) × 9 = ?",
+      "answer": [
+        "2547"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "160 × 2 + 18 = ?",
+      "answer": [
+        "338"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "304 × 3 − 771 = ?",
+      "answer": [
+        "141"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1392 ÷ 8 + 10 = ?",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "415 × 9 − 3673 = ?",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "167 × 4 − 272 = ?",
+      "answer": [
+        "396"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(3325 − 7) ÷ 7 = ?",
+      "answer": [
+        "474"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "27 × 8 − 208 = ?",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "397 × 6 − 18 = ?",
+      "answer": [
+        "2364"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 239 × 5 = ?",
+      "answer": [
+        "1206"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "220 × 2 + 2 = ?",
+      "answer": [
+        "442"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1368 ÷ 3 + 15 = ?",
+      "answer": [
+        "471"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "182 × 5 − 241 = ?",
+      "answer": [
+        "669"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "45 × 5 − 148 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2488 ÷ 8 + 6 = ?",
+      "answer": [
+        "317"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "165 × 6 − 299 = ?",
+      "answer": [
+        "691"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "393 × 4 + 9 = ?",
+      "answer": [
+        "1581"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "69 × 8 − 514 = ?",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 292 × 8 = ?",
+      "answer": [
+        "2338"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 29 × 7 = ?",
+      "answer": [
+        "209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 236 × 9 = ?",
+      "answer": [
+        "2125"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "886 ÷ 2 + 14 = ?",
+      "answer": [
+        "457"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "34 × 3 − 11 = ?",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "492 × 9 − 1698 = ?",
+      "answer": [
+        "2730"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 × 7 − 94 = ?",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(204 − 3) ÷ 3 = ?",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "177 × 9 − 477 = ?",
+      "answer": [
+        "1116"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "41 × 6 − 151 = ?",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1370 ÷ 5 + 4 = ?",
+      "answer": [
+        "278"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1728 − 4) ÷ 4 = ?",
+      "answer": [
+        "431"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "266 × 6 + 11 = ?",
+      "answer": [
+        "1607"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "740 ÷ 2 + 15 = ?",
+      "answer": [
+        "385"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 158 × 3 = ?",
+      "answer": [
+        "489"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "300 ÷ 6 + 13 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5 + 308 × 3 = ?",
+      "answer": [
+        "929"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "409 × 7 − 1694 = ?",
+      "answer": [
+        "1169"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(78 + 5) × 7 = ?",
+      "answer": [
+        "581"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2592 ÷ 6 + 18 = ?",
+      "answer": [
+        "450"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "260 × 8 + 15 = ?",
+      "answer": [
+        "2095"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "491 × 4 − 348 = ?",
+      "answer": [
+        "1616"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(118 + 1) × 4 = ?",
+      "answer": [
+        "476"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1008 − 7) ÷ 7 = ?",
+      "answer": [
+        "143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1608 ÷ 4 + 7 = ?",
+      "answer": [
+        "409"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(252 + 13) × 8 = ?",
+      "answer": [
+        "2120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "30 × 4 + 5 = ?",
+      "answer": [
+        "125"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "418 × 9 + 6 = ?",
+      "answer": [
+        "3768"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(522 − 3) ÷ 3 = ?",
+      "answer": [
+        "173"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13 + 105 × 8 = ?",
+      "answer": [
+        "853"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "393 × 8 − 1241 = ?",
+      "answer": [
+        "1903"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(45 + 7) × 3 = ?",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "319 × 7 + 1 = ?",
+      "answer": [
+        "2234"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "906 ÷ 2 + 7 = ?",
+      "answer": [
+        "460"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2821 − 7) ÷ 7 = ?",
+      "answer": [
+        "402"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2470 − 5) ÷ 5 = ?",
+      "answer": [
+        "493"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(414 − 9) ÷ 9 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "325 × 9 − 2418 = ?",
+      "answer": [
+        "507"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(275 + 17) × 3 = ?",
+      "answer": [
+        "876"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1248 ÷ 4 + 15 = ?",
+      "answer": [
+        "327"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(861 − 7) ÷ 7 = ?",
+      "answer": [
+        "122"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "332 ÷ 4 + 3 = ?",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "131 × 8 − 859 = ?",
+      "answer": [
+        "189"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2751 ÷ 7 + 17 = ?",
+      "answer": [
+        "410"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "164 × 4 − 243 = ?",
+      "answer": [
+        "413"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "488 × 7 + 8 = ?",
+      "answer": [
+        "3424"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(23 + 15) × 5 = ?",
+      "answer": [
+        "190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 201 × 8 = ?",
+      "answer": [
+        "1610"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "23 × 3 − 28 = ?",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3088 ÷ 8 + 15 = ?",
+      "answer": [
+        "401"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "496 ÷ 8 + 18 = ?",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "31 × 2 + 15 = ?",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "272 × 4 − 67 = ?",
+      "answer": [
+        "1021"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1431 − 3) ÷ 3 = ?",
+      "answer": [
+        "476"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "276 × 4 + 4 = ?",
+      "answer": [
+        "1108"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "150 × 3 − 205 = ?",
+      "answer": [
+        "245"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1870 ÷ 5 + 19 = ?",
+      "answer": [
+        "393"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "367 × 3 − 417 = ?",
+      "answer": [
+        "684"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1420 − 5) ÷ 5 = ?",
+      "answer": [
+        "283"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7 + 219 × 5 = ?",
+      "answer": [
+        "1102"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "54 × 9 + 4 = ?",
+      "answer": [
+        "490"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "99 × 7 − 168 = ?",
+      "answer": [
+        "525"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(364 − 7) ÷ 7 = ?",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "140 × 5 − 38 = ?",
+      "answer": [
+        "662"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "474 × 2 − 269 = ?",
+      "answer": [
+        "679"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(172 + 13) × 8 = ?",
+      "answer": [
+        "1480"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 242 × 8 = ?",
+      "answer": [
+        "1946"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(408 − 4) ÷ 4 = ?",
+      "answer": [
+        "101"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 296 × 3 = ?",
+      "answer": [
+        "900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "356 × 4 + 13 = ?",
+      "answer": [
+        "1437"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1912 − 4) ÷ 4 = ?",
+      "answer": [
+        "477"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(334 + 14) × 2 = ?",
+      "answer": [
+        "696"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1288 ÷ 4 + 18 = ?",
+      "answer": [
+        "340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "186 × 2 − 2 = ?",
+      "answer": [
+        "370"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "446 × 3 − 1085 = ?",
+      "answer": [
+        "253"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200 × 2 − 17 = ?",
+      "answer": [
+        "383"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 306 × 9 = ?",
+      "answer": [
+        "2766"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "168 × 4 − 615 = ?",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1880 − 4) ÷ 4 = ?",
+      "answer": [
+        "469"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "163 × 5 − 467 = ?",
+      "answer": [
+        "348"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(7 + 13) × 2 = ?",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6 + 130 × 2 = ?",
+      "answer": [
+        "266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "162 × 5 + 6 = ?",
+      "answer": [
+        "816"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "269 × 8 − 1252 = ?",
+      "answer": [
+        "900"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(78 + 15) × 5 = ?",
+      "answer": [
+        "465"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(384 + 18) × 6 = ?",
+      "answer": [
+        "2412"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "934 ÷ 2 + 8 = ?",
+      "answer": [
+        "475"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "293 × 9 + 9 = ?",
+      "answer": [
+        "2646"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14 + 279 × 4 = ?",
+      "answer": [
+        "1130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2 + 230 × 7 = ?",
+      "answer": [
+        "1612"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "150 ÷ 3 + 13 = ?",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(399 + 17) × 7 = ?",
+      "answer": [
+        "2912"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "108 ÷ 4 + 1 = ?",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(161 + 18) × 3 = ?",
+      "answer": [
+        "537"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "493 × 9 − 1059 = ?",
+      "answer": [
+        "3378"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(188 + 11) × 4 = ?",
+      "answer": [
+        "796"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(483 + 17) × 6 = ?",
+      "answer": [
+        "3000"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2259 − 9) ÷ 9 = ?",
+      "answer": [
+        "250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "143 × 3 − 318 = ?",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1140 ÷ 5 + 12 = ?",
+      "answer": [
+        "240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2944 − 8) ÷ 8 = ?",
+      "answer": [
+        "367"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 235 × 8 = ?",
+      "answer": [
+        "1891"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(104 + 19) × 4 = ?",
+      "answer": [
+        "492"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "332 × 5 − 173 = ?",
+      "answer": [
+        "1487"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "491 × 4 − 1813 = ?",
+      "answer": [
+        "151"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1362 ÷ 6 + 13 = ?",
+      "answer": [
+        "240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12 + 357 × 3 = ?",
+      "answer": [
+        "1083"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3 + 371 × 2 = ?",
+      "answer": [
+        "745"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "456 × 9 − 2160 = ?",
+      "answer": [
+        "1944"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(350 + 8) × 8 = ?",
+      "answer": [
+        "2864"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "387 × 2 + 15 = ?",
+      "answer": [
+        "789"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4 + 116 × 5 = ?",
+      "answer": [
+        "584"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(700 − 2) ÷ 2 = ?",
+      "answer": [
+        "349"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "153 × 8 + 11 = ?",
+      "answer": [
+        "1235"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(24 + 6) × 2 = ?",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 170 × 4 = ?",
+      "answer": [
+        "698"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "337 × 7 + 9 = ?",
+      "answer": [
+        "2368"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1500 ÷ 5 + 15 = ?",
+      "answer": [
+        "315"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1864 − 8) ÷ 8 = ?",
+      "answer": [
+        "232"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15 + 316 × 9 = ?",
+      "answer": [
+        "2859"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(73 + 7) × 7 = ?",
+      "answer": [
+        "560"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "490 × 2 + 1 = ?",
+      "answer": [
+        "981"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "432 ÷ 2 + 12 = ?",
+      "answer": [
+        "228"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(117 + 2) × 2 = ?",
+      "answer": [
+        "238"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10 + 232 × 3 = ?",
+      "answer": [
+        "706"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "184 × 8 − 1258 = ?",
+      "answer": [
+        "214"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "750 ÷ 2 + 2 = ?",
+      "answer": [
+        "377"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11 + 163 × 2 = ?",
+      "answer": [
+        "337"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18 + 497 × 7 = ?",
+      "answer": [
+        "3497"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1584 ÷ 4 + 4 = ?",
+      "answer": [
+        "400"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "200 × 6 + 18 = ?",
+      "answer": [
+        "1218"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "46 × 7 + 4 = ?",
+      "answer": [
+        "326"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "454 × 9 − 1230 = ?",
+      "answer": [
+        "2856"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(208 + 18) × 5 = ?",
+      "answer": [
+        "1130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "480 × 6 + 11 = ?",
+      "answer": [
+        "2891"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(119 + 12) × 2 = ?",
+      "answer": [
+        "262"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "281 × 8 + 2 = ?",
+      "answer": [
+        "2250"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(119 + 6) × 3 = ?",
+      "answer": [
+        "375"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 81 × 6 = ?",
+      "answer": [
+        "502"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1764 ÷ 6 + 3 = ?",
+      "answer": [
+        "297"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1 + 22 × 2 = ?",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16 + 377 × 2 = ?",
+      "answer": [
+        "770"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "909 ÷ 9 + 16 = ?",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "267 × 2 − 152 = ?",
+      "answer": [
+        "382"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "338 × 4 + 16 = ?",
+      "answer": [
+        "1368"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(4437 − 9) ÷ 9 = ?",
+      "answer": [
+        "492"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(228 − 6) ÷ 6 = ?",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(1236 − 3) ÷ 3 = ?",
+      "answer": [
+        "411"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "720 ÷ 6 + 1 = ?",
+      "answer": [
+        "121"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1944 ÷ 4 + 11 = ?",
+      "answer": [
+        "497"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "(2792 − 8) ÷ 8 = ?",
+      "answer": [
+        "348"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "495 × 6 + 16 = ?",
+      "answer": [
+        "2986"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

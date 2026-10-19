@@ -1,0 +1,3009 @@
+{
+  "title": "3年级 · 应用题 · 倍数关系",
+  "grade": 3,
+  "category": "应用题 · 倍数关系",
+  "kind": "application",
+  "range": "整数 · 已知倍数求总量",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了47张卡片，小美收集的卡片是小明的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "188"
+      ],
+      "options": [],
+      "explanation": "47 + 47 × 3 = 188（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了8张卡片，小美收集的卡片是小林的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 + 8 × 7 = 64（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了58张卡片，小美收集的卡片是小明的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "522"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 8 = 522（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了34张卡片，小美收集的卡片是小悦的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "238"
+      ],
+      "options": [],
+      "explanation": "34 + 34 × 6 = 238（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了50张卡片，小美收集的卡片是小乐的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "450"
+      ],
+      "options": [],
+      "explanation": "50 + 50 × 8 = 450（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了33张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": "33 + 33 × 2 = 99（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了18张卡片，小美收集的卡片是小安的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "108"
+      ],
+      "options": [],
+      "explanation": "18 + 18 × 5 = 108（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了21张卡片，小美收集的卡片是小安的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "21 + 21 × 3 = 84（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了45张卡片，小美收集的卡片是小安的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "360"
+      ],
+      "options": [],
+      "explanation": "45 + 45 × 7 = 360（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了57张卡片，小美收集的卡片是小乐的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "513"
+      ],
+      "options": [],
+      "explanation": "57 + 57 × 8 = 513（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了11张卡片，小美收集的卡片是小悦的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "11 + 11 × 2 = 33（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了13张卡片，小美收集的卡片是小红的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "13 + 13 × 6 = 91（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了47张卡片，小美收集的卡片是小安的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "235"
+      ],
+      "options": [],
+      "explanation": "47 + 47 × 4 = 235（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了42张卡片，小美收集的卡片是小林的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "336"
+      ],
+      "options": [],
+      "explanation": "42 + 42 × 7 = 336（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了10张卡片，小美收集的卡片是小林的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "10 + 10 × 5 = 60（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了26张卡片，小美收集的卡片是小乐的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": "26 + 26 × 5 = 156（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了41张卡片，小美收集的卡片是小明的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "123"
+      ],
+      "options": [],
+      "explanation": "41 + 41 × 2 = 123（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了25张卡片，小美收集的卡片是小悦的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "25 + 25 × 5 = 150（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了10张卡片，小美收集的卡片是小华的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "10 + 10 × 6 = 70（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了47张卡片，小美收集的卡片是小雨的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "329"
+      ],
+      "options": [],
+      "explanation": "47 + 47 × 6 = 329（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了14张卡片，小美收集的卡片是小悦的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "14 + 14 × 3 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了53张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 2 = 159（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了60张卡片，小美收集的卡片是小安的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "300"
+      ],
+      "options": [],
+      "explanation": "60 + 60 × 4 = 300（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了50张卡片，小美收集的卡片是小华的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "200"
+      ],
+      "options": [],
+      "explanation": "50 + 50 × 3 = 200（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了58张卡片，小美收集的卡片是小安的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "522"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 8 = 522（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了55张卡片，小美收集的卡片是小红的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "385"
+      ],
+      "options": [],
+      "explanation": "55 + 55 × 6 = 385（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了16张卡片，小美收集的卡片是小红的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "16 + 16 × 8 = 144（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了40张卡片，小美收集的卡片是小红的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "320"
+      ],
+      "options": [],
+      "explanation": "40 + 40 × 7 = 320（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了21张卡片，小美收集的卡片是小明的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "168"
+      ],
+      "options": [],
+      "explanation": "21 + 21 × 7 = 168（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了60张卡片，小美收集的卡片是小悦的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "540"
+      ],
+      "options": [],
+      "explanation": "60 + 60 × 8 = 540（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了52张卡片，小美收集的卡片是小华的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "312"
+      ],
+      "options": [],
+      "explanation": "52 + 52 × 5 = 312（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了3张卡片，小美收集的卡片是小红的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "3 + 3 × 2 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了10张卡片，小美收集的卡片是小林的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "10 + 10 × 2 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了47张卡片，小美收集的卡片是小华的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "423"
+      ],
+      "options": [],
+      "explanation": "47 + 47 × 8 = 423（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了53张卡片，小美收集的卡片是小明的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "371"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 6 = 371（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了38张卡片，小美收集的卡片是小乐的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "38 + 38 × 3 = 152（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了56张卡片，小美收集的卡片是小明的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "448"
+      ],
+      "options": [],
+      "explanation": "56 + 56 × 7 = 448（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了30张卡片，小美收集的卡片是小红的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "270"
+      ],
+      "options": [],
+      "explanation": "30 + 30 × 8 = 270（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了53张卡片，小美收集的卡片是小华的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "371"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 6 = 371（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了3张卡片，小美收集的卡片是小明的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "3 + 3 × 5 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了24张卡片，小美收集的卡片是小乐的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": "24 + 24 × 7 = 192（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了27张卡片，小美收集的卡片是小明的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "243"
+      ],
+      "options": [],
+      "explanation": "27 + 27 × 8 = 243（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了45张卡片，小美收集的卡片是小雨的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "270"
+      ],
+      "options": [],
+      "explanation": "45 + 45 × 5 = 270（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了44张卡片，小美收集的卡片是小红的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "352"
+      ],
+      "options": [],
+      "explanation": "44 + 44 × 7 = 352（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了58张卡片，小美收集的卡片是小林的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "348"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 5 = 348（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了55张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "385"
+      ],
+      "options": [],
+      "explanation": "55 + 55 × 6 = 385（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了23张卡片，小美收集的卡片是小明的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "161"
+      ],
+      "options": [],
+      "explanation": "23 + 23 × 6 = 161（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了8张卡片，小美收集的卡片是小红的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "8 + 8 × 8 = 72（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了53张卡片，小美收集的卡片是小乐的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "265"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 4 = 265（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了38张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "266"
+      ],
+      "options": [],
+      "explanation": "38 + 38 × 6 = 266（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了10张卡片，小美收集的卡片是小明的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "10 + 10 × 6 = 70（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了26张卡片，小美收集的卡片是小安的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "234"
+      ],
+      "options": [],
+      "explanation": "26 + 26 × 8 = 234（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了8张卡片，小美收集的卡片是小安的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 + 8 × 5 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了31张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": "31 + 31 × 2 = 93（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了11张卡片，小美收集的卡片是小乐的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "11 + 11 × 2 = 33（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了60张卡片，小美收集的卡片是小林的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "240"
+      ],
+      "options": [],
+      "explanation": "60 + 60 × 3 = 240（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了51张卡片，小美收集的卡片是小红的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "459"
+      ],
+      "options": [],
+      "explanation": "51 + 51 × 8 = 459（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了49张卡片，小美收集的卡片是小明的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "441"
+      ],
+      "options": [],
+      "explanation": "49 + 49 × 8 = 441（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了52张卡片，小美收集的卡片是小乐的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "416"
+      ],
+      "options": [],
+      "explanation": "52 + 52 × 7 = 416（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了23张卡片，小美收集的卡片是小明的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": "23 + 23 × 7 = 184（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了55张卡片，小美收集的卡片是小红的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "220"
+      ],
+      "options": [],
+      "explanation": "55 + 55 × 3 = 220（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了43张卡片，小美收集的卡片是小红的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "43 + 43 × 2 = 129（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了19张卡片，小美收集的卡片是小红的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "171"
+      ],
+      "options": [],
+      "explanation": "19 + 19 × 8 = 171（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了48张卡片，小美收集的卡片是小乐的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "288"
+      ],
+      "options": [],
+      "explanation": "48 + 48 × 5 = 288（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了34张卡片，小美收集的卡片是小红的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "306"
+      ],
+      "options": [],
+      "explanation": "34 + 34 × 8 = 306（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了35张卡片，小美收集的卡片是小红的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "35 + 35 × 2 = 105（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了15张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "15 + 15 × 2 = 45（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了48张卡片，小美收集的卡片是小林的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "384"
+      ],
+      "options": [],
+      "explanation": "48 + 48 × 7 = 384（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了4张卡片，小美收集的卡片是小林的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 + 4 × 2 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了58张卡片，小美收集的卡片是小林的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "232"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 3 = 232（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了58张卡片，小美收集的卡片是小悦的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "232"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 3 = 232（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了17张卡片，小美收集的卡片是小林的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "17 + 17 × 2 = 51（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了59张卡片，小美收集的卡片是小红的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "413"
+      ],
+      "options": [],
+      "explanation": "59 + 59 × 6 = 413（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了60张卡片，小美收集的卡片是小林的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "540"
+      ],
+      "options": [],
+      "explanation": "60 + 60 × 8 = 540（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了27张卡片，小美收集的卡片是小明的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "108"
+      ],
+      "options": [],
+      "explanation": "27 + 27 × 3 = 108（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了25张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "25 + 25 × 2 = 75（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了5张卡片，小美收集的卡片是小华的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "5 + 5 × 3 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了22张卡片，小美收集的卡片是小红的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "198"
+      ],
+      "options": [],
+      "explanation": "22 + 22 × 8 = 198（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了52张卡片，小美收集的卡片是小林的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "208"
+      ],
+      "options": [],
+      "explanation": "52 + 52 × 3 = 208（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了47张卡片，小美收集的卡片是小红的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "329"
+      ],
+      "options": [],
+      "explanation": "47 + 47 × 6 = 329（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了33张卡片，小美收集的卡片是小乐的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "198"
+      ],
+      "options": [],
+      "explanation": "33 + 33 × 5 = 198（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了17张卡片，小美收集的卡片是小明的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "17 + 17 × 3 = 68（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了19张卡片，小美收集的卡片是小明的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": "19 + 19 × 4 = 95（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了49张卡片，小美收集的卡片是小雨的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "343"
+      ],
+      "options": [],
+      "explanation": "49 + 49 × 6 = 343（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了14张卡片，小美收集的卡片是小安的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "14 + 14 × 2 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了25张卡片，小美收集的卡片是小雨的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "25 + 25 × 5 = 150（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了43张卡片，小美收集的卡片是小雨的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "344"
+      ],
+      "options": [],
+      "explanation": "43 + 43 × 7 = 344（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了55张卡片，小美收集的卡片是小华的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "495"
+      ],
+      "options": [],
+      "explanation": "55 + 55 × 8 = 495（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了16张卡片，小美收集的卡片是小安的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "16 + 16 × 4 = 80（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了13张卡片，小美收集的卡片是小明的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "13 + 13 × 2 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了18张卡片，小美收集的卡片是小林的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "18 + 18 × 8 = 162（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了42张卡片，小美收集的卡片是小林的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "252"
+      ],
+      "options": [],
+      "explanation": "42 + 42 × 5 = 252（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了56张卡片，小美收集的卡片是小悦的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "448"
+      ],
+      "options": [],
+      "explanation": "56 + 56 × 7 = 448（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了6张卡片，小美收集的卡片是小华的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "6 + 6 × 7 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了19张卡片，小美收集的卡片是小雨的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": "19 + 19 × 6 = 133（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了26张卡片，小美收集的卡片是小雨的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "26 + 26 × 3 = 104（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了3张卡片，小美收集的卡片是小林的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "3 + 3 × 2 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了56张卡片，小美收集的卡片是小悦的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "336"
+      ],
+      "options": [],
+      "explanation": "56 + 56 × 5 = 336（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了46张卡片，小美收集的卡片是小悦的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": "46 + 46 × 2 = 138（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了15张卡片，小美收集的卡片是小悦的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "15 + 15 × 6 = 105（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了14张卡片，小美收集的卡片是小乐的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "14 + 14 × 8 = 126（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了33张卡片，小美收集的卡片是小红的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "231"
+      ],
+      "options": [],
+      "explanation": "33 + 33 × 6 = 231（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了35张卡片，小美收集的卡片是小华的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "35 + 35 × 2 = 105（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了54张卡片，小美收集的卡片是小华的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "270"
+      ],
+      "options": [],
+      "explanation": "54 + 54 × 4 = 270（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了43张卡片，小美收集的卡片是小乐的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "215"
+      ],
+      "options": [],
+      "explanation": "43 + 43 × 4 = 215（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了38张卡片，小美收集的卡片是小明的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "38 + 38 × 3 = 152（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了45张卡片，小美收集的卡片是小乐的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "225"
+      ],
+      "options": [],
+      "explanation": "45 + 45 × 4 = 225（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了24张卡片，小美收集的卡片是小红的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "24 + 24 × 5 = 144（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了41张卡片，小美收集的卡片是小红的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "287"
+      ],
+      "options": [],
+      "explanation": "41 + 41 × 6 = 287（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了15张卡片，小美收集的卡片是小明的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": "15 + 15 × 8 = 135（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了20张卡片，小美收集的卡片是小安的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": "20 + 20 × 4 = 100（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了60张卡片，小美收集的卡片是小红的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "240"
+      ],
+      "options": [],
+      "explanation": "60 + 60 × 3 = 240（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了14张卡片，小美收集的卡片是小红的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "14 + 14 × 4 = 70（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了44张卡片，小美收集的卡片是小乐的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "132"
+      ],
+      "options": [],
+      "explanation": "44 + 44 × 2 = 132（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了34张卡片，小美收集的卡片是小安的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "272"
+      ],
+      "options": [],
+      "explanation": "34 + 34 × 7 = 272（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了40张卡片，小美收集的卡片是小安的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "360"
+      ],
+      "options": [],
+      "explanation": "40 + 40 × 8 = 360（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了57张卡片，小美收集的卡片是小华的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "399"
+      ],
+      "options": [],
+      "explanation": "57 + 57 × 6 = 399（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了54张卡片，小美收集的卡片是小安的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "216"
+      ],
+      "options": [],
+      "explanation": "54 + 54 × 3 = 216（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了12张卡片，小美收集的卡片是小林的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "12 + 12 × 6 = 84（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了12张卡片，小美收集的卡片是小明的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "12 + 12 × 2 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了14张卡片，小美收集的卡片是小安的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "14 + 14 × 6 = 98（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了6张卡片，小美收集的卡片是小红的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "6 + 6 × 8 = 54（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了58张卡片，小美收集的卡片是小安的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "232"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 3 = 232（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了53张卡片，小美收集的卡片是小红的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "424"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 7 = 424（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了53张卡片，小美收集的卡片是小红的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 2 = 159（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了32张卡片，小美收集的卡片是小悦的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": "32 + 32 × 4 = 160（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了57张卡片，小美收集的卡片是小明的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "285"
+      ],
+      "options": [],
+      "explanation": "57 + 57 × 4 = 285（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了23张卡片，小美收集的卡片是小林的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "161"
+      ],
+      "options": [],
+      "explanation": "23 + 23 × 6 = 161（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了42张卡片，小美收集的卡片是小乐的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "210"
+      ],
+      "options": [],
+      "explanation": "42 + 42 × 4 = 210（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了29张卡片，小美收集的卡片是小林的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "261"
+      ],
+      "options": [],
+      "explanation": "29 + 29 × 8 = 261（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了24张卡片，小美收集的卡片是小林的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "24 + 24 × 4 = 120（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了9张卡片，小美收集的卡片是小乐的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "9 + 9 × 4 = 45（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了51张卡片，小美收集的卡片是小明的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "255"
+      ],
+      "options": [],
+      "explanation": "51 + 51 × 4 = 255（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了40张卡片，小美收集的卡片是小雨的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "360"
+      ],
+      "options": [],
+      "explanation": "40 + 40 × 8 = 360（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了51张卡片，小美收集的卡片是小华的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "408"
+      ],
+      "options": [],
+      "explanation": "51 + 51 × 7 = 408（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了59张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "413"
+      ],
+      "options": [],
+      "explanation": "59 + 59 × 6 = 413（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了13张卡片，小美收集的卡片是小乐的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "13 + 13 × 7 = 104（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了53张卡片，小美收集的卡片是小华的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "318"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 5 = 318（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了37张卡片，小美收集的卡片是小华的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "185"
+      ],
+      "options": [],
+      "explanation": "37 + 37 × 4 = 185（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了36张卡片，小美收集的卡片是小明的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "216"
+      ],
+      "options": [],
+      "explanation": "36 + 36 × 5 = 216（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了31张卡片，小美收集的卡片是小明的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "217"
+      ],
+      "options": [],
+      "explanation": "31 + 31 × 6 = 217（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了52张卡片，小美收集的卡片是小林的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "416"
+      ],
+      "options": [],
+      "explanation": "52 + 52 × 7 = 416（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了53张卡片，小美收集的卡片是小安的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "371"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 6 = 371（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了41张卡片，小美收集的卡片是小明的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "287"
+      ],
+      "options": [],
+      "explanation": "41 + 41 × 6 = 287（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了44张卡片，小美收集的卡片是小红的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "220"
+      ],
+      "options": [],
+      "explanation": "44 + 44 × 4 = 220（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了46张卡片，小美收集的卡片是小红的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "368"
+      ],
+      "options": [],
+      "explanation": "46 + 46 × 7 = 368（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了28张卡片，小美收集的卡片是小安的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "28 + 28 × 2 = 84（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了9张卡片，小美收集的卡片是小红的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 + 9 × 3 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了39张卡片，小美收集的卡片是小明的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "273"
+      ],
+      "options": [],
+      "explanation": "39 + 39 × 6 = 273（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了54张卡片，小美收集的卡片是小乐的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "54 + 54 × 2 = 162（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了27张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "189"
+      ],
+      "options": [],
+      "explanation": "27 + 27 × 6 = 189（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了4张卡片，小美收集的卡片是小雨的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "4 + 4 × 5 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了34张卡片，小美收集的卡片是小林的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "204"
+      ],
+      "options": [],
+      "explanation": "34 + 34 × 5 = 204（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了15张卡片，小美收集的卡片是小雨的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": "15 + 15 × 5 = 90（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了17张卡片，小美收集的卡片是小悦的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": "17 + 17 × 5 = 102（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了39张卡片，小美收集的卡片是小明的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "312"
+      ],
+      "options": [],
+      "explanation": "39 + 39 × 7 = 312（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了8张卡片，小美收集的卡片是小华的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "8 + 8 × 3 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了58张卡片，小美收集的卡片是小明的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "348"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 5 = 348（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了16张卡片，小美收集的卡片是小红的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "16 + 16 × 2 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了5张卡片，小美收集的卡片是小乐的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "5 + 5 × 4 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了30张卡片，小美收集的卡片是小华的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "210"
+      ],
+      "options": [],
+      "explanation": "30 + 30 × 6 = 210（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了55张卡片，小美收集的卡片是小华的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "165"
+      ],
+      "options": [],
+      "explanation": "55 + 55 × 2 = 165（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了3张卡片，小美收集的卡片是小红的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "3 + 3 × 7 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了44张卡片，小美收集的卡片是小华的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "352"
+      ],
+      "options": [],
+      "explanation": "44 + 44 × 7 = 352（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了11张卡片，小美收集的卡片是小悦的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "11 + 11 × 5 = 66（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了60张卡片，小美收集的卡片是小悦的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "300"
+      ],
+      "options": [],
+      "explanation": "60 + 60 × 4 = 300（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了39张卡片，小美收集的卡片是小明的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "351"
+      ],
+      "options": [],
+      "explanation": "39 + 39 × 8 = 351（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了27张卡片，小美收集的卡片是小安的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "243"
+      ],
+      "options": [],
+      "explanation": "27 + 27 × 8 = 243（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了45张卡片，小美收集的卡片是小雨的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "180"
+      ],
+      "options": [],
+      "explanation": "45 + 45 × 3 = 180（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了47张卡片，小美收集的卡片是小乐的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "376"
+      ],
+      "options": [],
+      "explanation": "47 + 47 × 7 = 376（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了38张卡片，小美收集的卡片是小安的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "342"
+      ],
+      "options": [],
+      "explanation": "38 + 38 × 8 = 342（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了40张卡片，小美收集的卡片是小雨的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "280"
+      ],
+      "options": [],
+      "explanation": "40 + 40 × 6 = 280（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了10张卡片，小美收集的卡片是小乐的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": "10 + 10 × 8 = 90（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了59张卡片，小美收集的卡片是小悦的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "413"
+      ],
+      "options": [],
+      "explanation": "59 + 59 × 6 = 413（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了58张卡片，小美收集的卡片是小雨的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "348"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 5 = 348（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了31张卡片，小美收集的卡片是小悦的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": "31 + 31 × 5 = 186（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了54张卡片，小美收集的卡片是小悦的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "486"
+      ],
+      "options": [],
+      "explanation": "54 + 54 × 8 = 486（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了34张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "238"
+      ],
+      "options": [],
+      "explanation": "34 + 34 × 6 = 238（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了55张卡片，小美收集的卡片是小明的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "165"
+      ],
+      "options": [],
+      "explanation": "55 + 55 × 2 = 165（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了53张卡片，小美收集的卡片是小悦的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "477"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 8 = 477（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了23张卡片，小美收集的卡片是小安的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "161"
+      ],
+      "options": [],
+      "explanation": "23 + 23 × 6 = 161（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了33张卡片，小美收集的卡片是小明的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "132"
+      ],
+      "options": [],
+      "explanation": "33 + 33 × 3 = 132（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了17张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "17 + 17 × 6 = 119（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了44张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "308"
+      ],
+      "options": [],
+      "explanation": "44 + 44 × 6 = 308（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了21张卡片，小美收集的卡片是小明的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "21 + 21 × 6 = 147（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了42张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "42 + 42 × 2 = 126（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了27张卡片，小美收集的卡片是小雨的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "243"
+      ],
+      "options": [],
+      "explanation": "27 + 27 × 8 = 243（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了37张卡片，小美收集的卡片是小乐的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "333"
+      ],
+      "options": [],
+      "explanation": "37 + 37 × 8 = 333（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了35张卡片，小美收集的卡片是小明的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "35 + 35 × 2 = 105（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了9张卡片，小美收集的卡片是小雨的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "9 + 9 × 4 = 45（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了40张卡片，小美收集的卡片是小华的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "360"
+      ],
+      "options": [],
+      "explanation": "40 + 40 × 8 = 360（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了14张卡片，小美收集的卡片是小雨的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "14 + 14 × 8 = 126（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了50张卡片，小美收集的卡片是小红的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "250"
+      ],
+      "options": [],
+      "explanation": "50 + 50 × 4 = 250（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了42张卡片，小美收集的卡片是小乐的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "42 + 42 × 2 = 126（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了11张卡片，小美收集的卡片是小雨的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": "11 + 11 × 7 = 88（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了57张卡片，小美收集的卡片是小明的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "171"
+      ],
+      "options": [],
+      "explanation": "57 + 57 × 2 = 171（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了18张卡片，小美收集的卡片是小乐的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "18 + 18 × 8 = 162（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了47张卡片，小美收集的卡片是小悦的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "188"
+      ],
+      "options": [],
+      "explanation": "47 + 47 × 3 = 188（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了60张卡片，小美收集的卡片是小明的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "420"
+      ],
+      "options": [],
+      "explanation": "60 + 60 × 6 = 420（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了56张卡片，小美收集的卡片是小红的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "168"
+      ],
+      "options": [],
+      "explanation": "56 + 56 × 2 = 168（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了23张卡片，小美收集的卡片是小雨的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "207"
+      ],
+      "options": [],
+      "explanation": "23 + 23 × 8 = 207（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了40张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "40 + 40 × 2 = 120（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了13张卡片，小美收集的卡片是小明的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "13 + 13 × 7 = 104（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了26张卡片，小美收集的卡片是小林的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "208"
+      ],
+      "options": [],
+      "explanation": "26 + 26 × 7 = 208（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了20张卡片，小美收集的卡片是小悦的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": "20 + 20 × 4 = 100（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了35张卡片，小美收集的卡片是小安的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "35 + 35 × 2 = 105（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了53张卡片，小美收集的卡片是小悦的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "424"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 7 = 424（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了15张卡片，小美收集的卡片是小红的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "15 + 15 × 2 = 45（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了53张卡片，小美收集的卡片是小华的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "477"
+      ],
+      "options": [],
+      "explanation": "53 + 53 × 8 = 477（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了12张卡片，小美收集的卡片是小红的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "12 + 12 × 3 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了58张卡片，小美收集的卡片是小华的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "174"
+      ],
+      "options": [],
+      "explanation": "58 + 58 × 2 = 174（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了39张卡片，小美收集的卡片是小华的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "234"
+      ],
+      "options": [],
+      "explanation": "39 + 39 × 5 = 234（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了43张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "43 + 43 × 2 = 129（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了8张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 + 8 × 6 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了20张卡片，小美收集的卡片是小红的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": "20 + 20 × 4 = 100（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了52张卡片，小美收集的卡片是小乐的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "208"
+      ],
+      "options": [],
+      "explanation": "52 + 52 × 3 = 208（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了8张卡片，小美收集的卡片是小林的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 + 8 × 5 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了25张卡片，小美收集的卡片是小悦的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "25 + 25 × 2 = 75（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了21张卡片，小美收集的卡片是小华的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "21 + 21 × 4 = 105（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了30张卡片，小美收集的卡片是小悦的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "210"
+      ],
+      "options": [],
+      "explanation": "30 + 30 × 6 = 210（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了13张卡片，小美收集的卡片是小雨的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": "13 + 13 × 8 = 117（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了22张卡片，小美收集的卡片是小雨的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": "22 + 22 × 4 = 110（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了35张卡片，小美收集的卡片是小安的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "280"
+      ],
+      "options": [],
+      "explanation": "35 + 35 × 7 = 280（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了14张卡片，小美收集的卡片是小华的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "14 + 14 × 4 = 70（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了52张卡片，小美收集的卡片是小林的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "260"
+      ],
+      "options": [],
+      "explanation": "52 + 52 × 4 = 260（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了52张卡片，小美收集的卡片是小安的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "364"
+      ],
+      "options": [],
+      "explanation": "52 + 52 × 6 = 364（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了29张卡片，小美收集的卡片是小华的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "174"
+      ],
+      "options": [],
+      "explanation": "29 + 29 × 5 = 174（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了48张卡片，小美收集的卡片是小雨的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": "48 + 48 × 3 = 192（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了36张卡片，小美收集的卡片是小安的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "324"
+      ],
+      "options": [],
+      "explanation": "36 + 36 × 8 = 324（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了41张卡片，小美收集的卡片是小雨的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "287"
+      ],
+      "options": [],
+      "explanation": "41 + 41 × 6 = 287（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了7张卡片，小美收集的卡片是小乐的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "7 + 7 × 7 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了32张卡片，小美收集的卡片是小雨的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": "32 + 32 × 4 = 160（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了49张卡片，小美收集的卡片是小明的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "49 + 49 × 2 = 147（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了13张卡片，小美收集的卡片是小林的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "13 + 13 × 6 = 91（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了26张卡片，小美收集的卡片是小乐的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "26 + 26 × 3 = 104（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了38张卡片，小美收集的卡片是小林的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "114"
+      ],
+      "options": [],
+      "explanation": "38 + 38 × 2 = 114（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了7张卡片，小美收集的卡片是小华的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "7 + 7 × 3 = 28（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了27张卡片，小美收集的卡片是小雨的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "189"
+      ],
+      "options": [],
+      "explanation": "27 + 27 × 6 = 189（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了42张卡片，小美收集的卡片是小华的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "42 + 42 × 2 = 126（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了13张卡片，小美收集的卡片是小安的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "13 + 13 × 2 = 39（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了55张卡片，小美收集的卡片是小华的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "220"
+      ],
+      "options": [],
+      "explanation": "55 + 55 × 3 = 220（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了56张卡片，小美收集的卡片是小乐的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "504"
+      ],
+      "options": [],
+      "explanation": "56 + 56 × 8 = 504（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了12张卡片，小美收集的卡片是小雨的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "12 + 12 × 2 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了44张卡片，小美收集的卡片是小乐的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "352"
+      ],
+      "options": [],
+      "explanation": "44 + 44 × 7 = 352（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了13张卡片，小美收集的卡片是小红的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "13 + 13 × 3 = 52（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了32张卡片，小美收集的卡片是小安的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "128"
+      ],
+      "options": [],
+      "explanation": "32 + 32 × 3 = 128（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了48张卡片，小美收集的卡片是小红的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "48 + 48 × 2 = 144（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了35张卡片，小美收集的卡片是小林的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "175"
+      ],
+      "options": [],
+      "explanation": "35 + 35 × 4 = 175（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了59张卡片，小美收集的卡片是小红的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "354"
+      ],
+      "options": [],
+      "explanation": "59 + 59 × 5 = 354（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了16张卡片，小美收集的卡片是小乐的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "112"
+      ],
+      "options": [],
+      "explanation": "16 + 16 × 6 = 112（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了56张卡片，小美收集的卡片是小悦的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "280"
+      ],
+      "options": [],
+      "explanation": "56 + 56 × 4 = 280（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了37张卡片，小美收集的卡片是小雨的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "296"
+      ],
+      "options": [],
+      "explanation": "37 + 37 × 7 = 296（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了10张卡片，小美收集的卡片是小悦的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "10 + 10 × 2 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了42张卡片，小美收集的卡片是小悦的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "210"
+      ],
+      "options": [],
+      "explanation": "42 + 42 × 4 = 210（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了57张卡片，小美收集的卡片是小悦的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "513"
+      ],
+      "options": [],
+      "explanation": "57 + 57 × 8 = 513（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了42张卡片，小美收集的卡片是小林的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "294"
+      ],
+      "options": [],
+      "explanation": "42 + 42 × 6 = 294（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了15张卡片，小美收集的卡片是小林的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "15 + 15 × 7 = 120（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了20张卡片，小美收集的卡片是小悦的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": "20 + 20 × 6 = 140（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了28张卡片，小美收集的卡片是小林的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "224"
+      ],
+      "options": [],
+      "explanation": "28 + 28 × 7 = 224（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了45张卡片，小美收集的卡片是小华的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "360"
+      ],
+      "options": [],
+      "explanation": "45 + 45 × 7 = 360（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了39张卡片，小美收集的卡片是小悦的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "351"
+      ],
+      "options": [],
+      "explanation": "39 + 39 × 8 = 351（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了7张卡片，小美收集的卡片是小乐的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "7 + 7 × 2 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了20张卡片，小美收集的卡片是小雨的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": "20 + 20 × 6 = 140（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了54张卡片，小美收集的卡片是小明的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "270"
+      ],
+      "options": [],
+      "explanation": "54 + 54 × 4 = 270（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了51张卡片，小美收集的卡片是小林的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "408"
+      ],
+      "options": [],
+      "explanation": "51 + 51 × 7 = 408（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了16张卡片，小美收集的卡片是小华的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "16 + 16 × 5 = 96（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了60张卡片，小美收集的卡片是小安的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "420"
+      ],
+      "options": [],
+      "explanation": "60 + 60 × 6 = 420（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了38张卡片，小美收集的卡片是小林的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "266"
+      ],
+      "options": [],
+      "explanation": "38 + 38 × 6 = 266（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了46张卡片，小美收集的卡片是小华的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": "46 + 46 × 2 = 138（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了36张卡片，小美收集的卡片是小悦的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "108"
+      ],
+      "options": [],
+      "explanation": "36 + 36 × 2 = 108（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了57张卡片，小美收集的卡片是小悦的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "171"
+      ],
+      "options": [],
+      "explanation": "57 + 57 × 2 = 171（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了54张卡片，小美收集的卡片是小悦的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "216"
+      ],
+      "options": [],
+      "explanation": "54 + 54 × 3 = 216（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了8张卡片，小美收集的卡片是小乐的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 + 8 × 7 = 64（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了6张卡片，小美收集的卡片是小乐的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "6 + 6 × 5 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了28张卡片，小美收集的卡片是小乐的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "112"
+      ],
+      "options": [],
+      "explanation": "28 + 28 × 3 = 112（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了34张卡片，小美收集的卡片是小华的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": "34 + 34 × 3 = 136（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了48张卡片，小美收集的卡片是小悦的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "384"
+      ],
+      "options": [],
+      "explanation": "48 + 48 × 7 = 384（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了23张卡片，小美收集的卡片是小乐的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": "23 + 23 × 7 = 184（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了44张卡片，小美收集的卡片是小华的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": "44 + 44 × 3 = 176（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了6张卡片，小美收集的卡片是小安的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "6 + 6 × 4 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了50张卡片，小美收集的卡片是小安的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "400"
+      ],
+      "options": [],
+      "explanation": "50 + 50 × 7 = 400（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了20张卡片，小美收集的卡片是小安的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": "20 + 20 × 7 = 160（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了23张卡片，小美收集的卡片是小林的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": "23 + 23 × 5 = 138（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了22张卡片，小美收集的卡片是小悦的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "154"
+      ],
+      "options": [],
+      "explanation": "22 + 22 × 6 = 154（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐收集了20张卡片，小美收集的卡片是小乐的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "20 + 20 × 5 = 120（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了12张卡片，小美收集的卡片是小明的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "12 + 12 × 5 = 72（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了21张卡片，小美收集的卡片是小安的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "21 + 21 × 2 = 63（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明收集了37张卡片，小美收集的卡片是小明的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": "37 + 37 × 2 = 111（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了14张卡片，小美收集的卡片是小红的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "14 + 14 × 3 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了44张卡片，小美收集的卡片是小安的4倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "220"
+      ],
+      "options": [],
+      "explanation": "44 + 44 × 4 = 220（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了41张卡片，小美收集的卡片是小林的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "369"
+      ],
+      "options": [],
+      "explanation": "41 + 41 × 8 = 369（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了35张卡片，小美收集的卡片是小华的8倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "315"
+      ],
+      "options": [],
+      "explanation": "35 + 35 × 8 = 315（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了35张卡片，小美收集的卡片是小红的7倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "280"
+      ],
+      "options": [],
+      "explanation": "35 + 35 × 7 = 280（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦收集了9张卡片，小美收集的卡片是小悦的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 + 9 × 3 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了7张卡片，小美收集的卡片是小安的2倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "7 + 7 × 2 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华收集了9张卡片，小美收集的卡片是小华的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 + 9 × 3 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安收集了36张卡片，小美收集的卡片是小安的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "216"
+      ],
+      "options": [],
+      "explanation": "36 + 36 × 5 = 216（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红收集了8张卡片，小美收集的卡片是小红的3倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "8 + 8 × 3 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林收集了27张卡片，小美收集的卡片是小林的5倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "27 + 27 × 5 = 162（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨收集了38张卡片，小美收集的卡片是小雨的6倍。两人一共收集了多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "266"
+      ],
+      "options": [],
+      "explanation": "38 + 38 × 6 = 266（张）。"
+    }
+  ]
+}

@@ -1,0 +1,3009 @@
+{
+  "title": "2年级 · 应用题 · 分组总数",
+  "grade": 2,
+  "category": "应用题 · 分组总数",
+  "kind": "application",
+  "range": "乘法口诀 · 相同数量合并",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了5袋彩纸，每袋有7张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "5 × 7 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了8袋积木，每袋有7块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 × 7 = 56（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了5袋彩纸，每袋有6张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "5 × 6 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了8袋积木，每袋有8块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了4袋贴纸，每袋有3张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了2袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "2 × 5 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了6袋卡片，每袋有4张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "6 × 4 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了5袋铅笔，每袋有7支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "5 × 7 = 35（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了4袋彩纸，每袋有2张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "4 × 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了6袋贴纸，每袋有9张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "6 × 9 = 54（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了2袋贴纸，每袋有4张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 × 4 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了4袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "4 × 9 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了3袋铅笔，每袋有6支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "3 × 6 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了6袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "6 × 3 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了3袋贴纸，每袋有2张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "3 × 2 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了6袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "6 × 3 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了6袋彩纸，每袋有3张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "6 × 3 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了8袋贴纸，每袋有8张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了4袋积木，每袋有8块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "4 × 8 = 32（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了6袋铅笔，每袋有6支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "6 × 6 = 36（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋小球，每袋有3个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "2 × 3 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了4袋彩纸，每袋有3张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了9袋卡片，每袋有9张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "9 × 9 = 81（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了4袋小球，每袋有3个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了2袋铅笔，每袋有4支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 × 4 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了6袋铅笔，每袋有5支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "6 × 5 = 30（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了5袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "5 × 5 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了3袋铅笔，每袋有7支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了9袋彩纸，每袋有6张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "9 × 6 = 54（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了3袋卡片，每袋有5张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "3 × 5 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了5袋彩纸，每袋有4张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "5 × 4 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了5袋积木，每袋有8块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "5 × 8 = 40（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "2 × 9 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了6袋彩纸，每袋有2张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "6 × 2 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了7袋积木，每袋有7块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "7 × 7 = 49（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了2袋小球，每袋有9个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "2 × 9 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了5袋彩纸，每袋有6张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "5 × 6 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了8袋卡片，每袋有2张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "8 × 2 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了6袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了3袋贴纸，每袋有7张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了8袋贴纸，每袋有4张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "8 × 4 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了5袋小球，每袋有3个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "5 × 3 = 15（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了5袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "5 × 9 = 45（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了3袋积木，每袋有7块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "2 × 7 = 14（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了6袋卡片，每袋有5张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "6 × 5 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了2袋彩纸，每袋有7张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "2 × 7 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了6袋积木，每袋有6块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "6 × 6 = 36（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了6袋贴纸，每袋有4张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "6 × 4 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了4袋彩纸，每袋有8张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "4 × 8 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋彩纸，每袋有8张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了5袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "5 × 3 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了5袋铅笔，每袋有8支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "5 × 8 = 40（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了8袋积木，每袋有5块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "8 × 5 = 40（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了9袋积木，每袋有7块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "9 × 7 = 63（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了7袋小球，每袋有8个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "7 × 8 = 56（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了8袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 × 7 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了8袋卡片，每袋有9张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "8 × 9 = 72（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了7袋彩纸，每袋有7张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "7 × 7 = 49（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了4袋卡片，每袋有5张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了3袋卡片，每袋有5张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "3 × 5 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "8 × 9 = 72（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了3袋铅笔，每袋有2支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "3 × 2 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了3袋贴纸，每袋有4张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "3 × 4 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了8袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 × 6 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了6袋彩纸，每袋有8张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "6 × 8 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了4袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了5袋贴纸，每袋有3张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "5 × 3 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了9袋小球，每袋有5个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "9 × 5 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了4袋贴纸，每袋有3张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋贴纸，每袋有8张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了7袋卡片，每袋有2张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "7 × 2 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了4袋卡片，每袋有8张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "4 × 8 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了9袋铅笔，每袋有4支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 × 4 = 36（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了5袋卡片，每袋有2张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "5 × 2 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了9袋积木，每袋有8块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "9 × 8 = 72（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋小球，每袋有6个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 × 6 = 48（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了4袋铅笔，每袋有7支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "4 × 7 = 28（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了3袋积木，每袋有9块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "3 × 9 = 27（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了8袋贴纸，每袋有6张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 × 6 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "2 × 2 = 4（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了6袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了9袋贴纸，每袋有7张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "9 × 7 = 63（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了6袋卡片，每袋有5张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "6 × 5 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了4袋小球，每袋有4个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "4 × 4 = 16（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了4袋卡片，每袋有5张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了6袋铅笔，每袋有6支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "6 × 6 = 36（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋彩纸，每袋有7张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "2 × 7 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了2袋小球，每袋有4个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 × 4 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了8袋铅笔，每袋有5支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "8 × 5 = 40（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了5袋贴纸，每袋有8张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "5 × 8 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了2袋铅笔，每袋有8支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "2 × 8 = 16（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了8袋铅笔，每袋有8支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了7袋彩纸，每袋有6张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "7 × 6 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了3袋铅笔，每袋有8支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "3 × 8 = 24（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了8袋彩纸，每袋有4张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "8 × 4 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了7袋小球，每袋有3个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "7 × 3 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了2袋卡片，每袋有2张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "2 × 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了6袋贴纸，每袋有7张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了2袋卡片，每袋有8张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "2 × 8 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了6袋积木，每袋有4块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "6 × 4 = 24（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了7袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "7 × 6 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了9袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "9 × 6 = 54（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了8袋卡片，每袋有4张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "8 × 4 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了5袋铅笔，每袋有4支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "5 × 4 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了6袋卡片，每袋有9张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "6 × 9 = 54（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了3袋彩纸，每袋有7张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了3袋彩纸，每袋有7张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了5袋卡片，每袋有8张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "5 × 8 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了6袋铅笔，每袋有4支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "6 × 4 = 24（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了4袋积木，每袋有3块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了9袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "9 × 7 = 63（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了9袋彩纸，每袋有7张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "9 × 7 = 63（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了3袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了2袋贴纸，每袋有6张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "2 × 6 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了2袋卡片，每袋有4张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 × 4 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了9袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "9 × 3 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了2袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "2 × 6 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了3袋小球，每袋有8个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "3 × 8 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了4袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了5袋积木，每袋有4块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "5 × 4 = 20（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了6袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了8袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 × 7 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了3袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "3 × 6 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了3袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了9袋贴纸，每袋有3张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "9 × 3 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了5袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "5 × 5 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了9袋积木，每袋有3块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "9 × 3 = 27（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了8袋卡片，每袋有8张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了3袋彩纸，每袋有5张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "3 × 5 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了5袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "5 × 3 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了5袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "5 × 5 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了8袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 × 6 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了2袋积木，每袋有6块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "2 × 6 = 12（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了2袋铅笔，每袋有9支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "2 × 9 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "2 × 5 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了7袋贴纸，每袋有7张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "7 × 7 = 49（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了5袋铅笔，每袋有9支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "5 × 9 = 45（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋铅笔，每袋有3支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "8 × 3 = 24（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了6袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了4袋铅笔，每袋有5支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了6袋卡片，每袋有9张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "6 × 9 = 54（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了3袋积木，每袋有5块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "3 × 5 = 15（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了3袋贴纸，每袋有6张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "3 × 6 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了6袋铅笔，每袋有2支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "6 × 2 = 12（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了4袋铅笔，每袋有3支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了8袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 × 7 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了4袋积木，每袋有9块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "4 × 9 = 36（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了9袋彩纸，每袋有5张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "9 × 5 = 45（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了8袋积木，每袋有6块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 × 6 = 48（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了4袋贴纸，每袋有3张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋积木，每袋有8块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "2 × 8 = 16（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了9袋积木，每袋有6块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "9 × 6 = 54（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了4袋积木，每袋有5块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了4袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "4 × 2 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了6袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "6 × 6 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了2袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "2 × 6 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了7袋贴纸，每袋有2张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "7 × 2 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了8袋彩纸，每袋有5张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "8 × 5 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了2袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "2 × 9 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了6袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "6 × 5 = 30（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了9袋贴纸，每袋有9张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "9 × 9 = 81（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了5袋彩纸，每袋有4张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "5 × 4 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了8袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "8 × 5 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了3袋铅笔，每袋有3支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "3 × 3 = 9（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了3袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "3 × 3 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了6袋小球，每袋有4个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "6 × 4 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了5袋贴纸，每袋有9张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "5 × 9 = 45（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了3袋贴纸，每袋有4张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "3 × 4 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了4袋铅笔，每袋有5支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了3袋铅笔，每袋有9支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "3 × 9 = 27（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了4袋积木，每袋有7块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "4 × 7 = 28（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了9袋卡片，每袋有4张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 × 4 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了7袋铅笔，每袋有2支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "7 × 2 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了8袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "8 × 2 = 16（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了7袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "7 × 3 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了6袋贴纸，每袋有9张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "6 × 9 = 54（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了7袋积木，每袋有9块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "7 × 9 = 63（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了4袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "4 × 6 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了9袋积木，每袋有4块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 × 4 = 36（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了9袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "9 × 2 = 18（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了9袋小球，每袋有4个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 × 4 = 36（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "2 × 3 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了4袋彩纸，每袋有7张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "4 × 7 = 28（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了5袋彩纸，每袋有8张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "5 × 8 = 40（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了9袋卡片，每袋有6张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "9 × 6 = 54（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了7袋彩纸，每袋有3张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "7 × 3 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋铅笔，每袋有6支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "2 × 6 = 12（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了4袋积木，每袋有6块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "4 × 6 = 24（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了6袋小球，每袋有2个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "6 × 2 = 12（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了3袋彩纸，每袋有3张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "3 × 3 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了8袋小球，每袋有2个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "8 × 2 = 16（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了5袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "5 × 7 = 35（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了2袋铅笔，每袋有9支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "2 × 9 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了4袋彩纸，每袋有5张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了3袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了4袋贴纸，每袋有9张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "4 × 9 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋积木，每袋有8块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了3袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "3 × 2 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了2袋卡片，每袋有9张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "2 × 9 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了5袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "5 × 9 = 45（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了3袋积木，每袋有4块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "3 × 4 = 12（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了5袋铅笔，每袋有2支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "5 × 2 = 10（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了4袋小球，每袋有5个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "4 × 5 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了3袋积木，每袋有3块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "3 × 3 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了7袋小球，每袋有3个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "7 × 3 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了4袋卡片，每袋有9张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "4 × 9 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了8袋贴纸，每袋有3张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "8 × 3 = 24（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了6袋卡片，每袋有8张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "6 × 8 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了2袋贴纸，每袋有5张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "2 × 5 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了2袋小球，每袋有5个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "2 × 5 = 10（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了4袋贴纸，每袋有4张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "4 × 4 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了4袋小球，每袋有9个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "4 × 9 = 36（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了7袋彩纸，每袋有5张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "7 × 5 = 35（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了7袋贴纸，每袋有8张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "7 × 8 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了2袋铅笔，每袋有3支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "2 × 3 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 × 7 = 56（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了8袋卡片，每袋有8张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了4袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "4 × 7 = 28（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了6袋积木，每袋有9块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "6 × 9 = 54（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了4袋彩纸，每袋有4张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "4 × 4 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了6袋铅笔，每袋有7支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了6袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了9袋铅笔，每袋有6支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "9 × 6 = 54（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了5袋铅笔，每袋有9支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "5 × 9 = 45（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了8袋彩纸，每袋有6张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 × 6 = 48（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了3袋小球，每袋有5个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "3 × 5 = 15（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了8袋小球，每袋有3个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "8 × 3 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋卡片，每袋有9张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "8 × 9 = 72（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了3袋贴纸，每袋有7张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了6袋铅笔，每袋有7支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了2袋卡片，每袋有9张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "2 × 9 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了5袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "5 × 2 = 10（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了9袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "9 × 7 = 63（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了8袋铅笔，每袋有7支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 × 7 = 56（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋积木，每袋有4块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 × 4 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了9袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "9 × 9 = 81（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了4袋贴纸，每袋有9张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "4 × 9 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了9袋卡片，每袋有8张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "9 × 8 = 72（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了6袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了5袋铅笔，每袋有2支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "5 × 2 = 10（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了2袋贴纸，每袋有7张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "2 × 7 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了7袋积木，每袋有8块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "7 × 8 = 56（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了7袋贴纸，每袋有8张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "7 × 8 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了9袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "9 × 9 = 81（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了5袋小球，每袋有9个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "5 × 9 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了4袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "4 × 2 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了6袋积木，每袋有8块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "6 × 8 = 48（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了6袋贴纸，每袋有7张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "6 × 7 = 42（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了8袋彩纸，每袋有4张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "8 × 4 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了9袋贴纸，每袋有4张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 × 4 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了4袋小球，每袋有4个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "4 × 4 = 16（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了4袋卡片，每袋有2张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "4 × 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了8袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 × 7 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了4袋铅笔，每袋有7支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "4 × 7 = 28（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了6袋小球，每袋有3个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "6 × 3 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了4袋彩纸，每袋有3张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了9袋卡片，每袋有4张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 × 4 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了9袋小球，每袋有9个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "9 × 9 = 81（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了6袋小球，每袋有9个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "6 × 9 = 54（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了6袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "6 × 2 = 12（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了7袋铅笔，每袋有7支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "7 × 7 = 49（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了7袋铅笔，每袋有6支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "7 × 6 = 42（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了4袋贴纸，每袋有2张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "4 × 2 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了2袋贴纸，每袋有7张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "2 × 7 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了5袋小球，每袋有4个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "5 × 4 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了8袋卡片，每袋有8张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "8 × 8 = 64（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了3袋小球，每袋有9个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "3 × 9 = 27（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了8袋卡片，每袋有7张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "8 × 7 = 56（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了3袋彩纸，每袋有4张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "3 × 4 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了2袋卡片，每袋有2张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "2 × 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了3袋小球，每袋有7个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 7 = 21（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了9袋彩纸，每袋有4张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "9 × 4 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了8袋铅笔，每袋有6支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "8 × 6 = 48（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了9袋积木，每袋有6块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "9 × 6 = 54（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了3袋铅笔，每袋有4支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "3 × 4 = 12（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了5袋积木，每袋有7块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "5 × 7 = 35（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了5袋小球，每袋有9个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "5 × 9 = 45（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了7袋铅笔，每袋有9支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "7 × 9 = 63（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了8袋积木，每袋有2块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "8 × 2 = 16（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了6袋卡片，每袋有2张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "6 × 2 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了6袋小球，每袋有4个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "6 × 4 = 24（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨准备了2袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "2 × 3 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了3袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "3 × 9 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了9袋彩纸，每袋有3张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "9 × 3 = 27（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了2袋铅笔，每袋有2支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "2 × 2 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了8袋卡片，每袋有4张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "8 × 4 = 32（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了2袋小球，每袋有4个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 × 4 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了5袋小球，每袋有8个。一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "5 × 8 = 40（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红准备了2袋贴纸，每袋有4张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 × 4 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了2袋积木，每袋有5块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "2 × 5 = 10（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林准备了4袋贴纸，每袋有3张。一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 × 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了4袋积木，每袋有4块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "4 × 4 = 16（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了5袋卡片，每袋有5张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "5 × 5 = 25（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明准备了4袋彩纸，每袋有9张。一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "4 × 9 = 36（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐准备了9袋铅笔，每袋有3支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "9 × 3 = 27（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华准备了6袋积木，每袋有4块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "6 × 4 = 24（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了6袋铅笔，每袋有6支。一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "6 × 6 = 36（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安准备了3袋卡片，每袋有3张。一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "3 × 3 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦准备了7袋积木，每袋有3块。一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "7 × 3 = 21（块）。"
+    }
+  ]
+}

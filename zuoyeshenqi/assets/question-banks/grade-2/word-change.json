@@ -1,0 +1,3009 @@
+{
+  "title": "2年级 · 应用题 · 购物找零",
+  "grade": 2,
+  "category": "应用题 · 购物找零",
+  "kind": "application",
+  "range": "整数 · 先乘后减",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小林买了7本，付了17元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "17 − 2 × 7 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小红买了3本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "39 − 9 × 3 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小乐买了2本，付了37元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "37 − 6 × 2 = 25（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小悦买了5本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "29 − 2 × 5 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小雨买了9本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "28 − 2 × 9 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小乐买了2本，付了25元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "25 − 2 × 2 = 21（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小悦买了7本，付了61元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "61 − 6 × 7 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了2本，付了21元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "21 − 3 × 2 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小华买了4本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "38 − 4 × 4 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小红买了9本，付了90元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "90 − 9 × 9 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小安买了8本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "32 − 3 × 8 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小安买了4本，付了25元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "25 − 4 × 4 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小明买了6本，付了42元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "42 − 2 × 6 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了3本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "31 − 4 × 3 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了3本，付了30元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "30 − 7 × 3 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小乐买了5本，付了61元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "61 − 9 × 5 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了8本，付了67元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "67 − 7 × 8 = 11（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小雨买了6本，付了40元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "40 − 6 × 6 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了9本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "28 − 3 × 9 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小林买了3本，付了24元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "24 − 7 × 3 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小林买了5本，付了51元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "51 − 6 × 5 = 21（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小林买了6本，付了15元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "15 − 2 × 6 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小雨买了7本，付了51元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "51 − 3 × 7 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小安买了9本，付了48元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "48 − 5 × 9 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小安买了9本，付了30元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "30 − 3 × 9 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小华买了3本，付了37元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "37 − 8 × 3 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小红买了4本，付了17元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "17 − 4 × 4 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小乐买了5本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "32 − 2 × 5 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小乐买了5本，付了53元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "53 − 6 × 5 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小雨买了3本，付了43元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "43 − 9 × 3 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小林买了7本，付了50元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "50 − 7 × 7 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小华买了7本，付了70元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "70 − 6 × 7 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小红买了6本，付了46元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "46 − 3 × 6 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小悦买了9本，付了47元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "47 − 2 × 9 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小悦买了2本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "31 − 6 × 2 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了9本，付了42元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "42 − 3 × 9 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小安买了9本，付了87元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "87 − 8 × 9 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小华买了8本，付了62元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "62 − 6 × 8 = 14（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小乐买了4本，付了19元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "19 − 3 × 4 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小明买了7本，付了36元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "36 − 3 × 7 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了4本，付了43元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "43 − 4 × 4 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小悦买了9本，付了72元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "72 − 6 × 9 = 18（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小林买了4本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "39 − 5 × 4 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小红买了3本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "38 − 8 × 3 = 14（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小安买了9本，付了65元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "65 − 7 × 9 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了4本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "38 − 4 × 4 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小安买了6本，付了81元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "81 − 9 × 6 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了6本，付了52元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "52 − 4 × 6 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小安买了4本，付了49元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "49 − 5 × 4 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小乐买了3本，付了41元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "41 − 8 × 3 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小悦买了7本，付了49元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "49 − 6 × 7 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小华买了3本，付了25元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "25 − 4 × 3 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小悦买了5本，付了60元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "60 − 8 × 5 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小安买了7本，付了72元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "72 − 9 × 7 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小雨买了9本，付了85元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "85 − 7 × 9 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小红买了3本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "31 − 9 × 3 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小明买了7本，付了50元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "50 − 3 × 7 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小悦买了2本，付了11元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "11 − 3 × 2 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了9本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "32 − 3 × 9 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小红买了4本，付了40元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "40 − 4 × 4 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小乐买了3本，付了21元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "21 − 3 × 3 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了8本，付了44元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "44 − 4 × 8 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小明买了2本，付了37元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "37 − 5 × 2 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小安买了2本，付了22元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "22 − 2 × 2 = 18（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小明买了4本，付了52元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "52 − 7 × 4 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小雨买了6本，付了52元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "52 − 4 × 6 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小明买了2本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "32 − 7 × 2 = 18（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小雨买了6本，付了48元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "48 − 4 × 6 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小明买了5本，付了56元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "56 − 9 × 5 = 11（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小安买了6本，付了30元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "30 − 3 × 6 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小华买了9本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "38 − 4 × 9 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小乐买了3本，付了46元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "46 − 9 × 3 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小悦买了7本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "29 − 3 × 7 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小华买了2本，付了36元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "36 − 8 × 2 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小林买了6本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "39 − 6 × 6 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小林买了7本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "28 − 3 × 7 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小红买了7本，付了81元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "81 − 9 × 7 = 18（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小明买了9本，付了82元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "82 − 6 × 9 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小安买了7本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "29 − 3 × 7 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小乐买了2本，付了23元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "23 − 8 × 2 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小安买了3本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "31 − 9 × 3 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小林买了6本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "39 − 5 × 6 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小雨买了2本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "29 − 3 × 2 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小安买了5本，付了51元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "51 − 6 × 5 = 21（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小雨买了7本，付了66元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "66 − 9 × 7 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小华买了9本，付了68元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "68 − 5 × 9 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小明买了9本，付了84元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "84 − 9 × 9 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小悦买了8本，付了46元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "46 − 2 × 8 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小雨买了9本，付了66元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "66 − 7 × 9 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小安买了6本，付了84元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "84 − 9 × 6 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了4本，付了30元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "30 − 7 × 4 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小悦买了5本，付了44元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "44 − 6 × 5 = 14（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小华买了6本，付了77元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "77 − 8 × 6 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小明买了5本，付了50元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "50 − 7 × 5 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小安买了9本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "29 − 2 × 9 = 11（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小悦买了8本，付了96元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "96 − 9 × 8 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小悦买了2本，付了9元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "9 − 3 × 2 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小雨买了5本，付了41元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "41 − 8 × 5 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小悦买了8本，付了80元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "80 − 8 × 8 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小林买了2本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "29 − 6 × 2 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小红买了8本，付了94元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "94 − 9 × 8 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小华买了2本，付了37元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "37 − 4 × 2 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了5本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "31 − 4 × 5 = 11（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小林买了5本，付了58元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "58 − 6 × 5 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小安买了6本，付了18元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "18 − 2 × 6 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了9本，付了64元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "64 − 7 × 9 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小红买了2本，付了30元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "30 − 7 × 2 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小华买了3本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "31 − 8 × 3 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小悦买了7本，付了77元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "77 − 9 × 7 = 14（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小安买了3本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "28 − 6 × 3 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小林买了9本，付了61元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "61 − 4 × 9 = 25（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小林买了4本，付了54元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "54 − 6 × 4 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小悦买了2本，付了16元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "16 − 7 × 2 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小雨买了4本，付了53元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "53 − 6 × 4 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小红买了4本，付了63元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "63 − 9 × 4 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小安买了8本，付了36元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "36 − 2 × 8 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了3本，付了36元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "36 − 4 × 3 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小雨买了5本，付了74元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "74 − 9 × 5 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小悦买了6本，付了54元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "54 − 8 × 6 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小红买了6本，付了40元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "40 − 4 × 6 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小雨买了2本，付了23元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "23 − 2 × 2 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了8本，付了36元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "36 − 4 × 8 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了3本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "29 − 3 × 3 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了7本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "38 − 3 × 7 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小乐买了5本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "31 − 3 × 5 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小明买了6本，付了69元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "69 − 8 × 6 = 21（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小雨买了9本，付了74元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "74 − 6 × 9 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小安买了2本，付了16元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "16 − 7 × 2 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小悦买了7本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "39 − 5 × 7 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了4本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "38 − 7 × 4 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小雨买了8本，付了44元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "44 − 3 × 8 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小林买了4本，付了47元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "47 − 7 × 4 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小华买了5本，付了42元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "42 − 4 × 5 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小乐买了6本，付了47元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "47 − 4 × 6 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了3本，付了14元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "14 − 3 × 3 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了7本，付了78元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "78 − 7 × 7 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小安买了5本，付了43元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "43 − 3 × 5 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小林买了5本，付了43元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "43 − 4 × 5 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了8本，付了68元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "68 − 7 × 8 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小林买了3本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "29 − 4 × 3 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小林买了3本，付了24元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "24 − 2 × 3 = 18（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小乐买了9本，付了80元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "80 − 6 × 9 = 26（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小林买了9本，付了79元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "79 − 8 × 9 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小悦买了7本，付了75元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "75 − 8 × 7 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小明买了6本，付了47元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "47 − 5 × 6 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了9本，付了68元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "68 − 7 × 9 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小安买了4本，付了66元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "66 − 9 × 4 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小安买了4本，付了40元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "40 − 3 × 4 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小悦买了2本，付了21元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "21 − 2 × 2 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小乐买了3本，付了15元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "15 − 3 × 3 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小林买了4本，付了14元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "14 − 2 × 4 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小林买了6本，付了55元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "55 − 7 × 6 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小华买了5本，付了66元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "66 − 8 × 5 = 26（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小林买了7本，付了83元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "83 − 9 × 7 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小红买了2本，付了24元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "24 − 6 × 2 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小安买了6本，付了51元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "51 − 7 × 6 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小乐买了8本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "32 − 3 × 8 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小明买了4本，付了22元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "22 − 3 × 4 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小悦买了3本，付了13元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "13 − 4 × 3 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小红买了3本，付了34元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "34 − 5 × 3 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小悦买了5本，付了59元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "59 − 7 × 5 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小明买了2本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "32 − 4 × 2 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小林买了3本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "31 − 8 × 3 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小安买了7本，付了42元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "42 − 5 × 7 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小明买了8本，付了89元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "89 − 9 × 8 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小红买了4本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "38 − 7 × 4 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小悦买了5本，付了45元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "45 − 6 × 5 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小安买了4本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "31 − 4 × 4 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小乐买了5本，付了45元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "45 − 5 × 5 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小林买了4本，付了54元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "54 − 8 × 4 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小雨买了9本，付了59元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "59 − 6 × 9 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小华买了3本，付了30元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "30 − 5 × 3 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小雨买了7本，付了51元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "51 − 4 × 7 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小雨买了2本，付了46元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "46 − 9 × 2 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小安买了6本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "29 − 4 × 6 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了5本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "32 − 3 × 5 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小雨买了8本，付了55元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "55 − 4 × 8 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小乐买了8本，付了93元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "93 − 8 × 8 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小乐买了6本，付了51元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "51 − 6 × 6 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小悦买了9本，付了63元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "63 − 6 × 9 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小林买了2本，付了36元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "36 − 9 × 2 = 18（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了2本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "28 − 7 × 2 = 14（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小雨买了2本，付了34元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "34 − 4 × 2 = 26（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小安买了3本，付了23元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "23 − 4 × 3 = 11（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小明买了3本，付了45元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "45 − 5 × 3 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小红买了4本，付了27元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "27 − 2 × 4 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小乐买了6本，付了68元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "68 − 8 × 6 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小华买了5本，付了33元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "33 − 4 × 5 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小悦买了4本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "39 − 8 × 4 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小雨买了4本，付了48元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "48 − 5 × 4 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了2本，付了34元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "34 − 7 × 2 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了6本，付了66元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "66 − 7 × 6 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小雨买了8本，付了49元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "49 − 3 × 8 = 25（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小雨买了2本，付了8元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 − 2 × 2 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小明买了6本，付了76元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "76 − 8 × 6 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了7本，付了64元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "64 − 7 × 7 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小华买了9本，付了71元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "71 − 6 × 9 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小明买了2本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "31 − 3 × 2 = 25（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小悦买了5本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "28 − 2 × 5 = 18（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小悦买了4本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "38 − 3 × 4 = 26（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小明买了4本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "31 − 7 × 4 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小悦买了9本，付了44元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "44 − 3 × 9 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小红买了2本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "29 − 5 × 2 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小乐买了2本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "31 − 9 × 2 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小华买了2本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "31 − 2 × 2 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小华买了2本，付了30元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "30 − 9 × 2 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了6本，付了63元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "63 − 7 × 6 = 21（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小红买了6本，付了77元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "77 − 9 × 6 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小华买了6本，付了26元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "26 − 4 × 6 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小红买了2本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "28 − 2 × 2 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小林买了3本，付了57元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "57 − 9 × 3 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小明买了7本，付了35元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "35 − 4 × 7 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小林买了6本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "32 − 5 × 6 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小安买了6本，付了64元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "64 − 8 × 6 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小雨买了2本，付了42元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "42 − 7 × 2 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了2本，付了41元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "41 − 7 × 2 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小林买了6本，付了47元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "47 − 5 × 6 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小明买了5本，付了25元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "25 − 3 × 5 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小红买了3本，付了30元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "30 − 8 × 3 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小安买了9本，付了33元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "33 − 3 × 9 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小明买了6本，付了32元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "32 − 4 × 6 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小明买了5本，付了60元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "60 − 7 × 5 = 25（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小林买了8本，付了79元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "79 − 9 × 8 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小乐买了3本，付了51元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "51 − 8 × 3 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小雨买了9本，付了59元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "59 − 4 × 9 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小红买了2本，付了21元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "21 − 5 × 2 = 11（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小悦买了6本，付了53元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "53 − 7 × 6 = 11（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小华买了8本，付了95元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "95 − 9 × 8 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小安买了2本，付了19元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "19 − 6 × 2 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小林买了9本，付了57元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "57 − 4 × 9 = 21（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小明买了9本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "39 − 3 × 9 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小红买了5本，付了41元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "41 − 5 × 5 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小乐买了3本，付了17元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "17 − 2 × 3 = 11（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小明买了2本，付了36元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "36 − 5 × 2 = 26（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小悦买了9本，付了45元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "45 − 3 × 9 = 18（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小乐买了7本，付了33元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "33 − 2 × 7 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小华买了9本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "39 − 4 × 9 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小乐买了9本，付了48元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "48 − 5 × 9 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小林买了2本，付了16元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "16 − 3 × 2 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小明买了4本，付了59元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "59 − 8 × 4 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小红买了3本，付了26元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "26 − 4 × 3 = 14（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小红买了7本，付了35元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "35 − 3 × 7 = 14（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小悦买了7本，付了65元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "65 − 5 × 7 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小华买了9本，付了37元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "37 − 2 × 9 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小林买了7本，付了27元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "27 − 2 × 7 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小林买了7本，付了38元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "38 − 2 × 7 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小红买了5本，付了43元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "43 − 4 × 5 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小安买了5本，付了25元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "25 − 4 × 5 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小红买了3本，付了47元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "47 − 9 × 3 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小乐买了7本，付了49元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "49 − 5 × 7 = 14（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小乐买了8本，付了55元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "55 − 5 × 8 = 15（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小明买了8本，付了81元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "81 − 7 × 8 = 25（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小红买了6本，付了58元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "58 − 8 × 6 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小红买了4本，付了15元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "15 − 2 × 4 = 7（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了5本，付了48元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "48 − 7 × 5 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小明买了4本，付了39元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "39 − 4 × 4 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小雨买了7本，付了57元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "57 − 4 × 7 = 29（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小乐买了3本，付了15元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "15 − 4 × 3 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小林买了6本，付了53元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "53 − 6 × 6 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小安买了7本，付了57元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "57 − 7 × 7 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小红买了9本，付了61元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "61 − 5 × 9 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小乐买了9本，付了55元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "55 − 6 × 9 = 1（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小乐买了6本，付了34元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "34 − 4 × 6 = 10（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小乐买了4本，付了34元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "34 − 2 × 4 = 26（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小雨买了2本，付了37元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "37 − 9 × 2 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了4本，付了48元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "48 − 7 × 4 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小明买了6本，付了44元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "44 − 6 × 6 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小雨买了9本，付了24元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "24 − 2 × 9 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小华买了5本，付了46元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "46 − 6 × 5 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小华买了8本，付了61元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "61 − 7 × 8 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小乐买了7本，付了35元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "35 − 2 × 7 = 21（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小华买了2本，付了13元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "13 − 2 × 2 = 9（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小雨买了8本，付了68元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "68 − 5 × 8 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小华买了7本，付了24元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "24 − 3 × 7 = 3（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小雨买了3本，付了35元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "35 − 5 × 3 = 20（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小安买了2本，付了21元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "21 − 2 × 2 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小悦买了5本，付了49元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "49 − 5 × 5 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小悦买了4本，付了45元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "45 − 8 × 4 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小悦买了4本，付了35元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "35 − 2 × 4 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小明买了3本，付了37元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "37 − 6 × 3 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小红买了6本，付了14元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "14 − 2 × 6 = 2（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小乐买了3本，付了12元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "12 − 2 × 3 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小安买了8本，付了49元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "49 − 4 × 8 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本6元，小林买了2本，付了18元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "18 − 6 × 2 = 6（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小安买了8本，付了57元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "57 − 5 × 8 = 17（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小安买了8本，付了68元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "68 − 7 × 8 = 12（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小华买了3本，付了11元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "11 − 2 × 3 = 5（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小明买了3本，付了31元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "31 − 3 × 3 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小明买了8本，付了48元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "48 − 3 × 8 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小乐买了9本，付了85元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "85 − 7 × 9 = 22（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本3元，小乐买了8本，付了28元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "28 − 3 × 8 = 4（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本4元，小乐买了6本，付了37元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "37 − 4 × 6 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本8元，小安买了8本，付了88元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "88 − 8 × 8 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本5元，小林买了5本，付了41元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "41 − 5 × 5 = 16（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小林买了8本，付了44元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "44 − 2 × 8 = 28（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本7元，小安买了9本，付了90元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "90 − 7 × 9 = 27（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小悦买了5本，付了68元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "68 − 9 × 5 = 23（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小红买了6本，付了25元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "25 − 2 × 6 = 13（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本2元，小华买了5本，付了29元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "29 − 2 × 5 = 19（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每本练习本9元，小悦买了2本，付了20元。应找回多少元？（只填数值，单位：元）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "20 − 9 × 2 = 2（元）。"
+    }
+  ]
+}

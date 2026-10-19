@@ -1,0 +1,3009 @@
+{
+  "title": "4年级 · 应用题 · 行程问题",
+  "grade": 4,
+  "category": "应用题 · 行程问题",
+  "kind": "application",
+  "range": "整数 · 速度、时间与剩余路程",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶4小时。小华本次乘车的全程是271千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "271 − 38 × 4 = 119（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶78千米，已经行驶1小时。小红本次乘车的全程是278千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "200"
+      ],
+      "options": [],
+      "explanation": "278 − 78 × 1 = 200（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶88千米，已经行驶1小时。小红本次乘车的全程是265千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "177"
+      ],
+      "options": [],
+      "explanation": "265 − 88 × 1 = 177（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶66千米，已经行驶5小时。小悦本次乘车的全程是464千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": "464 − 66 × 5 = 134（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶4小时。小乐本次乘车的全程是325千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "173"
+      ],
+      "options": [],
+      "explanation": "325 − 38 × 4 = 173（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶31千米，已经行驶5小时。小悦本次乘车的全程是177千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "177 − 31 × 5 = 22（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶74千米，已经行驶1小时。小红本次乘车的全程是206千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "132"
+      ],
+      "options": [],
+      "explanation": "206 − 74 × 1 = 132（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶42千米，已经行驶4小时。小华本次乘车的全程是185千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "185 − 42 × 4 = 17（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶82千米，已经行驶4小时。小华本次乘车的全程是425千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": "425 − 82 × 4 = 97（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶4小时。小华本次乘车的全程是354千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "354 − 83 × 4 = 22（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶54千米，已经行驶3小时。小明本次乘车的全程是189千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "189 − 54 × 3 = 27（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶70千米，已经行驶4小时。小华本次乘车的全程是395千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "115"
+      ],
+      "options": [],
+      "explanation": "395 − 70 × 4 = 115（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶53千米，已经行驶3小时。小明本次乘车的全程是238千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "238 − 53 × 3 = 79（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶84千米，已经行驶3小时。小明本次乘车的全程是282千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "282 − 84 × 3 = 30（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶75千米，已经行驶3小时。小悦本次乘车的全程是372千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "372 − 75 × 3 = 147（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶86千米，已经行驶1小时。小安本次乘车的全程是264千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": "264 − 86 × 1 = 178（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶78千米，已经行驶2小时。小雨本次乘车的全程是327千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "171"
+      ],
+      "options": [],
+      "explanation": "327 − 78 × 2 = 171（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶45千米，已经行驶4小时。小悦本次乘车的全程是376千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "196"
+      ],
+      "options": [],
+      "explanation": "376 − 45 × 4 = 196（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶43千米，已经行驶3小时。小明本次乘车的全程是203千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "203 − 43 × 3 = 74（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶4小时。小林本次乘车的全程是518千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": "518 − 83 × 4 = 186（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶66千米，已经行驶5小时。小华本次乘车的全程是436千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": "436 − 66 × 5 = 106（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶58千米，已经行驶4小时。小安本次乘车的全程是279千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "279 − 58 × 4 = 47（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶64千米，已经行驶3小时。小华本次乘车的全程是225千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "225 − 64 × 3 = 33（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶87千米，已经行驶2小时。小红本次乘车的全程是343千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "169"
+      ],
+      "options": [],
+      "explanation": "343 − 87 × 2 = 169（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶54千米，已经行驶2小时。小华本次乘车的全程是187千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "187 − 54 × 2 = 79（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶77千米，已经行驶4小时。小乐本次乘车的全程是333千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "333 − 77 × 4 = 25（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶52千米，已经行驶3小时。小明本次乘车的全程是299千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "143"
+      ],
+      "options": [],
+      "explanation": "299 − 52 × 3 = 143（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶70千米，已经行驶5小时。小安本次乘车的全程是381千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "381 − 70 × 5 = 31（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶1小时。小华本次乘车的全程是240千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "185"
+      ],
+      "options": [],
+      "explanation": "240 − 55 × 1 = 185（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶84千米，已经行驶1小时。小雨本次乘车的全程是248千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "164"
+      ],
+      "options": [],
+      "explanation": "248 − 84 × 1 = 164（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶67千米，已经行驶2小时。小明本次乘车的全程是179千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "179 − 67 × 2 = 45（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶43千米，已经行驶4小时。小红本次乘车的全程是302千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": "302 − 43 × 4 = 130（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶32千米，已经行驶5小时。小悦本次乘车的全程是204千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "204 − 32 × 5 = 44（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶54千米，已经行驶1小时。小林本次乘车的全程是156千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": "156 − 54 × 1 = 102（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶45千米，已经行驶1小时。小乐本次乘车的全程是106千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "106 − 45 × 1 = 61（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶34千米，已经行驶2小时。小悦本次乘车的全程是217千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": "217 − 34 × 2 = 149（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶54千米，已经行驶4小时。小悦本次乘车的全程是372千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": "372 − 54 × 4 = 156（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶58千米，已经行驶2小时。小乐本次乘车的全程是162千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "162 − 58 × 2 = 46（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶75千米，已经行驶4小时。小悦本次乘车的全程是359千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "359 − 75 × 4 = 59（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶56千米，已经行驶4小时。小悦本次乘车的全程是283千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "283 − 56 × 4 = 59（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶86千米，已经行驶3小时。小华本次乘车的全程是450千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": "450 − 86 × 3 = 192（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶45千米，已经行驶1小时。小红本次乘车的全程是66千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "66 − 45 × 1 = 21（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶69千米，已经行驶5小时。小华本次乘车的全程是384千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "384 − 69 × 5 = 39（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶81千米，已经行驶3小时。小雨本次乘车的全程是378千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": "378 − 81 × 3 = 135（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶88千米，已经行驶2小时。小乐本次乘车的全程是326千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "326 − 88 × 2 = 150（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶67千米，已经行驶3小时。小红本次乘车的全程是276千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "276 − 67 × 3 = 75（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶39千米，已经行驶4小时。小悦本次乘车的全程是302千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "146"
+      ],
+      "options": [],
+      "explanation": "302 − 39 × 4 = 146（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶80千米，已经行驶2小时。小红本次乘车的全程是359千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "199"
+      ],
+      "options": [],
+      "explanation": "359 − 80 × 2 = 199（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶42千米，已经行驶4小时。小明本次乘车的全程是346千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": "346 − 42 × 4 = 178（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶64千米，已经行驶4小时。小雨本次乘车的全程是352千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "352 − 64 × 4 = 96（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶72千米，已经行驶5小时。小红本次乘车的全程是463千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "103"
+      ],
+      "options": [],
+      "explanation": "463 − 72 × 5 = 103（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶49千米，已经行驶4小时。小林本次乘车的全程是213千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "213 − 49 × 4 = 17（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶3小时。小林本次乘车的全程是177千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "177 − 55 × 3 = 12（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶86千米，已经行驶5小时。小乐本次乘车的全程是448千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "448 − 86 × 5 = 18（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶57千米，已经行驶2小时。小红本次乘车的全程是302千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "188"
+      ],
+      "options": [],
+      "explanation": "302 − 57 × 2 = 188（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶50千米，已经行驶2小时。小安本次乘车的全程是176千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "176 − 50 × 2 = 76（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶2小时。小乐本次乘车的全程是300千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": "300 − 83 × 2 = 134（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶76千米，已经行驶4小时。小安本次乘车的全程是326千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "326 − 76 × 4 = 22（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶88千米，已经行驶5小时。小明本次乘车的全程是529千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": "529 − 88 × 5 = 89（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶58千米，已经行驶4小时。小悦本次乘车的全程是296千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "296 − 58 × 4 = 64（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶90千米，已经行驶5小时。小安本次乘车的全程是518千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "518 − 90 × 5 = 68（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶35千米，已经行驶3小时。小红本次乘车的全程是273千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "168"
+      ],
+      "options": [],
+      "explanation": "273 − 35 × 3 = 168（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶68千米，已经行驶5小时。小红本次乘车的全程是411千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "411 − 68 × 5 = 71（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶61千米，已经行驶4小时。小华本次乘车的全程是276千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "276 − 61 × 4 = 32（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶82千米，已经行驶1小时。小乐本次乘车的全程是186千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "186 − 82 × 1 = 104（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶51千米，已经行驶3小时。小安本次乘车的全程是176千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "176 − 51 × 3 = 23（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶53千米，已经行驶5小时。小华本次乘车的全程是291千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "291 − 53 × 5 = 26（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶88千米，已经行驶2小时。小华本次乘车的全程是199千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "199 − 88 × 2 = 23（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶78千米，已经行驶3小时。小悦本次乘车的全程是405千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "171"
+      ],
+      "options": [],
+      "explanation": "405 − 78 × 3 = 171（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶90千米，已经行驶1小时。小安本次乘车的全程是101千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "101 − 90 × 1 = 11（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶35千米，已经行驶1小时。小华本次乘车的全程是100千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "100 − 35 × 1 = 65（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶65千米，已经行驶4小时。小林本次乘车的全程是341千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "341 − 65 × 4 = 81（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶86千米，已经行驶4小时。小明本次乘车的全程是379千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "379 − 86 × 4 = 35（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶31千米，已经行驶4小时。小安本次乘车的全程是212千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": "212 − 31 × 4 = 88（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶47千米，已经行驶4小时。小红本次乘车的全程是328千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": "328 − 47 × 4 = 140（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶31千米，已经行驶5小时。小红本次乘车的全程是229千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "229 − 31 × 5 = 74（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶78千米，已经行驶4小时。小悦本次乘车的全程是391千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "391 − 78 × 4 = 79（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶66千米，已经行驶2小时。小悦本次乘车的全程是265千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": "265 − 66 × 2 = 133（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶66千米，已经行驶1小时。小乐本次乘车的全程是128千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "128 − 66 × 1 = 62（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶52千米，已经行驶1小时。小雨本次乘车的全程是143千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "143 − 52 × 1 = 91（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶79千米，已经行驶5小时。小华本次乘车的全程是561千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "561 − 79 × 5 = 166（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶65千米，已经行驶4小时。小红本次乘车的全程是418千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "158"
+      ],
+      "options": [],
+      "explanation": "418 − 65 × 4 = 158（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶4小时。小林本次乘车的全程是304千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "304 − 55 × 4 = 84（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶67千米，已经行驶4小时。小雨本次乘车的全程是334千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "334 − 67 × 4 = 66（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶84千米，已经行驶5小时。小华本次乘车的全程是453千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "453 − 84 × 5 = 33（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶3小时。小华本次乘车的全程是221千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "122"
+      ],
+      "options": [],
+      "explanation": "221 − 33 × 3 = 122（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶50千米，已经行驶4小时。小悦本次乘车的全程是347千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "347 − 50 × 4 = 147（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶51千米，已经行驶4小时。小红本次乘车的全程是380千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": "380 − 51 × 4 = 176（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶1小时。小乐本次乘车的全程是103千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "103 − 33 × 1 = 70（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶90千米，已经行驶3小时。小红本次乘车的全程是404千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": "404 − 90 × 3 = 134（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶82千米，已经行驶4小时。小华本次乘车的全程是416千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": "416 − 82 × 4 = 88（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶46千米，已经行驶5小时。小雨本次乘车的全程是319千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": "319 − 46 × 5 = 89（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶4小时。小华本次乘车的全程是513千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "181"
+      ],
+      "options": [],
+      "explanation": "513 − 83 × 4 = 181（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶70千米，已经行驶5小时。小明本次乘车的全程是441千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "441 − 70 × 5 = 91（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶81千米，已经行驶3小时。小乐本次乘车的全程是271千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "271 − 81 × 3 = 28（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶71千米，已经行驶5小时。小雨本次乘车的全程是473千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": "473 − 71 × 5 = 118（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶5小时。小雨本次乘车的全程是372千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "182"
+      ],
+      "options": [],
+      "explanation": "372 − 38 × 5 = 182（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶50千米，已经行驶1小时。小明本次乘车的全程是110千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "110 − 50 × 1 = 60（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶2小时。小雨本次乘车的全程是271千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "195"
+      ],
+      "options": [],
+      "explanation": "271 − 38 × 2 = 195（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶3小时。小悦本次乘车的全程是213千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": "213 − 40 × 3 = 93（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶53千米，已经行驶4小时。小安本次乘车的全程是406千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "194"
+      ],
+      "options": [],
+      "explanation": "406 − 53 × 4 = 194（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶78千米，已经行驶5小时。小明本次乘车的全程是501千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": "501 − 78 × 5 = 111（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶35千米，已经行驶5小时。小悦本次乘车的全程是351千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": "351 − 35 × 5 = 176（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶35千米，已经行驶3小时。小悦本次乘车的全程是235千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": "235 − 35 × 3 = 130（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶56千米，已经行驶4小时。小乐本次乘车的全程是305千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "305 − 56 × 4 = 81（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶2小时。小悦本次乘车的全程是293千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "127"
+      ],
+      "options": [],
+      "explanation": "293 − 83 × 2 = 127（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶39千米，已经行驶4小时。小明本次乘车的全程是224千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "224 − 39 × 4 = 68（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶2小时。小红本次乘车的全程是158千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "158 − 40 × 2 = 78（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶89千米，已经行驶3小时。小乐本次乘车的全程是302千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "302 − 89 × 3 = 35（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶32千米，已经行驶2小时。小雨本次乘车的全程是80千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "80 − 32 × 2 = 16（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶5小时。小乐本次乘车的全程是388千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "113"
+      ],
+      "options": [],
+      "explanation": "388 − 55 × 5 = 113（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶30千米，已经行驶2小时。小安本次乘车的全程是156千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "156 − 30 × 2 = 96（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶3小时。小红本次乘车的全程是137千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "137 − 40 × 3 = 17（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶89千米，已经行驶3小时。小明本次乘车的全程是366千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": "366 − 89 × 3 = 99（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶2小时。小林本次乘车的全程是217千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "137"
+      ],
+      "options": [],
+      "explanation": "217 − 40 × 2 = 137（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶74千米，已经行驶5小时。小悦本次乘车的全程是466千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "466 − 74 × 5 = 96（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶37千米，已经行驶4小时。小林本次乘车的全程是296千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "148"
+      ],
+      "options": [],
+      "explanation": "296 − 37 × 4 = 148（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶35千米，已经行驶4小时。小悦本次乘车的全程是309千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "169"
+      ],
+      "options": [],
+      "explanation": "309 − 35 × 4 = 169（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶62千米，已经行驶4小时。小华本次乘车的全程是377千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "377 − 62 × 4 = 129（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶58千米，已经行驶3小时。小林本次乘车的全程是313千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": "313 − 58 × 3 = 139（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶60千米，已经行驶5小时。小红本次乘车的全程是449千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": "449 − 60 × 5 = 149（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶3小时。小雨本次乘车的全程是191千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "191 − 38 × 3 = 77（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶84千米，已经行驶3小时。小红本次乘车的全程是322千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "322 − 84 × 3 = 70（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶89千米，已经行驶3小时。小华本次乘车的全程是326千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "326 − 89 × 3 = 59（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶37千米，已经行驶3小时。小华本次乘车的全程是229千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": "229 − 37 × 3 = 118（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶77千米，已经行驶5小时。小华本次乘车的全程是509千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": "509 − 77 × 5 = 124（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶65千米，已经行驶4小时。小华本次乘车的全程是392千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "132"
+      ],
+      "options": [],
+      "explanation": "392 − 65 × 4 = 132（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶4小时。小悦本次乘车的全程是214千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "214 − 40 × 4 = 54（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶58千米，已经行驶4小时。小华本次乘车的全程是392千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": "392 − 58 × 4 = 160（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶2小时。小明本次乘车的全程是185千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "185 − 33 × 2 = 119（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶52千米，已经行驶5小时。小红本次乘车的全程是374千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "114"
+      ],
+      "options": [],
+      "explanation": "374 − 52 × 5 = 114（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶70千米，已经行驶5小时。小安本次乘车的全程是470千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "470 − 70 × 5 = 120（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶44千米，已经行驶2小时。小红本次乘车的全程是101千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "101 − 44 × 2 = 13（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶35千米，已经行驶2小时。小华本次乘车的全程是224千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "154"
+      ],
+      "options": [],
+      "explanation": "224 − 35 × 2 = 154（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶5小时。小乐本次乘车的全程是199千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "199 − 33 × 5 = 34（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶5小时。小安本次乘车的全程是341千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "341 − 55 × 5 = 66（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶89千米，已经行驶5小时。小安本次乘车的全程是466千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "466 − 89 × 5 = 21（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶61千米，已经行驶5小时。小明本次乘车的全程是350千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "350 − 61 × 5 = 45（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶2小时。小悦本次乘车的全程是201千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": "201 − 33 × 2 = 135（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶42千米，已经行驶5小时。小乐本次乘车的全程是309千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": "309 − 42 × 5 = 99（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶65千米，已经行驶4小时。小安本次乘车的全程是448千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "188"
+      ],
+      "options": [],
+      "explanation": "448 − 65 × 4 = 188（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶1小时。小悦本次乘车的全程是144千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": "144 − 38 × 1 = 106（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶84千米，已经行驶1小时。小乐本次乘车的全程是218千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": "218 − 84 × 1 = 134（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶42千米，已经行驶4小时。小林本次乘车的全程是239千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "239 − 42 × 4 = 71（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶82千米，已经行驶5小时。小乐本次乘车的全程是597千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "187"
+      ],
+      "options": [],
+      "explanation": "597 − 82 × 5 = 187（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶57千米，已经行驶2小时。小雨本次乘车的全程是128千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "128 − 57 × 2 = 14（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶79千米，已经行驶2小时。小乐本次乘车的全程是349千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "191"
+      ],
+      "options": [],
+      "explanation": "349 − 79 × 2 = 191（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶67千米，已经行驶3小时。小明本次乘车的全程是262千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "262 − 67 × 3 = 61（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶1小时。小红本次乘车的全程是181千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "143"
+      ],
+      "options": [],
+      "explanation": "181 − 38 × 1 = 143（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶41千米，已经行驶2小时。小乐本次乘车的全程是244千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "244 − 41 × 2 = 162（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶51千米，已经行驶4小时。小明本次乘车的全程是362千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "158"
+      ],
+      "options": [],
+      "explanation": "362 − 51 × 4 = 158（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶37千米，已经行驶1小时。小林本次乘车的全程是50千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "50 − 37 × 1 = 13（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶79千米，已经行驶1小时。小林本次乘车的全程是143千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "143 − 79 × 1 = 64（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶87千米，已经行驶3小时。小悦本次乘车的全程是400千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": "400 − 87 × 3 = 139（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶4小时。小林本次乘车的全程是489千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "157"
+      ],
+      "options": [],
+      "explanation": "489 − 83 × 4 = 157（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶64千米，已经行驶2小时。小华本次乘车的全程是248千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "248 − 64 × 2 = 120（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶81千米，已经行驶1小时。小华本次乘车的全程是131千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "131 − 81 × 1 = 50（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶69千米，已经行驶5小时。小悦本次乘车的全程是425千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "425 − 69 × 5 = 80（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶2小时。小安本次乘车的全程是103千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "103 − 38 × 2 = 27（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶56千米，已经行驶3小时。小明本次乘车的全程是248千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "248 − 56 × 3 = 80（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶1小时。小华本次乘车的全程是165千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": "165 − 55 × 1 = 110（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶43千米，已经行驶4小时。小雨本次乘车的全程是278千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": "278 − 43 × 4 = 106（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶3小时。小悦本次乘车的全程是345千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "345 − 83 × 3 = 96（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶54千米，已经行驶1小时。小林本次乘车的全程是113千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "113 − 54 × 1 = 59（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶57千米，已经行驶3小时。小乐本次乘车的全程是349千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": "349 − 57 × 3 = 178（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶4小时。小林本次乘车的全程是276千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "276 − 33 × 4 = 144（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶49千米，已经行驶3小时。小安本次乘车的全程是195千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "195 − 49 × 3 = 48（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶30千米，已经行驶5小时。小悦本次乘车的全程是279千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "279 − 30 × 5 = 129（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶5小时。小乐本次乘车的全程是320千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "320 − 40 × 5 = 120（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶68千米，已经行驶3小时。小悦本次乘车的全程是335千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "131"
+      ],
+      "options": [],
+      "explanation": "335 − 68 × 3 = 131（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶80千米，已经行驶3小时。小明本次乘车的全程是320千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "320 − 80 × 3 = 80（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶34千米，已经行驶1小时。小悦本次乘车的全程是126千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": "126 − 34 × 1 = 92（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶70千米，已经行驶1小时。小华本次乘车的全程是201千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "131"
+      ],
+      "options": [],
+      "explanation": "201 − 70 × 1 = 131（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶35千米，已经行驶2小时。小华本次乘车的全程是93千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "93 − 35 × 2 = 23（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶52千米，已经行驶1小时。小雨本次乘车的全程是201千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": "201 − 52 × 1 = 149（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶53千米，已经行驶1小时。小华本次乘车的全程是118千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "118 − 53 × 1 = 65（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶57千米，已经行驶2小时。小乐本次乘车的全程是290千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": "290 − 57 × 2 = 176（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶72千米，已经行驶1小时。小悦本次乘车的全程是264千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": "264 − 72 × 1 = 192（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶39千米，已经行驶4小时。小雨本次乘车的全程是334千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": "334 − 39 × 4 = 178（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶41千米，已经行驶5小时。小乐本次乘车的全程是311千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": "311 − 41 × 5 = 106（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶32千米，已经行驶4小时。小乐本次乘车的全程是314千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": "314 − 32 × 4 = 186（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶64千米，已经行驶4小时。小华本次乘车的全程是358千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": "358 − 64 × 4 = 102（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶5小时。小悦本次乘车的全程是258千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "258 − 38 × 5 = 68（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶76千米，已经行驶4小时。小乐本次乘车的全程是342千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "342 − 76 × 4 = 38（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶61千米，已经行驶1小时。小林本次乘车的全程是139千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "139 − 61 × 1 = 78（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶3小时。小华本次乘车的全程是133千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "133 − 33 × 3 = 34（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶69千米，已经行驶2小时。小红本次乘车的全程是224千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": "224 − 69 × 2 = 86（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶89千米，已经行驶1小时。小华本次乘车的全程是123千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "123 − 89 × 1 = 34（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶2小时。小安本次乘车的全程是210千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "210 − 33 × 2 = 144（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶58千米，已经行驶4小时。小红本次乘车的全程是382千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "382 − 58 × 4 = 150（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶82千米，已经行驶5小时。小明本次乘车的全程是530千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "530 − 82 × 5 = 120（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶85千米，已经行驶1小时。小红本次乘车的全程是140千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "140 − 85 × 1 = 55（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶63千米，已经行驶2小时。小红本次乘车的全程是233千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "107"
+      ],
+      "options": [],
+      "explanation": "233 − 63 × 2 = 107（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶60千米，已经行驶4小时。小安本次乘车的全程是358千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": "358 − 60 × 4 = 118（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶59千米，已经行驶4小时。小林本次乘车的全程是307千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "307 − 59 × 4 = 71（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶49千米，已经行驶1小时。小华本次乘车的全程是103千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "103 − 49 × 1 = 54（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶34千米，已经行驶5小时。小雨本次乘车的全程是264千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": "264 − 34 × 5 = 94（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶84千米，已经行驶5小时。小红本次乘车的全程是502千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": "502 − 84 × 5 = 82（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶42千米，已经行驶5小时。小乐本次乘车的全程是262千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "262 − 42 × 5 = 52（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶47千米，已经行驶1小时。小乐本次乘车的全程是223千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": "223 − 47 × 1 = 176（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶64千米，已经行驶1小时。小红本次乘车的全程是132千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "132 − 64 × 1 = 68（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶86千米，已经行驶2小时。小悦本次乘车的全程是270千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "270 − 86 × 2 = 98（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶47千米，已经行驶4小时。小悦本次乘车的全程是211千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "211 − 47 × 4 = 23（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶75千米，已经行驶1小时。小华本次乘车的全程是86千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "86 − 75 × 1 = 11（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶48千米，已经行驶4小时。小乐本次乘车的全程是227千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "227 − 48 × 4 = 35（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶34千米，已经行驶2小时。小安本次乘车的全程是218千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "218 − 34 × 2 = 150（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶5小时。小林本次乘车的全程是384千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": "384 − 40 × 5 = 184（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶31千米，已经行驶1小时。小华本次乘车的全程是159千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "128"
+      ],
+      "options": [],
+      "explanation": "159 − 31 × 1 = 128（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶61千米，已经行驶2小时。小明本次乘车的全程是178千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "178 − 61 × 2 = 56（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶56千米，已经行驶5小时。小华本次乘车的全程是437千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "157"
+      ],
+      "options": [],
+      "explanation": "437 − 56 × 5 = 157（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶90千米，已经行驶5小时。小乐本次乘车的全程是477千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "477 − 90 × 5 = 27（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶2小时。小雨本次乘车的全程是293千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "183"
+      ],
+      "options": [],
+      "explanation": "293 − 55 × 2 = 183（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶84千米，已经行驶4小时。小悦本次乘车的全程是401千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "401 − 84 × 4 = 65（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶4小时。小雨本次乘车的全程是400千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "180"
+      ],
+      "options": [],
+      "explanation": "400 − 55 × 4 = 180（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶41千米，已经行驶2小时。小乐本次乘车的全程是158千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "158 − 41 × 2 = 76（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶79千米，已经行驶5小时。小雨本次乘车的全程是467千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "467 − 79 × 5 = 72（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶43千米，已经行驶3小时。小雨本次乘车的全程是203千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "203 − 43 × 3 = 74（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶42千米，已经行驶4小时。小华本次乘车的全程是218千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "218 − 42 × 4 = 50（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶90千米，已经行驶5小时。小安本次乘车的全程是620千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": "620 − 90 × 5 = 170（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶38千米，已经行驶3小时。小红本次乘车的全程是250千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": "250 − 38 × 3 = 136（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶1小时。小明本次乘车的全程是269千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": "269 − 83 × 1 = 186（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶55千米，已经行驶3小时。小明本次乘车的全程是309千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "309 − 55 × 3 = 144（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶34千米，已经行驶2小时。小乐本次乘车的全程是123千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "123 − 34 × 2 = 55（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶32千米，已经行驶3小时。小林本次乘车的全程是124千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "124 − 32 × 3 = 28（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶56千米，已经行驶4小时。小红本次乘车的全程是256千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "256 − 56 × 4 = 32（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶66千米，已经行驶2小时。小林本次乘车的全程是192千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "192 − 66 × 2 = 60（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶31千米，已经行驶5小时。小悦本次乘车的全程是313千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "158"
+      ],
+      "options": [],
+      "explanation": "313 − 31 × 5 = 158（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶51千米，已经行驶1小时。小林本次乘车的全程是110千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "110 − 51 × 1 = 59（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶4小时。小红本次乘车的全程是280千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "280 − 40 × 4 = 120（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶77千米，已经行驶1小时。小明本次乘车的全程是236千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": "236 − 77 × 1 = 159（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶30千米，已经行驶5小时。小乐本次乘车的全程是220千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "220 − 30 × 5 = 70（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶74千米，已经行驶1小时。小悦本次乘车的全程是141千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "141 − 74 × 1 = 67（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶74千米，已经行驶4小时。小华本次乘车的全程是426千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": "426 − 74 × 4 = 130（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶36千米，已经行驶2小时。小安本次乘车的全程是117千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "45"
+      ],
+      "options": [],
+      "explanation": "117 − 36 × 2 = 45（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶44千米，已经行驶4小时。小乐本次乘车的全程是263千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": "263 − 44 × 4 = 87（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶39千米，已经行驶2小时。小雨本次乘车的全程是268千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "190"
+      ],
+      "options": [],
+      "explanation": "268 − 39 × 2 = 190（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶64千米，已经行驶2小时。小悦本次乘车的全程是196千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "196 − 64 × 2 = 68（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶48千米，已经行驶5小时。小乐本次乘车的全程是347千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "107"
+      ],
+      "options": [],
+      "explanation": "347 − 48 × 5 = 107（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶66千米，已经行驶4小时。小红本次乘车的全程是337千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": "337 − 66 × 4 = 73（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶62千米，已经行驶5小时。小安本次乘车的全程是429千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "429 − 62 × 5 = 119（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶67千米，已经行驶2小时。小明本次乘车的全程是226千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": "226 − 67 × 2 = 92（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶50千米，已经行驶4小时。小悦本次乘车的全程是397千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "197"
+      ],
+      "options": [],
+      "explanation": "397 − 50 × 4 = 197（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶40千米，已经行驶4小时。小红本次乘车的全程是210千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "210 − 40 × 4 = 50（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶45千米，已经行驶5小时。小华本次乘车的全程是282千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": "282 − 45 × 5 = 57（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶76千米，已经行驶5小时。小明本次乘车的全程是518千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": "518 − 76 × 5 = 138（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶85千米，已经行驶3小时。小安本次乘车的全程是273千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "273 − 85 × 3 = 18（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶80千米，已经行驶1小时。小林本次乘车的全程是96千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "96 − 80 × 1 = 16（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶74千米，已经行驶2小时。小悦本次乘车的全程是313千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "165"
+      ],
+      "options": [],
+      "explanation": "313 − 74 × 2 = 165（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶59千米，已经行驶4小时。小林本次乘车的全程是360千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": "360 − 59 × 4 = 124（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶34千米，已经行驶1小时。小雨本次乘车的全程是128千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": "128 − 34 × 1 = 94（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶76千米，已经行驶5小时。小悦本次乘车的全程是527千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "527 − 76 × 5 = 147（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶31千米，已经行驶3小时。小安本次乘车的全程是283千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "190"
+      ],
+      "options": [],
+      "explanation": "283 − 31 × 3 = 190（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶51千米，已经行驶4小时。小安本次乘车的全程是359千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "155"
+      ],
+      "options": [],
+      "explanation": "359 − 51 × 4 = 155（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶73千米，已经行驶1小时。小林本次乘车的全程是137千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "64"
+      ],
+      "options": [],
+      "explanation": "137 − 73 × 1 = 64（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶4小时。小华本次乘车的全程是180千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "180 − 33 × 4 = 48（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶47千米，已经行驶2小时。小悦本次乘车的全程是142千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "142 − 47 × 2 = 48（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶68千米，已经行驶5小时。小红本次乘车的全程是489千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": "489 − 68 × 5 = 149（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶43千米，已经行驶2小时。小安本次乘车的全程是117千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "117 − 43 × 2 = 31（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶48千米，已经行驶1小时。小安本次乘车的全程是146千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "146 − 48 × 1 = 98（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶58千米，已经行驶5小时。小林本次乘车的全程是318千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "318 − 58 × 5 = 28（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶80千米，已经行驶3小时。小红本次乘车的全程是283千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": "283 − 80 × 3 = 43（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶87千米，已经行驶2小时。小华本次乘车的全程是361千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "187"
+      ],
+      "options": [],
+      "explanation": "361 − 87 × 2 = 187（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶34千米，已经行驶5小时。小华本次乘车的全程是299千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "299 − 34 × 5 = 129（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶76千米，已经行驶1小时。小林本次乘车的全程是116千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "116 − 76 × 1 = 40（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶43千米，已经行驶1小时。小明本次乘车的全程是230千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "187"
+      ],
+      "options": [],
+      "explanation": "230 − 43 × 1 = 187（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶80千米，已经行驶2小时。小明本次乘车的全程是227千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "227 − 80 × 2 = 67（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶61千米，已经行驶1小时。小明本次乘车的全程是260千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "199"
+      ],
+      "options": [],
+      "explanation": "260 − 61 × 1 = 199（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶44千米，已经行驶5小时。小红本次乘车的全程是232千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "232 − 44 × 5 = 12（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶62千米，已经行驶5小时。小悦本次乘车的全程是326千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "326 − 62 × 5 = 16（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶88千米，已经行驶2小时。小乐本次乘车的全程是263千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": "263 − 88 × 2 = 87（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶90千米，已经行驶4小时。小林本次乘车的全程是392千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "392 − 90 × 4 = 32（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶52千米，已经行驶1小时。小红本次乘车的全程是137千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": "137 − 52 × 1 = 85（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶49千米，已经行驶4小时。小乐本次乘车的全程是362千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "362 − 49 × 4 = 166（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶36千米，已经行驶3小时。小乐本次乘车的全程是135千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "135 − 36 × 3 = 27（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶61千米，已经行驶4小时。小雨本次乘车的全程是420千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": "420 − 61 × 4 = 176（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶67千米，已经行驶2小时。小华本次乘车的全程是196千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "196 − 67 × 2 = 62（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶74千米，已经行驶1小时。小华本次乘车的全程是266千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": "266 − 74 × 1 = 192（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶46千米，已经行驶5小时。小乐本次乘车的全程是418千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "188"
+      ],
+      "options": [],
+      "explanation": "418 − 46 × 5 = 188（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶53千米，已经行驶3小时。小红本次乘车的全程是263千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "263 − 53 × 3 = 104（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶89千米，已经行驶1小时。小华本次乘车的全程是264千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "175"
+      ],
+      "options": [],
+      "explanation": "264 − 89 × 1 = 175（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶83千米，已经行驶5小时。小林本次乘车的全程是527千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "112"
+      ],
+      "options": [],
+      "explanation": "527 − 83 × 5 = 112（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶51千米，已经行驶4小时。小华本次乘车的全程是275千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "275 − 51 × 4 = 71（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶76千米，已经行驶2小时。小乐本次乘车的全程是291千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": "291 − 76 × 2 = 139（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶63千米，已经行驶4小时。小悦本次乘车的全程是401千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": "401 − 63 × 4 = 149（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶64千米，已经行驶3小时。小雨本次乘车的全程是220千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "220 − 64 × 3 = 28（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶63千米，已经行驶5小时。小红本次乘车的全程是419千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "419 − 63 × 5 = 104（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶41千米，已经行驶2小时。小林本次乘车的全程是206千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": "206 − 41 × 2 = 124（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶35千米，已经行驶3小时。小华本次乘车的全程是269千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "164"
+      ],
+      "options": [],
+      "explanation": "269 − 35 × 3 = 164（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶75千米，已经行驶2小时。小红本次乘车的全程是300千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "300 − 75 × 2 = 150（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶33千米，已经行驶5小时。小林本次乘车的全程是291千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "291 − 33 × 5 = 126（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶39千米，已经行驶5小时。小华本次乘车的全程是206千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "206 − 39 × 5 = 11（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶65千米，已经行驶2小时。小明本次乘车的全程是235千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "235 − 65 × 2 = 105（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶36千米，已经行驶3小时。小红本次乘车的全程是141千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "141 − 36 × 3 = 33（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶64千米，已经行驶3小时。小明本次乘车的全程是358千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "358 − 64 × 3 = 166（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶72千米，已经行驶2小时。小安本次乘车的全程是207千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "207 − 72 × 2 = 63（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶80千米，已经行驶3小时。小安本次乘车的全程是387千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "387 − 80 × 3 = 147（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶69千米，已经行驶5小时。小华本次乘车的全程是467千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "122"
+      ],
+      "options": [],
+      "explanation": "467 − 69 × 5 = 122（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶80千米，已经行驶4小时。小雨本次乘车的全程是391千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "391 − 80 × 4 = 71（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶87千米，已经行驶3小时。小悦本次乘车的全程是362千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "101"
+      ],
+      "options": [],
+      "explanation": "362 − 87 × 3 = 101（千米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一辆车每小时行驶87千米，已经行驶2小时。小乐本次乘车的全程是366千米，还剩多少千米？（只填数值，单位：千米）",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": "366 − 87 × 2 = 192（千米）。"
+    }
+  ]
+}

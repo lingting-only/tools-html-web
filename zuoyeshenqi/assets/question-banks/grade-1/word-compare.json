@@ -1,0 +1,3009 @@
+{
+  "title": "1年级 · 应用题 · 比较多少",
+  "grade": 1,
+  "category": "应用题 · 比较多少",
+  "kind": "application",
+  "range": "20以内 · 求相差数量",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有2个小球，小美有1个小球。小悦比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有13块积木，小美有5块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "13 − 5 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有18个小球，小美有2个小球。小林比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "18 − 2 = 16（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有18个小球，小美有9个小球。小华比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "18 − 9 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有20支铅笔，小美有10支铅笔。小安比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "20 − 10 = 10（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有7张贴纸，小美有2张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "7 − 2 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有4个小球，小美有1个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "4 − 1 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有5个小球，小美有1个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "5 − 1 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有5张卡片，小美有3张卡片。小红比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "5 − 3 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有13支铅笔，小美有1支铅笔。小林比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "13 − 1 = 12（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有11张彩纸，小美有4张彩纸。小悦比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "11 − 4 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有8支铅笔，小美有5支铅笔。小林比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "8 − 5 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有20张卡片，小美有9张卡片。小乐比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "20 − 9 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有5支铅笔，小美有4支铅笔。小林比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "5 − 4 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有20个小球，小美有13个小球。小悦比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "20 − 13 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有10张贴纸，小美有8张贴纸。小华比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "10 − 8 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有3张卡片，小美有1张卡片。小华比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "3 − 1 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有20张贴纸，小美有4张贴纸。小安比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "20 − 4 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有15支铅笔，小美有4支铅笔。小红比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "15 − 4 = 11（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有4张卡片，小美有1张卡片。小明比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "4 − 1 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有7个小球，小美有2个小球。小华比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "7 − 2 = 5（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有11块积木，小美有8块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "11 − 8 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有12支铅笔，小美有2支铅笔。小红比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "12 − 2 = 10（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有14张贴纸，小美有6张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "14 − 6 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有11支铅笔，小美有2支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "11 − 2 = 9（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有5个小球，小美有2个小球。小红比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "5 − 2 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有5张卡片，小美有4张卡片。小悦比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "5 − 4 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有9张彩纸，小美有7张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "9 − 7 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有5张彩纸，小美有3张彩纸。小明比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "5 − 3 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有15个小球，小美有11个小球。小林比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "15 − 11 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有8支铅笔，小美有2支铅笔。小安比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "8 − 2 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有4支铅笔，小美有3支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "4 − 3 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有13张卡片，小美有2张卡片。小林比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "13 − 2 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有6张彩纸，小美有4张彩纸。小红比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 − 4 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有9个小球，小美有3个小球。小悦比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "9 − 3 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有7张卡片，小美有2张卡片。小安比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "7 − 2 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有5支铅笔，小美有4支铅笔。小雨比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "5 − 4 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有18张贴纸，小美有11张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "18 − 11 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有10张彩纸，小美有4张彩纸。小红比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "10 − 4 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有9张卡片，小美有8张卡片。小安比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "9 − 8 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有17支铅笔，小美有3支铅笔。小安比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "17 − 3 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有16张贴纸，小美有10张贴纸。小乐比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "16 − 10 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有15张彩纸，小美有12张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "15 − 12 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有5张彩纸，小美有1张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "5 − 1 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有4支铅笔，小美有1支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "4 − 1 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有12块积木，小美有4块积木。小雨比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "12 − 4 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有18张彩纸，小美有15张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "18 − 15 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有3块积木，小美有2块积木。小明比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "3 − 2 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有20块积木，小美有10块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "20 − 10 = 10（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有17张卡片，小美有3张卡片。小红比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "17 − 3 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有8个小球，小美有7个小球。小安比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "8 − 7 = 1（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有9张贴纸，小美有3张贴纸。小明比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "9 − 3 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有8块积木，小美有4块积木。小雨比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 − 4 = 4（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有2块积木，小美有1块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有12张彩纸，小美有8张彩纸。小悦比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "12 − 8 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有16张卡片，小美有8张卡片。小明比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "16 − 8 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有4张彩纸，小美有2张彩纸。小红比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 − 2 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有6块积木，小美有5块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "6 − 5 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有8张贴纸，小美有7张贴纸。小华比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "8 − 7 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有9个小球，小美有5个小球。小安比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "9 − 5 = 4（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有6张卡片，小美有2张卡片。小安比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "6 − 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有3块积木，小美有2块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "3 − 2 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有5块积木，小美有3块积木。小乐比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "5 − 3 = 2（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有6张贴纸，小美有5张贴纸。小安比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "6 − 5 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有17张卡片，小美有7张卡片。小乐比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "17 − 7 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有7张彩纸，小美有1张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "7 − 1 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有11张彩纸，小美有5张彩纸。小红比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "11 − 5 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有14张贴纸，小美有8张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "14 − 8 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有15块积木，小美有14块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "15 − 14 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有20张贴纸，小美有8张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "20 − 8 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有4个小球，小美有1个小球。小红比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "4 − 1 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有8个小球，小美有2个小球。小乐比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "8 − 2 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有16张彩纸，小美有13张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "16 − 13 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有19张彩纸，小美有1张彩纸。小明比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "19 − 1 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有11张贴纸，小美有5张贴纸。小华比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "11 − 5 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有18张彩纸，小美有4张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "18 − 4 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有2支铅笔，小美有1支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有16个小球，小美有2个小球。小明比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "16 − 2 = 14（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有18支铅笔，小美有15支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "18 − 15 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有19块积木，小美有5块积木。小明比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "19 − 5 = 14（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有4个小球，小美有1个小球。小华比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "4 − 1 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有12张卡片，小美有1张卡片。小华比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "12 − 1 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有18个小球，小美有3个小球。小林比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "18 − 3 = 15（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有14张贴纸，小美有3张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "14 − 3 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有13张彩纸，小美有11张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "13 − 11 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有18支铅笔，小美有10支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "18 − 10 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有12张彩纸，小美有6张彩纸。小明比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "12 − 6 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有20张彩纸，小美有9张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "20 − 9 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有6张贴纸，小美有2张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "6 − 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有6张贴纸，小美有4张贴纸。小安比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 − 4 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有18张卡片，小美有16张卡片。小明比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "18 − 16 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有17张彩纸，小美有8张彩纸。小悦比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "17 − 8 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有8个小球，小美有6个小球。小红比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "8 − 6 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有10个小球，小美有9个小球。小乐比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "10 − 9 = 1（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有3支铅笔，小美有1支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "3 − 1 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有12张贴纸，小美有5张贴纸。小华比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "12 − 5 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有20块积木，小美有12块积木。小雨比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "20 − 12 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有14支铅笔，小美有3支铅笔。小红比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "14 − 3 = 11（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有16块积木，小美有10块积木。小明比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "16 − 10 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有5块积木，小美有4块积木。小乐比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "5 − 4 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有10张卡片，小美有9张卡片。小雨比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "10 − 9 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有4张卡片，小美有3张卡片。小红比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "4 − 3 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有8支铅笔，小美有2支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "8 − 2 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有16张彩纸，小美有12张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "16 − 12 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有9个小球，小美有4个小球。小明比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "9 − 4 = 5（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有2个小球，小美有1个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有10支铅笔，小美有2支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "10 − 2 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有13个小球，小美有1个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "13 − 1 = 12（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有8张彩纸，小美有5张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "8 − 5 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有5张贴纸，小美有3张贴纸。小华比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "5 − 3 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有20块积木，小美有3块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "20 − 3 = 17（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有16个小球，小美有1个小球。小悦比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "16 − 1 = 15（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有18张卡片，小美有5张卡片。小悦比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "18 − 5 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有3张彩纸，小美有2张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "3 − 2 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有16支铅笔，小美有13支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "16 − 13 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有5张卡片，小美有1张卡片。小乐比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "5 − 1 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有19张卡片，小美有16张卡片。小明比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "19 − 16 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有9块积木，小美有6块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "9 − 6 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有11个小球，小美有2个小球。小林比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "11 − 2 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有20张卡片，小美有18张卡片。小雨比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "20 − 18 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有5张彩纸，小美有3张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "5 − 3 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有5个小球，小美有3个小球。小明比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "5 − 3 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有8张彩纸，小美有1张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "8 − 1 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有19块积木，小美有13块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "19 − 13 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有8张贴纸，小美有4张贴纸。小乐比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 − 4 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有6块积木，小美有3块积木。小雨比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "6 − 3 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有4张贴纸，小美有1张贴纸。小悦比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "4 − 1 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有13张彩纸，小美有1张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "13 − 1 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有9张彩纸，小美有4张彩纸。小乐比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "9 − 4 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有8支铅笔，小美有1支铅笔。小安比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "8 − 1 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有14个小球，小美有12个小球。小安比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "14 − 12 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有20张卡片，小美有18张卡片。小林比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "20 − 18 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有2支铅笔，小美有1支铅笔。小安比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有13个小球，小美有7个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "13 − 7 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有3张贴纸，小美有2张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "3 − 2 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有6块积木，小美有1块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "6 − 1 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有19张贴纸，小美有16张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "19 − 16 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有20块积木，小美有17块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "20 − 17 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有2支铅笔，小美有1支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有12张贴纸，小美有8张贴纸。小乐比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "12 − 8 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有19张贴纸，小美有13张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "19 − 13 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有5张贴纸，小美有1张贴纸。小悦比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "5 − 1 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有6个小球，小美有1个小球。小安比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "6 − 1 = 5（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有6张卡片，小美有4张卡片。小林比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 − 4 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有11支铅笔，小美有4支铅笔。小林比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "11 − 4 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有7支铅笔，小美有1支铅笔。小林比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "7 − 1 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有12块积木，小美有1块积木。小悦比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "12 − 1 = 11（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有2张卡片，小美有1张卡片。小明比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有2张贴纸，小美有1张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有2块积木，小美有1块积木。小明比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有10张彩纸，小美有1张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "10 − 1 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有8张卡片，小美有5张卡片。小华比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "8 − 5 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有4个小球，小美有2个小球。小明比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 − 2 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有19支铅笔，小美有12支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "19 − 12 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有6支铅笔，小美有2支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "6 − 2 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有16块积木，小美有5块积木。小红比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "16 − 5 = 11（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有19块积木，小美有13块积木。小乐比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "19 − 13 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有17块积木，小美有14块积木。小乐比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "17 − 14 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有8块积木，小美有1块积木。小明比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "8 − 1 = 7（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有5支铅笔，小美有2支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "5 − 2 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有7张卡片，小美有4张卡片。小悦比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "7 − 4 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有4块积木，小美有3块积木。小林比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "4 − 3 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有16支铅笔，小美有1支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "16 − 1 = 15（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有5块积木，小美有1块积木。小林比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "5 − 1 = 4（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有9块积木，小美有4块积木。小林比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "9 − 4 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有20张卡片，小美有15张卡片。小林比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "20 − 15 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有8个小球，小美有1个小球。小悦比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "8 − 1 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有10张卡片，小美有1张卡片。小红比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "10 − 1 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有14张卡片，小美有9张卡片。小乐比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "14 − 9 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有15支铅笔，小美有2支铅笔。小雨比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "15 − 2 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有18块积木，小美有17块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "18 − 17 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有18张卡片，小美有6张卡片。小安比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "18 − 6 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有11块积木，小美有4块积木。小明比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "11 − 4 = 7（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有14张卡片，小美有8张卡片。小华比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "14 − 8 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有2张彩纸，小美有1张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有7块积木，小美有1块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "7 − 1 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有4张贴纸，小美有1张贴纸。小雨比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "4 − 1 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有18块积木，小美有13块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "18 − 13 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有10张卡片，小美有7张卡片。小雨比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "10 − 7 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有16块积木，小美有6块积木。小红比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "16 − 6 = 10（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有4个小球，小美有2个小球。小林比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 − 2 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有11张贴纸，小美有8张贴纸。小明比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "11 − 8 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有17张贴纸，小美有2张贴纸。小明比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "17 − 2 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有11个小球，小美有10个小球。小悦比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "11 − 10 = 1（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有3张彩纸，小美有2张彩纸。小明比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "3 − 2 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有12支铅笔，小美有6支铅笔。小红比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "12 − 6 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有20块积木，小美有12块积木。小安比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "20 − 12 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有15张彩纸，小美有5张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "15 − 5 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有16张贴纸，小美有10张贴纸。小华比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "16 − 10 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有17支铅笔，小美有4支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "17 − 4 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有20张贴纸，小美有16张贴纸。小明比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "20 − 16 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有14支铅笔，小美有4支铅笔。小安比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "14 − 4 = 10（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有5张卡片，小美有3张卡片。小乐比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "5 − 3 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有11张彩纸，小美有9张彩纸。小林比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "11 − 9 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有5张贴纸，小美有1张贴纸。小乐比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "5 − 1 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有3支铅笔，小美有1支铅笔。小红比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "3 − 1 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有19个小球，小美有12个小球。小乐比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "19 − 12 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有4块积木，小美有3块积木。小雨比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "4 − 3 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有9支铅笔，小美有1支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "9 − 1 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有15张贴纸，小美有1张贴纸。小悦比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "15 − 1 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有19张贴纸，小美有15张贴纸。小安比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "19 − 15 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有16个小球，小美有7个小球。小悦比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "16 − 7 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有8张卡片，小美有5张卡片。小安比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "8 − 5 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有16张卡片，小美有6张卡片。小悦比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "16 − 6 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有11张彩纸，小美有5张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "11 − 5 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有12张贴纸，小美有6张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "12 − 6 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有5张彩纸，小美有4张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "5 − 4 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有11个小球，小美有10个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "11 − 10 = 1（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有19支铅笔，小美有7支铅笔。小安比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "19 − 7 = 12（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有6张彩纸，小美有4张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 − 4 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有14支铅笔，小美有10支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "14 − 10 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有2张卡片，小美有1张卡片。小雨比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有11个小球，小美有4个小球。小乐比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "11 − 4 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有11张彩纸，小美有3张彩纸。小林比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "11 − 3 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有11张贴纸，小美有4张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "11 − 4 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有10张彩纸，小美有4张彩纸。小乐比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "10 − 4 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有6块积木，小美有3块积木。小悦比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "6 − 3 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有6张卡片，小美有3张卡片。小悦比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "6 − 3 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有9张卡片，小美有3张卡片。小华比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "9 − 3 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有7张彩纸，小美有6张彩纸。小乐比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "7 − 6 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有18个小球，小美有5个小球。小林比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "18 − 5 = 13（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有18个小球，小美有6个小球。小明比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "18 − 6 = 12（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有16张彩纸，小美有8张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "16 − 8 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有14张彩纸，小美有5张彩纸。小明比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "14 − 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有8张卡片，小美有4张卡片。小明比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "8 − 4 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有15张卡片，小美有4张卡片。小明比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "15 − 4 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有14张彩纸，小美有3张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "14 − 3 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有17张彩纸，小美有13张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "17 − 13 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有20支铅笔，小美有13支铅笔。小安比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "20 − 13 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有4支铅笔，小美有2支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 − 2 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有7支铅笔，小美有3支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "7 − 3 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有6张卡片，小美有1张卡片。小华比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "6 − 1 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有20支铅笔，小美有8支铅笔。小红比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "20 − 8 = 12（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有4支铅笔，小美有3支铅笔。小林比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "4 − 3 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有6张贴纸，小美有1张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "6 − 1 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有3支铅笔，小美有2支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "3 − 2 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有11个小球，小美有2个小球。小红比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "11 − 2 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有8张彩纸，小美有3张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "8 − 3 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有2块积木，小美有1块积木。小林比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有10支铅笔，小美有6支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "10 − 6 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有6个小球，小美有5个小球。小华比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "6 − 5 = 1（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有13张卡片，小美有8张卡片。小安比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "13 − 8 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有20张卡片，小美有11张卡片。小林比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "20 − 11 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有14块积木，小美有2块积木。小雨比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "14 − 2 = 12（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有10张卡片，小美有6张卡片。小明比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "10 − 6 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有4张彩纸，小美有3张彩纸。小林比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "4 − 3 = 1（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有19张彩纸，小美有3张彩纸。小明比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "19 − 3 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有14张彩纸，小美有1张彩纸。小安比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "14 − 1 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有11张彩纸，小美有6张彩纸。小华比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "11 − 6 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有17张贴纸，小美有9张贴纸。小林比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "17 − 9 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有9张贴纸，小美有4张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "9 − 4 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有5张卡片，小美有2张卡片。小雨比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "5 − 2 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有3张卡片，小美有1张卡片。小红比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "3 − 1 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有14张贴纸，小美有2张贴纸。小悦比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "14 − 2 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有15个小球，小美有12个小球。小明比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "15 − 12 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有6块积木，小美有4块积木。小红比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 − 4 = 2（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有12个小球，小美有9个小球。小乐比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "12 − 9 = 3（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有19个小球，小美有7个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "19 − 7 = 12（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有17块积木，小美有14块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "17 − 14 = 3（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有4个小球，小美有2个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "4 − 2 = 2（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有14张彩纸，小美有7张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "14 − 7 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有20支铅笔，小美有16支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "20 − 16 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有13张卡片，小美有6张卡片。小红比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "13 − 6 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有9个小球，小美有3个小球。小林比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "9 − 3 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有17块积木，小美有11块积木。小乐比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "17 − 11 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有11个小球，小美有5个小球。小红比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "11 − 5 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有15张卡片，小美有3张卡片。小雨比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "15 − 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林有12支铅笔，小美有9支铅笔。小林比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "12 − 9 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有12张贴纸，小美有4张贴纸。小悦比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "12 − 4 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有20个小球，小美有2个小球。小华比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "20 − 2 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有10张彩纸，小美有7张彩纸。小乐比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "10 − 7 = 3（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有11块积木，小美有4块积木。小华比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "11 − 4 = 7（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有17支铅笔，小美有5支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "17 − 5 = 12（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有11支铅笔，小美有7支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "11 − 7 = 4（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有9支铅笔，小美有7支铅笔。小明比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "9 − 7 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有13张彩纸，小美有6张彩纸。小雨比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "13 − 6 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有6张彩纸，小美有4张彩纸。小明比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "6 − 4 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有20张卡片，小美有1张卡片。小红比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "20 − 1 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有7支铅笔，小美有5支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "7 − 5 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有12个小球，小美有2个小球。小乐比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "12 − 2 = 10（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华有19支铅笔，小美有17支铅笔。小华比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "19 − 17 = 2（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有14张卡片，小美有10张卡片。小雨比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "14 − 10 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有5支铅笔，小美有4支铅笔。小悦比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "5 − 4 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有20张卡片，小美有11张卡片。小红比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "20 − 11 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有6块积木，小美有1块积木。小明比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "6 − 1 = 5（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有3张贴纸，小美有1张贴纸。小乐比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "3 − 1 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有18张卡片，小美有8张卡片。小悦比小美多多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "18 − 8 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安有13张贴纸，小美有5张贴纸。小安比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "13 − 5 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有14支铅笔，小美有7支铅笔。小乐比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "14 − 7 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明有14张彩纸，小美有8张彩纸。小明比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "14 − 8 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有4支铅笔，小美有1支铅笔。小红比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "3"
+      ],
+      "options": [],
+      "explanation": "4 − 1 = 3（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨有14个小球，小美有8个小球。小雨比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "14 − 8 = 6（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有13张彩纸，小美有6张彩纸。小悦比小美多多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "13 − 6 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦有2支铅笔，小美有1支铅笔。小悦比小美多多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有2个小球，小美有1个小球。小红比小美多多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有5张贴纸，小美有3张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "5 − 3 = 2（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有3块积木，小美有1块积木。小乐比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "2"
+      ],
+      "options": [],
+      "explanation": "3 − 1 = 2（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有7块积木，小美有6块积木。小红比小美多多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "7 − 6 = 1（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐有18张贴纸，小美有6张贴纸。小乐比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "18 − 6 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红有2张贴纸，小美有1张贴纸。小红比小美多多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": "2 − 1 = 1（张）。"
+    }
+  ]
+}

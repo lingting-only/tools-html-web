@@ -1,0 +1,3009 @@
+{
+  "title": "4年级 · 应用题 · 工作效率",
+  "grade": 4,
+  "category": "应用题 · 工作效率",
+  "kind": "application",
+  "range": "整数 · 效率、时间与剩余工作量",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工11件零件，已加工6小时。这批任务一共有113件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "113 − 11 × 6 = 47（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工11件零件，已加工4小时。这批任务一共有135件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "135 − 11 × 4 = 91（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工24件零件，已加工8小时。这批任务一共有280件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": "280 − 24 × 8 = 88（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工35件零件，已加工4小时。这批任务一共有217件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "217 − 35 × 4 = 77（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工10件零件，已加工2小时。这批任务一共有179件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": "179 − 10 × 2 = 159（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工17件零件，已加工5小时。这批任务一共有210件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "125"
+      ],
+      "options": [],
+      "explanation": "210 − 17 × 5 = 125（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工30件零件，已加工6小时。这批任务一共有325件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "145"
+      ],
+      "options": [],
+      "explanation": "325 − 30 × 6 = 145（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工18件零件，已加工6小时。这批任务一共有260件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "260 − 18 × 6 = 152（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工30件零件，已加工4小时。这批任务一共有135件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "135 − 30 × 4 = 15（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工25件零件，已加工4小时。这批任务一共有221件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "121"
+      ],
+      "options": [],
+      "explanation": "221 − 25 × 4 = 121（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工8件零件，已加工6小时。这批任务一共有224件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": "224 − 8 × 6 = 176（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工35件零件，已加工7小时。这批任务一共有397件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "397 − 35 × 7 = 152（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工35件零件，已加工6小时。这批任务一共有319件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "109"
+      ],
+      "options": [],
+      "explanation": "319 − 35 × 6 = 109（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工27件零件，已加工6小时。这批任务一共有241件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "241 − 27 × 6 = 79（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工29件零件，已加工6小时。这批任务一共有249件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "249 − 29 × 6 = 75（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工25件零件，已加工3小时。这批任务一共有234件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": "234 − 25 × 3 = 159（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工22件零件，已加工7小时。这批任务一共有319件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "165"
+      ],
+      "options": [],
+      "explanation": "319 − 22 × 7 = 165（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工6件零件，已加工6小时。这批任务一共有108件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "108 − 6 × 6 = 72（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工27件零件，已加工5小时。这批任务一共有253件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": "253 − 27 × 5 = 118（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工31件零件，已加工6小时。这批任务一共有230件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "230 − 31 × 6 = 44（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工13件零件，已加工2小时。这批任务一共有133件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "107"
+      ],
+      "options": [],
+      "explanation": "133 − 13 × 2 = 107（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工29件零件，已加工4小时。这批任务一共有177件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "177 − 29 × 4 = 61（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工15件零件，已加工7小时。这批任务一共有123件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "123 − 15 × 7 = 18（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工24件零件，已加工6小时。这批任务一共有198件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "198 − 24 × 6 = 54（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工5件零件，已加工4小时。这批任务一共有85件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "85 − 5 × 4 = 65（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工30件零件，已加工6小时。这批任务一共有279件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": "279 − 30 × 6 = 99（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工10件零件，已加工7小时。这批任务一共有158件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": "158 − 10 × 7 = 88（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工15件零件，已加工5小时。这批任务一共有128件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "128 − 15 × 5 = 53（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工21件零件，已加工6小时。这批任务一共有325件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "199"
+      ],
+      "options": [],
+      "explanation": "325 − 21 × 6 = 199（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工28件零件，已加工4小时。这批任务一共有266件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "154"
+      ],
+      "options": [],
+      "explanation": "266 − 28 × 4 = 154（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工14件零件，已加工7小时。这批任务一共有200件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": "200 − 14 × 7 = 102（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工10件零件，已加工6小时。这批任务一共有174件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "114"
+      ],
+      "options": [],
+      "explanation": "174 − 10 × 6 = 114（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工29件零件，已加工2小时。这批任务一共有199件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "141"
+      ],
+      "options": [],
+      "explanation": "199 − 29 × 2 = 141（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工15件零件，已加工5小时。这批任务一共有195件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "195 − 15 × 5 = 120（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工33件零件，已加工6小时。这批任务一共有272件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "272 − 33 × 6 = 74（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工29件零件，已加工5小时。这批任务一共有289件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "289 − 29 × 5 = 144（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工31件零件，已加工5小时。这批任务一共有301件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "146"
+      ],
+      "options": [],
+      "explanation": "301 − 31 × 5 = 146（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工3件零件，已加工6小时。这批任务一共有35件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "35 − 3 × 6 = 17（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工33件零件，已加工2小时。这批任务一共有143件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "143 − 33 × 2 = 77（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工28件零件，已加工2小时。这批任务一共有147件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "147 − 28 × 2 = 91（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工9件零件，已加工6小时。这批任务一共有210件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": "210 − 9 × 6 = 156（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工14件零件，已加工3小时。这批任务一共有240件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "198"
+      ],
+      "options": [],
+      "explanation": "240 − 14 × 3 = 198（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工20件零件，已加工6小时。这批任务一共有185件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "185 − 20 × 6 = 65（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工9件零件，已加工4小时。这批任务一共有179件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "143"
+      ],
+      "options": [],
+      "explanation": "179 − 9 × 4 = 143（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工13件零件，已加工5小时。这批任务一共有254件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "189"
+      ],
+      "options": [],
+      "explanation": "254 − 13 × 5 = 189（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工33件零件，已加工7小时。这批任务一共有254件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "254 − 33 × 7 = 23（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工27件零件，已加工5小时。这批任务一共有212件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "212 − 27 × 5 = 77（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工14件零件，已加工5小时。这批任务一共有241件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "171"
+      ],
+      "options": [],
+      "explanation": "241 − 14 × 5 = 171（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工18件零件，已加工4小时。这批任务一共有234件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "234 − 18 × 4 = 162（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工22件零件，已加工5小时。这批任务一共有272件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "272 − 22 × 5 = 162（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工4件零件，已加工3小时。这批任务一共有66件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "66 − 4 × 3 = 54（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工6件零件，已加工6小时。这批任务一共有155件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "155 − 6 × 6 = 119（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工33件零件，已加工7小时。这批任务一共有325件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": "325 − 33 × 7 = 94（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工7件零件，已加工3小时。这批任务一共有145件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": "145 − 7 × 3 = 124（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工29件零件，已加工6小时。这批任务一共有223件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "223 − 29 × 6 = 49（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工24件零件，已加工5小时。这批任务一共有139件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "139 − 24 × 5 = 19（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工29件零件，已加工2小时。这批任务一共有176件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": "176 − 29 × 2 = 118（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工34件零件，已加工2小时。这批任务一共有246件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": "246 − 34 × 2 = 178（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工34件零件，已加工7小时。这批任务一共有276件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "276 − 34 × 7 = 38（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工31件零件，已加工5小时。这批任务一共有345件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "190"
+      ],
+      "options": [],
+      "explanation": "345 − 31 × 5 = 190（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工19件零件，已加工4小时。这批任务一共有186件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": "186 − 19 × 4 = 110（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工15件零件，已加工4小时。这批任务一共有92件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "92 − 15 × 4 = 32（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工20件零件，已加工5小时。这批任务一共有234件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": "234 − 20 × 5 = 134（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工3件零件，已加工3小时。这批任务一共有120件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": "120 − 3 × 3 = 111（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工12件零件，已加工3小时。这批任务一共有118件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": "118 − 12 × 3 = 82（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工19件零件，已加工3小时。这批任务一共有233件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "176"
+      ],
+      "options": [],
+      "explanation": "233 − 19 × 3 = 176（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工6件零件，已加工2小时。这批任务一共有27件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "27 − 6 × 2 = 15（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工13件零件，已加工5小时。这批任务一共有209件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "209 − 13 × 5 = 144（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工30件零件，已加工6小时。这批任务一共有379件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "199"
+      ],
+      "options": [],
+      "explanation": "379 − 30 × 6 = 199（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工20件零件，已加工2小时。这批任务一共有220件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "180"
+      ],
+      "options": [],
+      "explanation": "220 − 20 × 2 = 180（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工24件零件，已加工7小时。这批任务一共有261件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "93"
+      ],
+      "options": [],
+      "explanation": "261 − 24 × 7 = 93（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工17件零件，已加工2小时。这批任务一共有56件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "56 − 17 × 2 = 22（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工30件零件，已加工6小时。这批任务一共有200件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "200 − 30 × 6 = 20（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工18件零件，已加工3小时。这批任务一共有94件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "94 − 18 × 3 = 40（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工27件零件，已加工7小时。这批任务一共有367件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": "367 − 27 × 7 = 178（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工4件零件，已加工4小时。这批任务一共有216件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "200"
+      ],
+      "options": [],
+      "explanation": "216 − 4 × 4 = 200（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工20件零件，已加工5小时。这批任务一共有143件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "43"
+      ],
+      "options": [],
+      "explanation": "143 − 20 × 5 = 43（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工23件零件，已加工4小时。这批任务一共有284件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": "284 − 23 × 4 = 192（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工15件零件，已加工6小时。这批任务一共有163件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": "163 − 15 × 6 = 73（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工19件零件，已加工6小时。这批任务一共有255件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "141"
+      ],
+      "options": [],
+      "explanation": "255 − 19 × 6 = 141（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工12件零件，已加工3小时。这批任务一共有222件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": "222 − 12 × 3 = 186（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工8件零件，已加工4小时。这批任务一共有216件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": "216 − 8 × 4 = 184（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工17件零件，已加工6小时。这批任务一共有253件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "151"
+      ],
+      "options": [],
+      "explanation": "253 − 17 × 6 = 151（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工10件零件，已加工3小时。这批任务一共有86件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "86 − 10 × 3 = 56（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工7件零件，已加工7小时。这批任务一共有233件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": "233 − 7 × 7 = 184（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工28件零件，已加工8小时。这批任务一共有253件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "253 − 28 × 8 = 29（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工12件零件，已加工2小时。这批任务一共有57件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "57 − 12 × 2 = 33（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工18件零件，已加工8小时。这批任务一共有288件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "144"
+      ],
+      "options": [],
+      "explanation": "288 − 18 × 8 = 144（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工15件零件，已加工6小时。这批任务一共有260件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": "260 − 15 × 6 = 170（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工6件零件，已加工4小时。这批任务一共有46件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "46 − 6 × 4 = 22（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工10件零件，已加工5小时。这批任务一共有180件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": "180 − 10 × 5 = 130（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工26件零件，已加工5小时。这批任务一共有165件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "165 − 26 × 5 = 35（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工5件零件，已加工6小时。这批任务一共有147件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": "147 − 5 × 6 = 117（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工14件零件，已加工6小时。这批任务一共有266件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "182"
+      ],
+      "options": [],
+      "explanation": "266 − 14 × 6 = 182（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工12件零件，已加工3小时。这批任务一共有161件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "125"
+      ],
+      "options": [],
+      "explanation": "161 − 12 × 3 = 125（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工11件零件，已加工4小时。这批任务一共有182件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": "182 − 11 × 4 = 138（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工26件零件，已加工2小时。这批任务一共有93件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "93 − 26 × 2 = 41（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工31件零件，已加工2小时。这批任务一共有131件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "131 − 31 × 2 = 69（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工21件零件，已加工4小时。这批任务一共有213件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "213 − 21 × 4 = 129（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工33件零件，已加工8小时。这批任务一共有390件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "390 − 33 × 8 = 126（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工25件零件，已加工7小时。这批任务一共有375件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "200"
+      ],
+      "options": [],
+      "explanation": "375 − 25 × 7 = 200（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工26件零件，已加工6小时。这批任务一共有295件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": "295 − 26 × 6 = 139（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工29件零件，已加工3小时。这批任务一共有210件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "123"
+      ],
+      "options": [],
+      "explanation": "210 − 29 × 3 = 123（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工16件零件，已加工7小时。这批任务一共有203件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "203 − 16 × 7 = 91（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工30件零件，已加工5小时。这批任务一共有308件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "158"
+      ],
+      "options": [],
+      "explanation": "308 − 30 × 5 = 158（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工10件零件，已加工8小时。这批任务一共有110件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "110 − 10 × 8 = 30（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工7件零件，已加工3小时。这批任务一共有181件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": "181 − 7 × 3 = 160（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工3件零件，已加工7小时。这批任务一共有200件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "179"
+      ],
+      "options": [],
+      "explanation": "200 − 3 × 7 = 179（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工7件零件，已加工5小时。这批任务一共有161件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "161 − 7 × 5 = 126（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工19件零件，已加工3小时。这批任务一共有166件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "109"
+      ],
+      "options": [],
+      "explanation": "166 − 19 × 3 = 109（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工20件零件，已加工6小时。这批任务一共有305件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "185"
+      ],
+      "options": [],
+      "explanation": "305 − 20 × 6 = 185（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工5件零件，已加工8小时。这批任务一共有63件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "63 − 5 × 8 = 23（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工6件零件，已加工2小时。这批任务一共有37件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "37 − 6 × 2 = 25（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工5件零件，已加工6小时。这批任务一共有170件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": "170 − 5 × 6 = 140（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工10件零件，已加工8小时。这批任务一共有129件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "129 − 10 × 8 = 49（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工25件零件，已加工3小时。这批任务一共有171件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "171 − 25 × 3 = 96（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工20件零件，已加工6小时。这批任务一共有187件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "187 − 20 × 6 = 67（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工16件零件，已加工5小时。这批任务一共有146件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "146 − 16 × 5 = 66（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工22件零件，已加工6小时。这批任务一共有224件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": "224 − 22 × 6 = 92（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工6件零件，已加工3小时。这批任务一共有211件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "193"
+      ],
+      "options": [],
+      "explanation": "211 − 6 × 3 = 193（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工31件零件，已加工2小时。这批任务一共有260件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "198"
+      ],
+      "options": [],
+      "explanation": "260 − 31 × 2 = 198（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工19件零件，已加工2小时。这批任务一共有54件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "54 − 19 × 2 = 16（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工15件零件，已加工2小时。这批任务一共有229件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "199"
+      ],
+      "options": [],
+      "explanation": "229 − 15 × 2 = 199（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工15件零件，已加工3小时。这批任务一共有63件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "63 − 15 × 3 = 18（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工31件零件，已加工8小时。这批任务一共有352件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "352 − 31 × 8 = 104（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工13件零件，已加工4小时。这批任务一共有181件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "181 − 13 × 4 = 129（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工19件零件，已加工6小时。这批任务一共有312件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "198"
+      ],
+      "options": [],
+      "explanation": "312 − 19 × 6 = 198（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工33件零件，已加工5小时。这批任务一共有314件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": "314 − 33 × 5 = 149（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工10件零件，已加工5小时。这批任务一共有234件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": "234 − 10 × 5 = 184（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工23件零件，已加工5小时。这批任务一共有298件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "183"
+      ],
+      "options": [],
+      "explanation": "298 − 23 × 5 = 183（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工20件零件，已加工6小时。这批任务一共有178件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "178 − 20 × 6 = 58（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工5件零件，已加工7小时。这批任务一共有174件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": "174 − 5 × 7 = 139（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工3件零件，已加工4小时。这批任务一共有44件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "44 − 3 × 4 = 32（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工10件零件，已加工5小时。这批任务一共有231件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "181"
+      ],
+      "options": [],
+      "explanation": "231 − 10 × 5 = 181（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工9件零件，已加工4小时。这批任务一共有133件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": "133 − 9 × 4 = 97（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工24件零件，已加工5小时。这批任务一共有181件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "181 − 24 × 5 = 61（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工12件零件，已加工2小时。这批任务一共有190件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "190 − 12 × 2 = 166（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工29件零件，已加工8小时。这批任务一共有402件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": "402 − 29 × 8 = 170（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工5件零件，已加工8小时。这批任务一共有75件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "75 − 5 × 8 = 35（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工19件零件，已加工3小时。这批任务一共有187件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": "187 − 19 × 3 = 130（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工26件零件，已加工5小时。这批任务一共有260件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "130"
+      ],
+      "options": [],
+      "explanation": "260 − 26 × 5 = 130（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工12件零件，已加工5小时。这批任务一共有122件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "122 − 12 × 5 = 62（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工35件零件，已加工3小时。这批任务一共有258件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "153"
+      ],
+      "options": [],
+      "explanation": "258 − 35 × 3 = 153（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工4件零件，已加工7小时。这批任务一共有179件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "151"
+      ],
+      "options": [],
+      "explanation": "179 − 4 × 7 = 151（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工4件零件，已加工8小时。这批任务一共有70件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "70 − 4 × 8 = 38（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工19件零件，已加工7小时。这批任务一共有164件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "164 − 19 × 7 = 31（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工27件零件，已加工4小时。这批任务一共有266件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "158"
+      ],
+      "options": [],
+      "explanation": "266 − 27 × 4 = 158（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工33件零件，已加工5小时。这批任务一共有261件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "261 − 33 × 5 = 96（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工25件零件，已加工7小时。这批任务一共有375件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "200"
+      ],
+      "options": [],
+      "explanation": "375 − 25 × 7 = 200（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工27件零件，已加工6小时。这批任务一共有301件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": "301 − 27 × 6 = 139（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工21件零件，已加工2小时。这批任务一共有197件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "155"
+      ],
+      "options": [],
+      "explanation": "197 − 21 × 2 = 155（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工18件零件，已加工7小时。这批任务一共有245件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "245 − 18 × 7 = 119（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工12件零件，已加工8小时。这批任务一共有275件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "179"
+      ],
+      "options": [],
+      "explanation": "275 − 12 × 8 = 179（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工13件零件，已加工7小时。这批任务一共有250件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": "250 − 13 × 7 = 159（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工25件零件，已加工5小时。这批任务一共有203件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "203 − 25 × 5 = 78（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工16件零件，已加工7小时。这批任务一共有255件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "143"
+      ],
+      "options": [],
+      "explanation": "255 − 16 × 7 = 143（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工4件零件，已加工4小时。这批任务一共有177件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "161"
+      ],
+      "options": [],
+      "explanation": "177 − 4 × 4 = 161（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工34件零件，已加工5小时。这批任务一共有260件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": "260 − 34 × 5 = 90（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工34件零件，已加工7小时。这批任务一共有334件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "334 − 34 × 7 = 96（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工30件零件，已加工4小时。这批任务一共有229件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "109"
+      ],
+      "options": [],
+      "explanation": "229 − 30 × 4 = 109（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工35件零件，已加工3小时。这批任务一共有243件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": "243 − 35 × 3 = 138（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工16件零件，已加工8小时。这批任务一共有147件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "147 − 16 × 8 = 19（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工11件零件，已加工6小时。这批任务一共有108件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "108 − 11 × 6 = 42（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工14件零件，已加工8小时。这批任务一共有262件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "262 − 14 × 8 = 150（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工29件零件，已加工6小时。这批任务一共有197件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "23"
+      ],
+      "options": [],
+      "explanation": "197 − 29 × 6 = 23（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工26件零件，已加工6小时。这批任务一共有292件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": "292 − 26 × 6 = 136（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工7件零件，已加工6小时。这批任务一共有117件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "117 − 7 × 6 = 75（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工11件零件，已加工3小时。这批任务一共有53件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "53 − 11 × 3 = 20（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工16件零件，已加工5小时。这批任务一共有159件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "79"
+      ],
+      "options": [],
+      "explanation": "159 − 16 × 5 = 79（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工30件零件，已加工3小时。这批任务一共有110件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "110 − 30 × 3 = 20（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工35件零件，已加工7小时。这批任务一共有348件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "103"
+      ],
+      "options": [],
+      "explanation": "348 − 35 × 7 = 103（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工31件零件，已加工3小时。这批任务一共有220件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "127"
+      ],
+      "options": [],
+      "explanation": "220 − 31 × 3 = 127（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工24件零件，已加工3小时。这批任务一共有221件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": "221 − 24 × 3 = 149（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工23件零件，已加工2小时。这批任务一共有142件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "142 − 23 × 2 = 96（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工14件零件，已加工5小时。这批任务一共有168件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "168 − 14 × 5 = 98（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工6件零件，已加工7小时。这批任务一共有54件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "54 − 6 × 7 = 12（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工23件零件，已加工4小时。这批任务一共有142件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "142 − 23 × 4 = 50（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工12件零件，已加工2小时。这批任务一共有145件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "121"
+      ],
+      "options": [],
+      "explanation": "145 − 12 × 2 = 121（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工15件零件，已加工7小时。这批任务一共有210件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "210 − 15 × 7 = 105（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工7件零件，已加工4小时。这批任务一共有110件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": "110 − 7 × 4 = 82（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工18件零件，已加工7小时。这批任务一共有281件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "155"
+      ],
+      "options": [],
+      "explanation": "281 − 18 × 7 = 155（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工3件零件，已加工2小时。这批任务一共有158件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "158 − 3 × 2 = 152（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工20件零件，已加工8小时。这批任务一共有227件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "227 − 20 × 8 = 67（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工29件零件，已加工5小时。这批任务一共有237件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": "237 − 29 × 5 = 92（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工28件零件，已加工8小时。这批任务一共有297件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": "297 − 28 × 8 = 73（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工18件零件，已加工3小时。这批任务一共有229件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "175"
+      ],
+      "options": [],
+      "explanation": "229 − 18 × 3 = 175（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工34件零件，已加工2小时。这批任务一共有92件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "92 − 34 × 2 = 24（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工12件零件，已加工3小时。这批任务一共有153件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": "153 − 12 × 3 = 117（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工10件零件，已加工8小时。这批任务一共有264件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": "264 − 10 × 8 = 184（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工18件零件，已加工5小时。这批任务一共有204件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "114"
+      ],
+      "options": [],
+      "explanation": "204 − 18 × 5 = 114（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工11件零件，已加工4小时。这批任务一共有170件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "170 − 11 × 4 = 126（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工23件零件，已加工6小时。这批任务一共有312件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "174"
+      ],
+      "options": [],
+      "explanation": "312 − 23 × 6 = 174（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工8件零件，已加工7小时。这批任务一共有182件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "182 − 8 × 7 = 126（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工18件零件，已加工6小时。这批任务一共有145件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "145 − 18 × 6 = 37（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工31件零件，已加工5小时。这批任务一共有231件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "231 − 31 × 5 = 76（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工13件零件，已加工7小时。这批任务一共有144件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "144 − 13 × 7 = 53（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工5件零件，已加工2小时。这批任务一共有152件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "142"
+      ],
+      "options": [],
+      "explanation": "152 − 5 × 2 = 142（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工5件零件，已加工6小时。这批任务一共有200件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": "200 − 5 × 6 = 170（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工28件零件，已加工5小时。这批任务一共有229件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": "229 − 28 × 5 = 89（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工29件零件，已加工7小时。这批任务一共有284件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "284 − 29 × 7 = 81（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工11件零件，已加工4小时。这批任务一共有185件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "141"
+      ],
+      "options": [],
+      "explanation": "185 − 11 × 4 = 141（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工27件零件，已加工3小时。这批任务一共有221件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": "221 − 27 × 3 = 140（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工32件零件，已加工8小时。这批任务一共有403件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "403 − 32 × 8 = 147（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工6件零件，已加工2小时。这批任务一共有203件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "191"
+      ],
+      "options": [],
+      "explanation": "203 − 6 × 2 = 191（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工12件零件，已加工4小时。这批任务一共有133件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": "133 − 12 × 4 = 85（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工10件零件，已加工7小时。这批任务一共有205件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": "205 − 10 × 7 = 135（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工32件零件，已加工3小时。这批任务一共有295件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "199"
+      ],
+      "options": [],
+      "explanation": "295 − 32 × 3 = 199（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工16件零件，已加工5小时。这批任务一共有196件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "116"
+      ],
+      "options": [],
+      "explanation": "196 − 16 × 5 = 116（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工23件零件，已加工2小时。这批任务一共有244件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "198"
+      ],
+      "options": [],
+      "explanation": "244 − 23 × 2 = 198（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工9件零件，已加工2小时。这批任务一共有171件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "153"
+      ],
+      "options": [],
+      "explanation": "171 − 9 × 2 = 153（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工19件零件，已加工7小时。这批任务一共有307件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "174"
+      ],
+      "options": [],
+      "explanation": "307 − 19 × 7 = 174（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工18件零件，已加工8小时。这批任务一共有312件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "168"
+      ],
+      "options": [],
+      "explanation": "312 − 18 × 8 = 168（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工11件零件，已加工7小时。这批任务一共有97件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "97 − 11 × 7 = 20（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工28件零件，已加工3小时。这批任务一共有98件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "98 − 28 × 3 = 14（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工9件零件，已加工7小时。这批任务一共有245件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "182"
+      ],
+      "options": [],
+      "explanation": "245 − 9 × 7 = 182（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工16件零件，已加工4小时。这批任务一共有169件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "169 − 16 × 4 = 105（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工4件零件，已加工3小时。这批任务一共有152件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": "152 − 4 × 3 = 140（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工5件零件，已加工3小时。这批任务一共有148件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": "148 − 5 × 3 = 133（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工28件零件，已加工7小时。这批任务一共有341件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "145"
+      ],
+      "options": [],
+      "explanation": "341 − 28 × 7 = 145（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工5件零件，已加工2小时。这批任务一共有108件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "108 − 5 × 2 = 98（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工20件零件，已加工2小时。这批任务一共有143件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "103"
+      ],
+      "options": [],
+      "explanation": "143 − 20 × 2 = 103（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工29件零件，已加工7小时。这批任务一共有395件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "192"
+      ],
+      "options": [],
+      "explanation": "395 − 29 × 7 = 192（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工25件零件，已加工4小时。这批任务一共有267件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "167"
+      ],
+      "options": [],
+      "explanation": "267 − 25 × 4 = 167（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工13件零件，已加工5小时。这批任务一共有212件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "212 − 13 × 5 = 147（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工4件零件，已加工7小时。这批任务一共有166件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "138"
+      ],
+      "options": [],
+      "explanation": "166 − 4 × 7 = 138（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工15件零件，已加工8小时。这批任务一共有217件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": "217 − 15 × 8 = 97（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工17件零件，已加工3小时。这批任务一共有248件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "197"
+      ],
+      "options": [],
+      "explanation": "248 − 17 × 3 = 197（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工29件零件，已加工2小时。这批任务一共有121件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "121 − 29 × 2 = 63（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工8件零件，已加工4小时。这批任务一共有161件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "161 − 8 × 4 = 129（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工19件零件，已加工3小时。这批任务一共有112件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "112 − 19 × 3 = 55（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工35件零件，已加工7小时。这批任务一共有381件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": "381 − 35 × 7 = 136（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工19件零件，已加工2小时。这批任务一共有203件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "165"
+      ],
+      "options": [],
+      "explanation": "203 − 19 × 2 = 165（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工7件零件，已加工3小时。这批任务一共有59件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "38"
+      ],
+      "options": [],
+      "explanation": "59 − 7 × 3 = 38（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工26件零件，已加工5小时。这批任务一共有249件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "249 − 26 × 5 = 119（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工5件零件，已加工3小时。这批任务一共有28件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "28 − 5 × 3 = 13（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工32件零件，已加工2小时。这批任务一共有220件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": "220 − 32 × 2 = 156（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工24件零件，已加工2小时。这批任务一共有58件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "58 − 24 × 2 = 10（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工25件零件，已加工4小时。这批任务一共有127件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "27"
+      ],
+      "options": [],
+      "explanation": "127 − 25 × 4 = 27（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工35件零件，已加工2小时。这批任务一共有205件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": "205 − 35 × 2 = 135（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工27件零件，已加工4小时。这批任务一共有202件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": "202 − 27 × 4 = 94（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工29件零件，已加工6小时。这批任务一共有264件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": "264 − 29 × 6 = 90（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工27件零件，已加工4小时。这批任务一共有268件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": "268 − 27 × 4 = 160（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工12件零件，已加工2小时。这批任务一共有173件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "149"
+      ],
+      "options": [],
+      "explanation": "173 − 12 × 2 = 149（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工29件零件，已加工6小时。这批任务一共有196件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "196 − 29 × 6 = 22（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工24件零件，已加工3小时。这批任务一共有124件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "124 − 24 × 3 = 52（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工18件零件，已加工6小时。这批任务一共有143件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "143 − 18 × 6 = 35（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工9件零件，已加工7小时。这批任务一共有259件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "196"
+      ],
+      "options": [],
+      "explanation": "259 − 9 × 7 = 196（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工13件零件，已加工8小时。这批任务一共有274件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "170"
+      ],
+      "options": [],
+      "explanation": "274 − 13 × 8 = 170（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工30件零件，已加工6小时。这批任务一共有349件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "169"
+      ],
+      "options": [],
+      "explanation": "349 − 30 × 6 = 169（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工8件零件，已加工4小时。这批任务一共有61件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "29"
+      ],
+      "options": [],
+      "explanation": "61 − 8 × 4 = 29（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工13件零件，已加工5小时。这批任务一共有225件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": "225 − 13 × 5 = 160（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工23件零件，已加工7小时。这批任务一共有178件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "178 − 23 × 7 = 17（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工35件零件，已加工4小时。这批任务一共有224件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "224 − 35 × 4 = 84（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工20件零件，已加工3小时。这批任务一共有116件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "116 − 20 × 3 = 56（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工5件零件，已加工3小时。这批任务一共有80件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "80 − 5 × 3 = 65（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工25件零件，已加工2小时。这批任务一共有64件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "64 − 25 × 2 = 14（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工18件零件，已加工6小时。这批任务一共有264件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": "264 − 18 × 6 = 156（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工10件零件，已加工7小时。这批任务一共有226件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": "226 − 10 × 7 = 156（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工13件零件，已加工8小时。这批任务一共有185件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "185 − 13 × 8 = 81（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工23件零件，已加工4小时。这批任务一共有166件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "166 − 23 × 4 = 74（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工29件零件，已加工3小时。这批任务一共有219件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "132"
+      ],
+      "options": [],
+      "explanation": "219 − 29 × 3 = 132（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工11件零件，已加工3小时。这批任务一共有151件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": "151 − 11 × 3 = 118（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工33件零件，已加工3小时。这批任务一共有260件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "161"
+      ],
+      "options": [],
+      "explanation": "260 − 33 × 3 = 161（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工15件零件，已加工2小时。这批任务一共有185件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "155"
+      ],
+      "options": [],
+      "explanation": "185 − 15 × 2 = 155（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工13件零件，已加工3小时。这批任务一共有162件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "123"
+      ],
+      "options": [],
+      "explanation": "162 − 13 × 3 = 123（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工30件零件，已加工5小时。这批任务一共有220件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "220 − 30 × 5 = 70（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工12件零件，已加工3小时。这批任务一共有83件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "47"
+      ],
+      "options": [],
+      "explanation": "83 − 12 × 3 = 47（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工9件零件，已加工4小时。这批任务一共有116件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "116 − 9 × 4 = 80（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工25件零件，已加工6小时。这批任务一共有182件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "182 − 25 × 6 = 32（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工23件零件，已加工3小时。这批任务一共有176件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "107"
+      ],
+      "options": [],
+      "explanation": "176 − 23 × 3 = 107（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工33件零件，已加工3小时。这批任务一共有147件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "147 − 33 × 3 = 48（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工8件零件，已加工6小时。这批任务一共有171件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "123"
+      ],
+      "options": [],
+      "explanation": "171 − 8 × 6 = 123（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工15件零件，已加工8小时。这批任务一共有267件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "267 − 15 × 8 = 147（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华所在工厂每小时加工21件零件，已加工4小时。这批任务一共有197件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "113"
+      ],
+      "options": [],
+      "explanation": "197 − 21 × 4 = 113（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工6件零件，已加工8小时。这批任务一共有147件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": "147 − 6 × 8 = 99（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工30件零件，已加工5小时。这批任务一共有216件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "216 − 30 × 5 = 66（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工19件零件，已加工7小时。这批任务一共有328件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "195"
+      ],
+      "options": [],
+      "explanation": "328 − 19 × 7 = 195（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工11件零件，已加工2小时。这批任务一共有176件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "154"
+      ],
+      "options": [],
+      "explanation": "176 − 11 × 2 = 154（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工11件零件，已加工4小时。这批任务一共有194件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "194 − 11 × 4 = 150（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工30件零件，已加工7小时。这批任务一共有377件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "167"
+      ],
+      "options": [],
+      "explanation": "377 − 30 × 7 = 167（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工4件零件，已加工6小时。这批任务一共有141件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": "141 − 4 × 6 = 117（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工23件零件，已加工6小时。这批任务一共有244件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": "244 − 23 × 6 = 106（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工23件零件，已加工8小时。这批任务一共有369件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "185"
+      ],
+      "options": [],
+      "explanation": "369 − 23 × 8 = 185（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工11件零件，已加工8小时。这批任务一共有110件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "22"
+      ],
+      "options": [],
+      "explanation": "110 − 11 × 8 = 22（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明所在工厂每小时加工24件零件，已加工5小时。这批任务一共有202件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": "202 − 24 × 5 = 82（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工16件零件，已加工8小时。这批任务一共有183件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "183 − 16 × 8 = 55（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林所在工厂每小时加工31件零件，已加工3小时。这批任务一共有129件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "129 − 31 × 3 = 36（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工17件零件，已加工2小时。这批任务一共有143件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "109"
+      ],
+      "options": [],
+      "explanation": "143 − 17 × 2 = 109（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工5件零件，已加工3小时。这批任务一共有130件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "115"
+      ],
+      "options": [],
+      "explanation": "130 − 5 × 3 = 115（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工30件零件，已加工2小时。这批任务一共有170件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": "170 − 30 × 2 = 110（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工19件零件，已加工2小时。这批任务一共有200件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "200 − 19 × 2 = 162（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工12件零件，已加工3小时。这批任务一共有117件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "81"
+      ],
+      "options": [],
+      "explanation": "117 − 12 × 3 = 81（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安所在工厂每小时加工29件零件，已加工8小时。这批任务一共有343件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": "343 − 29 × 8 = 111（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦所在工厂每小时加工4件零件，已加工6小时。这批任务一共有65件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "65 − 4 × 6 = 41（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工23件零件，已加工7小时。这批任务一共有296件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "135"
+      ],
+      "options": [],
+      "explanation": "296 − 23 × 7 = 135（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工5件零件，已加工8小时。这批任务一共有150件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": "150 − 5 × 8 = 110（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐所在工厂每小时加工23件零件，已加工4小时。这批任务一共有128件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "128 − 23 × 4 = 36（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红所在工厂每小时加工26件零件，已加工5小时。这批任务一共有178件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "178 − 26 × 5 = 48（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工13件零件，已加工5小时。这批任务一共有242件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "177"
+      ],
+      "options": [],
+      "explanation": "242 − 13 × 5 = 177（件）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨所在工厂每小时加工30件零件，已加工4小时。这批任务一共有262件，还剩多少件未加工？（只填数值，单位：件）",
+      "answer": [
+        "142"
+      ],
+      "options": [],
+      "explanation": "262 − 30 × 4 = 142（件）。"
+    }
+  ]
+}

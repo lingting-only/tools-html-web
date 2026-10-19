@@ -1,0 +1,9008 @@
+{
+  "title": "5年级 · 分数加法",
+  "grade": 5,
+  "category": "分数加法",
+  "range": "进阶 · 分母2–20",
+  "questions": [
+    {
+      "type": "calculation",
+      "stem": "2/17 + 8/15 = ?",
+      "answer": [
+        "166/255"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/4 = ?",
+      "answer": [
+        "3/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 2/5 = ?",
+      "answer": [
+        "9/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 2/5 = ?",
+      "answer": [
+        "13/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 1/8 = ?",
+      "answer": [
+        "25/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 3/7 = ?",
+      "answer": [
+        "73/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/13 + 1/3 = ?",
+      "answer": [
+        "28/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 12/13 = ?",
+      "answer": [
+        "211/130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 1/6 = ?",
+      "answer": [
+        "31/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 9/10 = ?",
+      "answer": [
+        "7/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 7/16 = ?",
+      "answer": [
+        "15/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/19 = ?",
+      "answer": [
+        "21/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 4/9 = ?",
+      "answer": [
+        "103/90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 1/3 = ?",
+      "answer": [
+        "25/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 16/17 = ?",
+      "answer": [
+        "461/255"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 1/3 = ?",
+      "answer": [
+        "14/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 3/8 = ?",
+      "answer": [
+        "9/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/13 + 3/4 = ?",
+      "answer": [
+        "75/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/18 + 1/12 = ?",
+      "answer": [
+        "17/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 1/3 = ?",
+      "answer": [
+        "10/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/17 + 4/5 = ?",
+      "answer": [
+        "103/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 17/18 = ?",
+      "answer": [
+        "13/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/18 + 17/19 = ?",
+      "answer": [
+        "401/342"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/12 + 1/3 = ?",
+      "answer": [
+        "11/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/19 + 3/10 = ?",
+      "answer": [
+        "167/190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/16 + 6/7 = ?",
+      "answer": [
+        "201/112"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 1/9 = ?",
+      "answer": [
+        "13/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 2/13 = ?",
+      "answer": [
+        "111/130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 5/17 = ?",
+      "answer": [
+        "120/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/14 = ?",
+      "answer": [
+        "4/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 11/18 = ?",
+      "answer": [
+        "49/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 8/13 = ?",
+      "answer": [
+        "103/104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/13 + 1/3 = ?",
+      "answer": [
+        "43/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 1/3 = ?",
+      "answer": [
+        "49/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/13 + 5/8 = ?",
+      "answer": [
+        "113/104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/13 + 4/5 = ?",
+      "answer": [
+        "57/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 1/2 = ?",
+      "answer": [
+        "5/6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/19 + 2/3 = ?",
+      "answer": [
+        "41/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/13 + 7/15 = ?",
+      "answer": [
+        "106/195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 2/9 = ?",
+      "answer": [
+        "5/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 5/12 = ?",
+      "answer": [
+        "19/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 8/13 = ?",
+      "answer": [
+        "29/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 13/16 = ?",
+      "answer": [
+        "97/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/13 + 2/17 = ?",
+      "answer": [
+        "179/221"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/19 + 1/10 = ?",
+      "answer": [
+        "119/190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 5/18 = ?",
+      "answer": [
+        "125/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/17 + 7/18 = ?",
+      "answer": [
+        "299/306"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 1/5 = ?",
+      "answer": [
+        "11/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 1/3 = ?",
+      "answer": [
+        "41/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/17 + 9/20 = ?",
+      "answer": [
+        "273/340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 13/14 = ?",
+      "answer": [
+        "93/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 11/12 = ?",
+      "answer": [
+        "61/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 5/7 = ?",
+      "answer": [
+        "89/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 2/3 = ?",
+      "answer": [
+        "3/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 4/5 = ?",
+      "answer": [
+        "31/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 5/9 = ?",
+      "answer": [
+        "25/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 1/6 = ?",
+      "answer": [
+        "1/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/18 + 3/7 = ?",
+      "answer": [
+        "61/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/17 + 1/8 = ?",
+      "answer": [
+        "97/136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/19 + 1/2 = ?",
+      "answer": [
+        "35/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 4/5 = ?",
+      "answer": [
+        "17/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/17 + 7/9 = ?",
+      "answer": [
+        "173/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/15 + 1/2 = ?",
+      "answer": [
+        "23/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 11/12 = ?",
+      "answer": [
+        "5/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 5/7 = ?",
+      "answer": [
+        "22/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/2 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/19 + 13/14 = ?",
+      "answer": [
+        "275/266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/13 + 4/5 = ?",
+      "answer": [
+        "107/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 9/11 = ?",
+      "answer": [
+        "47/44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 3/13 = ?",
+      "answer": [
+        "83/78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 2/5 = ?",
+      "answer": [
+        "19/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/11 + 19/20 = ?",
+      "answer": [
+        "409/220"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 9/17 = ?",
+      "answer": [
+        "113/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 1/7 = ?",
+      "answer": [
+        "33/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 5/9 = ?",
+      "answer": [
+        "4/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 3/7 = ?",
+      "answer": [
+        "79/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 1/13 = ?",
+      "answer": [
+        "47/104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 3/5 = ?",
+      "answer": [
+        "87/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 1/10 = ?",
+      "answer": [
+        "4/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 2/5 = ?",
+      "answer": [
+        "16/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 1/2 = ?",
+      "answer": [
+        "9/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 11/15 = ?",
+      "answer": [
+        "137/105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 7/9 = ?",
+      "answer": [
+        "11/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 8/9 = ?",
+      "answer": [
+        "5/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 1/17 = ?",
+      "answer": [
+        "73/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 9/20 = ?",
+      "answer": [
+        "121/180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 3/10 = ?",
+      "answer": [
+        "1/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/19 + 13/19 = ?",
+      "answer": [
+        "22/19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 5/14 = ?",
+      "answer": [
+        "13/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 6/7 = ?",
+      "answer": [
+        "81/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19/20 + 1/2 = ?",
+      "answer": [
+        "29/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/13 + 14/15 = ?",
+      "answer": [
+        "212/195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 13/14 = ?",
+      "answer": [
+        "10/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/11 + 2/3 = ?",
+      "answer": [
+        "49/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/8 + 2/3 = ?",
+      "answer": [
+        "31/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 5/11 = ?",
+      "answer": [
+        "21/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 7/8 = ?",
+      "answer": [
+        "51/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 7/10 = ?",
+      "answer": [
+        "29/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 7/8 = ?",
+      "answer": [
+        "29/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 5/6 = ?",
+      "answer": [
+        "41/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 1/19 = ?",
+      "answer": [
+        "62/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/19 + 1/7 = ?",
+      "answer": [
+        "26/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/11 + 3/5 = ?",
+      "answer": [
+        "53/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/13 + 8/19 = ?",
+      "answer": [
+        "237/247"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 5/14 = ?",
+      "answer": [
+        "43/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 1/2 = ?",
+      "answer": [
+        "13/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 1/4 = ?",
+      "answer": [
+        "7/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/11 + 10/11 = ?",
+      "answer": [
+        "18/11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 1/11 = ?",
+      "answer": [
+        "73/77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 1/15 = ?",
+      "answer": [
+        "29/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 7/11 = ?",
+      "answer": [
+        "68/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/15 + 4/11 = ?",
+      "answer": [
+        "82/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/17 + 2/5 = ?",
+      "answer": [
+        "39/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 4/11 = ?",
+      "answer": [
+        "19/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 1/16 = ?",
+      "answer": [
+        "123/176"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/17 + 2/15 = ?",
+      "answer": [
+        "109/255"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/13 + 3/4 = ?",
+      "answer": [
+        "47/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/20 + 3/5 = ?",
+      "answer": [
+        "13/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/13 + 10/11 = ?",
+      "answer": [
+        "240/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/20 + 8/17 = ?",
+      "answer": [
+        "347/340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 6/11 = ?",
+      "answer": [
+        "29/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 1/5 = ?",
+      "answer": [
+        "43/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 5/11 = ?",
+      "answer": [
+        "26/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 14/19 = ?",
+      "answer": [
+        "75/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 2/9 = ?",
+      "answer": [
+        "7/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 5/6 = ?",
+      "answer": [
+        "43/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/19 + 1/7 = ?",
+      "answer": [
+        "96/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 10/11 = ?",
+      "answer": [
+        "52/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 3/5 = ?",
+      "answer": [
+        "6/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 1/6 = ?",
+      "answer": [
+        "37/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 4/5 = ?",
+      "answer": [
+        "13/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 1/3 = ?",
+      "answer": [
+        "3/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/19 + 7/15 = ?",
+      "answer": [
+        "358/285"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 7/12 = ?",
+      "answer": [
+        "5/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/19 + 1/2 = ?",
+      "answer": [
+        "25/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/18 + 6/7 = ?",
+      "answer": [
+        "143/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/11 + 5/6 = ?",
+      "answer": [
+        "67/66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/11 + 2/13 = ?",
+      "answer": [
+        "74/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 8/13 = ?",
+      "answer": [
+        "69/91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/19 + 12/19 = ?",
+      "answer": [
+        "13/19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 5/19 = ?",
+      "answer": [
+        "29/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 1/3 = ?",
+      "answer": [
+        "2/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/19 + 1/3 = ?",
+      "answer": [
+        "46/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/6 = ?",
+      "answer": [
+        "2/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/16 + 2/5 = ?",
+      "answer": [
+        "87/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 3/5 = ?",
+      "answer": [
+        "11/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/11 + 3/7 = ?",
+      "answer": [
+        "40/77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 19/20 = ?",
+      "answer": [
+        "251/180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/13 + 11/13 = ?",
+      "answer": [
+        "16/13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 3/8 = ?",
+      "answer": [
+        "5/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/14 + 4/11 = ?",
+      "answer": [
+        "89/154"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 9/16 = ?",
+      "answer": [
+        "77/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/16 + 9/16 = ?",
+      "answer": [
+        "3/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/16 + 1/4 = ?",
+      "answer": [
+        "15/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/20 + 7/13 = ?",
+      "answer": [
+        "361/260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 1/6 = ?",
+      "answer": [
+        "5/6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/13 + 3/20 = ?",
+      "answer": [
+        "179/260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 8/11 = ?",
+      "answer": [
+        "46/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/13 + 13/16 = ?",
+      "answer": [
+        "329/208"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 10/13 = ?",
+      "answer": [
+        "33/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/19 + 3/4 = ?",
+      "answer": [
+        "69/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 3/8 = ?",
+      "answer": [
+        "25/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 5/18 = ?",
+      "answer": [
+        "17/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 4/9 = ?",
+      "answer": [
+        "7/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 3/8 = ?",
+      "answer": [
+        "5/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/16 + 1/2 = ?",
+      "answer": [
+        "19/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/16 + 12/13 = ?",
+      "answer": [
+        "283/208"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 10/17 = ?",
+      "answer": [
+        "319/340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/18 + 12/13 = ?",
+      "answer": [
+        "359/234"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/17 + 1/3 = ?",
+      "answer": [
+        "32/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/18 + 6/7 = ?",
+      "answer": [
+        "227/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 3/13 = ?",
+      "answer": [
+        "51/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/16 + 5/6 = ?",
+      "answer": [
+        "55/48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 7/15 = ?",
+      "answer": [
+        "16/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 14/15 = ?",
+      "answer": [
+        "37/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 4/7 = ?",
+      "answer": [
+        "26/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 1/3 = ?",
+      "answer": [
+        "4/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/12 + 12/17 = ?",
+      "answer": [
+        "161/204"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 7/19 = ?",
+      "answer": [
+        "92/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/18 + 5/7 = ?",
+      "answer": [
+        "181/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 2/5 = ?",
+      "answer": [
+        "23/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 1/2 = ?",
+      "answer": [
+        "7/6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 7/12 = ?",
+      "answer": [
+        "83/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 10/19 = ?",
+      "answer": [
+        "39/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/11 + 3/13 = ?",
+      "answer": [
+        "150/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/15 + 1/3 = ?",
+      "answer": [
+        "2/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 2/13 = ?",
+      "answer": [
+        "27/91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 3/10 = ?",
+      "answer": [
+        "29/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 2/9 = ?",
+      "answer": [
+        "59/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 7/9 = ?",
+      "answer": [
+        "67/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/18 + 4/5 = ?",
+      "answer": [
+        "77/90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/15 + 13/15 = ?",
+      "answer": [
+        "7/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/14 + 1/2 = ?",
+      "answer": [
+        "5/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 14/15 = ?",
+      "answer": [
+        "11/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/12 + 1/2 = ?",
+      "answer": [
+        "7/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 3/7 = ?",
+      "answer": [
+        "29/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 12/17 = ?",
+      "answer": [
+        "111/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 1/7 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/11 + 3/5 = ?",
+      "answer": [
+        "73/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/14 + 10/11 = ?",
+      "answer": [
+        "151/154"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/17 + 5/7 = ?",
+      "answer": [
+        "162/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 4/9 = ?",
+      "answer": [
+        "95/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/12 + 13/18 = ?",
+      "answer": [
+        "59/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 14/17 = ?",
+      "answer": [
+        "59/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 11/12 = ?",
+      "answer": [
+        "67/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/13 + 1/2 = ?",
+      "answer": [
+        "27/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 11/12 = ?",
+      "answer": [
+        "4/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 1/12 = ?",
+      "answer": [
+        "35/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 7/9 = ?",
+      "answer": [
+        "17/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 6/13 = ?",
+      "answer": [
+        "106/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/16 + 8/19 = ?",
+      "answer": [
+        "261/304"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 4/5 = ?",
+      "answer": [
+        "71/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/11 + 4/9 = ?",
+      "answer": [
+        "125/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/13 + 13/16 = ?",
+      "answer": [
+        "201/208"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/16 + 1/4 = ?",
+      "answer": [
+        "7/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 7/15 = ?",
+      "answer": [
+        "19/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 4/15 = ?",
+      "answer": [
+        "43/105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 11/14 = ?",
+      "answer": [
+        "69/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 1/2 = ?",
+      "answer": [
+        "41/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 3/7 = ?",
+      "answer": [
+        "109/140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 3/4 = ?",
+      "answer": [
+        "13/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/16 + 8/9 = ?",
+      "answer": [
+        "209/144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 13/14 = ?",
+      "answer": [
+        "53/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 8/13 = ?",
+      "answer": [
+        "176/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/9 + 4/9 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/19 + 5/6 = ?",
+      "answer": [
+        "167/114"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 1/2 = ?",
+      "answer": [
+        "5/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14/19 + 1/10 = ?",
+      "answer": [
+        "159/190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/13 + 1/9 = ?",
+      "answer": [
+        "67/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/19 + 5/6 = ?",
+      "answer": [
+        "119/114"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/17 + 4/9 = ?",
+      "answer": [
+        "113/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/13 + 2/9 = ?",
+      "answer": [
+        "35/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 2/7 = ?",
+      "answer": [
+        "46/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/18 + 5/13 = ?",
+      "answer": [
+        "103/234"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 2/9 = ?",
+      "answer": [
+        "13/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 14/15 = ?",
+      "answer": [
+        "31/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 2/3 = ?",
+      "answer": [
+        "19/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 1/11 = ?",
+      "answer": [
+        "113/154"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 15/17 = ?",
+      "answer": [
+        "109/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/8 = ?",
+      "answer": [
+        "5/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 1/7 = ?",
+      "answer": [
+        "73/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/17 + 3/5 = ?",
+      "answer": [
+        "126/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 5/6 = ?",
+      "answer": [
+        "4/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/18 + 14/17 = ?",
+      "answer": [
+        "541/306"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/13 + 2/5 = ?",
+      "answer": [
+        "56/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 3/7 = ?",
+      "answer": [
+        "43/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/20 + 1/3 = ?",
+      "answer": [
+        "59/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/11 + 3/4 = ?",
+      "answer": [
+        "65/44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 5/17 = ?",
+      "answer": [
+        "27/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 7/20 = ?",
+      "answer": [
+        "23/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 1/5 = ?",
+      "answer": [
+        "37/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 5/9 = ?",
+      "answer": [
+        "67/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 4/5 = ?",
+      "answer": [
+        "21/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/14 + 2/3 = ?",
+      "answer": [
+        "67/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/20 + 9/17 = ?",
+      "answer": [
+        "231/340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/17 + 1/3 = ?",
+      "answer": [
+        "29/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/19 + 13/18 = ?",
+      "answer": [
+        "409/342"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 1/4 = ?",
+      "answer": [
+        "23/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 13/14 = ?",
+      "answer": [
+        "215/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/17 + 14/17 = ?",
+      "answer": [
+        "20/17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 3/8 = ?",
+      "answer": [
+        "7/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/19 + 5/7 = ?",
+      "answer": [
+        "165/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/20 + 3/7 = ?",
+      "answer": [
+        "179/140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 2/9 = ?",
+      "answer": [
+        "4/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 10/17 = ?",
+      "answer": [
+        "64/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/19 + 4/7 = ?",
+      "answer": [
+        "90/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/19 + 2/7 = ?",
+      "answer": [
+        "115/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/17 + 1/7 = ?",
+      "answer": [
+        "94/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 10/11 = ?",
+      "answer": [
+        "51/44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 5/19 = ?",
+      "answer": [
+        "54/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/11 + 2/3 = ?",
+      "answer": [
+        "31/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 9/20 = ?",
+      "answer": [
+        "7/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/13 + 6/19 = ?",
+      "answer": [
+        "268/247"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/11 + 3/4 = ?",
+      "answer": [
+        "73/44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 9/10 = ?",
+      "answer": [
+        "71/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14/17 + 13/16 = ?",
+      "answer": [
+        "445/272"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 1/7 = ?",
+      "answer": [
+        "4/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 1/4 = ?",
+      "answer": [
+        "17/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 7/8 = ?",
+      "answer": [
+        "9/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/13 + 2/9 = ?",
+      "answer": [
+        "125/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 2/5 = ?",
+      "answer": [
+        "21/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 2/15 = ?",
+      "answer": [
+        "59/105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 5/6 = ?",
+      "answer": [
+        "31/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 5/19 = ?",
+      "answer": [
+        "63/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 1/2 = ?",
+      "answer": [
+        "17/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/17 + 2/17 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 5/6 = ?",
+      "answer": [
+        "5/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 13/14 = ?",
+      "answer": [
+        "145/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 1/4 = ?",
+      "answer": [
+        "15/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/19 + 8/9 = ?",
+      "answer": [
+        "287/171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/13 + 1/2 = ?",
+      "answer": [
+        "21/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 5/16 = ?",
+      "answer": [
+        "73/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 4/7 = ?",
+      "answer": [
+        "19/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 8/13 = ?",
+      "answer": [
+        "85/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/11 + 15/19 = ?",
+      "answer": [
+        "317/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16/19 + 1/5 = ?",
+      "answer": [
+        "99/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16/17 + 3/5 = ?",
+      "answer": [
+        "131/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 3/10 = ?",
+      "answer": [
+        "4/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/13 + 2/11 = ?",
+      "answer": [
+        "125/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/20 + 1/2 = ?",
+      "answer": [
+        "23/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 5/16 = ?",
+      "answer": [
+        "13/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 1/3 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 7/13 = ?",
+      "answer": [
+        "41/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/19 + 2/11 = ?",
+      "answer": [
+        "203/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 2/9 = ?",
+      "answer": [
+        "28/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 2/7 = ?",
+      "answer": [
+        "31/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 5/8 = ?",
+      "answer": [
+        "61/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 11/14 = ?",
+      "answer": [
+        "83/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/20 + 11/18 = ?",
+      "answer": [
+        "137/180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 4/13 = ?",
+      "answer": [
+        "25/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/8 + 1/7 = ?",
+      "answer": [
+        "43/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 6/17 = ?",
+      "answer": [
+        "75/68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 1/2 = ?",
+      "answer": [
+        "11/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 1/2 = ?",
+      "answer": [
+        "11/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 1/4 = ?",
+      "answer": [
+        "1/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/8 + 7/17 = ?",
+      "answer": [
+        "141/136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/11 + 14/15 = ?",
+      "answer": [
+        "244/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 9/16 = ?",
+      "answer": [
+        "111/112"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 10/19 = ?",
+      "answer": [
+        "107/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 5/13 = ?",
+      "answer": [
+        "244/195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 3/19 = ?",
+      "answer": [
+        "53/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 5/8 = ?",
+      "answer": [
+        "23/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/15 + 1/2 = ?",
+      "answer": [
+        "19/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 2/7 = ?",
+      "answer": [
+        "20/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 11/13 = ?",
+      "answer": [
+        "142/91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14/17 + 2/7 = ?",
+      "answer": [
+        "132/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/11 + 5/6 = ?",
+      "answer": [
+        "61/66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 5/6 = ?",
+      "answer": [
+        "23/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 1/8 = ?",
+      "answer": [
+        "67/88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 1/2 = ?",
+      "answer": [
+        "23/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/14 + 4/5 = ?",
+      "answer": [
+        "111/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 10/17 = ?",
+      "answer": [
+        "229/187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 5/9 = ?",
+      "answer": [
+        "89/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 1/5 = ?",
+      "answer": [
+        "44/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 1/13 = ?",
+      "answer": [
+        "71/78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 3/4 = ?",
+      "answer": [
+        "33/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/19 + 2/11 = ?",
+      "answer": [
+        "104/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/19 + 7/8 = ?",
+      "answer": [
+        "253/152"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 3/5 = ?",
+      "answer": [
+        "23/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/16 + 7/16 = ?",
+      "answer": [
+        "9/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 1/10 = ?",
+      "answer": [
+        "39/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 9/11 = ?",
+      "answer": [
+        "29/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/17 + 1/2 = ?",
+      "answer": [
+        "25/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 1/2 = ?",
+      "answer": [
+        "11/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 2/7 = ?",
+      "answer": [
+        "24/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 4/5 = ?",
+      "answer": [
+        "22/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 2/11 = ?",
+      "answer": [
+        "58/77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/15 + 1/2 = ?",
+      "answer": [
+        "31/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 1/4 = ?",
+      "answer": [
+        "23/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 5/8 = ?",
+      "answer": [
+        "67/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 3/4 = ?",
+      "answer": [
+        "17/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 10/19 = ?",
+      "answer": [
+        "311/266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 2/9 = ?",
+      "answer": [
+        "103/180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/19 + 15/19 = ?",
+      "answer": [
+        "25/19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 3/14 = ?",
+      "answer": [
+        "18/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/12 + 2/3 = ?",
+      "answer": [
+        "3/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/13 + 4/5 = ?",
+      "answer": [
+        "92/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/12 + 1/4 = ?",
+      "answer": [
+        "1/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 7/8 = ?",
+      "answer": [
+        "25/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 1/3 = ?",
+      "answer": [
+        "10/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 2/5 = ?",
+      "answer": [
+        "31/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/9 + 1/4 = ?",
+      "answer": [
+        "29/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/11 + 4/5 = ?",
+      "answer": [
+        "74/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/13 + 1/7 = ?",
+      "answer": [
+        "55/91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/17 + 1/8 = ?",
+      "answer": [
+        "33/136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 1/3 = ?",
+      "answer": [
+        "7/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 11/15 = ?",
+      "answer": [
+        "9/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/11 + 6/17 = ?",
+      "answer": [
+        "151/187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/12 + 15/19 = ?",
+      "answer": [
+        "389/228"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 3/4 = ?",
+      "answer": [
+        "37/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/11 + 2/3 = ?",
+      "answer": [
+        "28/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 1/5 = ?",
+      "answer": [
+        "13/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/16 + 2/3 = ?",
+      "answer": [
+        "53/48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 11/20 = ?",
+      "answer": [
+        "27/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/11 + 1/12 = ?",
+      "answer": [
+        "71/132"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 5/16 = ?",
+      "answer": [
+        "23/48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 2/3 = ?",
+      "answer": [
+        "14/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/19 + 3/14 = ?",
+      "answer": [
+        "197/266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/13 + 1/20 = ?",
+      "answer": [
+        "173/260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 11/12 = ?",
+      "answer": [
+        "31/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/19 + 12/19 = ?",
+      "answer": [
+        "16/19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 1/5 = ?",
+      "answer": [
+        "27/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 1/9 = ?",
+      "answer": [
+        "23/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 3/5 = ?",
+      "answer": [
+        "67/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 10/17 = ?",
+      "answer": [
+        "138/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 4/11 = ?",
+      "answer": [
+        "124/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 1/3 = ?",
+      "answer": [
+        "11/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 1/5 = ?",
+      "answer": [
+        "2/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/13 = ?",
+      "answer": [
+        "15/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 2/9 = ?",
+      "answer": [
+        "83/90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/5 = ?",
+      "answer": [
+        "7/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 1/10 = ?",
+      "answer": [
+        "37/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/11 + 3/5 = ?",
+      "answer": [
+        "43/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/14 + 1/4 = ?",
+      "answer": [
+        "33/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/19 + 1/7 = ?",
+      "answer": [
+        "103/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 1/11 = ?",
+      "answer": [
+        "16/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 8/9 = ?",
+      "answer": [
+        "41/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/11 + 10/19 = ?",
+      "answer": [
+        "186/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19/20 + 8/13 = ?",
+      "answer": [
+        "407/260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19/20 + 5/8 = ?",
+      "answer": [
+        "63/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16/17 + 1/4 = ?",
+      "answer": [
+        "81/68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 3/4 = ?",
+      "answer": [
+        "29/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/13 + 7/16 = ?",
+      "answer": [
+        "203/208"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/18 + 1/3 = ?",
+      "answer": [
+        "17/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 4/11 = ?",
+      "answer": [
+        "64/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 11/14 = ?",
+      "answer": [
+        "311/182"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/16 + 1/2 = ?",
+      "answer": [
+        "9/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/18 + 1/10 = ?",
+      "answer": [
+        "47/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 1/3 = ?",
+      "answer": [
+        "19/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 1/2 = ?",
+      "answer": [
+        "25/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 9/14 = ?",
+      "answer": [
+        "31/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 1/2 = ?",
+      "answer": [
+        "37/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 2/5 = ?",
+      "answer": [
+        "37/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 9/20 = ?",
+      "answer": [
+        "53/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/11 + 1/13 = ?",
+      "answer": [
+        "128/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/19 + 5/9 = ?",
+      "answer": [
+        "149/171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 3/11 = ?",
+      "answer": [
+        "17/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 7/20 = ?",
+      "answer": [
+        "5/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 1/4 = ?",
+      "answer": [
+        "61/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 11/15 = ?",
+      "answer": [
+        "53/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/19 + 7/9 = ?",
+      "answer": [
+        "205/171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 6/19 = ?",
+      "answer": [
+        "81/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/16 + 7/10 = ?",
+      "answer": [
+        "71/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 5/6 = ?",
+      "answer": [
+        "19/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 5/7 = ?",
+      "answer": [
+        "41/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 15/16 = ?",
+      "answer": [
+        "99/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/15 + 1/2 = ?",
+      "answer": [
+        "29/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 2/3 = ?",
+      "answer": [
+        "4/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/14 + 2/3 = ?",
+      "answer": [
+        "61/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 1/17 = ?",
+      "answer": [
+        "109/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/14 + 2/13 = ?",
+      "answer": [
+        "197/182"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 2/3 = ?",
+      "answer": [
+        "19/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/12 + 3/13 = ?",
+      "answer": [
+        "49/156"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 5/7 = ?",
+      "answer": [
+        "39/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/12 + 3/4 = ?",
+      "answer": [
+        "5/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 1/16 = ?",
+      "answer": [
+        "11/48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 14/19 = ?",
+      "answer": [
+        "193/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/11 + 4/9 = ?",
+      "answer": [
+        "80/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/18 + 7/9 = ?",
+      "answer": [
+        "7/6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 2/5 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 1/5 = ?",
+      "answer": [
+        "19/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/16 + 4/5 = ?",
+      "answer": [
+        "89/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 5/12 = ?",
+      "answer": [
+        "43/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/20 + 13/19 = ?",
+      "answer": [
+        "469/380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 1/6 = ?",
+      "answer": [
+        "4/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/18 + 3/19 = ?",
+      "answer": [
+        "187/342"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/13 + 2/11 = ?",
+      "answer": [
+        "136/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/19 + 3/5 = ?",
+      "answer": [
+        "122/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 9/16 = ?",
+      "answer": [
+        "59/48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/16 + 16/17 = ?",
+      "answer": [
+        "307/272"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/13 + 4/9 = ?",
+      "answer": [
+        "133/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 7/9 = ?",
+      "answer": [
+        "151/90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 9/20 = ?",
+      "answer": [
+        "19/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/11 + 3/19 = ?",
+      "answer": [
+        "52/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 3/7 = ?",
+      "answer": [
+        "23/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 1/8 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 13/15 = ?",
+      "answer": [
+        "6/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 3/7 = ?",
+      "answer": [
+        "16/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/11 + 17/18 = ?",
+      "answer": [
+        "295/198"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 5/6 = ?",
+      "answer": [
+        "7/6"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16/17 + 7/17 = ?",
+      "answer": [
+        "23/17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 13/17 = ?",
+      "answer": [
+        "103/68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 9/14 = ?",
+      "answer": [
+        "11/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 8/11 = ?",
+      "answer": [
+        "83/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/11 + 7/19 = ?",
+      "answer": [
+        "134/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/19 + 7/8 = ?",
+      "answer": [
+        "189/152"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/14 + 5/8 = ?",
+      "answer": [
+        "79/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 13/17 = ?",
+      "answer": [
+        "82/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 1/9 = ?",
+      "answer": [
+        "91/90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/20 + 3/4 = ?",
+      "answer": [
+        "6/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "19/20 + 1/9 = ?",
+      "answer": [
+        "191/180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/15 + 1/7 = ?",
+      "answer": [
+        "71/105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 5/14 = ?",
+      "answer": [
+        "6/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/17 + 1/2 = ?",
+      "answer": [
+        "43/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/16 + 11/16 = ?",
+      "answer": [
+        "7/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 1/19 = ?",
+      "answer": [
+        "121/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/20 + 1/12 = ?",
+      "answer": [
+        "8/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/14 + 2/9 = ?",
+      "answer": [
+        "55/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/19 + 3/7 = ?",
+      "answer": [
+        "78/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 11/20 = ?",
+      "answer": [
+        "13/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/20 + 2/3 = ?",
+      "answer": [
+        "91/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 1/4 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 5/7 = ?",
+      "answer": [
+        "29/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 4/9 = ?",
+      "answer": [
+        "25/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/13 + 7/9 = ?",
+      "answer": [
+        "118/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/12 + 2/19 = ?",
+      "answer": [
+        "157/228"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/15 + 6/7 = ?",
+      "answer": [
+        "118/105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/16 + 11/16 = ?",
+      "answer": [
+        "3/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/18 + 2/7 = ?",
+      "answer": [
+        "113/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 11/17 = ?",
+      "answer": [
+        "235/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 5/14 = ?",
+      "answer": [
+        "257/210"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/11 + 4/9 = ?",
+      "answer": [
+        "71/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 3/17 = ?",
+      "answer": [
+        "195/238"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/13 + 11/13 = ?",
+      "answer": [
+        "17/13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 2/13 = ?",
+      "answer": [
+        "17/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/17 + 8/11 = ?",
+      "answer": [
+        "301/187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/16 + 3/7 = ?",
+      "answer": [
+        "55/112"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 11/14 = ?",
+      "answer": [
+        "9/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 1/11 = ?",
+      "answer": [
+        "31/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 14/19 = ?",
+      "answer": [
+        "174/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/19 + 5/6 = ?",
+      "answer": [
+        "197/114"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 7/10 = ?",
+      "answer": [
+        "11/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/9 + 1/2 = ?",
+      "answer": [
+        "19/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 1/3 = ?",
+      "answer": [
+        "31/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14/17 + 3/4 = ?",
+      "answer": [
+        "107/68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 9/17 = ?",
+      "answer": [
+        "44/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 2/17 = ?",
+      "answer": [
+        "154/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 9/11 = ?",
+      "answer": [
+        "158/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/15 + 11/12 = ?",
+      "answer": [
+        "59/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/12 + 1/3 = ?",
+      "answer": [
+        "5/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 1/7 = ?",
+      "answer": [
+        "37/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 10/17 = ?",
+      "answer": [
+        "199/136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 1/3 = ?",
+      "answer": [
+        "37/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 8/9 = ?",
+      "answer": [
+        "83/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/15 + 1/3 = ?",
+      "answer": [
+        "3/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 8/19 = ?",
+      "answer": [
+        "62/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 1/6 = ?",
+      "answer": [
+        "13/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 2/15 = ?",
+      "answer": [
+        "11/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18/19 + 5/12 = ?",
+      "answer": [
+        "311/228"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/13 + 5/11 = ?",
+      "answer": [
+        "175/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/13 + 2/3 = ?",
+      "answer": [
+        "32/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 12/17 = ?",
+      "answer": [
+        "125/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 8/17 = ?",
+      "answer": [
+        "131/170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 1/2 = ?",
+      "answer": [
+        "25/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/15 + 5/13 = ?",
+      "answer": [
+        "179/195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 7/17 = ?",
+      "answer": [
+        "31/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 2/3 = ?",
+      "answer": [
+        "11/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 5/11 = ?",
+      "answer": [
+        "115/132"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/17 + 1/2 = ?",
+      "answer": [
+        "19/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/9 + 3/4 = ?",
+      "answer": [
+        "47/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 7/11 = ?",
+      "answer": [
+        "60/77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/18 + 7/9 = ?",
+      "answer": [
+        "3/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 3/8 = ?",
+      "answer": [
+        "29/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 1/7 = ?",
+      "answer": [
+        "69/140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 2/3 = ?",
+      "answer": [
+        "41/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 2/7 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 3/5 = ?",
+      "answer": [
+        "17/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/13 + 1/5 = ?",
+      "answer": [
+        "68/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 4/7 = ?",
+      "answer": [
+        "39/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 12/17 = ?",
+      "answer": [
+        "53/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/13 + 1/2 = ?",
+      "answer": [
+        "31/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/17 + 11/20 = ?",
+      "answer": [
+        "447/340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 3/11 = ?",
+      "answer": [
+        "48/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/14 + 13/14 = ?",
+      "answer": [
+        "12/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/11 = ?",
+      "answer": [
+        "13/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 9/20 = ?",
+      "answer": [
+        "183/140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 6/17 = ?",
+      "answer": [
+        "99/136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/19 + 1/3 = ?",
+      "answer": [
+        "58/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 4/11 = ?",
+      "answer": [
+        "27/44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/14 + 5/11 = ?",
+      "answer": [
+        "213/154"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/18 + 1/2 = ?",
+      "answer": [
+        "7/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 5/9 = ?",
+      "answer": [
+        "8/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/18 + 1/4 = ?",
+      "answer": [
+        "23/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 5/14 = ?",
+      "answer": [
+        "15/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 8/17 = ?",
+      "answer": [
+        "33/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 9/10 = ?",
+      "answer": [
+        "83/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/16 + 2/5 = ?",
+      "answer": [
+        "57/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 1/9 = ?",
+      "answer": [
+        "74/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/11 + 9/10 = ?",
+      "answer": [
+        "179/110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 3/7 = ?",
+      "answer": [
+        "71/84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/17 + 2/9 = ?",
+      "answer": [
+        "115/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 5/6 = ?",
+      "answer": [
+        "13/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/17 + 1/5 = ?",
+      "answer": [
+        "77/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 1/5 = ?",
+      "answer": [
+        "8/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 11/14 = ?",
+      "answer": [
+        "38/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/11 + 1/18 = ?",
+      "answer": [
+        "155/198"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14/15 + 1/5 = ?",
+      "answer": [
+        "17/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 4/9 = ?",
+      "answer": [
+        "17/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 3/4 = ?",
+      "answer": [
+        "45/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/13 + 12/17 = ?",
+      "answer": [
+        "275/221"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 2/13 = ?",
+      "answer": [
+        "21/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 8/19 = ?",
+      "answer": [
+        "367/285"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/11 + 1/3 = ?",
+      "answer": [
+        "17/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/17 + 1/7 = ?",
+      "answer": [
+        "31/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/14 + 8/9 = ?",
+      "answer": [
+        "229/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 3/5 = ?",
+      "answer": [
+        "19/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 2/7 = ?",
+      "answer": [
+        "3/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/18 + 5/6 = ?",
+      "answer": [
+        "11/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/20 + 3/8 = ?",
+      "answer": [
+        "33/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/16 + 7/10 = ?",
+      "answer": [
+        "81/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 4/5 = ?",
+      "answer": [
+        "3/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 4/5 = ?",
+      "answer": [
+        "67/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 3/8 = ?",
+      "answer": [
+        "135/104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/14 + 5/7 = ?",
+      "answer": [
+        "3/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/14 + 7/19 = ?",
+      "answer": [
+        "155/266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 4/13 = ?",
+      "answer": [
+        "49/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 18/19 = ?",
+      "answer": [
+        "147/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/11 + 1/5 = ?",
+      "answer": [
+        "61/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 7/13 = ?",
+      "answer": [
+        "149/156"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 9/16 = ?",
+      "answer": [
+        "109/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/15 + 7/13 = ?",
+      "answer": [
+        "196/195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/18 + 9/17 = ?",
+      "answer": [
+        "349/306"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 1/20 = ?",
+      "answer": [
+        "3/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/14 + 5/6 = ?",
+      "answer": [
+        "34/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 5/19 = ?",
+      "answer": [
+        "178/171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/14 + 4/19 = ?",
+      "answer": [
+        "75/266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 6/7 = ?",
+      "answer": [
+        "19/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 5/12 = ?",
+      "answer": [
+        "11/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 12/17 = ?",
+      "answer": [
+        "176/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/17 + 6/7 = ?",
+      "answer": [
+        "193/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/11 + 4/5 = ?",
+      "answer": [
+        "89/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 1/8 = ?",
+      "answer": [
+        "41/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 12/17 = ?",
+      "answer": [
+        "41/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 2/15 = ?",
+      "answer": [
+        "127/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/17 + 1/4 = ?",
+      "answer": [
+        "77/68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 3/17 = ?",
+      "answer": [
+        "23/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 1/10 = ?",
+      "answer": [
+        "23/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 14/15 = ?",
+      "answer": [
+        "19/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/15 + 4/7 = ?",
+      "answer": [
+        "74/105"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 5/6 = ?",
+      "answer": [
+        "59/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 10/11 = ?",
+      "answer": [
+        "31/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 6/7 = ?",
+      "answer": [
+        "44/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/13 + 9/10 = ?",
+      "answer": [
+        "147/130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 11/16 = ?",
+      "answer": [
+        "17/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14/19 + 2/3 = ?",
+      "answer": [
+        "80/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/15 + 1/11 = ?",
+      "answer": [
+        "103/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 3/17 = ?",
+      "answer": [
+        "146/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 5/9 = ?",
+      "answer": [
+        "52/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 1/9 = ?",
+      "answer": [
+        "41/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 3/5 = ?",
+      "answer": [
+        "37/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 11/17 = ?",
+      "answer": [
+        "50/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 16/17 = ?",
+      "answer": [
+        "49/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 7/9 = ?",
+      "answer": [
+        "37/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/18 + 2/5 = ?",
+      "answer": [
+        "121/90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/16 + 3/10 = ?",
+      "answer": [
+        "79/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/18 + 1/6 = ?",
+      "answer": [
+        "8/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/11 + 1/8 = ?",
+      "answer": [
+        "91/88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 1/6 = ?",
+      "answer": [
+        "53/66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/13 + 6/17 = ?",
+      "answer": [
+        "146/221"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/19 + 1/20 = ?",
+      "answer": [
+        "279/380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/13 + 1/2 = ?",
+      "answer": [
+        "35/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/19 + 1/4 = ?",
+      "answer": [
+        "31/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 1/6 = ?",
+      "answer": [
+        "43/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/17 + 1/3 = ?",
+      "answer": [
+        "26/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/19 + 7/8 = ?",
+      "answer": [
+        "157/152"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/13 + 5/8 = ?",
+      "answer": [
+        "81/104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/11 + 1/7 = ?",
+      "answer": [
+        "39/77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 1/13 = ?",
+      "answer": [
+        "31/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/12 + 1/17 = ?",
+      "answer": [
+        "29/204"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/17 + 5/6 = ?",
+      "answer": [
+        "151/102"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 3/4 = ?",
+      "answer": [
+        "17/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 4/19 = ?",
+      "answer": [
+        "27/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 1/9 = ?",
+      "answer": [
+        "5/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/19 + 3/5 = ?",
+      "answer": [
+        "102/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 17/18 = ?",
+      "answer": [
+        "100/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 2/3 = ?",
+      "answer": [
+        "13/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/20 + 5/18 = ?",
+      "answer": [
+        "167/180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/16 + 10/13 = ?",
+      "answer": [
+        "251/208"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 9/19 = ?",
+      "answer": [
+        "93/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/11 + 4/11 = ?",
+      "answer": [
+        "14/11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 1/18 = ?",
+      "answer": [
+        "13/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 12/17 = ?",
+      "answer": [
+        "135/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/13 + 6/11 = ?",
+      "answer": [
+        "89/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16/17 + 5/11 = ?",
+      "answer": [
+        "261/187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/13 + 3/5 = ?",
+      "answer": [
+        "44/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 1/10 = ?",
+      "answer": [
+        "3/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 1/17 = ?",
+      "answer": [
+        "56/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 9/20 = ?",
+      "answer": [
+        "153/140"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/16 + 2/11 = ?",
+      "answer": [
+        "153/176"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 4/9 = ?",
+      "answer": [
+        "10/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/15 + 2/3 = ?",
+      "answer": [
+        "4/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 4/13 = ?",
+      "answer": [
+        "72/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 3/5 = ?",
+      "answer": [
+        "7/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/16 + 10/13 = ?",
+      "answer": [
+        "225/208"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/13 + 2/3 = ?",
+      "answer": [
+        "47/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/16 + 1/5 = ?",
+      "answer": [
+        "91/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/12 + 3/20 = ?",
+      "answer": [
+        "16/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/16 + 5/9 = ?",
+      "answer": [
+        "179/144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/17 + 8/13 = ?",
+      "answer": [
+        "279/221"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/15 + 1/13 = ?",
+      "answer": [
+        "158/195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/11 + 1/3 = ?",
+      "answer": [
+        "20/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 6/7 = ?",
+      "answer": [
+        "82/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 2/5 = ?",
+      "answer": [
+        "1/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/13 + 2/3 = ?",
+      "answer": [
+        "38/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 7/13 = ?",
+      "answer": [
+        "55/78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 1/8 = ?",
+      "answer": [
+        "13/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/14 + 7/10 = ?",
+      "answer": [
+        "37/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 14/19 = ?",
+      "answer": [
+        "108/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 8/15 = ?",
+      "answer": [
+        "77/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/13 + 3/5 = ?",
+      "answer": [
+        "54/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 10/19 = ?",
+      "answer": [
+        "68/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 3/7 = ?",
+      "answer": [
+        "33/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/13 + 5/9 = ?",
+      "answer": [
+        "74/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/11 + 4/15 = ?",
+      "answer": [
+        "59/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/13 + 1/5 = ?",
+      "answer": [
+        "28/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/11 + 4/17 = ?",
+      "answer": [
+        "180/187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 13/14 = ?",
+      "answer": [
+        "131/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 2/7 = ?",
+      "answer": [
+        "13/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 1/6 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 5/9 = ?",
+      "answer": [
+        "61/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 18/19 = ?",
+      "answer": [
+        "166/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/11 + 8/15 = ?",
+      "answer": [
+        "148/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 3/7 = ?",
+      "answer": [
+        "9/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 9/10 = ?",
+      "answer": [
+        "11/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 1/20 = ?",
+      "answer": [
+        "53/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 3/4 = ?",
+      "answer": [
+        "31/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 11/19 = ?",
+      "answer": [
+        "93/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/14 + 1/5 = ?",
+      "answer": [
+        "19/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/8 + 2/11 = ?",
+      "answer": [
+        "71/88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/11 + 1/5 = ?",
+      "answer": [
+        "21/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 6/13 = ?",
+      "answer": [
+        "44/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 5/8 = ?",
+      "answer": [
+        "7/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 3/8 = ?",
+      "answer": [
+        "37/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 13/14 = ?",
+      "answer": [
+        "47/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/17 + 4/17 = ?",
+      "answer": [
+        "19/17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 5/8 = ?",
+      "answer": [
+        "41/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 2/7 = ?",
+      "answer": [
+        "59/84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 13/19 = ?",
+      "answer": [
+        "141/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 4/15 = ?",
+      "answer": [
+        "13/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/11 + 7/17 = ?",
+      "answer": [
+        "179/187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 10/13 = ?",
+      "answer": [
+        "63/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/16 + 2/9 = ?",
+      "answer": [
+        "77/144"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/13 + 1/3 = ?",
+      "answer": [
+        "40/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 7/12 = ?",
+      "answer": [
+        "13/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 9/11 = ?",
+      "answer": [
+        "69/44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 1/17 = ?",
+      "answer": [
+        "24/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 11/16 = ?",
+      "answer": [
+        "141/112"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 7/13 = ?",
+      "answer": [
+        "114/91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/19 + 1/4 = ?",
+      "answer": [
+        "47/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 3/5 = ?",
+      "answer": [
+        "4/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 5/19 = ?",
+      "answer": [
+        "39/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 1/18 = ?",
+      "answer": [
+        "44/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/18 + 11/13 = ?",
+      "answer": [
+        "263/234"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/15 + 10/13 = ?",
+      "answer": [
+        "202/195"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/17 + 5/9 = ?",
+      "answer": [
+        "166/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "18/19 + 5/9 = ?",
+      "answer": [
+        "257/171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 8/13 = ?",
+      "answer": [
+        "50/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 4/5 = ?",
+      "answer": [
+        "5/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 15/17 = ?",
+      "answer": [
+        "79/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 1/17 = ?",
+      "answer": [
+        "61/170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 5/6 = ?",
+      "answer": [
+        "26/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/15 + 3/16 = ?",
+      "answer": [
+        "157/240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/17 + 7/20 = ?",
+      "answer": [
+        "379/340"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/11 + 10/19 = ?",
+      "answer": [
+        "148/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/9 + 11/13 = ?",
+      "answer": [
+        "164/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 5/7 = ?",
+      "answer": [
+        "113/70"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 1/5 = ?",
+      "answer": [
+        "37/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 1/8 = ?",
+      "answer": [
+        "37/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 16/17 = ?",
+      "answer": [
+        "113/102"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 11/20 = ?",
+      "answer": [
+        "17/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 7/8 = ?",
+      "answer": [
+        "37/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 7/17 = ?",
+      "answer": [
+        "55/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/11 + 2/5 = ?",
+      "answer": [
+        "42/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 11/18 = ?",
+      "answer": [
+        "149/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 3/17 = ?",
+      "answer": [
+        "163/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 1/5 = ?",
+      "answer": [
+        "9/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/12 + 1/11 = ?",
+      "answer": [
+        "89/132"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/19 + 1/2 = ?",
+      "answer": [
+        "41/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 1/6 = ?",
+      "answer": [
+        "7/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/18 + 6/7 = ?",
+      "answer": [
+        "185/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/17 + 8/9 = ?",
+      "answer": [
+        "190/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/13 + 3/10 = ?",
+      "answer": [
+        "59/130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 5/9 = ?",
+      "answer": [
+        "35/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 7/9 = ?",
+      "answer": [
+        "83/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 1/2 = ?",
+      "answer": [
+        "15/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/18 + 1/2 = ?",
+      "answer": [
+        "10/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 9/17 = ?",
+      "answer": [
+        "35/34"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/15 + 14/15 = ?",
+      "answer": [
+        "6/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 1/13 = ?",
+      "answer": [
+        "19/78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 11/15 = ?",
+      "answer": [
+        "37/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 1/3 = ?",
+      "answer": [
+        "32/33"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 3/20 = ?",
+      "answer": [
+        "11/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 6/7 = ?",
+      "answer": [
+        "51/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/19 + 2/5 = ?",
+      "answer": [
+        "68/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 1/5 = ?",
+      "answer": [
+        "73/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 7/13 = ?",
+      "answer": [
+        "34/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/13 + 6/19 = ?",
+      "answer": [
+        "230/247"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 1/17 = ?",
+      "answer": [
+        "217/221"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 4/9 = ?",
+      "answer": [
+        "2/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/12 + 4/17 = ?",
+      "answer": [
+        "167/204"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/19 + 5/7 = ?",
+      "answer": [
+        "123/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 2/15 = ?",
+      "answer": [
+        "3/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/18 + 16/17 = ?",
+      "answer": [
+        "577/306"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/15 + 5/11 = ?",
+      "answer": [
+        "152/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 2/7 = ?",
+      "answer": [
+        "19/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 1/2 = ?",
+      "answer": [
+        "17/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/10 + 1/10 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 3/4 = ?",
+      "answer": [
+        "21/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 6/13 = ?",
+      "answer": [
+        "63/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/4 + 5/7 = ?",
+      "answer": [
+        "27/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/19 + 1/4 = ?",
+      "answer": [
+        "43/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 1/16 = ?",
+      "answer": [
+        "43/48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 9/19 = ?",
+      "answer": [
+        "147/190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/13 + 4/19 = ?",
+      "answer": [
+        "204/247"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 5/16 = ?",
+      "answer": [
+        "11/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 7/17 = ?",
+      "answer": [
+        "151/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 5/6 = ?",
+      "answer": [
+        "49/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 8/9 = ?",
+      "answer": [
+        "11/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 1/14 = ?",
+      "answer": [
+        "31/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/11 + 3/10 = ?",
+      "answer": [
+        "113/110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 7/8 = ?",
+      "answer": [
+        "13/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 4/19 = ?",
+      "answer": [
+        "47/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 5/9 = ?",
+      "answer": [
+        "49/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 11/15 = ?",
+      "answer": [
+        "14/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 2/3 = ?",
+      "answer": [
+        "32/21"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/13 + 3/8 = ?",
+      "answer": [
+        "63/104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 5/7 = ?",
+      "answer": [
+        "32/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 3/5 = ?",
+      "answer": [
+        "41/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 5/7 = ?",
+      "answer": [
+        "52/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/13 + 1/4 = ?",
+      "answer": [
+        "33/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 1/13 = ?",
+      "answer": [
+        "77/156"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 7/13 = ?",
+      "answer": [
+        "88/91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/15 + 2/3 = ?",
+      "answer": [
+        "17/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/19 + 2/15 = ?",
+      "answer": [
+        "83/285"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 8/9 = ?",
+      "answer": [
+        "91/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/19 + 5/19 = ?",
+      "answer": [
+        "20/19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 1/2 = ?",
+      "answer": [
+        "8/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 18/19 = ?",
+      "answer": [
+        "55/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/11 + 1/2 = ?",
+      "answer": [
+        "15/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/19 + 5/7 = ?",
+      "answer": [
+        "144/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 3/5 = ?",
+      "answer": [
+        "29/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/13 + 3/10 = ?",
+      "answer": [
+        "129/130"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/11 + 3/8 = ?",
+      "answer": [
+        "41/88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 4/9 = ?",
+      "answer": [
+        "47/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/18 + 11/18 = ?",
+      "answer": [
+        "2/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "15/17 + 7/17 = ?",
+      "answer": [
+        "22/17"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 19/20 = ?",
+      "answer": [
+        "31/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 6/19 = ?",
+      "answer": [
+        "31/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 3/14 = ?",
+      "answer": [
+        "23/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 6/19 = ?",
+      "answer": [
+        "181/152"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 3/5 = ?",
+      "answer": [
+        "39/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 2/19 = ?",
+      "answer": [
+        "44/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 8/11 = ?",
+      "answer": [
+        "27/22"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 1/5 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 1/7 = ?",
+      "answer": [
+        "25/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 1/11 = ?",
+      "answer": [
+        "85/88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/13 + 9/16 = ?",
+      "answer": [
+        "133/208"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/15 + 10/11 = ?",
+      "answer": [
+        "161/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/19 + 7/10 = ?",
+      "answer": [
+        "303/190"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/20 + 8/13 = ?",
+      "answer": [
+        "303/260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 6/7 = ?",
+      "answer": [
+        "110/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 11/13 = ?",
+      "answer": [
+        "131/78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/12 + 1/5 = ?",
+      "answer": [
+        "47/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/15 + 5/11 = ?",
+      "answer": [
+        "163/165"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 6/17 = ?",
+      "answer": [
+        "81/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 1/7 = ?",
+      "answer": [
+        "29/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 11/12 = ?",
+      "answer": [
+        "61/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 13/19 = ?",
+      "answer": [
+        "45/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/20 + 9/20 = ?",
+      "answer": [
+        "11/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 13/17 = ?",
+      "answer": [
+        "155/136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 9/10 = ?",
+      "answer": [
+        "13/10"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/18 + 5/8 = ?",
+      "answer": [
+        "97/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/8 + 3/14 = ?",
+      "answer": [
+        "33/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 11/14 = ?",
+      "answer": [
+        "52/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/14 + 2/7 = ?",
+      "answer": [
+        "15/14"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 6/13 = ?",
+      "answer": [
+        "25/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 1/9 = ?",
+      "answer": [
+        "1"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 2/9 = ?",
+      "answer": [
+        "68/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 2/5 = ?",
+      "answer": [
+        "49/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/16 + 7/10 = ?",
+      "answer": [
+        "121/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16/17 + 2/5 = ?",
+      "answer": [
+        "114/85"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 1/12 = ?",
+      "answer": [
+        "55/84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/19 + 10/19 = ?",
+      "answer": [
+        "20/19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/15 + 10/19 = ?",
+      "answer": [
+        "283/285"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 7/19 = ?",
+      "answer": [
+        "273/380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 11/17 = ?",
+      "answer": [
+        "105/136"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/15 + 3/5 = ?",
+      "answer": [
+        "22/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 11/18 = ?",
+      "answer": [
+        "173/180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/18 + 13/18 = ?",
+      "answer": [
+        "7/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/8 + 8/9 = ?",
+      "answer": [
+        "109/72"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 6/7 = ?",
+      "answer": [
+        "12/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/12 + 13/14 = ?",
+      "answer": [
+        "113/84"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/2 + 11/12 = ?",
+      "answer": [
+        "17/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/7 + 1/7 = ?",
+      "answer": [
+        "6/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/9 + 10/13 = ?",
+      "answer": [
+        "155/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/13 + 7/9 = ?",
+      "answer": [
+        "100/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 11/16 = ?",
+      "answer": [
+        "93/112"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 9/13 = ?",
+      "answer": [
+        "97/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 8/9 = ?",
+      "answer": [
+        "76/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 6/13 = ?",
+      "answer": [
+        "68/91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 6/11 = ?",
+      "answer": [
+        "57/44"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 3/8 = ?",
+      "answer": [
+        "29/24"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/19 + 8/9 = ?",
+      "answer": [
+        "242/171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/8 + 5/11 = ?",
+      "answer": [
+        "95/88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/16 + 4/15 = ?",
+      "answer": [
+        "259/240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 2/11 = ?",
+      "answer": [
+        "93/88"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/13 + 6/7 = ?",
+      "answer": [
+        "155/91"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/18 + 2/3 = ?",
+      "answer": [
+        "23/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14/17 + 1/4 = ?",
+      "answer": [
+        "73/68"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/7 + 11/19 = ?",
+      "answer": [
+        "153/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/9 + 2/17 = ?",
+      "answer": [
+        "103/153"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/14 + 14/19 = ?",
+      "answer": [
+        "291/266"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 9/20 = ?",
+      "answer": [
+        "13/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/15 + 2/5 = ?",
+      "answer": [
+        "14/15"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/9 + 1/15 = ?",
+      "answer": [
+        "38/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/19 + 5/13 = ?",
+      "answer": [
+        "121/247"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 2/5 = ?",
+      "answer": [
+        "38/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/13 + 9/19 = ?",
+      "answer": [
+        "231/247"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/11 + 8/19 = ?",
+      "answer": [
+        "221/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 2/9 = ?",
+      "answer": [
+        "32/63"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 1/16 = ?",
+      "answer": [
+        "37/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/15 + 1/10 = ?",
+      "answer": [
+        "7/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 5/14 = ?",
+      "answer": [
+        "1/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 1/9 = ?",
+      "answer": [
+        "2/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/13 + 2/3 = ?",
+      "answer": [
+        "53/39"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/13 + 1/2 = ?",
+      "answer": [
+        "19/26"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 7/17 = ?",
+      "answer": [
+        "121/170"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/9 + 4/5 = ?",
+      "answer": [
+        "46/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/11 + 2/7 = ?",
+      "answer": [
+        "92/77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/17 + 1/6 = ?",
+      "answer": [
+        "29/102"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 3/8 = ?",
+      "answer": [
+        "69/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 3/5 = ?",
+      "answer": [
+        "99/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/16 + 2/3 = ?",
+      "answer": [
+        "41/48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/5 + 11/18 = ?",
+      "answer": [
+        "109/90"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 3/13 = ?",
+      "answer": [
+        "79/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/14 + 3/4 = ?",
+      "answer": [
+        "23/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 11/13 = ?",
+      "answer": [
+        "81/65"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/11 + 1/6 = ?",
+      "answer": [
+        "71/66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/19 + 4/17 = ?",
+      "answer": [
+        "195/323"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/20 + 5/9 = ?",
+      "answer": [
+        "109/180"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 6/11 = ?",
+      "answer": [
+        "91/66"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/18 + 2/9 = ?",
+      "answer": [
+        "1/2"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/19 + 15/19 = ?",
+      "answer": [
+        "26/19"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/9 + 10/11 = ?",
+      "answer": [
+        "101/99"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 1/20 = ?",
+      "answer": [
+        "13/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/11 + 1/5 = ?",
+      "answer": [
+        "26/55"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 3/7 = ?",
+      "answer": [
+        "31/56"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/15 + 7/10 = ?",
+      "answer": [
+        "29/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/5 + 7/9 = ?",
+      "answer": [
+        "53/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 13/18 = ?",
+      "answer": [
+        "145/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/7 + 16/19 = ?",
+      "answer": [
+        "150/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 9/16 = ?",
+      "answer": [
+        "135/112"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 5/6 = ?",
+      "answer": [
+        "71/42"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 5/11 = ?",
+      "answer": [
+        "101/77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 8/17 = ?",
+      "answer": [
+        "58/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/17 + 3/7 = ?",
+      "answer": [
+        "107/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/7 + 17/18 = ?",
+      "answer": [
+        "173/126"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/11 + 2/13 = ?",
+      "answer": [
+        "61/143"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/15 + 3/8 = ?",
+      "answer": [
+        "61/120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/19 + 1/7 = ?",
+      "answer": [
+        "33/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 5/6 = ?",
+      "answer": [
+        "31/18"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/11 + 2/7 = ?",
+      "answer": [
+        "43/77"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/4 + 5/8 = ?",
+      "answer": [
+        "11/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 3/4 = ?",
+      "answer": [
+        "11/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/19 + 1/2 = ?",
+      "answer": [
+        "43/38"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/17 + 18/19 = ?",
+      "answer": [
+        "477/323"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 1/6 = ?",
+      "answer": [
+        "1/3"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/11 + 1/17 = ?",
+      "answer": [
+        "45/187"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 7/17 = ?",
+      "answer": [
+        "38/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 1/4 = ?",
+      "answer": [
+        "3/8"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/20 + 2/3 = ?",
+      "answer": [
+        "79/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/19 + 2/15 = ?",
+      "answer": [
+        "173/285"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/18 + 5/11 = ?",
+      "answer": [
+        "145/198"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/18 + 9/10 = ?",
+      "answer": [
+        "68/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 1/3 = ?",
+      "answer": [
+        "13/30"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/13 + 1/4 = ?",
+      "answer": [
+        "37/52"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/19 + 1/9 = ?",
+      "answer": [
+        "118/171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/5 + 12/19 = ?",
+      "answer": [
+        "79/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/10 + 4/11 = ?",
+      "answer": [
+        "51/110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/11 + 16/19 = ?",
+      "answer": [
+        "252/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/20 + 5/19 = ?",
+      "answer": [
+        "233/380"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/19 + 14/17 = ?",
+      "answer": [
+        "300/323"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "17/20 + 1/6 = ?",
+      "answer": [
+        "61/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/9 + 11/13 = ?",
+      "answer": [
+        "203/117"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/19 + 5/9 = ?",
+      "answer": [
+        "104/171"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/14 + 2/15 = ?",
+      "answer": [
+        "223/210"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/12 + 5/18 = ?",
+      "answer": [
+        "13/36"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/13 + 12/13 = ?",
+      "answer": [
+        "22/13"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/16 + 12/19 = ?",
+      "answer": [
+        "287/304"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/20 + 1/2 = ?",
+      "answer": [
+        "21/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 2/5 = ?",
+      "answer": [
+        "6/5"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/17 + 2/3 = ?",
+      "answer": [
+        "70/51"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/11 + 4/11 = ?",
+      "answer": [
+        "13/11"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "10/17 + 1/7 = ?",
+      "answer": [
+        "87/119"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/20 + 1/13 = ?",
+      "answer": [
+        "33/260"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/6 + 7/16 = ?",
+      "answer": [
+        "61/48"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 1/12 = ?",
+      "answer": [
+        "1/4"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "13/16 + 3/5 = ?",
+      "answer": [
+        "113/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/8 + 10/13 = ?",
+      "answer": [
+        "93/104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 5/9 = ?",
+      "answer": [
+        "11/9"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/10 + 3/8 = ?",
+      "answer": [
+        "27/40"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/3 + 4/19 = ?",
+      "answer": [
+        "31/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "8/13 + 1/6 = ?",
+      "answer": [
+        "61/78"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/11 + 9/10 = ?",
+      "answer": [
+        "189/110"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 13/17 = ?",
+      "answer": [
+        "95/102"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "14/19 + 4/11 = ?",
+      "answer": [
+        "230/209"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "3/13 + 1/8 = ?",
+      "answer": [
+        "37/104"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/16 + 1/15 = ?",
+      "answer": [
+        "151/240"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/14 + 2/13 = ?",
+      "answer": [
+        "145/182"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/5 + 2/7 = ?",
+      "answer": [
+        "38/35"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/8 + 2/15 = ?",
+      "answer": [
+        "121/120"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/9 + 1/5 = ?",
+      "answer": [
+        "29/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/7 + 1/4 = ?",
+      "answer": [
+        "11/28"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/16 + 1/8 = ?",
+      "answer": [
+        "3/16"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/17 + 17/18 = ?",
+      "answer": [
+        "487/306"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/14 + 3/14 = ?",
+      "answer": [
+        "4/7"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "12/13 + 1/18 = ?",
+      "answer": [
+        "229/234"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "5/9 + 7/15 = ?",
+      "answer": [
+        "46/45"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "9/19 + 1/4 = ?",
+      "answer": [
+        "55/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "4/19 + 1/5 = ?",
+      "answer": [
+        "39/95"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "11/12 + 4/5 = ?",
+      "answer": [
+        "103/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/20 + 15/16 = ?",
+      "answer": [
+        "79/80"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "16/19 + 3/4 = ?",
+      "answer": [
+        "121/76"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/7 + 6/19 = ?",
+      "answer": [
+        "156/133"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 5/19 = ?",
+      "answer": [
+        "53/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 1/20 = ?",
+      "answer": [
+        "43/60"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "7/10 + 1/4 = ?",
+      "answer": [
+        "19/20"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "1/6 + 11/12 = ?",
+      "answer": [
+        "13/12"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "2/3 + 12/19 = ?",
+      "answer": [
+        "74/57"
+      ],
+      "options": [],
+      "explanation": ""
+    },
+    {
+      "type": "calculation",
+      "stem": "6/11 + 4/11 = ?",
+      "answer": [
+        "10/11"
+      ],
+      "options": [],
+      "explanation": ""
+    }
+  ]
+}

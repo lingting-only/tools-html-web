@@ -1,11 +1,59 @@
 <!doctype html>
 <html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#E8F5E9" />
-    <title>作业神器</title>
-    <script defer src="./assets/index-B3JuR-eh.js"></script>
-  </head>
-  <body><div id="root"></div></body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#5546e8">
+  <meta name="description" content="粘贴 AI 题库或导入文件，在本地逐题练习，记录进度，及时巩固。">
+  <title>啃题 · 把知识一题题吃透</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%235546e8'/%3E%3Cpath d='M11 13h18M11 20h11m-9 8 4 4 11-12' fill='none' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./assets/styles.css">
+  <link rel="stylesheet" href="./assets/mobile.css">
+  <link rel="stylesheet" href="./assets/authoring.css">
+  <link rel="stylesheet" href="./assets/review.css">
+  <link rel="stylesheet" href="./assets/visit-counter.css">
+  <link rel="stylesheet" href="./assets/mobile-polish.css">
+  <link rel="stylesheet" href="./assets/daily-bank.css">
+  <link rel="stylesheet" href="./assets/practice-library.css">
+  <script defer src="./assets/calculation.js"></script>
+  <script defer src="./assets/math-review.js"></script>
+  <script defer src="./assets/parser.js"></script>
+  <script defer src="./assets/sample.js"></script>
+  <script defer src="./assets/engine.js"></script>
+  <script defer src="./assets/file-import.js"></script>
+  <script defer src="./assets/bank-editor.js"></script>
+  <script defer src="./assets/question-variety.js"></script>
+  <script defer src="./assets/math-practice.js"></script>
+  <script defer src="./assets/ai.js"></script>
+  <script defer src="./assets/profile.js"></script>
+  <script defer src="./assets/ai-bank-cache.js"></script>
+  <script defer src="./assets/authoring.js"></script>
+  <script defer src="./assets/image-export-core.js"></script>
+  <script defer src="./assets/image-export.js"></script>
+  <script defer src="./assets/daily-bank-data.js"></script>
+  <script defer src="./assets/daily-bank.js"></script>
+  <script defer src="./assets/daily-bank-ui.js"></script>
+  <script defer src="./assets/practice-library.js"></script>
+  <script defer src="./assets/practice-library-ui.js"></script>
+  <script defer src="./assets/app.js"></script>
+  <script defer src="./assets/visit-counter.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <header class="site-header">
+    <a class="brand" href="#" data-action="home" aria-label="啃题首页"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M8 9h16M8 15h10M9 23l4 4L24 16"/></svg></span><strong>啃题<span class="brand-dot">.</span></strong><span class="brand-caption">一点一点，学进心里</span></a>
+    <nav aria-label="主导航"><button class="nav-link active" id="nav-import" data-action="home">创建题库</button><button class="nav-link" id="nav-practice" data-action="practice" disabled>当前练习</button><button class="nav-link" id="nav-history" data-action="history">历史记录</button><button class="nav-link" id="nav-wrongs" data-action="wrongs">错题本</button><button class="nav-link" data-action="ai-settings">设置</button></nav>
+    <div class="visit-counter" id="visit-counter" role="status" aria-live="polite" title="本地与线上共用的累计访问次数，从接入统计时开始记录；打开或刷新页面会请求计数，切换题目不计数。"><span class="visit-counter-main"><span class="visit-counter-label" id="visit-counter-label">访问统计</span><span class="visit-counter-value" id="visit-counter-value">加载中…</span><span id="visit-counter-unit" hidden>次访问</span></span><span class="visit-counter-note" id="visit-counter-note" hidden></span></div>
+  </header>
+  <main id="main" tabindex="-1"><p class="subtle" role="status">正在读取本地练习…</p></main>
+  <footer class="site-footer"><span><b>啃题.</b> 每一道题，都是向前一步。</span><span>题库仅保存在当前浏览器</span></footer>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <dialog id="answer-sheet" class="answer-sheet" aria-label="答题卡与练习进度"></dialog>
+  <dialog id="ai-settings-dialog" class="author-dialog settings-dialog" aria-labelledby="ai-settings-title"></dialog>
+  <dialog id="question-editor" class="author-dialog" aria-labelledby="editor-title"></dialog>
+  <dialog id="image-export-dialog" class="author-dialog export-dialog" aria-labelledby="image-export-title"></dialog>
+  <dialog id="library-confirm-dialog" aria-label="删除练习记录确认"></dialog>
+  <dialog id="confirm-dialog"><div class="dialog-content"><span class="eyebrow">重新出发</span><h2>重新练习这份题库？</h2><p>将开始新一轮练习，原始作答和成绩会保存在历史记录中。</p><div class="dialog-actions"><button class="btn secondary" data-action="cancel-reset">继续当前练习</button><button class="btn primary" data-action="confirm-reset">重新练习</button></div></div></dialog>
+  <noscript><p class="no-script">请开启浏览器的 JavaScript 功能以使用题库导入和答题。</p></noscript>
+</body>
 </html>

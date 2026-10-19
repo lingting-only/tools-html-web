@@ -1,0 +1,55 @@
+/* Compact review cards and locally generated practice pictures. */
+.practice-timer { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 12px; padding: 7px 12px; border-radius: 8px; background: #eeebff; color: #625a8a; font-size: 12px; }
+.practice-timer strong { font-size: 16px; color: var(--primary); font-variant-numeric: tabular-nums; }
+.practice-timer [data-timer-state] { font-size: 11px; }
+.summary-timing { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 12px 0; text-align: center; }
+.summary-timing > div { padding: 12px; border-radius: 10px; background: #f5f3ff; }
+.summary-timing span { display: block; font-size: 12px; color: var(--muted); }
+.summary-timing strong { display: block; margin-top: 5px; font-size: 22px; color: var(--primary); font-variant-numeric: tabular-nums; }
+.summary-panel { max-width: 960px; }
+.summary-review-heading { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.summary-review-heading h2 { font-size: 17px; }
+.summary-review-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.summary-review-grid .summary-question { display: flex; flex-direction: column; align-items: stretch; justify-content: flex-start; min-width: 0; margin: 0; padding: 12px; gap: 7px; border: 1px solid var(--line); border-radius: 10px; background: #fafbfe; text-align: left; color: var(--ink); cursor: pointer; min-height: 84px; }
+.summary-review-grid .summary-question:hover { background: var(--soft); border-color: #dcd5ff; }
+.summary-review-grid .summary-question:focus-visible { outline: 3px solid #bcb2ff; outline-offset: 2px; }
+.review-card-top { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 4px; }
+.summary-review-grid .preview-number { font-size: 12px; padding: 0; line-height: 1.2; }
+.summary-review-grid .status-pill { font-size: 11px; padding: 2px 5px; }
+.review-stem { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; font-size: 14px; line-height: 1.5; overflow-wrap: anywhere; white-space: pre-wrap; }
+.summary-review-heading .btn { min-height: 44px; padding: 9px 14px; font-size: 13px; }
+.export-dialog { width: min(700px, calc(100vw - 24px)); }
+.export-dialog .author-dialog-body { padding-top: 14px; }
+.export-options { display: flex; align-items: center; gap: 9px; font-size: 14px; min-height: 44px; cursor: pointer; }
+.export-options input { width: 18px; height: 18px; accent-color: var(--primary); }
+.export-status { margin: 6px 0 12px; color: var(--muted); font-size: 13px; }
+.export-image-wrap { border: 1px solid var(--line); border-radius: 12px; padding: 8px; background: #eef0f7; }
+#export-preview { display: block; width: 100%; height: auto; border-radius: 6px; -webkit-touch-callout: default; user-select: auto; -webkit-user-select: auto; }
+.export-pagination { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin: 8px 0; }
+.export-pagination button { min-width: 44px; min-height: 44px; }
+.export-pagination span { font-size: 13px; color: var(--muted); }
+.export-save-note { font-size: 12px; line-height: 1.7; color: var(--muted); margin-top: 8px; }
+.export-dialog .author-dialog-footer { flex-wrap: wrap; gap: 10px; }
+.export-dialog .author-dialog-footer .btn { flex: 1 1 180px; min-height: 46px; }
+.export-dialog [hidden] { display: none !important; }
+@media (max-width: 820px) {
+  body[data-view="results"] .page-heading { display: none; }
+  .summary-panel { padding: 20px 12px; }
+  .summary-panel .completion-icon { display: none; }
+  .summary-panel h1 { font-size: 22px; }
+  .summary-stats { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; padding: 14px 4px; margin: 18px 0; }
+  .summary-stats .stat strong { font-size: 23px; }
+  .summary-stats .stat small { font-size: 11px; }
+  .summary-footnote { margin: 12px 0; }
+  .summary-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .summary-actions .btn, .summary-actions .text-button { font-size: 12px; min-height: 44px; padding: 8px; }
+  .summary-actions .btn svg { width: 14px; height: 14px; }
+  .summary-list { margin-top: 20px; padding-top: 14px; }
+  .summary-review-grid { gap: 8px; }
+  .summary-review-grid .summary-question { padding: 9px; gap: 5px; min-height: 76px; }
+  .summary-review-grid .review-stem { font-size: 13px; }
+  .summary-review-grid .status-pill { font-size: 10px; }
+  .summary-review-heading h2 { font-size: 16px; }
+  .summary-review-heading .btn { padding: 8px 10px; font-size: 12px; }
+  .export-dialog .author-dialog-footer .btn { flex-basis: 100%; }
+}

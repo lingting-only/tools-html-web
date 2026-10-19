@@ -1,0 +1,3009 @@
+{
+  "title": "5年级 · 应用题 · 小数面积",
+  "grade": 5,
+  "category": "应用题 · 小数面积",
+  "kind": "application",
+  "range": "小数 · 长方形面积",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.4米，宽7.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "17.52"
+      ],
+      "options": [],
+      "explanation": "2.4 × 7.3 = 17.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长11.3米，宽6.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "72.32"
+      ],
+      "options": [],
+      "explanation": "11.3 × 6.4 = 72.32（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长19.2米，宽2.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "46.08"
+      ],
+      "options": [],
+      "explanation": "19.2 × 2.4 = 46.08（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长7.1米，宽8.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "62.48"
+      ],
+      "options": [],
+      "explanation": "7.1 × 8.8 = 62.48（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长13.1米，宽8.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "112.66"
+      ],
+      "options": [],
+      "explanation": "13.1 × 8.6 = 112.66（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长3.5米，宽1.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "6.3"
+      ],
+      "options": [],
+      "explanation": "3.5 × 1.8 = 6.3（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长9.3米，宽9.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "92.07"
+      ],
+      "options": [],
+      "explanation": "9.3 × 9.9 = 92.07（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长19.1米，宽7.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "147.07"
+      ],
+      "options": [],
+      "explanation": "19.1 × 7.7 = 147.07（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长7.1米，宽6.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "44.73"
+      ],
+      "options": [],
+      "explanation": "7.1 × 6.3 = 44.73（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长5.5米，宽4.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "23.1"
+      ],
+      "options": [],
+      "explanation": "5.5 × 4.2 = 23.1（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长13.1米，宽3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "39.3"
+      ],
+      "options": [],
+      "explanation": "13.1 × 3 = 39.3（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.3米，宽1.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "3.68"
+      ],
+      "options": [],
+      "explanation": "2.3 × 1.6 = 3.68（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长6.8米，宽9.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "66.64"
+      ],
+      "options": [],
+      "explanation": "6.8 × 9.8 = 66.64（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长13.2米，宽8.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "114.84"
+      ],
+      "options": [],
+      "explanation": "13.2 × 8.7 = 114.84（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长11.4米，宽8.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "98.04"
+      ],
+      "options": [],
+      "explanation": "11.4 × 8.6 = 98.04（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长9.7米，宽9.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "95.06"
+      ],
+      "options": [],
+      "explanation": "9.7 × 9.8 = 95.06（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长18.7米，宽6.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "119.68"
+      ],
+      "options": [],
+      "explanation": "18.7 × 6.4 = 119.68（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长17.6米，宽9.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "167.2"
+      ],
+      "options": [],
+      "explanation": "17.6 × 9.5 = 167.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长19.6米，宽1.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "31.36"
+      ],
+      "options": [],
+      "explanation": "19.6 × 1.6 = 31.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长6.3米，宽4.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "28.35"
+      ],
+      "options": [],
+      "explanation": "6.3 × 4.5 = 28.35（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长17.9米，宽1.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "34.01"
+      ],
+      "options": [],
+      "explanation": "17.9 × 1.9 = 34.01（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长13.8米，宽8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "110.4"
+      ],
+      "options": [],
+      "explanation": "13.8 × 8 = 110.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长9.4米，宽4.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "42.3"
+      ],
+      "options": [],
+      "explanation": "9.4 × 4.5 = 42.3（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长15米，宽4.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "67.5"
+      ],
+      "options": [],
+      "explanation": "15 × 4.5 = 67.5（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长8.5米，宽6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "51"
+      ],
+      "options": [],
+      "explanation": "8.5 × 6 = 51（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长15.7米，宽6.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "100.48"
+      ],
+      "options": [],
+      "explanation": "15.7 × 6.4 = 100.48（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长9.7米，宽6.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "66.93"
+      ],
+      "options": [],
+      "explanation": "9.7 × 6.9 = 66.93（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.2米，宽5.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "11.66"
+      ],
+      "options": [],
+      "explanation": "2.2 × 5.3 = 11.66（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长7.9米，宽9.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "74.26"
+      ],
+      "options": [],
+      "explanation": "7.9 × 9.4 = 74.26（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长6.7米，宽2.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "17.42"
+      ],
+      "options": [],
+      "explanation": "6.7 × 2.6 = 17.42（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长18.5米，宽4.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "79.55"
+      ],
+      "options": [],
+      "explanation": "18.5 × 4.3 = 79.55（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长7.2米，宽7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "50.4"
+      ],
+      "options": [],
+      "explanation": "7.2 × 7 = 50.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长14.2米，宽4.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "66.74"
+      ],
+      "options": [],
+      "explanation": "14.2 × 4.7 = 66.74（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长9.9米，宽2.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "26.73"
+      ],
+      "options": [],
+      "explanation": "9.9 × 2.7 = 26.73（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长5.7米，宽2.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "11.97"
+      ],
+      "options": [],
+      "explanation": "5.7 × 2.1 = 11.97（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长16.3米，宽3.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "61.94"
+      ],
+      "options": [],
+      "explanation": "16.3 × 3.8 = 61.94（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长3.1米，宽5.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "17.98"
+      ],
+      "options": [],
+      "explanation": "3.1 × 5.8 = 17.98（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长8.8米，宽8.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "76.56"
+      ],
+      "options": [],
+      "explanation": "8.8 × 8.7 = 76.56（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长7.4米，宽6.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "49.58"
+      ],
+      "options": [],
+      "explanation": "7.4 × 6.7 = 49.58（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长17.5米，宽2.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "45.5"
+      ],
+      "options": [],
+      "explanation": "17.5 × 2.6 = 45.5（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长4.4米，宽7.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "31.24"
+      ],
+      "options": [],
+      "explanation": "4.4 × 7.1 = 31.24（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长5.8米，宽2.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "14.5"
+      ],
+      "options": [],
+      "explanation": "5.8 × 2.5 = 14.5（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长15.6米，宽2.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "45.24"
+      ],
+      "options": [],
+      "explanation": "15.6 × 2.9 = 45.24（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长12.3米，宽1.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "15.99"
+      ],
+      "options": [],
+      "explanation": "12.3 × 1.3 = 15.99（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长10.9米，宽7.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "86.11"
+      ],
+      "options": [],
+      "explanation": "10.9 × 7.9 = 86.11（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长15.2米，宽3.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "59.28"
+      ],
+      "options": [],
+      "explanation": "15.2 × 3.9 = 59.28（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长12.5米，宽6.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "86.25"
+      ],
+      "options": [],
+      "explanation": "12.5 × 6.9 = 86.25（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长14米，宽8.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "14 × 8.5 = 119（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长7.5米，宽7.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "54.75"
+      ],
+      "options": [],
+      "explanation": "7.5 × 7.3 = 54.75（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长4.2米，宽5.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "23.52"
+      ],
+      "options": [],
+      "explanation": "4.2 × 5.6 = 23.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长15.4米，宽3.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "55.44"
+      ],
+      "options": [],
+      "explanation": "15.4 × 3.6 = 55.44（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长7.5米，宽4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "7.5 × 4 = 30（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长12.9米，宽7.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "98.04"
+      ],
+      "options": [],
+      "explanation": "12.9 × 7.6 = 98.04（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长5.3米，宽9.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "50.88"
+      ],
+      "options": [],
+      "explanation": "5.3 × 9.6 = 50.88（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16.9米，宽3.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "60.84"
+      ],
+      "options": [],
+      "explanation": "16.9 × 3.6 = 60.84（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长2.8米，宽6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "16.8"
+      ],
+      "options": [],
+      "explanation": "2.8 × 6 = 16.8（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16.7米，宽7.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "120.24"
+      ],
+      "options": [],
+      "explanation": "16.7 × 7.2 = 120.24（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长4.6米，宽8.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "37.26"
+      ],
+      "options": [],
+      "explanation": "4.6 × 8.1 = 37.26（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长17.8米，宽5.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "101.46"
+      ],
+      "options": [],
+      "explanation": "17.8 × 5.7 = 101.46（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16.8米，宽5.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "95.76"
+      ],
+      "options": [],
+      "explanation": "16.8 × 5.7 = 95.76（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16.6米，宽9.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "162.68"
+      ],
+      "options": [],
+      "explanation": "16.6 × 9.8 = 162.68（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长11.4米，宽4.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "52.44"
+      ],
+      "options": [],
+      "explanation": "11.4 × 4.6 = 52.44（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长9.9米，宽8.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "87.12"
+      ],
+      "options": [],
+      "explanation": "9.9 × 8.8 = 87.12（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长11.7米，宽3.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "40.95"
+      ],
+      "options": [],
+      "explanation": "11.7 × 3.5 = 40.95（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长8.4米，宽6.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "53.76"
+      ],
+      "options": [],
+      "explanation": "8.4 × 6.4 = 53.76（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长15.9米，宽2.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "41.34"
+      ],
+      "options": [],
+      "explanation": "15.9 × 2.6 = 41.34（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长19.1米，宽4.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "78.31"
+      ],
+      "options": [],
+      "explanation": "19.1 × 4.1 = 78.31（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长10.6米，宽9.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "100.7"
+      ],
+      "options": [],
+      "explanation": "10.6 × 9.5 = 100.7（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长12.7米，宽6.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "78.74"
+      ],
+      "options": [],
+      "explanation": "12.7 × 6.2 = 78.74（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长4.8米，宽8.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "40.32"
+      ],
+      "options": [],
+      "explanation": "4.8 × 8.4 = 40.32（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长1.2米，宽7.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "8.52"
+      ],
+      "options": [],
+      "explanation": "1.2 × 7.1 = 8.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长14.1米，宽5.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "74.73"
+      ],
+      "options": [],
+      "explanation": "14.1 × 5.3 = 74.73（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长18.3米，宽8.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "151.89"
+      ],
+      "options": [],
+      "explanation": "18.3 × 8.3 = 151.89（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长15.9米，宽6.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "108.12"
+      ],
+      "options": [],
+      "explanation": "15.9 × 6.8 = 108.12（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长13.1米，宽3.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "49.78"
+      ],
+      "options": [],
+      "explanation": "13.1 × 3.8 = 49.78（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长2.8米，宽2.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "7.28"
+      ],
+      "options": [],
+      "explanation": "2.8 × 2.6 = 7.28（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长10.3米，宽9.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "93.73"
+      ],
+      "options": [],
+      "explanation": "10.3 × 9.1 = 93.73（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长13.7米，宽5.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "69.87"
+      ],
+      "options": [],
+      "explanation": "13.7 × 5.1 = 69.87（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长6.7米，宽6.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "45.56"
+      ],
+      "options": [],
+      "explanation": "6.7 × 6.8 = 45.56（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长19.5米，宽4.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "83.85"
+      ],
+      "options": [],
+      "explanation": "19.5 × 4.3 = 83.85（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长12.1米，宽6.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "83.49"
+      ],
+      "options": [],
+      "explanation": "12.1 × 6.9 = 83.49（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长11.1米，宽2.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "27.75"
+      ],
+      "options": [],
+      "explanation": "11.1 × 2.5 = 27.75（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16.9米，宽3.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "57.46"
+      ],
+      "options": [],
+      "explanation": "16.9 × 3.4 = 57.46（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长1.8米，宽6.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "11.88"
+      ],
+      "options": [],
+      "explanation": "1.8 × 6.6 = 11.88（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长15.6米，宽4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "62.4"
+      ],
+      "options": [],
+      "explanation": "15.6 × 4 = 62.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长2.2米，宽9.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "21.78"
+      ],
+      "options": [],
+      "explanation": "2.2 × 9.9 = 21.78（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长8.7米，宽4.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "39.15"
+      ],
+      "options": [],
+      "explanation": "8.7 × 4.5 = 39.15（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长8.9米，宽5.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "50.73"
+      ],
+      "options": [],
+      "explanation": "8.9 × 5.7 = 50.73（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.8米，宽7.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "12.96"
+      ],
+      "options": [],
+      "explanation": "1.8 × 7.2 = 12.96（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长8.2米，宽9.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "79.54"
+      ],
+      "options": [],
+      "explanation": "8.2 × 9.7 = 79.54（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长11.1米，宽7.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "83.25"
+      ],
+      "options": [],
+      "explanation": "11.1 × 7.5 = 83.25（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长15.5米，宽8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "124"
+      ],
+      "options": [],
+      "explanation": "15.5 × 8 = 124（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长12.6米，宽7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "88.2"
+      ],
+      "options": [],
+      "explanation": "12.6 × 7 = 88.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长19米，宽2.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "51.3"
+      ],
+      "options": [],
+      "explanation": "19 × 2.7 = 51.3（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长19.8米，宽6.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "122.76"
+      ],
+      "options": [],
+      "explanation": "19.8 × 6.2 = 122.76（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长18米，宽2.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "52.2"
+      ],
+      "options": [],
+      "explanation": "18 × 2.9 = 52.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长12.4米，宽8.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "106.64"
+      ],
+      "options": [],
+      "explanation": "12.4 × 8.6 = 106.64（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长9.8米，宽9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "88.2"
+      ],
+      "options": [],
+      "explanation": "9.8 × 9 = 88.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长5.3米，宽7.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "39.22"
+      ],
+      "options": [],
+      "explanation": "5.3 × 7.4 = 39.22（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长14.6米，宽9.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "144.54"
+      ],
+      "options": [],
+      "explanation": "14.6 × 9.9 = 144.54（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长19.9米，宽5.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "103.48"
+      ],
+      "options": [],
+      "explanation": "19.9 × 5.2 = 103.48（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长12.6米，宽5.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "65.52"
+      ],
+      "options": [],
+      "explanation": "12.6 × 5.2 = 65.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长7米，宽6.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "44.8"
+      ],
+      "options": [],
+      "explanation": "7 × 6.4 = 44.8（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长9.2米，宽2.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "20.24"
+      ],
+      "options": [],
+      "explanation": "9.2 × 2.2 = 20.24（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长12.2米，宽4.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "51.24"
+      ],
+      "options": [],
+      "explanation": "12.2 × 4.2 = 51.24（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长17.1米，宽8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "136.8"
+      ],
+      "options": [],
+      "explanation": "17.1 × 8 = 136.8（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长19.1米，宽8.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "154.71"
+      ],
+      "options": [],
+      "explanation": "19.1 × 8.1 = 154.71（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长5.9米，宽8.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "51.92"
+      ],
+      "options": [],
+      "explanation": "5.9 × 8.8 = 51.92（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长16.8米，宽1.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "31.92"
+      ],
+      "options": [],
+      "explanation": "16.8 × 1.9 = 31.92（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长10.8米，宽6.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "69.12"
+      ],
+      "options": [],
+      "explanation": "10.8 × 6.4 = 69.12（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长15.3米，宽6.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "96.39"
+      ],
+      "options": [],
+      "explanation": "15.3 × 6.3 = 96.39（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长4.3米，宽8.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "37.41"
+      ],
+      "options": [],
+      "explanation": "4.3 × 8.7 = 37.41（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长14.3米，宽5.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "74.36"
+      ],
+      "options": [],
+      "explanation": "14.3 × 5.2 = 74.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长18.3米，宽9.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "168.36"
+      ],
+      "options": [],
+      "explanation": "18.3 × 9.2 = 168.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长17.5米，宽5.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "17.5 × 5.2 = 91（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长7.2米，宽1.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "12.96"
+      ],
+      "options": [],
+      "explanation": "7.2 × 1.8 = 12.96（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长2.9米，宽7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "20.3"
+      ],
+      "options": [],
+      "explanation": "2.9 × 7 = 20.3（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长4.2米，宽4.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "20.58"
+      ],
+      "options": [],
+      "explanation": "4.2 × 4.9 = 20.58（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长18.1米，宽6.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "121.27"
+      ],
+      "options": [],
+      "explanation": "18.1 × 6.7 = 121.27（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长5.9米，宽7.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "46.02"
+      ],
+      "options": [],
+      "explanation": "5.9 × 7.8 = 46.02（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长8.6米，宽1.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "16.34"
+      ],
+      "options": [],
+      "explanation": "8.6 × 1.9 = 16.34（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.7米，宽6.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "16.74"
+      ],
+      "options": [],
+      "explanation": "2.7 × 6.2 = 16.74（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长7.8米，宽8.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "68.64"
+      ],
+      "options": [],
+      "explanation": "7.8 × 8.8 = 68.64（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长19.1米，宽9.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "183.36"
+      ],
+      "options": [],
+      "explanation": "19.1 × 9.6 = 183.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.9米，宽7.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "14.06"
+      ],
+      "options": [],
+      "explanation": "1.9 × 7.4 = 14.06（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长5.4米，宽7.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "39.96"
+      ],
+      "options": [],
+      "explanation": "5.4 × 7.4 = 39.96（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长5.9米，宽5.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "30.09"
+      ],
+      "options": [],
+      "explanation": "5.9 × 5.1 = 30.09（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长9.8米，宽5.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "53.9"
+      ],
+      "options": [],
+      "explanation": "9.8 × 5.5 = 53.9（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长9.4米，宽1.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "16.92"
+      ],
+      "options": [],
+      "explanation": "9.4 × 1.8 = 16.92（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长18.5米，宽6.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "114.7"
+      ],
+      "options": [],
+      "explanation": "18.5 × 6.2 = 114.7（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长14.5米，宽8.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "120.35"
+      ],
+      "options": [],
+      "explanation": "14.5 × 8.3 = 120.35（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长11.8米，宽4.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "57.82"
+      ],
+      "options": [],
+      "explanation": "11.8 × 4.9 = 57.82（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长10米，宽7.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "10 × 7.7 = 77（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长19.8米，宽9.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "184.14"
+      ],
+      "options": [],
+      "explanation": "19.8 × 9.3 = 184.14（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长8.8米，宽3.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "33.44"
+      ],
+      "options": [],
+      "explanation": "8.8 × 3.8 = 33.44（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长14米，宽2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "28"
+      ],
+      "options": [],
+      "explanation": "14 × 2 = 28（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长9米，宽5.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "47.7"
+      ],
+      "options": [],
+      "explanation": "9 × 5.3 = 47.7（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长8.8米，宽9.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "85.36"
+      ],
+      "options": [],
+      "explanation": "8.8 × 9.7 = 85.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长9.3米，宽1.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "16.74"
+      ],
+      "options": [],
+      "explanation": "9.3 × 1.8 = 16.74（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长3.2米，宽7.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "23.36"
+      ],
+      "options": [],
+      "explanation": "3.2 × 7.3 = 23.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.4米，宽6.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "15.36"
+      ],
+      "options": [],
+      "explanation": "2.4 × 6.4 = 15.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长3.3米，宽3.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "10.23"
+      ],
+      "options": [],
+      "explanation": "3.3 × 3.1 = 10.23（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长17.4米，宽2.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "46.98"
+      ],
+      "options": [],
+      "explanation": "17.4 × 2.7 = 46.98（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长4.7米，宽6.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "31.02"
+      ],
+      "options": [],
+      "explanation": "4.7 × 6.6 = 31.02（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长7.9米，宽5.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "41.08"
+      ],
+      "options": [],
+      "explanation": "7.9 × 5.2 = 41.08（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长14.2米，宽7.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "103.66"
+      ],
+      "options": [],
+      "explanation": "14.2 × 7.3 = 103.66（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长1.4米，宽1.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "2.38"
+      ],
+      "options": [],
+      "explanation": "1.4 × 1.7 = 2.38（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.1米，宽4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "4.4"
+      ],
+      "options": [],
+      "explanation": "1.1 × 4 = 4.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16米，宽6.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "99.2"
+      ],
+      "options": [],
+      "explanation": "16 × 6.2 = 99.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长14.9米，宽5.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "80.46"
+      ],
+      "options": [],
+      "explanation": "14.9 × 5.4 = 80.46（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长7.8米，宽4.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "36.66"
+      ],
+      "options": [],
+      "explanation": "7.8 × 4.7 = 36.66（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长15.1米，宽3.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "52.85"
+      ],
+      "options": [],
+      "explanation": "15.1 × 3.5 = 52.85（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长9.2米，宽3.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "28.52"
+      ],
+      "options": [],
+      "explanation": "9.2 × 3.1 = 28.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长1.3米，宽4.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "6.37"
+      ],
+      "options": [],
+      "explanation": "1.3 × 4.9 = 6.37（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长7.4米，宽7.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "57.72"
+      ],
+      "options": [],
+      "explanation": "7.4 × 7.8 = 57.72（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长17米，宽1.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "27.2"
+      ],
+      "options": [],
+      "explanation": "17 × 1.6 = 27.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长7.5米，宽4.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "7.5 × 4.8 = 36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长16.4米，宽3.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "55.76"
+      ],
+      "options": [],
+      "explanation": "16.4 × 3.4 = 55.76（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长15.9米，宽5.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "81.09"
+      ],
+      "options": [],
+      "explanation": "15.9 × 5.1 = 81.09（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长10米，宽3.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "10 × 3.1 = 31（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长13.5米，宽5.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "78.3"
+      ],
+      "options": [],
+      "explanation": "13.5 × 5.8 = 78.3（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长1.5米，宽3.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "5.85"
+      ],
+      "options": [],
+      "explanation": "1.5 × 3.9 = 5.85（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长12.2米，宽9.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "114.68"
+      ],
+      "options": [],
+      "explanation": "12.2 × 9.4 = 114.68（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.2米，宽9.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "11.88"
+      ],
+      "options": [],
+      "explanation": "1.2 × 9.9 = 11.88（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长13.9米，宽1.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "22.24"
+      ],
+      "options": [],
+      "explanation": "13.9 × 1.6 = 22.24（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长17.5米，宽9.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "166.25"
+      ],
+      "options": [],
+      "explanation": "17.5 × 9.5 = 166.25（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长14.3米，宽2.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "32.89"
+      ],
+      "options": [],
+      "explanation": "14.3 × 2.3 = 32.89（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长12.7米，宽9.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "119.38"
+      ],
+      "options": [],
+      "explanation": "12.7 × 9.4 = 119.38（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长14.9米，宽2.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "41.72"
+      ],
+      "options": [],
+      "explanation": "14.9 × 2.8 = 41.72（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长8.4米，宽9.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "80.64"
+      ],
+      "options": [],
+      "explanation": "8.4 × 9.6 = 80.64（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16.6米，宽8.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "142.76"
+      ],
+      "options": [],
+      "explanation": "16.6 × 8.6 = 142.76（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长1.3米，宽5.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "7.54"
+      ],
+      "options": [],
+      "explanation": "1.3 × 5.8 = 7.54（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长12.6米，宽3.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "44.1"
+      ],
+      "options": [],
+      "explanation": "12.6 × 3.5 = 44.1（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长19.8米，宽9.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "190.08"
+      ],
+      "options": [],
+      "explanation": "19.8 × 9.6 = 190.08（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长6.6米，宽1.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "12.54"
+      ],
+      "options": [],
+      "explanation": "6.6 × 1.9 = 12.54（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.9米，宽9.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "18.81"
+      ],
+      "options": [],
+      "explanation": "1.9 × 9.9 = 18.81（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长17.7米，宽3.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "65.49"
+      ],
+      "options": [],
+      "explanation": "17.7 × 3.7 = 65.49（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长14.8米，宽3.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "57.72"
+      ],
+      "options": [],
+      "explanation": "14.8 × 3.9 = 57.72（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长19.2米，宽9.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "190.08"
+      ],
+      "options": [],
+      "explanation": "19.2 × 9.9 = 190.08（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长14.1米，宽7.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "108.57"
+      ],
+      "options": [],
+      "explanation": "14.1 × 7.7 = 108.57（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长9米，宽1.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "10.8"
+      ],
+      "options": [],
+      "explanation": "9 × 1.2 = 10.8（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长3.7米，宽9.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "36.63"
+      ],
+      "options": [],
+      "explanation": "3.7 × 9.9 = 36.63（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长2米，宽5.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "11.8"
+      ],
+      "options": [],
+      "explanation": "2 × 5.9 = 11.8（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长12.2米，宽6.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "75.64"
+      ],
+      "options": [],
+      "explanation": "12.2 × 6.2 = 75.64（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长16.2米，宽3.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "56.7"
+      ],
+      "options": [],
+      "explanation": "16.2 × 3.5 = 56.7（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长16.1米，宽7.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "125.58"
+      ],
+      "options": [],
+      "explanation": "16.1 × 7.8 = 125.58（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长9.9米，宽4.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "44.55"
+      ],
+      "options": [],
+      "explanation": "9.9 × 4.5 = 44.55（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长4.8米，宽4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "19.2"
+      ],
+      "options": [],
+      "explanation": "4.8 × 4 = 19.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长12.5米，宽7.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": "12.5 × 7.2 = 90（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16.5米，宽3.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "57.75"
+      ],
+      "options": [],
+      "explanation": "16.5 × 3.5 = 57.75（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长17.7米，宽5.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "92.04"
+      ],
+      "options": [],
+      "explanation": "17.7 × 5.2 = 92.04（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长5.1米，宽5.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "27.03"
+      ],
+      "options": [],
+      "explanation": "5.1 × 5.3 = 27.03（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长13米，宽8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "13 × 8 = 104（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.7米，宽2.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "5.94"
+      ],
+      "options": [],
+      "explanation": "2.7 × 2.2 = 5.94（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长11.4米，宽1.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "20.52"
+      ],
+      "options": [],
+      "explanation": "11.4 × 1.8 = 20.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长16.8米，宽2.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "45.36"
+      ],
+      "options": [],
+      "explanation": "16.8 × 2.7 = 45.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长12.8米，宽2.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "30.72"
+      ],
+      "options": [],
+      "explanation": "12.8 × 2.4 = 30.72（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长19.7米，宽9.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "187.15"
+      ],
+      "options": [],
+      "explanation": "19.7 × 9.5 = 187.15（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长17.1米，宽9.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "160.74"
+      ],
+      "options": [],
+      "explanation": "17.1 × 9.4 = 160.74（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长19.5米，宽6.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "130.65"
+      ],
+      "options": [],
+      "explanation": "19.5 × 6.7 = 130.65（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.3米，宽4.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "5.46"
+      ],
+      "options": [],
+      "explanation": "1.3 × 4.2 = 5.46（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长13.5米，宽9.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "125.55"
+      ],
+      "options": [],
+      "explanation": "13.5 × 9.3 = 125.55（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长17.4米，宽9.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "163.56"
+      ],
+      "options": [],
+      "explanation": "17.4 × 9.4 = 163.56（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长13米，宽5.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "74.1"
+      ],
+      "options": [],
+      "explanation": "13 × 5.7 = 74.1（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长15.1米，宽5.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "89.09"
+      ],
+      "options": [],
+      "explanation": "15.1 × 5.9 = 89.09（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长7.9米，宽6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "47.4"
+      ],
+      "options": [],
+      "explanation": "7.9 × 6 = 47.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长10米，宽9.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": "10 × 9.4 = 94（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长16.2米，宽3.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "59.94"
+      ],
+      "options": [],
+      "explanation": "16.2 × 3.7 = 59.94（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长5.2米，宽9.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "49.92"
+      ],
+      "options": [],
+      "explanation": "5.2 × 9.6 = 49.92（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长6.8米，宽5.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "34.68"
+      ],
+      "options": [],
+      "explanation": "6.8 × 5.1 = 34.68（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长17.8米，宽8.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "145.96"
+      ],
+      "options": [],
+      "explanation": "17.8 × 8.2 = 145.96（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长16.8米，宽5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "16.8 × 5 = 84（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长18.7米，宽9.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "183.26"
+      ],
+      "options": [],
+      "explanation": "18.7 × 9.8 = 183.26（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长19.6米，宽4.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "94.08"
+      ],
+      "options": [],
+      "explanation": "19.6 × 4.8 = 94.08（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长11.5米，宽4.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "47.15"
+      ],
+      "options": [],
+      "explanation": "11.5 × 4.1 = 47.15（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长2.5米，宽7.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "18.25"
+      ],
+      "options": [],
+      "explanation": "2.5 × 7.3 = 18.25（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长7米，宽3.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "23.1"
+      ],
+      "options": [],
+      "explanation": "7 × 3.3 = 23.1（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.8米，宽2.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "4.32"
+      ],
+      "options": [],
+      "explanation": "1.8 × 2.4 = 4.32（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长15.6米，宽9.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "151.32"
+      ],
+      "options": [],
+      "explanation": "15.6 × 9.7 = 151.32（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长3.2米，宽3.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "11.2"
+      ],
+      "options": [],
+      "explanation": "3.2 × 3.5 = 11.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长16.5米，宽9.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "161.7"
+      ],
+      "options": [],
+      "explanation": "16.5 × 9.8 = 161.7（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长2.4米，宽3.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "9.36"
+      ],
+      "options": [],
+      "explanation": "2.4 × 3.9 = 9.36（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长12.3米，宽3.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "46.74"
+      ],
+      "options": [],
+      "explanation": "12.3 × 3.8 = 46.74（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.1米，宽4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "8.4"
+      ],
+      "options": [],
+      "explanation": "2.1 × 4 = 8.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长8.4米，宽7.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "62.16"
+      ],
+      "options": [],
+      "explanation": "8.4 × 7.4 = 62.16（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长18.1米，宽9.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "164.71"
+      ],
+      "options": [],
+      "explanation": "18.1 × 9.1 = 164.71（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长15.9米，宽9.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "147.87"
+      ],
+      "options": [],
+      "explanation": "15.9 × 9.3 = 147.87（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长13.2米，宽3.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "47.52"
+      ],
+      "options": [],
+      "explanation": "13.2 × 3.6 = 47.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长14.3米，宽8.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "115.83"
+      ],
+      "options": [],
+      "explanation": "14.3 × 8.1 = 115.83（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长6.3米，宽9.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "62.37"
+      ],
+      "options": [],
+      "explanation": "6.3 × 9.9 = 62.37（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长16.3米，宽9.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "154.85"
+      ],
+      "options": [],
+      "explanation": "16.3 × 9.5 = 154.85（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长2.7米，宽7.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "20.52"
+      ],
+      "options": [],
+      "explanation": "2.7 × 7.6 = 20.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长17.9米，宽6.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "118.14"
+      ],
+      "options": [],
+      "explanation": "17.9 × 6.6 = 118.14（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长1.9米，宽4.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "8.93"
+      ],
+      "options": [],
+      "explanation": "1.9 × 4.7 = 8.93（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长7.3米，宽4.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "33.58"
+      ],
+      "options": [],
+      "explanation": "7.3 × 4.6 = 33.58（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长19.4米，宽1.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "27.16"
+      ],
+      "options": [],
+      "explanation": "19.4 × 1.4 = 27.16（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长13.6米，宽4.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "63.92"
+      ],
+      "options": [],
+      "explanation": "13.6 × 4.7 = 63.92（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长4.2米，宽9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "37.8"
+      ],
+      "options": [],
+      "explanation": "4.2 × 9 = 37.8（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长12.2米，宽3.5米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "42.7"
+      ],
+      "options": [],
+      "explanation": "12.2 × 3.5 = 42.7（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长12.8米，宽9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "115.2"
+      ],
+      "options": [],
+      "explanation": "12.8 × 9 = 115.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长19.4米，宽7.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "151.32"
+      ],
+      "options": [],
+      "explanation": "19.4 × 7.8 = 151.32（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长4.5米，宽7.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "32.85"
+      ],
+      "options": [],
+      "explanation": "4.5 × 7.3 = 32.85（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长10.8米，宽8.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "89.64"
+      ],
+      "options": [],
+      "explanation": "10.8 × 8.3 = 89.64（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长14.4米，宽4.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "59.04"
+      ],
+      "options": [],
+      "explanation": "14.4 × 4.1 = 59.04（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长14米，宽6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "14 × 6 = 84（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.9米，宽9.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "17.29"
+      ],
+      "options": [],
+      "explanation": "1.9 × 9.1 = 17.29（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长13.7米，宽5.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "79.46"
+      ],
+      "options": [],
+      "explanation": "13.7 × 5.8 = 79.46（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.3米，宽2.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "6.44"
+      ],
+      "options": [],
+      "explanation": "2.3 × 2.8 = 6.44（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长18.2米，宽9.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "174.72"
+      ],
+      "options": [],
+      "explanation": "18.2 × 9.6 = 174.72（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长6.6米，宽6.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "43.56"
+      ],
+      "options": [],
+      "explanation": "6.6 × 6.6 = 43.56（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长6米，宽9.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "55.8"
+      ],
+      "options": [],
+      "explanation": "6 × 9.3 = 55.8（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长1.1米，宽7.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "7.92"
+      ],
+      "options": [],
+      "explanation": "1.1 × 7.2 = 7.92（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长17.5米，宽4.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "73.5"
+      ],
+      "options": [],
+      "explanation": "17.5 × 4.2 = 73.5（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长3.1米，宽2.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "6.51"
+      ],
+      "options": [],
+      "explanation": "3.1 × 2.1 = 6.51（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长15.4米，宽8.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "126.28"
+      ],
+      "options": [],
+      "explanation": "15.4 × 8.2 = 126.28（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长9.5米，宽9.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "87.4"
+      ],
+      "options": [],
+      "explanation": "9.5 × 9.2 = 87.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长12.4米，宽6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "74.4"
+      ],
+      "options": [],
+      "explanation": "12.4 × 6 = 74.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长13.9米，宽4.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "65.33"
+      ],
+      "options": [],
+      "explanation": "13.9 × 4.7 = 65.33（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长1.4米，宽8.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "12.46"
+      ],
+      "options": [],
+      "explanation": "1.4 × 8.9 = 12.46（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长17.8米，宽3.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "67.64"
+      ],
+      "options": [],
+      "explanation": "17.8 × 3.8 = 67.64（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长14.6米，宽8.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "128.48"
+      ],
+      "options": [],
+      "explanation": "14.6 × 8.8 = 128.48（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长17.9米，宽7.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "137.83"
+      ],
+      "options": [],
+      "explanation": "17.9 × 7.7 = 137.83（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长15.6米，宽9.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "141.96"
+      ],
+      "options": [],
+      "explanation": "15.6 × 9.1 = 141.96（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长17.2米，宽3.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "61.92"
+      ],
+      "options": [],
+      "explanation": "17.2 × 3.6 = 61.92（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长3.5米，宽5.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "18.9"
+      ],
+      "options": [],
+      "explanation": "3.5 × 5.4 = 18.9（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长7.3米，宽4.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "31.39"
+      ],
+      "options": [],
+      "explanation": "7.3 × 4.3 = 31.39（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长1.3米，宽5.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "7.28"
+      ],
+      "options": [],
+      "explanation": "1.3 × 5.6 = 7.28（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长8.2米，宽7.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "64.78"
+      ],
+      "options": [],
+      "explanation": "8.2 × 7.9 = 64.78（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长9.5米，宽5.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "48.45"
+      ],
+      "options": [],
+      "explanation": "9.5 × 5.1 = 48.45（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长1.6米，宽1.3米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "2.08"
+      ],
+      "options": [],
+      "explanation": "1.6 × 1.3 = 2.08（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长12.5米，宽6.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "83.75"
+      ],
+      "options": [],
+      "explanation": "12.5 × 6.7 = 83.75（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长15.1米，宽2.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "36.24"
+      ],
+      "options": [],
+      "explanation": "15.1 × 2.4 = 36.24（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长8.1米，宽3.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "31.59"
+      ],
+      "options": [],
+      "explanation": "8.1 × 3.9 = 31.59（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长11.8米，宽5.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "69.62"
+      ],
+      "options": [],
+      "explanation": "11.8 × 5.9 = 69.62（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长2.3米，宽1.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "2.76"
+      ],
+      "options": [],
+      "explanation": "2.3 × 1.2 = 2.76（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长8.9米，宽2.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "18.69"
+      ],
+      "options": [],
+      "explanation": "8.9 × 2.1 = 18.69（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长8.8米，宽9.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "80.08"
+      ],
+      "options": [],
+      "explanation": "8.8 × 9.1 = 80.08（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长7.3米，宽2.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "19.71"
+      ],
+      "options": [],
+      "explanation": "7.3 × 2.7 = 19.71（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长10.6米，宽4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "42.4"
+      ],
+      "options": [],
+      "explanation": "10.6 × 4 = 42.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长1.2米，宽2.1米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "2.52"
+      ],
+      "options": [],
+      "explanation": "1.2 × 2.1 = 2.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长13.6米，宽1.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "24.48"
+      ],
+      "options": [],
+      "explanation": "13.6 × 1.8 = 24.48（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长2.3米，宽5.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "13.57"
+      ],
+      "options": [],
+      "explanation": "2.3 × 5.9 = 13.57（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长19.7米，宽8.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "169.42"
+      ],
+      "options": [],
+      "explanation": "19.7 × 8.6 = 169.42（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长12.7米，宽6.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "83.82"
+      ],
+      "options": [],
+      "explanation": "12.7 × 6.6 = 83.82（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长11.1米，宽4.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "51.06"
+      ],
+      "options": [],
+      "explanation": "11.1 × 4.6 = 51.06（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长4.1米，宽5.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "23.78"
+      ],
+      "options": [],
+      "explanation": "4.1 × 5.8 = 23.78（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长19.3米，宽7.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "138.96"
+      ],
+      "options": [],
+      "explanation": "19.3 × 7.2 = 138.96（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长18.2米，宽4.2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "76.44"
+      ],
+      "options": [],
+      "explanation": "18.2 × 4.2 = 76.44（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长11.7米，宽8.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "102.96"
+      ],
+      "options": [],
+      "explanation": "11.7 × 8.8 = 102.96（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长3.2米，宽3.9米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "12.48"
+      ],
+      "options": [],
+      "explanation": "3.2 × 3.9 = 12.48（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长10.1米，宽1.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "14.14"
+      ],
+      "options": [],
+      "explanation": "10.1 × 1.4 = 14.14（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长16.7米，宽1.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "30.06"
+      ],
+      "options": [],
+      "explanation": "16.7 × 1.8 = 30.06（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长17米，宽4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "17 × 4 = 68（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长4.4米，宽6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "26.4"
+      ],
+      "options": [],
+      "explanation": "4.4 × 6 = 26.4（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长5.1米，宽9.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "49.47"
+      ],
+      "options": [],
+      "explanation": "5.1 × 9.7 = 49.47（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长15.4米，宽8.8米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "135.52"
+      ],
+      "options": [],
+      "explanation": "15.4 × 8.8 = 135.52（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形花圃长12.9米，宽3.4米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "43.86"
+      ],
+      "options": [],
+      "explanation": "12.9 × 3.4 = 43.86（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形菜地长5.6米，宽2米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "11.2"
+      ],
+      "options": [],
+      "explanation": "5.6 × 2 = 11.2（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形苗圃长14.3米，宽7.6米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "108.68"
+      ],
+      "options": [],
+      "explanation": "14.3 × 7.6 = 108.68（平方米）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "一块长方形草坪长10.6米，宽6.7米。它的面积是多少平方米？（只填数值，单位：平方米）",
+      "answer": [
+        "71.02"
+      ],
+      "options": [],
+      "explanation": "10.6 × 6.7 = 71.02（平方米）。"
+    }
+  ]
+}

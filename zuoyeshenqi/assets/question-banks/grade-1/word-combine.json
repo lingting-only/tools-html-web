@@ -1,0 +1,3009 @@
+{
+  "title": "1年级 · 应用题 · 合并数量",
+  "grade": 1,
+  "category": "应用题 · 合并数量",
+  "kind": "application",
+  "range": "20以内 · 求总数",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有6块积木，又得到4块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "6 + 4 = 10（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有15张彩纸，又得到4张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "15 + 4 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有16张贴纸，又得到3张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "16 + 3 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有12张卡片，又得到3张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "12 + 3 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有11块积木，又得到3块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "11 + 3 = 14（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有2张卡片，又得到12张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "2 + 12 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有9张卡片，又得到1张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "9 + 1 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有5张贴纸，又得到6张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "5 + 6 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有17张贴纸，又得到3张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "17 + 3 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有14块积木，又得到3块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "14 + 3 = 17（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有17块积木，又得到3块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "17 + 3 = 20（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有6张卡片，又得到4张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "6 + 4 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有10张卡片，又得到9张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "10 + 9 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有5个小球，又得到6个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "5 + 6 = 11（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有7张贴纸，又得到12张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "7 + 12 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有14个小球，又得到6个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "14 + 6 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有12块积木，又得到6块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "12 + 6 = 18（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有5张卡片，又得到7张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "5 + 7 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有9张彩纸，又得到6张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "9 + 6 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有2个小球，又得到13个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "2 + 13 = 15（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有9张卡片，又得到2张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "9 + 2 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有9块积木，又得到11块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "9 + 11 = 20（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有13支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "13 + 4 = 17（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有16支铅笔，又得到3支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "16 + 3 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有15张彩纸，又得到2张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "15 + 2 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有13块积木，又得到6块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "13 + 6 = 19（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有12个小球，又得到8个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "12 + 8 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有1支铅笔，又得到13支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "1 + 13 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有3张彩纸，又得到16张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "3 + 16 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有5张贴纸，又得到11张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "5 + 11 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有7张卡片，又得到10张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "7 + 10 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有3张彩纸，又得到15张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "3 + 15 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有2个小球，又得到5个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "2 + 5 = 7（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有3支铅笔，又得到16支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "3 + 16 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有11张卡片，又得到9张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "11 + 9 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有10支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "10 + 4 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有12支铅笔，又得到2支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "12 + 2 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有12张彩纸，又得到5张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "12 + 5 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有2支铅笔，又得到15支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "2 + 15 = 17（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有18块积木，又得到1块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "18 + 1 = 19（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有9支铅笔，又得到5支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "9 + 5 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有5块积木，又得到11块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "5 + 11 = 16（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有2张彩纸，又得到16张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "2 + 16 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有15张卡片，又得到5张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "15 + 5 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有7支铅笔，又得到3支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "7 + 3 = 10（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有6块积木，又得到1块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "6 + 1 = 7（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有9支铅笔，又得到11支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "9 + 11 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有2块积木，又得到6块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 + 6 = 8（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有6支铅笔，又得到13支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "6 + 13 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有4个小球，又得到10个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "4 + 10 = 14（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有18张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "18 + 1 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有5张彩纸，又得到4张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "5 + 4 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有2张贴纸，又得到11张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "2 + 11 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有10支铅笔，又得到1支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "10 + 1 = 11（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有15张卡片，又得到1张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "15 + 1 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有3张卡片，又得到8张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "3 + 8 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有5块积木，又得到4块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "5 + 4 = 9（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有13张彩纸，又得到5张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "13 + 5 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有14个小球，又得到5个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "14 + 5 = 19（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有8支铅笔，又得到11支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "8 + 11 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有15张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "15 + 1 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有2块积木，又得到4块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "2 + 4 = 6（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有8个小球，又得到10个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "8 + 10 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有16块积木，又得到2块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "16 + 2 = 18（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有5张卡片，又得到2张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "5 + 2 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有4张贴纸，又得到4张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "4 + 4 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有14支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "14 + 4 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有15张贴纸，又得到4张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "15 + 4 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有1块积木，又得到14块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "1 + 14 = 15（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有7张卡片，又得到4张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "7 + 4 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有5块积木，又得到11块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "5 + 11 = 16（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有4张彩纸，又得到5张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "4 + 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有12支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "12 + 4 = 16（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有11支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "11 + 4 = 15（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有5张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "5 + 1 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有2支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "2 + 4 = 6（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有7支铅笔，又得到13支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "7 + 13 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有6张卡片，又得到14张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "6 + 14 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有5张卡片，又得到15张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "5 + 15 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有18个小球，又得到2个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "18 + 2 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有2张彩纸，又得到8张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "2 + 8 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有6张贴纸，又得到11张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "6 + 11 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有5个小球，又得到11个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "5 + 11 = 16（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有17张卡片，又得到1张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "17 + 1 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有17张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "17 + 1 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有9张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "9 + 3 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有1支铅笔，又得到10支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "1 + 10 = 11（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有4支铅笔，又得到3支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "4 + 3 = 7（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有9块积木，又得到7块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "9 + 7 = 16（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有11个小球，又得到3个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "11 + 3 = 14（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有11张卡片，又得到6张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "11 + 6 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有4张卡片，又得到7张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "4 + 7 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有2张彩纸，又得到13张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "2 + 13 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有18块积木，又得到2块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "18 + 2 = 20（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有4张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "4 + 3 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有18个小球，又得到1个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "18 + 1 = 19（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有3张卡片，又得到12张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "3 + 12 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有17张彩纸，又得到2张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "17 + 2 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有18支铅笔，又得到2支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "18 + 2 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有12张彩纸，又得到6张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "12 + 6 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有10支铅笔，又得到3支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "10 + 3 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有11张贴纸，又得到2张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "11 + 2 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有1个小球，又得到7个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "1 + 7 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有9张贴纸，又得到9张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "9 + 9 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有13张卡片，又得到5张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "13 + 5 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有12支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "12 + 4 = 16（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有17个小球，又得到1个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "17 + 1 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有7张贴纸，又得到7张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "7 + 7 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有6张贴纸，又得到5张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "6 + 5 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有10张彩纸，又得到5张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "10 + 5 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有14张贴纸，又得到3张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "14 + 3 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有18张贴纸，又得到1张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "18 + 1 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有3张彩纸，又得到17张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "3 + 17 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有11块积木，又得到8块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "11 + 8 = 19（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有14张彩纸，又得到2张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "14 + 2 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有5张卡片，又得到1张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "6"
+      ],
+      "options": [],
+      "explanation": "5 + 1 = 6（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有15支铅笔，又得到3支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "15 + 3 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有12块积木，又得到5块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "12 + 5 = 17（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有7支铅笔，又得到6支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "7 + 6 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有13张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "13 + 3 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有13张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "13 + 1 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有3个小球，又得到12个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "3 + 12 = 15（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有13支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "13 + 4 = 17（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有9张彩纸，又得到6张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "9 + 6 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有12块积木，又得到1块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "12 + 1 = 13（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有8张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "8 + 3 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有13张彩纸，又得到2张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "13 + 2 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有2支铅笔，又得到6支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 + 6 = 8（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有1支铅笔，又得到13支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "1 + 13 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有4块积木，又得到11块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "4 + 11 = 15（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有13张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "13 + 1 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有5张卡片，又得到7张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "5 + 7 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有18张卡片，又得到2张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "18 + 2 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有15张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "15 + 3 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有8支铅笔，又得到3支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "8 + 3 = 11（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有11张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "11 + 1 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有18张彩纸，又得到2张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "18 + 2 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有8张卡片，又得到10张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "8 + 10 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有11个小球，又得到6个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "11 + 6 = 17（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有14张卡片，又得到6张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "14 + 6 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有1支铅笔，又得到10支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "1 + 10 = 11（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有8张卡片，又得到11张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "8 + 11 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有1块积木，又得到17块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "1 + 17 = 18（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有16支铅笔，又得到2支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "16 + 2 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有16块积木，又得到4块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "16 + 4 = 20（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有2块积木，又得到12块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "2 + 12 = 14（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有7支铅笔，又得到6支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "7 + 6 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有9块积木，又得到8块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "9 + 8 = 17（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有9支铅笔，又得到9支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "9 + 9 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有16支铅笔，又得到2支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "16 + 2 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有6张贴纸，又得到10张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "6 + 10 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有6张贴纸，又得到5张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "6 + 5 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有6个小球，又得到12个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "6 + 12 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有12张贴纸，又得到4张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "12 + 4 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有10张卡片，又得到4张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "10 + 4 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有8张贴纸，又得到6张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "8 + 6 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有13块积木，又得到5块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "13 + 5 = 18（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有1张贴纸，又得到8张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "1 + 8 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有15张贴纸，又得到4张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "15 + 4 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有3张彩纸，又得到15张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "3 + 15 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有18张彩纸，又得到2张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "18 + 2 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有10张卡片，又得到10张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "10 + 10 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有13个小球，又得到7个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "13 + 7 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有3个小球，又得到17个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "3 + 17 = 20（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有8个小球，又得到9个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "8 + 9 = 17（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有10块积木，又得到8块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "10 + 8 = 18（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有2张彩纸，又得到17张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "2 + 17 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有13张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "13 + 1 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有14支铅笔，又得到1支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "14 + 1 = 15（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有17张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "17 + 3 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有9支铅笔，又得到7支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "9 + 7 = 16（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有5个小球，又得到13个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "5 + 13 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有9块积木，又得到9块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "9 + 9 = 18（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有3张卡片，又得到14张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "3 + 14 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有2支铅笔，又得到11支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "2 + 11 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有10张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "10 + 3 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有2张卡片，又得到7张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "2 + 7 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有15张卡片，又得到1张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "15 + 1 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有9张彩纸，又得到9张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "9 + 9 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有15支铅笔，又得到5支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "15 + 5 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有8张彩纸，又得到12张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "8 + 12 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有11张卡片，又得到7张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "11 + 7 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有12支铅笔，又得到7支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "12 + 7 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有9支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "9 + 4 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有1张卡片，又得到9张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "1 + 9 = 10（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有17张贴纸，又得到2张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "17 + 2 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有9张彩纸，又得到10张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "9 + 10 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有2张卡片，又得到2张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "4"
+      ],
+      "options": [],
+      "explanation": "2 + 2 = 4（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有6张贴纸，又得到1张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "6 + 1 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有4张彩纸，又得到7张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "4 + 7 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有16张贴纸，又得到4张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "16 + 4 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有16支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "16 + 4 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有3张贴纸，又得到2张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "3 + 2 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有18块积木，又得到1块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "18 + 1 = 19（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有4个小球，又得到6个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "4 + 6 = 10（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有15支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "15 + 4 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有15块积木，又得到2块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "15 + 2 = 17（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有7块积木，又得到8块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "7 + 8 = 15（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有14张彩纸，又得到6张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "14 + 6 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有4张卡片，又得到10张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "4 + 10 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有11个小球，又得到5个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "11 + 5 = 16（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有7块积木，又得到5块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "7 + 5 = 12（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有12块积木，又得到5块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "12 + 5 = 17（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有15张卡片，又得到4张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "15 + 4 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有1个小球，又得到7个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "1 + 7 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有3块积木，又得到12块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "3 + 12 = 15（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有10张彩纸，又得到10张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "10 + 10 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有7个小球，又得到8个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "7 + 8 = 15（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有3张贴纸，又得到10张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "3 + 10 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有7块积木，又得到5块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "7 + 5 = 12（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有13张卡片，又得到1张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "13 + 1 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有10支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "10 + 4 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有16个小球，又得到3个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "16 + 3 = 19（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有10张贴纸，又得到1张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "10 + 1 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有9块积木，又得到6块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "9 + 6 = 15（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有11块积木，又得到6块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "11 + 6 = 17（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有4张彩纸，又得到8张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "4 + 8 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有3张彩纸，又得到10张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "3 + 10 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有8个小球，又得到5个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "8 + 5 = 13（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有10张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "10 + 3 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有12张卡片，又得到7张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "12 + 7 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有5张贴纸，又得到9张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "5 + 9 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有16张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "16 + 3 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有8支铅笔，又得到10支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "8 + 10 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有11个小球，又得到2个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "11 + 2 = 13（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有11个小球，又得到1个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "11 + 1 = 12（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有18支铅笔，又得到2支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "18 + 2 = 20（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有14张彩纸，又得到4张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "14 + 4 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有7支铅笔，又得到6支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "7 + 6 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有17张贴纸，又得到1张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "17 + 1 = 18（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有3支铅笔，又得到10支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "3 + 10 = 13（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有13张贴纸，又得到3张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "13 + 3 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有15张贴纸，又得到4张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "15 + 4 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有9个小球，又得到10个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "9 + 10 = 19（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有9个小球，又得到1个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "9 + 1 = 10（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有10块积木，又得到1块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "10 + 1 = 11（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有10张贴纸，又得到1张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "10 + 1 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有18个小球，又得到1个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "18 + 1 = 19（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有15张卡片，又得到4张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "15 + 4 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有13张贴纸，又得到7张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "13 + 7 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有18张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "18 + 1 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有7张彩纸，又得到9张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "7 + 9 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有5支铅笔，又得到9支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "5 + 9 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有8张彩纸，又得到6张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "8 + 6 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有4张卡片，又得到3张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "7"
+      ],
+      "options": [],
+      "explanation": "4 + 3 = 7（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有13张贴纸，又得到7张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "13 + 7 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有7个小球，又得到2个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "7 + 2 = 9（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有16张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "16 + 1 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有14支铅笔，又得到5支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "14 + 5 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有12支铅笔，又得到7支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "12 + 7 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有8张卡片，又得到3张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "8 + 3 = 11（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有3张卡片，又得到10张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "3 + 10 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有4张贴纸，又得到9张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "4 + 9 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有10张卡片，又得到4张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "10 + 4 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有2张卡片，又得到3张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "2 + 3 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有5个小球，又得到9个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "5 + 9 = 14（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有16块积木，又得到2块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "16 + 2 = 18（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有2张卡片，又得到10张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "2 + 10 = 12（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有15支铅笔，又得到3支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "15 + 3 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有11个小球，又得到6个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "11 + 6 = 17（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有6个小球，又得到12个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "6 + 12 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有18张卡片，又得到2张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "18 + 2 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有11张贴纸，又得到3张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "11 + 3 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有8张卡片，又得到9张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "8 + 9 = 17（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有14个小球，又得到3个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "14 + 3 = 17（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有2张卡片，又得到3张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "5"
+      ],
+      "options": [],
+      "explanation": "2 + 3 = 5（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有2张彩纸，又得到6张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 + 6 = 8（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有7块积木，又得到4块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "7 + 4 = 11（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有10张贴纸，又得到3张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "10 + 3 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有15张卡片，又得到1张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "15 + 1 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有10个小球，又得到2个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "10 + 2 = 12（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有7张彩纸，又得到12张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "7 + 12 = 19（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有5块积木，又得到5块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "10"
+      ],
+      "options": [],
+      "explanation": "5 + 5 = 10（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有6张卡片，又得到7张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "6 + 7 = 13（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有16张彩纸，又得到4张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "16 + 4 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有5个小球，又得到11个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "5 + 11 = 16（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有2个小球，又得到10个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "12"
+      ],
+      "options": [],
+      "explanation": "2 + 10 = 12（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有12个小球，又得到5个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "12 + 5 = 17（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有11张彩纸，又得到4张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "11 + 4 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有7块积木，又得到13块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "7 + 13 = 20（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有4个小球，又得到10个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "4 + 10 = 14（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有12支铅笔，又得到2支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "12 + 2 = 14（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有4个小球，又得到7个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "11"
+      ],
+      "options": [],
+      "explanation": "4 + 7 = 11（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有2张卡片，又得到13张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "15"
+      ],
+      "options": [],
+      "explanation": "2 + 13 = 15（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有10支铅笔，又得到9支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "10 + 9 = 19（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有5张卡片，又得到11张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "5 + 11 = 16（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有2个小球，又得到6个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "2 + 6 = 8（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有8张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "8 + 1 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有14支铅笔，又得到4支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "14 + 4 = 18（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有13张彩纸，又得到1张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "13 + 1 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小安原有15支铅笔，又得到2支铅笔。现在一共有多少支铅笔？（只填数值，单位：支）",
+      "answer": [
+        "17"
+      ],
+      "options": [],
+      "explanation": "15 + 2 = 17（支）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有9张卡片，又得到5张卡片。现在一共有多少张卡片？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "9 + 5 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有17张彩纸，又得到3张彩纸。现在一共有多少张彩纸？（只填数值，单位：张）",
+      "answer": [
+        "20"
+      ],
+      "options": [],
+      "explanation": "17 + 3 = 20（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小华原有2块积木，又得到17块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "19"
+      ],
+      "options": [],
+      "explanation": "2 + 17 = 19（块）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小乐原有4张贴纸，又得到5张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "9"
+      ],
+      "options": [],
+      "explanation": "4 + 5 = 9（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小雨原有15个小球，又得到1个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "16"
+      ],
+      "options": [],
+      "explanation": "15 + 1 = 16（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小明原有13张贴纸，又得到1张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "13 + 1 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小红原有8个小球，又得到10个小球。现在一共有多少个小球？（只填数值，单位：个）",
+      "answer": [
+        "18"
+      ],
+      "options": [],
+      "explanation": "8 + 10 = 18（个）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小林原有10张贴纸，又得到4张贴纸。现在一共有多少张贴纸？（只填数值，单位：张）",
+      "answer": [
+        "14"
+      ],
+      "options": [],
+      "explanation": "10 + 4 = 14（张）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "小悦原有8块积木，又得到5块积木。现在一共有多少块积木？（只填数值，单位：块）",
+      "answer": [
+        "13"
+      ],
+      "options": [],
+      "explanation": "8 + 5 = 13（块）。"
+    }
+  ]
+}

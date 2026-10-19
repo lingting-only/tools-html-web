@@ -1,0 +1,3009 @@
+{
+  "title": "3年级 · 应用题 · 组合购物",
+  "grade": 3,
+  "category": "应用题 · 组合购物",
+  "kind": "application",
+  "range": "整数 · 单价、数量与总价",
+  "questions": [
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小林买了7盒，又买了一本6元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "8 × 7 + 6 = 62（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小悦买了9盒，又买了一本11元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "155"
+      ],
+      "options": [],
+      "explanation": "16 × 9 + 11 = 155（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小明买了8盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "227"
+      ],
+      "options": [],
+      "explanation": "24 × 8 + 35 = 227（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小雨买了4盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "107"
+      ],
+      "options": [],
+      "explanation": "18 × 4 + 35 = 107（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小乐买了9盒，又买了一本8元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "116"
+      ],
+      "options": [],
+      "explanation": "12 × 9 + 8 = 116（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔5元，小雨买了5盒，又买了一本37元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "5 × 5 + 37 = 62（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小乐买了4盒，又买了一本23元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "8 × 4 + 23 = 55（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小红买了5盒，又买了一本12元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "112"
+      ],
+      "options": [],
+      "explanation": "20 × 5 + 12 = 112（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小安买了7盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "234"
+      ],
+      "options": [],
+      "explanation": "28 × 7 + 38 = 234（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔25元，小明买了7盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": "25 × 7 + 3 = 178（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小林买了9盒，又买了一本33元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "114"
+      ],
+      "options": [],
+      "explanation": "9 × 9 + 33 = 114（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小安买了8盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "8 × 8 + 34 = 98（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小林买了4盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "62"
+      ],
+      "options": [],
+      "explanation": "15 × 4 + 2 = 62（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小明买了7盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "148"
+      ],
+      "options": [],
+      "explanation": "16 × 7 + 36 = 148（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小明买了7盒，又买了一本25元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "214"
+      ],
+      "options": [],
+      "explanation": "27 × 7 + 25 = 214（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小雨买了2盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": "29 × 2 + 31 = 89（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小华买了8盒，又买了一本13元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "205"
+      ],
+      "options": [],
+      "explanation": "24 × 8 + 13 = 205（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小华买了3盒，又买了一本8元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "35"
+      ],
+      "options": [],
+      "explanation": "9 × 3 + 8 = 35（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小安买了9盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "185"
+      ],
+      "options": [],
+      "explanation": "17 × 9 + 32 = 185（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小悦买了9盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "173"
+      ],
+      "options": [],
+      "explanation": "17 × 9 + 20 = 173（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小乐买了3盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "9 × 3 + 38 = 65（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小悦买了5盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "156"
+      ],
+      "options": [],
+      "explanation": "24 × 5 + 36 = 156（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔14元，小悦买了2盒，又买了一本29元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "57"
+      ],
+      "options": [],
+      "explanation": "14 × 2 + 29 = 57（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小悦买了4盒，又买了一本27元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": "21 × 4 + 27 = 111（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小乐买了7盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": "8 × 7 + 39 = 95（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小悦买了5盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": "18 × 5 + 2 = 92（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小明买了4盒，又买了一本5元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "101"
+      ],
+      "options": [],
+      "explanation": "24 × 4 + 5 = 101（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小安买了5盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "150"
+      ],
+      "options": [],
+      "explanation": "23 × 5 + 35 = 150（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小华买了4盒，又买了一本13元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "7 × 4 + 13 = 41（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小雨买了3盒，又买了一本19元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "11 × 3 + 19 = 52（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小悦买了8盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": "9 × 8 + 38 = 110（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小林买了8盒，又买了一本22元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "246"
+      ],
+      "options": [],
+      "explanation": "28 × 8 + 22 = 246（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小明买了4盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "8 × 4 + 17 = 49（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小林买了4盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "9 × 4 + 31 = 67（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小悦买了9盒，又买了一本8元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "7 × 9 + 8 = 71（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小悦买了5盒，又买了一本25元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "105"
+      ],
+      "options": [],
+      "explanation": "16 × 5 + 25 = 105（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小红买了5盒，又买了一本9元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "9 × 5 + 9 = 54（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小华买了6盒，又买了一本4元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "11 × 6 + 4 = 70（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小乐买了6盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "186"
+      ],
+      "options": [],
+      "explanation": "27 × 6 + 24 = 186（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小林买了7盒，又买了一本19元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "7 × 7 + 19 = 68（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔13元，小乐买了3盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "13 × 3 + 32 = 71（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小悦买了6盒，又买了一本28元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "154"
+      ],
+      "options": [],
+      "explanation": "21 × 6 + 28 = 154（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小华买了5盒，又买了一本27元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "3 × 5 + 27 = 42（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小明买了5盒，又买了一本27元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "117"
+      ],
+      "options": [],
+      "explanation": "18 × 5 + 27 = 117（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小悦买了6盒，又买了一本16元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "58"
+      ],
+      "options": [],
+      "explanation": "7 × 6 + 16 = 58（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔25元，小林买了8盒，又买了一本8元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "208"
+      ],
+      "options": [],
+      "explanation": "25 × 8 + 8 = 208（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小安买了8盒，又买了一本10元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "226"
+      ],
+      "options": [],
+      "explanation": "27 × 8 + 10 = 226（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小乐买了3盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "8 × 3 + 35 = 59（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小安买了4盒，又买了一本40元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "28 × 4 + 40 = 152（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小红买了4盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "50"
+      ],
+      "options": [],
+      "explanation": "3 × 4 + 38 = 50（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔22元，小悦买了7盒，又买了一本18元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "172"
+      ],
+      "options": [],
+      "explanation": "22 × 7 + 18 = 172（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小林买了9盒，又买了一本22元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": "7 × 9 + 22 = 85（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔4元，小悦买了3盒，又买了一本14元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "26"
+      ],
+      "options": [],
+      "explanation": "4 × 3 + 14 = 26（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小华买了9盒，又买了一本8元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "188"
+      ],
+      "options": [],
+      "explanation": "20 × 9 + 8 = 188（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小乐买了9盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "282"
+      ],
+      "options": [],
+      "explanation": "29 × 9 + 21 = 282（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小明买了7盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "7 × 7 + 31 = 80（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小林买了4盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": "16 × 4 + 24 = 88（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小雨买了9盒，又买了一本25元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "133"
+      ],
+      "options": [],
+      "explanation": "12 × 9 + 25 = 133（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小明买了4盒，又买了一本23元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "107"
+      ],
+      "options": [],
+      "explanation": "21 × 4 + 23 = 107（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小明买了9盒，又买了一本6元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "258"
+      ],
+      "options": [],
+      "explanation": "28 × 9 + 6 = 258（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小明买了4盒，又买了一本10元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": "24 × 4 + 10 = 106（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小安买了7盒，又买了一本16元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "128"
+      ],
+      "options": [],
+      "explanation": "16 × 7 + 16 = 128（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小明买了5盒，又买了一本16元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": "24 × 5 + 16 = 136（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小悦买了2盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "16 × 2 + 20 = 52（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小雨买了4盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "16 × 4 + 34 = 98（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小明买了3盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "15 × 3 + 32 = 77（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔14元，小乐买了2盒，又买了一本13元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "14 × 2 + 13 = 41（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔19元，小林买了6盒，又买了一本33元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "19 × 6 + 33 = 147（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小红买了7盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "178"
+      ],
+      "options": [],
+      "explanation": "20 × 7 + 38 = 178（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔26元，小林买了6盒，又买了一本6元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "162"
+      ],
+      "options": [],
+      "explanation": "26 × 6 + 6 = 162（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小华买了9盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": "7 × 9 + 39 = 102（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小雨买了5盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "183"
+      ],
+      "options": [],
+      "explanation": "29 × 5 + 38 = 183（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小红买了9盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "247"
+      ],
+      "options": [],
+      "explanation": "24 × 9 + 31 = 247（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小安买了8盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "261"
+      ],
+      "options": [],
+      "explanation": "30 × 8 + 21 = 261（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小红买了8盒，又买了一本7元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "151"
+      ],
+      "options": [],
+      "explanation": "18 × 8 + 7 = 151（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小乐买了3盒，又买了一本18元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "63"
+      ],
+      "options": [],
+      "explanation": "15 × 3 + 18 = 63（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小雨买了5盒，又买了一本5元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": "17 × 5 + 5 = 90（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔5元，小乐买了2盒，又买了一本27元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "37"
+      ],
+      "options": [],
+      "explanation": "5 × 2 + 27 = 37（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔5元，小明买了9盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "5 × 9 + 24 = 69（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小红买了2盒，又买了一本16元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "20 × 2 + 16 = 56（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔25元，小雨买了2盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "25 × 2 + 3 = 53（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小安买了4盒，又买了一本30元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "17 × 4 + 30 = 98（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小明买了5盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "151"
+      ],
+      "options": [],
+      "explanation": "24 × 5 + 31 = 151（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小林买了7盒，又买了一本11元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "214"
+      ],
+      "options": [],
+      "explanation": "29 × 7 + 11 = 214（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔4元，小安买了2盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "4 × 2 + 38 = 46（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小乐买了2盒，又买了一本7元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "31"
+      ],
+      "options": [],
+      "explanation": "12 × 2 + 7 = 31（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小雨买了2盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "15 × 2 + 31 = 61（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小红买了6盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "3 × 6 + 24 = 42（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小雨买了7盒，又买了一本4元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "151"
+      ],
+      "options": [],
+      "explanation": "21 × 7 + 4 = 151（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小林买了8盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "113"
+      ],
+      "options": [],
+      "explanation": "12 × 8 + 17 = 113（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小明买了7盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "191"
+      ],
+      "options": [],
+      "explanation": "27 × 7 + 2 = 191（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小华买了8盒，又买了一本40元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "280"
+      ],
+      "options": [],
+      "explanation": "30 × 8 + 40 = 280（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小悦买了7盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": "10 × 7 + 20 = 90（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小红买了6盒，又买了一本33元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "153"
+      ],
+      "options": [],
+      "explanation": "20 × 6 + 33 = 153（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小乐买了8盒，又买了一本10元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "98"
+      ],
+      "options": [],
+      "explanation": "11 × 8 + 10 = 98（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔26元，小林买了7盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "213"
+      ],
+      "options": [],
+      "explanation": "26 × 7 + 31 = 213（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小红买了7盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "246"
+      ],
+      "options": [],
+      "explanation": "30 × 7 + 36 = 246（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小华买了4盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": "20 × 4 + 17 = 97（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小乐买了5盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": "20 × 5 + 2 = 102（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小悦买了8盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "219"
+      ],
+      "options": [],
+      "explanation": "23 × 8 + 35 = 219（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔26元，小明买了3盒，又买了一本18元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "26 × 3 + 18 = 96（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小华买了2盒，又买了一本29元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "23 × 2 + 29 = 75（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小安买了8盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "228"
+      ],
+      "options": [],
+      "explanation": "24 × 8 + 36 = 228（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小林买了6盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "9 × 6 + 24 = 78（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小红买了7盒，又买了一本16元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "219"
+      ],
+      "options": [],
+      "explanation": "29 × 7 + 16 = 219（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小悦买了7盒，又买了一本23元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "107"
+      ],
+      "options": [],
+      "explanation": "12 × 7 + 23 = 107（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小悦买了5盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "30 × 5 + 2 = 152（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小乐买了5盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "125"
+      ],
+      "options": [],
+      "explanation": "21 × 5 + 20 = 125（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小悦买了5盒，又买了一本7元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "157"
+      ],
+      "options": [],
+      "explanation": "30 × 5 + 7 = 157（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小红买了9盒，又买了一本37元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "145"
+      ],
+      "options": [],
+      "explanation": "12 × 9 + 37 = 145（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔6元，小乐买了8盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": "6 × 8 + 38 = 86（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小红买了7盒，又买了一本7元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "126"
+      ],
+      "options": [],
+      "explanation": "17 × 7 + 7 = 126（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔13元，小雨买了2盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "13 × 2 + 39 = 65（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小雨买了3盒，又买了一本28元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "11 × 3 + 28 = 61（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小安买了6盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "195"
+      ],
+      "options": [],
+      "explanation": "29 × 6 + 21 = 195（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小林买了3盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": "21 × 3 + 39 = 102（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔19元，小红买了4盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "107"
+      ],
+      "options": [],
+      "explanation": "19 × 4 + 31 = 107（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小乐买了5盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "160"
+      ],
+      "options": [],
+      "explanation": "28 × 5 + 20 = 160（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小林买了3盒，又买了一本28元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": "18 × 3 + 28 = 82（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小明买了6盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": "18 × 6 + 2 = 110（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔19元，小明买了5盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "131"
+      ],
+      "options": [],
+      "explanation": "19 × 5 + 36 = 131（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小安买了4盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "7 × 4 + 21 = 49（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小乐买了8盒，又买了一本10元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "154"
+      ],
+      "options": [],
+      "explanation": "18 × 8 + 10 = 154（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔25元，小安买了3盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "109"
+      ],
+      "options": [],
+      "explanation": "25 × 3 + 34 = 109（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔4元，小林买了9盒，又买了一本4元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "40"
+      ],
+      "options": [],
+      "explanation": "4 × 9 + 4 = 40（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小华买了5盒，又买了一本14元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": "24 × 5 + 14 = 134（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小雨买了7盒，又买了一本27元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "139"
+      ],
+      "options": [],
+      "explanation": "16 × 7 + 27 = 139（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小悦买了3盒，又买了一本10元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "12 × 3 + 10 = 46（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔19元，小华买了2盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "19 × 2 + 3 = 41（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔13元，小林买了9盒，又买了一本29元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "146"
+      ],
+      "options": [],
+      "explanation": "13 × 9 + 29 = 146（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小华买了2盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "8"
+      ],
+      "options": [],
+      "explanation": "3 × 2 + 2 = 8（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小雨买了7盒，又买了一本5元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "21 × 7 + 5 = 152（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小林买了2盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "11 × 2 + 24 = 46（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小明买了5盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "3 × 5 + 17 = 32（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小红买了2盒，又买了一本25元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "12 × 2 + 25 = 49（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小华买了7盒，又买了一本11元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "88"
+      ],
+      "options": [],
+      "explanation": "11 × 7 + 11 = 88（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小雨买了6盒，又买了一本4元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "27 × 6 + 4 = 166（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小安买了9盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "120"
+      ],
+      "options": [],
+      "explanation": "9 × 9 + 39 = 120（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小安买了2盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "73"
+      ],
+      "options": [],
+      "explanation": "17 × 2 + 39 = 73（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小安买了4盒，又买了一本9元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "21"
+      ],
+      "options": [],
+      "explanation": "3 × 4 + 9 = 21（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小明买了9盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "282"
+      ],
+      "options": [],
+      "explanation": "29 × 9 + 21 = 282（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小乐买了2盒，又买了一本25元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "65"
+      ],
+      "options": [],
+      "explanation": "20 × 2 + 25 = 65（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小乐买了8盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "181"
+      ],
+      "options": [],
+      "explanation": "20 × 8 + 21 = 181（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小悦买了7盒，又买了一本40元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "8 × 7 + 40 = 96（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小明买了3盒，又买了一本10元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "17 × 3 + 10 = 61（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小雨买了9盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "279"
+      ],
+      "options": [],
+      "explanation": "27 × 9 + 36 = 279（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小雨买了2盒，又买了一本18元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "12 × 2 + 18 = 42（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小红买了9盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "30"
+      ],
+      "options": [],
+      "explanation": "3 × 9 + 3 = 30（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔6元，小雨买了4盒，又买了一本30元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "6 × 4 + 30 = 54（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔13元，小明买了5盒，又买了一本29元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": "13 × 5 + 29 = 94（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小悦买了8盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "261"
+      ],
+      "options": [],
+      "explanation": "30 × 8 + 21 = 261（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小悦买了6盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "3 × 6 + 35 = 53（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小林买了7盒，又买了一本23元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": "9 × 7 + 23 = 86（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小雨买了3盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "32"
+      ],
+      "options": [],
+      "explanation": "10 × 3 + 2 = 32（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小明买了7盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "239"
+      ],
+      "options": [],
+      "explanation": "29 × 7 + 36 = 239（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小雨买了5盒，又买了一本40元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "75"
+      ],
+      "options": [],
+      "explanation": "7 × 5 + 40 = 75（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小明买了4盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "110"
+      ],
+      "options": [],
+      "explanation": "18 × 4 + 38 = 110（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小红买了6盒，又买了一本23元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "197"
+      ],
+      "options": [],
+      "explanation": "29 × 6 + 23 = 197（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小乐买了7盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "3 × 7 + 38 = 59（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小安买了6盒，又买了一本28元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": "9 × 6 + 28 = 82（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小红买了5盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": "10 × 5 + 32 = 82（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小乐买了9盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": "8 × 9 + 34 = 106（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小华买了2盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "23 × 2 + 2 = 48（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小安买了4盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "8 × 4 + 35 = 67（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小乐买了9盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "161"
+      ],
+      "options": [],
+      "explanation": "16 × 9 + 17 = 161（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔22元，小安买了3盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "100"
+      ],
+      "options": [],
+      "explanation": "22 × 3 + 34 = 100（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小明买了2盒，又买了一本15元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "17 × 2 + 15 = 49（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小雨买了8盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": "16 × 8 + 31 = 159（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小华买了3盒，又买了一本14元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "15 × 3 + 14 = 59（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小乐买了8盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "106"
+      ],
+      "options": [],
+      "explanation": "9 × 8 + 34 = 106（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小雨买了3盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "10 × 3 + 31 = 61（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小悦买了3盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "11 × 3 + 36 = 69（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔26元，小林买了4盒，又买了一本7元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "111"
+      ],
+      "options": [],
+      "explanation": "26 × 4 + 7 = 111（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小乐买了8盒，又买了一本12元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "244"
+      ],
+      "options": [],
+      "explanation": "29 × 8 + 12 = 244（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小林买了8盒，又买了一本23元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "12 × 8 + 23 = 119（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小红买了8盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "248"
+      ],
+      "options": [],
+      "explanation": "27 × 8 + 32 = 248（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小雨买了3盒，又买了一本13元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "34"
+      ],
+      "options": [],
+      "explanation": "7 × 3 + 13 = 34（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔26元，小明买了6盒，又买了一本19元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "175"
+      ],
+      "options": [],
+      "explanation": "26 × 6 + 19 = 175（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小乐买了2盒，又买了一本11元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "7 × 2 + 11 = 25（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小林买了9盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "286"
+      ],
+      "options": [],
+      "explanation": "28 × 9 + 34 = 286（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔4元，小雨买了4盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "52"
+      ],
+      "options": [],
+      "explanation": "4 × 4 + 36 = 52（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔25元，小悦买了7盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "195"
+      ],
+      "options": [],
+      "explanation": "25 × 7 + 20 = 195（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小雨买了7盒，又买了一本19元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "103"
+      ],
+      "options": [],
+      "explanation": "12 × 7 + 19 = 103（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小悦买了4盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "94"
+      ],
+      "options": [],
+      "explanation": "23 × 4 + 2 = 94（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小雨买了3盒，又买了一本22元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "16 × 3 + 22 = 70（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小乐买了7盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "10 × 7 + 2 = 72（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔6元，小悦买了6盒，又买了一本30元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "6 × 6 + 30 = 66（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔25元，小林买了8盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "234"
+      ],
+      "options": [],
+      "explanation": "25 × 8 + 34 = 234（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小乐买了4盒，又买了一本5元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "33"
+      ],
+      "options": [],
+      "explanation": "7 × 4 + 5 = 33（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小雨买了8盒，又买了一本4元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "68"
+      ],
+      "options": [],
+      "explanation": "8 × 8 + 4 = 68（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小悦买了4盒，又买了一本12元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "18 × 4 + 12 = 84（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔25元，小华买了5盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "128"
+      ],
+      "options": [],
+      "explanation": "25 × 5 + 3 = 128（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小安买了8盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "240"
+      ],
+      "options": [],
+      "explanation": "27 × 8 + 24 = 240（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小华买了4盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "115"
+      ],
+      "options": [],
+      "explanation": "20 × 4 + 35 = 115（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小悦买了8盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "256"
+      ],
+      "options": [],
+      "explanation": "28 × 8 + 32 = 256（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔5元，小雨买了9盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "5 × 9 + 21 = 66（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小乐买了2盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": "24 × 2 + 35 = 83（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小华买了9盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "267"
+      ],
+      "options": [],
+      "explanation": "27 × 9 + 24 = 267（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小乐买了7盒，又买了一本15元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "36"
+      ],
+      "options": [],
+      "explanation": "3 × 7 + 15 = 36（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔4元，小红买了4盒，又买了一本40元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "56"
+      ],
+      "options": [],
+      "explanation": "4 × 4 + 40 = 56（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小明买了6盒，又买了一本26元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": "18 × 6 + 26 = 134（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔26元，小乐买了3盒，又买了一本12元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "90"
+      ],
+      "options": [],
+      "explanation": "26 × 3 + 12 = 90（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔14元，小华买了8盒，又买了一本6元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": "14 × 8 + 6 = 118（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小雨买了4盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "10 × 4 + 38 = 78（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔4元，小雨买了9盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "4 × 9 + 3 = 39（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔14元，小安买了8盒，又买了一本22元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "134"
+      ],
+      "options": [],
+      "explanation": "14 × 8 + 22 = 134（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小明买了5盒，又买了一本11元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "146"
+      ],
+      "options": [],
+      "explanation": "27 × 5 + 11 = 146（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小华买了8盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "233"
+      ],
+      "options": [],
+      "explanation": "27 × 8 + 17 = 233（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小林买了9盒，又买了一本27元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "108"
+      ],
+      "options": [],
+      "explanation": "9 × 9 + 27 = 108（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小安买了3盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "83"
+      ],
+      "options": [],
+      "explanation": "21 × 3 + 20 = 83（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小雨买了7盒，又买了一本27元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "153"
+      ],
+      "options": [],
+      "explanation": "18 × 7 + 27 = 153（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小悦买了7盒，又买了一本28元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "49"
+      ],
+      "options": [],
+      "explanation": "3 × 7 + 28 = 49（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小安买了8盒，又买了一本8元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "200"
+      ],
+      "options": [],
+      "explanation": "24 × 8 + 8 = 200（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小明买了6盒，又买了一本16元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "70"
+      ],
+      "options": [],
+      "explanation": "9 × 6 + 16 = 70（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小明买了4盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "12 × 4 + 32 = 80（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小悦买了5盒，又买了一本13元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "163"
+      ],
+      "options": [],
+      "explanation": "30 × 5 + 13 = 163（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小乐买了9盒，又买了一本13元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": "8 × 9 + 13 = 85（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小乐买了7盒，又买了一本26元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "20 × 7 + 26 = 166（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小林买了5盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "11 × 5 + 21 = 76（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小明买了5盒，又买了一本28元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "113"
+      ],
+      "options": [],
+      "explanation": "17 × 5 + 28 = 113（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小红买了3盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "11 × 3 + 21 = 54（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔19元，小悦买了4盒，又买了一本21元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": "19 × 4 + 21 = 97（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小乐买了5盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "151"
+      ],
+      "options": [],
+      "explanation": "23 × 5 + 36 = 151（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔12元，小林买了6盒，又买了一本6元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "78"
+      ],
+      "options": [],
+      "explanation": "12 × 6 + 6 = 78（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔13元，小乐买了8盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "140"
+      ],
+      "options": [],
+      "explanation": "13 × 8 + 36 = 140（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小红买了2盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "9 × 2 + 36 = 54（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小乐买了3盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "24 × 3 + 2 = 74（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小明买了9盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "7 × 9 + 17 = 80（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小红买了8盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "183"
+      ],
+      "options": [],
+      "explanation": "18 × 8 + 39 = 183（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小雨买了2盒，又买了一本12元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "46"
+      ],
+      "options": [],
+      "explanation": "17 × 2 + 12 = 46（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小林买了4盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "92"
+      ],
+      "options": [],
+      "explanation": "15 × 4 + 32 = 92（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小林买了4盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "11 × 4 + 32 = 76（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小林买了6盒，又买了一本19元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "61"
+      ],
+      "options": [],
+      "explanation": "7 × 6 + 19 = 61（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小华买了2盒，又买了一本15元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "20 × 2 + 15 = 55（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小乐买了2盒，又买了一本30元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "44"
+      ],
+      "options": [],
+      "explanation": "7 × 2 + 30 = 44（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔22元，小安买了9盒，又买了一本29元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "227"
+      ],
+      "options": [],
+      "explanation": "22 × 9 + 29 = 227（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小悦买了3盒，又买了一本9元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "99"
+      ],
+      "options": [],
+      "explanation": "30 × 3 + 9 = 99（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小华买了5盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "30 × 5 + 2 = 152（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小乐买了2盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "91"
+      ],
+      "options": [],
+      "explanation": "28 × 2 + 35 = 91（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小红买了5盒，又买了一本27元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "112"
+      ],
+      "options": [],
+      "explanation": "17 × 5 + 27 = 112（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小红买了6盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "152"
+      ],
+      "options": [],
+      "explanation": "20 × 6 + 32 = 152（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小林买了7盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "199"
+      ],
+      "options": [],
+      "explanation": "28 × 7 + 3 = 199（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小林买了2盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "59"
+      ],
+      "options": [],
+      "explanation": "21 × 2 + 17 = 59（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小华买了5盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "84"
+      ],
+      "options": [],
+      "explanation": "9 × 5 + 39 = 84（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小红买了4盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "116"
+      ],
+      "options": [],
+      "explanation": "23 × 4 + 24 = 116（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小红买了6盒，又买了一本40元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "21 × 6 + 40 = 166（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小乐买了5盒，又买了一本28元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "128"
+      ],
+      "options": [],
+      "explanation": "20 × 5 + 28 = 128（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小红买了8盒，又买了一本24元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "48"
+      ],
+      "options": [],
+      "explanation": "3 × 8 + 24 = 48（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔13元，小华买了8盒，又买了一本14元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "118"
+      ],
+      "options": [],
+      "explanation": "13 × 8 + 14 = 118（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小悦买了4盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "155"
+      ],
+      "options": [],
+      "explanation": "29 × 4 + 39 = 155（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小林买了6盒，又买了一本37元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "157"
+      ],
+      "options": [],
+      "explanation": "20 × 6 + 37 = 157（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小红买了7盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "87"
+      ],
+      "options": [],
+      "explanation": "7 × 7 + 38 = 87（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔14元，小华买了5盒，又买了一本7元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "77"
+      ],
+      "options": [],
+      "explanation": "14 × 5 + 7 = 77（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔6元，小乐买了9盒，又买了一本18元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "72"
+      ],
+      "options": [],
+      "explanation": "6 × 9 + 18 = 72（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小华买了5盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "10 × 5 + 3 = 53（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔6元，小安买了7盒，又买了一本32元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "74"
+      ],
+      "options": [],
+      "explanation": "6 × 7 + 32 = 74（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔20元，小乐买了6盒，又买了一本9元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "129"
+      ],
+      "options": [],
+      "explanation": "20 × 6 + 9 = 129（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔17元，小乐买了3盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "17 × 3 + 3 = 54（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小安买了5盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "95"
+      ],
+      "options": [],
+      "explanation": "15 × 5 + 20 = 95（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小红买了5盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "76"
+      ],
+      "options": [],
+      "explanation": "8 × 5 + 36 = 76（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小华买了7盒，又买了一本26元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "96"
+      ],
+      "options": [],
+      "explanation": "10 × 7 + 26 = 96（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小明买了3盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "89"
+      ],
+      "options": [],
+      "explanation": "23 × 3 + 20 = 89（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小红买了8盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "16 × 8 + 38 = 166（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小安买了4盒，又买了一本40元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "104"
+      ],
+      "options": [],
+      "explanation": "16 × 4 + 40 = 104（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔6元，小乐买了2盒，又买了一本13元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "25"
+      ],
+      "options": [],
+      "explanation": "6 × 2 + 13 = 25（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔5元，小安买了6盒，又买了一本9元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "39"
+      ],
+      "options": [],
+      "explanation": "5 × 6 + 9 = 39（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔19元，小悦买了2盒，又买了一本16元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "54"
+      ],
+      "options": [],
+      "explanation": "19 × 2 + 16 = 54（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小安买了3盒，又买了一本22元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "67"
+      ],
+      "options": [],
+      "explanation": "15 × 3 + 22 = 67（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔5元，小悦买了6盒，又买了一本23元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "5 × 6 + 23 = 53（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小林买了3盒，又买了一本13元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "82"
+      ],
+      "options": [],
+      "explanation": "23 × 3 + 13 = 82（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔5元，小红买了6盒，又买了一本25元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "55"
+      ],
+      "options": [],
+      "explanation": "5 × 6 + 25 = 55（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔4元，小安买了6盒，又买了一本18元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "42"
+      ],
+      "options": [],
+      "explanation": "4 × 6 + 18 = 42（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小明买了7盒，又买了一本8元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "71"
+      ],
+      "options": [],
+      "explanation": "9 × 7 + 8 = 71（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔6元，小华买了2盒，又买了一本12元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "24"
+      ],
+      "options": [],
+      "explanation": "6 × 2 + 12 = 24（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔21元，小林买了5盒，又买了一本9元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "114"
+      ],
+      "options": [],
+      "explanation": "21 × 5 + 9 = 114（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小雨买了4盒，又买了一本40元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "80"
+      ],
+      "options": [],
+      "explanation": "10 × 4 + 40 = 80（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小雨买了9盒，又买了一本3元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "102"
+      ],
+      "options": [],
+      "explanation": "11 × 9 + 3 = 102（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔7元，小明买了4盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "66"
+      ],
+      "options": [],
+      "explanation": "7 × 4 + 38 = 66（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小明买了7盒，又买了一本16元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "205"
+      ],
+      "options": [],
+      "explanation": "27 × 7 + 16 = 205（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔8元，小林买了4盒，又买了一本28元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "60"
+      ],
+      "options": [],
+      "explanation": "8 × 4 + 28 = 60（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔28元，小悦买了5盒，又买了一本5元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "145"
+      ],
+      "options": [],
+      "explanation": "28 × 5 + 5 = 145（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔23元，小安买了4盒，又买了一本5元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "97"
+      ],
+      "options": [],
+      "explanation": "23 × 4 + 5 = 97（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔10元，小雨买了9盒，又买了一本29元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "119"
+      ],
+      "options": [],
+      "explanation": "10 × 9 + 29 = 119（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔15元，小乐买了9盒，又买了一本37元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "172"
+      ],
+      "options": [],
+      "explanation": "15 × 9 + 37 = 172（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小安买了5盒，又买了一本39元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "174"
+      ],
+      "options": [],
+      "explanation": "27 × 5 + 39 = 174（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔27元，小明买了9盒，又买了一本19元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "262"
+      ],
+      "options": [],
+      "explanation": "27 × 9 + 19 = 262（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔24元，小明买了2盒，又买了一本38元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "86"
+      ],
+      "options": [],
+      "explanation": "24 × 2 + 38 = 86（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔16元，小安买了7盒，又买了一本35元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "147"
+      ],
+      "options": [],
+      "explanation": "16 × 7 + 35 = 147（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔19元，小明买了9盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "173"
+      ],
+      "options": [],
+      "explanation": "19 × 9 + 2 = 173（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔3元，小林买了8盒，又买了一本17元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "41"
+      ],
+      "options": [],
+      "explanation": "3 × 8 + 17 = 41（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔5元，小悦买了7盒，又买了一本34元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "69"
+      ],
+      "options": [],
+      "explanation": "5 × 7 + 34 = 69（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔30元，小华买了7盒，又买了一本14元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "224"
+      ],
+      "options": [],
+      "explanation": "30 × 7 + 14 = 224（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔11元，小林买了9盒，又买了一本37元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": "11 × 9 + 37 = 136（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔18元，小安买了7盒，又买了一本33元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "159"
+      ],
+      "options": [],
+      "explanation": "18 × 7 + 33 = 159（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔26元，小红买了7盒，又买了一本2元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "184"
+      ],
+      "options": [],
+      "explanation": "26 × 7 + 2 = 184（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小林买了4盒，又买了一本20元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "136"
+      ],
+      "options": [],
+      "explanation": "29 × 4 + 20 = 136（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔14元，小安买了2盒，又买了一本25元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "53"
+      ],
+      "options": [],
+      "explanation": "14 × 2 + 25 = 53（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔26元，小林买了5盒，又买了一本36元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "166"
+      ],
+      "options": [],
+      "explanation": "26 × 5 + 36 = 166（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔29元，小林买了8盒，又买了一本30元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "262"
+      ],
+      "options": [],
+      "explanation": "29 × 8 + 30 = 262（元）。"
+    },
+    {
+      "type": "calculation",
+      "kind": "application",
+      "stem": "每盒彩笔9元，小安买了6盒，又买了一本31元的笔记本。一共需要多少元？（只填数值，单位：元）",
+      "answer": [
+        "85"
+      ],
+      "options": [],
+      "explanation": "9 × 6 + 31 = 85（元）。"
+    }
+  ]
+}
